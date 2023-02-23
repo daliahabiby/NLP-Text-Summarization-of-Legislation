@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6082DB8269474D65B2231762967F47AF" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6839 IH: Protecting the Future of America’s Federal Contractors Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6839</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220225">February 25, 2022</action-date>
+<action-desc><sponsor name-id="H001072">Mr. Hill</sponsor> (for himself, <cosponsor name-id="M000871">Mr. Mann</cosponsor>, and <cosponsor name-id="C001108">Mr. Comer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit agencies of the Federal Government from evaluating bids and proposals on the basis of information related to noncompliance with a Federal contractor COVID–19 vaccine mandate, and for other purposes.</official-title>
+</form>
+<legis-body id="HE17A0C982CB14C2EB12780CB9C6A9CFA" style="OLC">
+<section id="H1CAF5482176A4924A36E2F189665EE4E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting the Future of America’s Federal Contractors Act</short-title></quote>. </text></section> <section id="H4641BDF927B84335BE44C6F8D7E366DB"><enum>2.</enum><header>Prohibition on evaluating bids and proposals on basis of information related to noncompliance with Federal contractor COVID–19 vaccine mandate</header> <subsection id="HCF2459D73C3A42B180B3615B040FABBD"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">With respect to a bid or proposal for a contract with an agency of the Federal Government for the procurement of a good or service, the head of such agency may not, on the basis of COVID–19 Federal contractor vaccine mandate noncompliance information—</text>
+<paragraph id="H5FEDEB1B28EF4A989675D99F8BD79D29"><enum>(1)</enum><text>in evaluating the past performance of the offeror of such bid or proposal, unfavorably evaluate the offeror; or </text></paragraph> <paragraph id="HC4C849419FB24660B0B923A4276AD85F"><enum>(2)</enum><text>exclude the offeror from being awarded the contract. </text></paragraph></subsection>
+<subsection id="H4BE17A7CB0324A0B9017B80ECF72FEFC" commented="no"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph id="HF4A4123567254F7AAC2F784FD653A99A"><enum>(1)</enum><header>COVID–19 Federal contractor vaccine mandate noncompliance information</header><text display-inline="yes-display-inline">The term <quote>COVID–19 Federal contractor vaccine mandate noncompliance information</quote> means, with respect to the offeror, or any subcontractor disclosed by the offeror in the bid or proposal, information relating to compliance with a COVID–19 Federal contractor vaccine mandate, including information related to the termination of a contract with the Federal Government, or subcontract thereof at any tier, for the failure to comply with a Federal contractor vaccine mandate.</text></paragraph>
+<paragraph id="HA6B79D00C8B14F95B7BBDAFD3F8792D2"><enum>(2)</enum><header>Federal contractor COVID–19 vaccine mandate</header><text display-inline="yes-display-inline">The term <quote>Federal contractor COVID–19 vaccine mandate</quote> means a requirement by the Federal Government for any employee of a contractor of the Federal Government, or employee of a subcontractor thereof at any tier, to receive vaccination against infection by the SARS–CoV–2 virus.</text></paragraph></subsection></section> </legis-body> </bill> 
+

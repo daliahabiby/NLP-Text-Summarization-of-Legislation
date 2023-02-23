@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HEE033875E54A47E294B01A8F4D7996D9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6456 IH: To prohibit the provision of Federal funds to a local educational agency that requires any student at the schools served by the agency to wear a face covering or be vaccinated against COVID-19.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6456</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220120">January 20, 2022</action-date><action-desc><sponsor name-id="M001211">Mrs. Miller of Illinois</sponsor> (for herself, <cosponsor name-id="G000595">Mr. Good of Virginia</cosponsor>, and <cosponsor name-id="G000552">Mr. Gohmert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the provision of Federal funds to a local educational agency that requires any student at the schools served by the agency to wear a face covering or be vaccinated against COVID-19.</official-title></form><legis-body id="HDFF5E81F113C42DB9E49F39CD85F4CE7" style="OLC"><section id="H0648DF87A6EC406781632B573D5D9DB9" section-type="section-one"><enum>1.</enum><header>Prohibition on Federal funds for certain local educational agencies</header><subsection id="H36E13CB74AEE4314849F113C31A1EEBE"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">No Federal funds shall be provided to a local educational agency that requires a student at a public elementary school or secondary school under the jurisdiction of the local educational agency to wear a face covering or be vaccinated against COVID-19.</text></subsection><subsection id="H850A00CD63334068A28CA7B16E7F6056"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section, the terms <term>elementary school</term>, <term>local educational agency</term>, and <term>secondary school</term> have the meanings given such terms in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>). </text></subsection></section></legis-body></bill> 
+

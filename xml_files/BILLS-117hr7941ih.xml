@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6858E9F8E091419098613606B5A23BA2" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7941 IH: District of Columbia Electronic Transmittal of Legislation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7941</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220603">June 3, 2022</action-date>
+<action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name>, and in addition to the Committee on <committee-name committee-id="HRU00">Rules</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the District of Columbia Home Rule Act to permit the Chairman of the Council of the District of Columbia to transmit Acts of the District of Columbia to Congress in electronic form.</official-title>
+</form>
+<legis-body id="H6BD2F64DAE10447EA8FF69B26703B999" style="OLC">
+<section id="H70D32520F4704CE79B88DA4A3E01739C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>District of Columbia Electronic Transmittal of Legislation Act</short-title></quote>. </text></section> <section id="H77CCCFE76FC846E2BAB05BC938CC9B7D" section-type="subsequent-section"><enum>2.</enum><header>Permitting District of Columbia to transmit Acts of District in electronic form</header> <subsection id="H1787F43FBD6F4D238061CEA3EC611DBE"><enum>(a)</enum><header>Acts of Council</header><text display-inline="yes-display-inline">Section 602(c) of the District of Columbia Home Rule Act (sec. 1–206.02(c), D.C. Official Code) is amended by adding at the end the following new paragraph:</text>
+<quoted-block style="traditional" id="H9DA620FF6AE74026A00BCC901818D973" display-inline="no-display-inline">
+<paragraph id="HDA172B62ABC24C879933E005223068F9" indent="up1"><enum>(4)</enum><text>The Chairman of the Council may transmit an Act under this subsection in such form as the Chairman may choose, including electronic form.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H9796D6E285EB4C2B96053DC64087412E"><enum>(b)</enum><header>Charter amendments</header><text display-inline="yes-display-inline">Section 303 of such Act (sec. 1–203.03, D.C. Official Code) is amended by adding at the end the following new subsection: </text>
+<quoted-block style="traditional" id="HADE6C5AD1806435881938B2A94E0188F" display-inline="no-display-inline">
+<subsection id="H45C54361A5CB4E4BAEF53C71159BA8E8"><enum>(e)</enum><text display-inline="yes-display-inline">The Chairman of the Council may submit an Act under this section in such form as the Chairman may choose, including electronic form.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> <section id="HB0922658CCE14D959D9B4E76BA4173B1" section-type="subsequent-section"><enum>3.</enum><header>Acceptance by House and Senate</header> <subsection id="H8A35A70E1A084CFD90E8AC71E8625528"><enum>(a)</enum><header>Acceptance</header><text display-inline="yes-display-inline">For purposes of determining whether the Chairman of the Council of the District of Columbia has transmitted an Act to Congress pursuant to section 602(c) of the District of Columbia Home Rule Act (sec. 1–206.02(c), D.C. Official Code) or has submitted an Act to Congress pursuant to section 303 of such Act (sec. 1–203.03, D.C. Official Code), the House of Representatives and Senate shall treat such an Act which the Chairman transmits or submits in electronic form in the same manner as an Act which the Chairman submits in paper form.</text></subsection>
+<subsection id="H91FA8AEC18C947A792F2F0E99CE993ED"><enum>(b)</enum><header>Exercise of rulemaking authority</header><text display-inline="yes-display-inline">This section is enacted by Congress—</text> <paragraph id="H0BDD86FB9E974AAF8FC131F644996FE7"><enum>(1)</enum><text>as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of Acts described in subsection (a), and supersede other rules only to the extent that it is inconsistent with such rules; and</text></paragraph>
+<paragraph id="HC7A0E17F62C4432798E32891676B92FD"><enum>(2)</enum><text>with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.</text></paragraph></subsection></section> </legis-body> </bill> 
+

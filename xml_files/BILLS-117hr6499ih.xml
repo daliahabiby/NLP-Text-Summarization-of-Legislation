@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H498E0EBEB280468BB5711CCED742DC7E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6499 IH: Train Coverings for Community Safety Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6499</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220125">January 25, 2022</action-date><action-desc><sponsor name-id="M001188">Ms. Meng</sponsor> (for herself and <cosponsor name-id="S001201">Mr. Suozzi</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To enhance rail safety and provide for the safe and covered transport of materials in railroad cars, and for other purposes.</official-title></form><legis-body id="H1F1F3448D83E4B94BFCC6BCE2BFD2F2A" style="OLC"> 
+<section id="H0E108774B931452C9E6BC24875243CE5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Train Coverings for Community Safety Act</short-title></quote>.</text></section> <section id="H70FCEA0DDACC4C80AF2B0988E0CF6166"><enum>2.</enum><header>Rulemaking required</header><text display-inline="no-display-inline">Not later than 1 year after the date of the enactment of this Act, the Secretary of Transportation shall prescribe regulations requiring materials transported by rail to be completely covered while in transit, including while being held, delayed, or transferred.</text></section> 
+</legis-body></bill>
+

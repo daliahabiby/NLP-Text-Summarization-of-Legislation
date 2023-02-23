@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3DBC7B7D710342C4A09622E08ADB3D91" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6650 IH: No Chinese Communist Subterfuge via Unregistered Regime Presence Rendered Invisible to Shareholders and Equivalent Parties Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6650</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220208">February 8, 2022</action-date>
+<action-desc><sponsor name-id="T000478">Ms. Tenney</sponsor> (for herself, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="G000552">Mr. Gohmert</cosponsor>, <cosponsor name-id="S001214">Mr. Steube</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="J000304">Mr. Jackson</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, and <cosponsor name-id="M001159">Mrs. Rodgers of Washington</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require issuers filing annual reports with the Securities and Exchange Commission to disclose whether the issuers have connections with the Chinese Communist Party, and for other purposes.</official-title>
+</form>
+<legis-body id="HE060EAF574D34B978C0626F8C957431A" style="OLC">
+<section id="H3384815DC58845878A29261C7C47A1C2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Chinese Communist Subterfuge via Unregistered Regime Presence Rendered Invisible to Shareholders and Equivalent Parties Act</short-title></quote> or the <quote><short-title>No Chinese Communist SURPRISE Parties Act</short-title></quote>.</text></section> <section id="H6200A286C4784CB382C074863CDE5570"><enum>2.</enum><header>Reporting requirement</header> <subsection id="HCD7061AE9AA146898328A3829D3DAEED"><enum>(a)</enum><header>Definitions</header><text>In this section—</text>
+<paragraph id="HB1FDDE6985424749937947167B9918B6"><enum>(1)</enum><text>the term <term>Commission</term> means the Securities and Exchange Commission;</text></paragraph> <paragraph id="HA6B78421BF354496A1F7C4DF0CA15DF0"><enum>(2)</enum><text>the term <term>covered issuer</term> means an issuer, including a foreign private issuer, that is required to file annual reports with the Commission under section 13(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78m">15 U.S.C. 78m(a)</external-xref>); </text></paragraph>
+<paragraph id="H721E194BD11643B09129BC5544D2634F"><enum>(3)</enum><text>the term <term>issuer</term> has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>); </text></paragraph> <paragraph id="H827C15FACE7842CB9DD2DD9417B89102"><enum>(4)</enum><text>the term <term>joint venture partner</term>, with respect to a covered issuer, means—</text>
+<subparagraph id="H953058AB6CAE410D84C1B48FDDC34ECB"><enum>(A)</enum><text>a joint venture in which the covered issuer, or a subsidiary with respect to the covered issuer, is a party; or</text></subparagraph> <subparagraph id="H1E2806BBEF1E405C86AEE9B8A8B9A158" commented="no" display-inline="no-display-inline"><enum>(B)</enum><text>any other person that is a party in a joint venture described in subparagraph (A); and</text></subparagraph></paragraph>
+<paragraph id="HE98A510A13744F67992951A9E8648BCF"><enum>(5)</enum><text>the term <term>subsidiary</term>, with respect to a covered issuer, means a wholly or partially owned subsidiary of the covered issuer.</text></paragraph></subsection> <subsection id="H533C04A1E7D1428DA10042EB1B587A40"><enum>(b)</enum><header>Requirement</header><text>Each covered issuer, in each annual report that the covered issuer files with the Commission (beginning with the second annual report that the covered issuer files with the Commission after the date of enactment of this Act), shall—</text>
+<paragraph id="H16E7CADB15C247EB92AACE443BA11521"><enum>(1)</enum><text>disclose whether the covered issuer, or any subsidiary or joint venture partner with respect to the covered issuer, has established or maintained an organization of the Chinese Communist Party during the period covered by the report; </text></paragraph> <paragraph id="HEB57F3DC293C40CAB557C695B4B05455"><enum>(2)</enum><text>if an organization of the Chinese Communist Party has participated in the operations of the covered issuer, or of any subsidiary or joint venture partner with respect to the covered issuer, during the period covered by the report, summarize that participation; and</text></paragraph>
+<paragraph id="H1BDE5E984CE64C68A75051C858395E03"><enum>(3)</enum><text>disclose whether the board of directors of the covered issuer (or the equivalent body with respect to the covered issuer), under the laws of the jurisdiction in which the covered issuer is incorporated or otherwise organized—</text> <subparagraph id="H507C87A93BF340EFB988067AC4F87C39"><enum>(A)</enum><text>owes a fiduciary duty to the covered issuer and shareholders of the covered issuer; and</text></subparagraph>
+<subparagraph id="HED13D89B2C8D4392939EE59C2691BFC0"><enum>(B)</enum><text>is subject to heightened scrutiny with respect to conflicted controller transactions.</text></subparagraph></paragraph></subsection> <subsection id="H900ED00FFC3B497FAD08DF0A93C72DF8"><enum>(c)</enum><header>Updates to rules</header><text>Not later than 1 year after the date of enactment of this Act, the Commission shall make any updates to the rules of the Commission that are necessary as a result of this section.</text></subsection></section>
+</legis-body>
+</bill> 
+
+

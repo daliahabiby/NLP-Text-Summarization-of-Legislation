@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H0E4162D9B1C6421395DDCAEF64D4519B" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 8026 ENR: To designate the facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, as the “Charles W. Lindberg Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 8026</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To designate the facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, as the <quote>Charles W. Lindberg Post Office</quote>.</official-title> 
+</form> 
+<legis-body id="HE71F42040730453187B5E440CB402AFD" style="OLC"> 
+<section id="H7FC9EFB3D00B499CBC053E433A89329E" section-type="section-one"><enum>1.</enum><header>Charles W. Lindberg Post Office</header> 
+<subsection id="HB54847632A2C401DB51DFFB9393FC694"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, shall be known and designated as the <quote>Charles W. Lindberg Post Office</quote>.</text></subsection> <subsection id="HEA679996A8694CDB8B6552D5DC6615A0"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Charles W. Lindberg Post Office</quote>.</text> </subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

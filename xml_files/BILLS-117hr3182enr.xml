@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H18F06918D4CD4657AD8AB86333B7301E" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 3182 ENR: Safe Sleep for Babies Act of 2021</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 3182</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To provide that inclined sleepers for infants and crib bumpers shall be considered banned hazardous products under section 8 of the Consumer Product Safety Act, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HD43DF6E14D0847158DCC53400AC17410" style="OLC"> 
+<section id="H4B98AB5674E14B3FBE65DC4462C1FDF4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Safe Sleep for Babies Act of 2021</short-title></quote>.</text></section> <section id="H2D876086958843A2B6200D91A64C770C"><enum>2.</enum><header>Banning of inclined sleepers for infants</header> <subsection id="HCC8C71F9F6D64A5A85A1CA50CA236207"><enum>(a)</enum><header>In General</header><text>Not later than 180 days after the date of enactment of this Act, inclined sleepers for infants, regardless of the date of manufacture, shall be considered a banned hazardous product under section 8 of the Consumer Product Safety Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2057">15 U.S.C. 2057</external-xref>).</text></subsection> 
+<subsection id="HA807146E4E9748278EBF9914C1C8B739"><enum>(b)</enum><header>Inclined Sleeper for Infants Defined</header><text>In this section, the term <term>inclined sleeper for infants</term> means a product with an inclined sleep surface greater than ten degrees that is intended, marketed, or designed to provide sleeping accommodations for an infant up to 1 year old.</text></subsection></section> <section id="H7FEEB99821CA4882B4C0A051C9D6AB3E"><enum>3.</enum><header>Banning of crib bumpers</header> <subsection id="HF50879B0E47846DCB2DEABEA9C79D545"><enum>(a)</enum><header>In general</header><text>Not later than 180 days after the date of enactment of this Act, crib bumpers, regardless of the date of manufacture, shall be considered a banned hazardous product under section 8 of the Consumer Product Safety Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2057">15 U.S.C. 2057</external-xref>).</text></subsection> 
+<subsection id="H14CB8C184C5946368E92A01516E48B16"><enum>(b)</enum><header>Crib bumper defined</header><text>In this section, the term <term>crib bumper</term>—</text> <paragraph id="H3D0331C6904444BE82B400668B5EA755"><enum>(1)</enum><text>means any material that is intended to cover the sides of a crib to prevent injury to any crib occupant from impacts against the side of a crib or to prevent partial or complete access to any openings in the sides of a crib to prevent a crib occupant from getting any part of the body entrapped in any opening;</text></paragraph> 
+<paragraph id="H91501B329509430AA59F29A52FADB464"><enum>(2)</enum><text>includes a padded crib bumper, a supported and unsupported vinyl bumper guard, and vertical crib slat covers; and</text></paragraph> <paragraph id="HD5D946B345044A00AE91255ABF0EAA98"><enum>(3)</enum><text>does not include a non-padded mesh crib liner.</text></paragraph></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

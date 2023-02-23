@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1ED89B557A5C4670B98473B77EE403FF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9249 IH: To address the recovery of certain costs with respect to certain Reclamation facilities in the Colorado River Basin, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9249</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221028">October 28, 2022</action-date><action-desc><sponsor name-id="O000171">Mr. O'Halleran</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To address the recovery of certain costs with respect to certain Reclamation facilities in the Colorado River Basin, and for other purposes.</official-title></form><legis-body id="H7878CEB4F3BB457B8743A58D5E36CCFC" style="OLC"> 
+<section id="HD85EADC72CB540C39FA8812678C73A07" section-type="section-one"><enum>1.</enum><header>Recovery of certain costs with respect to certain Colorado River Basin Reclamation facilities</header> 
+<subsection id="H9ECEDD3BA1964A4EBDAB94F2D35B1D2A"><enum>(a)</enum><header>In general</header><text>With respect to hydropower production from any Reclamation facility in the Colorado River Basin with hydropower as an authorized project purpose, the Secretary of the Interior shall not—</text> <paragraph id="H724C96FDD11D4195A401188B43FC5EA7"><enum>(1)</enum><text>allocate to preference hydropower contractors who receive power from the applicable Reclamation facility any operations and maintenance costs for any period during which the applicable facility is not able to generate hydropower as a result of dry hydrologic conditions; or</text></paragraph> 
+<paragraph id="HB64E589106E04781879BA2B47428B9FF"><enum>(2)</enum><text>recover from preference hydropower contractors construction costs for the Reclamation facility for any water year during which, for a period of more than 180 days, no power is produced by the applicable facility. </text></paragraph></subsection> <subsection id="HB0E0B4D7F7734561B8F89E5C9B4F2063"><enum>(b)</enum><header>Nonreimbursable costs</header><text>Any costs incurred by the United States under subsection (a) shall be nonreimbursable to the United States.</text></subsection> 
+<subsection id="H4136B23F1C0745AB940D99C94F51D19A"><enum>(c)</enum><header>Effect</header><text>Nothing in this section alters or affects any water right with respect to—</text> <paragraph id="H5332C29EFF624B39A807D53DE5014667"><enum>(1)</enum><text>the United States;</text></paragraph> 
+<paragraph id="H11FC0EC558594C6782472D60FC176B6D"><enum>(2)</enum><text>any Indian Tribe, band, or community;</text></paragraph> <paragraph id="HDFCE85E71EA44420BDD356DD3EDE179A"><enum>(3)</enum><text>any State or political subdivision of a State; or</text></paragraph> 
+<paragraph id="H4615C93E07C74A7BB7C21D8A483AA6D0"><enum>(4)</enum><text>any person.</text></paragraph></subsection> <subsection id="H3F66E67915CD40E9BAAB16294BB2D0CE"><enum>(d)</enum><header>Funding</header><text>In addition to amounts otherwise available, there is appropriated to the Secretary of the Interior and the Administrator of the Western Area Power Administration for each fiscal year, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary for the Secretary of the Interior and the Administrator of the Western Area Power Administration, respectively, to carry out authorized activities and obligations that would otherwise be carried out using amounts collected from preference hydropower contractors as payments for the costs described in subsection (a). </text></subsection></section> 
+</legis-body></bill>
+

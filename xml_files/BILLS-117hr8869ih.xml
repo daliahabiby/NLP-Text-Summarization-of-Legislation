@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDEEE8059D9A34131B79782454EAC8194" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8869 IH: Strengthening Entry Visa Enforcement and Restrictions Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8869</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220915">September 15, 2022</action-date><action-desc><sponsor name-id="T000478">Ms. Tenney</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the denial of admission to the United States for individuals subject to sanctions pursuant to Executive Order 13876, and for other purposes.</official-title></form><legis-body id="H771840455E9E49158407A5C67932A722" style="OLC"> 
+<section id="HC5A110530833491AB68E726DD2C090F3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strengthening Entry Visa Enforcement and Restrictions Act of 2022</short-title></quote> or the <quote><short-title>SEVER Act of 2022</short-title></quote>.</text></section> <section id="H57A494320141452EB28F97CF6FD12B58"><enum>2.</enum><header>Denial of visas to certain representatives to United Nations</header><text display-inline="no-display-inline">Section 407(a)(1) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (<external-xref legal-doc="public-law" parsable-cite="pl/101/246">Public Law 101–246</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/8/1102">8 U.S.C. 1102</external-xref> note) is amended by striking <quote>; and</quote> and inserting <quote>, or is subject to sanctions pursuant to Executive Order 13876 (<external-xref legal-doc="usc" parsable-cite="usc/50/1701">50 U.S.C. 1701</external-xref> note; relating to imposing sanctions with respect to Iran), as in effect on September 15, 2022; and</quote>. </text></section> 
+</legis-body></bill>
+

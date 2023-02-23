@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" dms-id="HD51060B46CD2438F818B9DFB39964839" public-private="public" key="G" bill-type="olc" stage-count="1"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7375 : To direct the Secretary of Veterans Affairs to update the payment system of the Department of Veterans Affairs to allow for electronic fund transfer of educational assistance, administered by the Secretary, to a foreign institution of higher education.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IIB</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7375</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20220518" legis-day="20220517">May 18 (legislative day, May 17), 2022</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSVA00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To direct the Secretary of Veterans Affairs to update the payment system of the Department of Veterans Affairs to allow for electronic fund transfer of educational assistance, administered by the Secretary, to a foreign institution of higher education.</official-title></form><legis-body id="HCF693413E6274DFFB52DF98F7E39D8B3" style="OLC"><section id="H5BFEEC26B22F458FB35F3BD45AB2AFF8" section-type="section-one"><enum>1.</enum><header>Payment of VA educational assistance via electronic fund transfer to a foreign institution of higher education</header><text display-inline="no-display-inline">Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall update the payment system of the Department of Veterans Affairs to allow for electronic fund transfer of educational assistance, administered by the Secretary, to a foreign institution of higher education that—</text><paragraph id="H493767076A884999A413A7F653DF0016"><enum>(1)</enum><text>provides an approved course of education to an eligible recipient of such assistance; and</text></paragraph><paragraph id="H6D26076647B14793901EEF0DBE5AF01D"><enum>(2)</enum><text>does not have—</text><subparagraph id="H89F1B64C9ECC498B8D34F9020C0A7131"><enum>(A)</enum><text>an employer identification number; or</text></subparagraph><subparagraph id="H959AC17C3D794BBBB45E74D24F568B13"><enum>(B)</enum><text>an account with a domestic bank.</text></subparagraph></paragraph></section></legis-body><attestation><attestation-group><attestation-date date="20220517" chamber="House">Passed the House of Representatives May 17, 2022.</attestation-date><attestor display="yes">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation></bill> 
+

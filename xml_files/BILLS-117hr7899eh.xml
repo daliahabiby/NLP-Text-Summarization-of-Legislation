@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="HBD92A643C9254014B083C5B547243523" public-private="public" key="H" bill-type="olc" stage-count="1">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7899 EH: To designate the facility of the United States Postal Service located at 75 Commerce Drive in Grayslake, Illinois, as the “Army Specialist Joseph Joey W. Dimock II Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7899</legis-num>
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To designate the facility of the United States Postal Service located at 75 Commerce Drive in Grayslake, Illinois, as the <quote>Army Specialist Joseph <quote>Joey</quote> W. Dimock II Post Office Building</quote>.</official-title>
+</form>
+<legis-body id="H435EB39C03EB452A9B1AAD1EEC412F17" style="OLC"> 
+<section id="HE3028B75544A4E40BD54B72D378116D3" section-type="section-one"><enum>1.</enum><header>Army Specialist Joseph <quote>Joey</quote> W. Dimock II Post Office Building</header> 
+<subsection id="H7DBFA8D93AF64F1293AF21643FC0C454"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 75 Commerce Drive in Grayslake, Illinois, shall be known and designated as the <quote>Army Specialist Joseph <quote>Joey</quote> W. Dimock II Post Office Building</quote>.</text></subsection> <subsection id="H95757A71D9134A839B4F522F038E50EF"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Army Specialist Joseph <quote>Joey</quote> W. Dimock II Post Office Building</quote>.</text></subsection></section> 
+</legis-body><attestation><attestation-group><attestation-date date="20221114" chamber="House">Passed the House of Representatives November 14, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

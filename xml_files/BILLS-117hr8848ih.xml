@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6F36C433F3C948D9B39FA7090D9E77BC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8848 IH: Employee Business Expense Deduction Reinstatement Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8848</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220915">September 15, 2022</action-date><action-desc><sponsor name-id="G000576">Mr. Grothman</sponsor> (for himself, <cosponsor name-id="H001052">Mr. Harris</cosponsor>, and <cosponsor name-id="B001302">Mr. Biggs</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to allow unreimbursed employee expenses to be taken into account as miscellaneous itemized deductions.</official-title></form><legis-body id="H822F84869B644D059D99530A66697D49" style="OLC"> 
+<section id="HB24ECEE8DD1546B9BC3B97D917EC1A37" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Employee Business Expense Deduction Reinstatement Act of 2022</short-title></quote>. </text></section> <section id="HA09906100DAA40CC87DD32977DA75D26"><enum>2.</enum><header>Unreimbursed employee expenses taken into account as miscellaneous itemized deduction</header> <subsection id="H2FF1A93B9B9A4B7B8C952D84DC20FB77"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/67">Section 67(g)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following: <quote>Notwithstanding the preceding sentence for any such taxable year, an individual may take into account under subsection (a) 85 percent of any miscellaneous itemized deductions for the taxable year which are unreimbursed expenses paid or incurred by the individual in connection with the performance of services as an employee.</quote>.</text></subsection> 
+<subsection id="H8936A5D45A334709B6E50EBF662E2663"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall take effect as if included in section 11045 of <external-xref legal-doc="public-law" parsable-cite="pl/115/97">Public Law 115–97</external-xref> (commonly known as the Tax Cuts and Jobs Act).</text></subsection> <subsection id="HF80A59C12F6E4C97AAE8DFBDB3F1108C"><enum>(c)</enum><header>Extension of statute of limitation on credit or refund</header><text display-inline="yes-display-inline">If the period of limitation on a credit or refund resulting from the amendments made by subsection (a) expires before the end of the 1-year period beginning on the date of the enactment of this Act, refund or credit of such overpayment (to the extent attributable to such amendments) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.</text></subsection></section> 
+</legis-body></bill>
+

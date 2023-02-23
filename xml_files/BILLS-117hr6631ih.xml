@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB4357F5EE08F4295B23F53101F9B0F28" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6631 IH: To designate the facility of the United States Postal Service located at 4770 Eureka Ave in Yorba Linda, California, as the “Cottle Centanni Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6631</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220207">February 7, 2022</action-date><action-desc><sponsor name-id="K000397">Mrs. Kim of California</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 4770 Eureka Ave in Yorba Linda, California, as the <quote>Cottle Centanni Post Office Building</quote>.</official-title></form><legis-body id="H005B73506FE84B538AC4345EE3B0AD69" style="OLC"> 
+<section id="H9C23F053CFE44766BF913247B42BB205" section-type="section-one"><enum>1.</enum><header>Cottle Centanni Post Office Building</header> 
+<subsection id="HF18B122E2BAA4C46AE3DC9ADD863BAE3"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 4770 Eureka Ave in Yorba Linda, California, shall be known and designated as the <quote>Cottle Centanni Post Office Building</quote>.</text></subsection> <subsection id="HC2EC01B379A14B0794776CD1D7F88CED"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Cottle Centanni Post Office Building</quote>.</text></subsection></section> 
+</legis-body></bill>
+

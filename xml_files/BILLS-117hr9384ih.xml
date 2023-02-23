@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5F448594713047A8B2CD94641EAD2A99" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9384 IH: To designate the Department of Energy Integrated Engineering Research Center Federal Building located at the Fermi National Accelerator Laboratory in Batavia, Illinois, as the “Helen Edwards Engineering Research Center”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9384</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221201">December 1, 2022</action-date><action-desc><sponsor name-id="F000454">Mr. Foster</sponsor> (for himself and <cosponsor name-id="U000040">Ms. Underwood</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the Department of Energy Integrated Engineering Research Center Federal Building located at the Fermi National Accelerator Laboratory in Batavia, Illinois, as the <quote>Helen Edwards Engineering Research Center</quote>.</official-title></form><legis-body id="H64998D7CD8F74EC0869D13EDDC280F4C" style="OLC"> 
+<section id="H4832D6344FBD44489AA7CBE7F7004517" section-type="section-one"><enum>1.</enum><header>Helen Edwards Engineering Research Center</header>
+<subsection id="H50102681BEDB48DEAA88678349E9D701"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The Department of Energy Integrated Engineering Research Center Federal Building located at the Fermi National Accelerator Laboratory in Batavia, Illinois, shall be known and designated as the <quote>Helen Edwards Engineering Research Center</quote>.</text></subsection> <subsection id="H668EAEAD63E345139BFC7DABA762413B"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the Federal Building referred to in subsection (a) shall be deemed to be a reference to the <quote>Helen Edwards Engineering Research Center</quote>.</text></subsection></section> 
+</legis-body></bill>
+

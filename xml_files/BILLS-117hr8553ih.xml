@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H397D3C0C7D1E4060898058572BF3071E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8553 IH: Safeguarding Military Bonuses Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8553</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220728">July 28, 2022</action-date><action-desc><sponsor name-id="B000740">Mrs. Bice of Oklahoma</sponsor> (for herself, <cosponsor name-id="J000299">Mr. Johnson of Louisiana</cosponsor>, and <cosponsor name-id="P000599">Mr. Posey</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 37, United States Code, to exempt certain bonuses, incentive pay, and other benefits from repayment in the case of a member of the Armed Forces involuntarily separated for refusing to receive a vaccination against COVID&#8211;19.</official-title></form><legis-body id="H9219BAF01CEB49F99B9B0CB24D1558A9" style="OLC"> 
+<section id="HEB0223D58674401397AFFFEE1446F594" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Safeguarding Military Bonuses Act</short-title></quote>.</text></section> <section id="H9B04C9EF24584C20A5390875AFEF48A7"><enum>2.</enum><header>Special rule for discharges related to COVID–19</header><text display-inline="no-display-inline">Section 373(b) of title 37, United States Code, is amended by adding at the end the following new paragraph:</text> 
+<quoted-block style="USC" id="HAB5CFAA81E99421DBA5F2E91A8D39B3E" display-inline="no-display-inline"> 
+<paragraph id="H5AD1C3B384B0440EB0BC5475D2B849B8"><enum>(4)</enum><header>Special rule for discharges related to COVID–19</header><text display-inline="yes-display-inline">The Secretary concerned shall grant to an individual involuntarily separated from an Armed Force solely on the basis of the refusal of such individual to receive a vaccination against COVID–19 an exception to the requirement to repay a bonus, incentive pay, or similar benefit under subsection (a) if such bonus, incentive pay, or similar benefit was made before August 24, 2021.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+

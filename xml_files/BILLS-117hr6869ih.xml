@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H785E6A37E2CF435DA7E3039B9EFE5C9F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6869 IH: To authorize the President of the United States to issue letters of marque and reprisal for the purpose of seizing the assets of certain Russian citizens, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6869</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220228">February 28, 2022</action-date><action-desc><sponsor name-id="G000589">Mr. Gooden of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To authorize the President of the United States to issue letters of marque and reprisal for the purpose of seizing the assets of certain Russian citizens, and for other purposes.</official-title></form><legis-body id="H31583AA5F0F84D88BA64F6FAE12D6D7D" style="OLC"><section id="HB33368141D914BB89213F8669FC5B010" section-type="section-one"><enum>1.</enum><header>Issuance of letters of marque and reprisal for purpose of seizing assets of certain Russian citizens</header><subsection id="H41DAC9419CD047EA9FDF9509E7498F14"><enum>(a)</enum><header>Authority of President</header><text display-inline="yes-display-inline">The President of the United States is authorized and requested to commission, under officially issued letters of marque and reprisal, so many of privately armed and equipped persons and entities as, in the judgment of the President, the service may require, with suitable instructions to the leaders thereof, to employ all means reasonably necessary to seize outside the geographic boundaries of the United States and its territories any yacht, plane, or other asset of any Russian citizen who is on the List of Specially Designated Nationals and Blocked Persons maintained by the Office of Foreign Assets Control of the Department of the Treasury.</text></subsection><subsection id="H5E123CDC40684D9CB9B60C9734C11936"><enum>(b)</enum><header>Security bonds</header><text>No letter of marque and reprisal shall be issued by the President without requiring the posting of a security bond in such amount as the President shall determine is sufficient to ensure that the letter be executed according to the terms and conditions thereof.</text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2976FF1D5B79443FBF8533E7EB6718E0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7715 IH: Seeking Official Uncounted Lives Statistics Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7715</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220511">May 11, 2022</action-date><action-desc><sponsor name-id="C001104">Mr. Cawthorn</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Director of the Centers for Disease Control and Prevention to include, to the extent possible, aborted children in death numbers and rates.</official-title></form><legis-body id="HB33084E3AC2946FFB0E8162999E12696" style="OLC"> 
+<section id="H74A259C24CD0403294058BD1627A9BB2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Seeking Official Uncounted Lives Statistics Act</short-title></quote> or the <quote><short-title>SOULS Act</short-title></quote>. </text></section> <section id="HB998B785DA0E4364B051011C8B8DF63A"><enum>2.</enum><header>Inclusion of aborted children in CDC death numbers and rates</header><text display-inline="no-display-inline">In collecting and making available information on death numbers and rates in the United States, the Director of the Centers for Disease Control and Prevention shall, to the extent possible, include in such numbers and rates any abortion of a human embryo or fetus.</text> </section> 
+</legis-body></bill>
+

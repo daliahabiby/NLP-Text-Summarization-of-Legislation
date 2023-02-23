@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H34B7CA4B59FE49D49066800FD32CBD92" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9622 IH: Sustaining Tenth Amendment Truths for Every State Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9622</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221220">December 20, 2022</action-date><action-desc><sponsor name-id="G000552">Mr. Gohmert</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To ensure that within a State, an action of a State agency taken pursuant to State law shall have effect notwithstanding any Federal law to the contrary, and for other purposes.</official-title></form><legis-body id="H136F7B716AE94B2BA7E1CCE4DFF41223" style="OLC"><section id="H137A869668FF441983A74ABFF3C8A901" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Sustaining Tenth Amendment Truths for Every State Act of 2022</short-title></quote> or as the <quote><short-title>STATES Act of 2022</short-title></quote>.</text></section><section id="HAF4DADEB192F4AC48D72F306BA44E152"><enum>2.</enum><header>State agency preference</header><subsection id="H22AF1F306DB14DE897EA4360E8662F42"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Within a State, an action of a State agency taken pursuant to State law shall have effect notwithstanding any Federal law to the contrary, if the Federal law purports to apply under authority to create such law that is not specifically, unequivocally, and explicitly delegated to the United States Government within the stated words of the United States Constitution.</text></subsection><subsection id="H4CB5B2D250384F5D8100547F9BE3B74A"><enum>(b)</enum><header>State defined</header><text>In this Act, the term <quote>State</quote> means each of the several States, the District of Columbia, each commonwealth, territory or possession of the United States, and each federally recognized Indian Tribe.</text></subsection></section></legis-body></bill> 
+

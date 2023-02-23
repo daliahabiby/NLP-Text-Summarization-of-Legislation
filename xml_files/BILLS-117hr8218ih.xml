@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCC59FE4111E8411B81733AC5B7C1DC8B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8218 IH: To designate the facility of the United States Postal Service located at 619 Hewett Street in Neillsville, Wisconsin, as the “Corporal Mitchell Red Cloud, Jr. Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8218</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220623">June 23, 2022</action-date><action-desc><sponsor name-id="T000165">Mr. Tiffany</sponsor> (for himself, <cosponsor name-id="S001213">Mr. Steil</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, <cosponsor name-id="M001160">Ms. Moore of Wisconsin</cosponsor>, <cosponsor name-id="F000471">Mr. Fitzgerald</cosponsor>, <cosponsor name-id="G000576">Mr. Grothman</cosponsor>, and <cosponsor name-id="G000579">Mr. Gallagher</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 619 Hewett Street in Neillsville, Wisconsin, as the <quote>Corporal Mitchell Red Cloud, Jr. Post Office</quote>.</official-title></form><legis-body id="H0CE5B6C3C2BF44E48A7499E363218228" style="OLC"> 
+<section id="HB81353E376014CB2B912FA88B5972348" section-type="section-one"><enum>1.</enum><header>Corporal Mitchell Red Cloud, Jr. Post Office</header> 
+<subsection id="H7C1596A3669045E3853C082ACD484107"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 619 Hewett Street in Neillsville, Wisconsin, shall be known and designated as the <quote>Corporal Mitchell Red Cloud, Jr. Post Office</quote>.</text></subsection> <subsection id="H86B2CDDDFFBE435E8EFDEC080781BC1B"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Corporal Mitchell Red Cloud, Jr. Post Office</quote>.</text> </subsection></section> 
+</legis-body></bill>
+

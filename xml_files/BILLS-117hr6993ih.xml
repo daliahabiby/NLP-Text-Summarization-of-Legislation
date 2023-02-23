@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H008576BE8B6E4EB39BE64FE2562ACFD1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6993 IH: Stopping Pakistani Terror Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6993</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220308">March 8, 2022</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide for the designation of the Islamic Republic of Pakistan as a State Sponsor of Terrorism, and for other purposes.</official-title></form><legis-body id="HF5FD35541ADF428586EA0FC0AEF24631" style="OLC"><section id="H058D3E271A19472B9F503EA400D2A269" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stopping Pakistani Terror Act</short-title></quote>.</text></section><section id="HD693FE70641748ADB9626FD7831BE6A6"><enum>2.</enum><header>Designation of the Islamic Republic of Pakistan as a State Sponsor of Terrorism</header><text display-inline="no-display-inline">Effective on the date that is 30 days after the date of the enactment of this Act, the Islamic Republic of Pakistan shall be deemed to be a country the government of which the Secretary of State determines has repeatedly provided support for international terrorism pursuant to and for purposes of—</text><paragraph id="HEA7F8A4C2F9C4D3991E913380A679E31"><enum>(1)</enum><text>section 1754(c)(1)(A) of the Export Control Reform Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/50/4318">50 U.S.C. 4318(c)(1)(A)</external-xref>);</text></paragraph><paragraph id="HF1B7AE532F2743749626552A066D767F"><enum>(2)</enum><text>section 620A of the Foreign Assistance Act of 1961 (<external-xref legal-doc="usc" parsable-cite="usc/22/2371">22 U.S.C. 2371</external-xref>);</text></paragraph><paragraph id="H372B961A9F7C4B7C971CD1CD54E09165"><enum>(3)</enum><text>section 40 of the Arms Export Control Act (<external-xref legal-doc="usc" parsable-cite="usc/22/2780">22 U.S.C. 2780</external-xref>); and</text></paragraph><paragraph id="HF66EAD835D3B46E2B68CED7AB10E31F5"><enum>(4)</enum><text>any other provision of law.</text></paragraph></section></legis-body></bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA939F2B4A66F4BFDAAAB860CF245AD50" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9360 IH: To amend title 38, United States Code, to extend to certain members of the Armed Forces eligibility to transfer unused Post-9/11 educational assistance to family members.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-11-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9360</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221129">November 29, 2022</action-date><action-desc><sponsor name-id="P000613">Mr. Panetta</sponsor> (for himself, <cosponsor name-id="C001069">Mr. Courtney</cosponsor>, <cosponsor name-id="B000490">Mr. Bishop of Georgia</cosponsor>, <cosponsor name-id="S001207">Ms. Sherrill</cosponsor>, <cosponsor name-id="K000394">Mr. Kim of New Jersey</cosponsor>, <cosponsor name-id="R000577">Mr. Ryan of Ohio</cosponsor>, and <cosponsor name-id="C001112">Mr. Carbajal</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to extend to certain members of the Armed Forces eligibility to transfer unused Post-9/11 educational assistance to family members.</official-title></form><legis-body id="H7902E6B8016442E9B280DD424674D195" style="OLC"><section id="HA8EBEFC318D847FAAF63DCA826897CFF" section-type="section-one"><enum>1.</enum><header>Extension to certain members of the Armed Forces eligibility to transfer unused Post-9/11 educational assistance to family members</header><text display-inline="no-display-inline">Section 3319(b) of title 38, United States Code, is amended—</text><paragraph id="HAB7733DC1B8F4B78A8E276F1C5425C13"><enum>(1)</enum><text>in paragraph (1), by striking <quote>or</quote> at the end;</text></paragraph><paragraph id="H0418239810504CBC94A8F5F613AF9C26"><enum>(2)</enum><text>by redesignating paragraph (2) as paragraph (3); and</text></paragraph><paragraph id="H9C20276F27694166B1AC98E6ACEDC2A3"><enum>(3)</enum><text>by inserting before paragraph (3), as redesignated, the following:</text><quoted-block style="USC" id="H37DBFBA4320B4A9C8BDF49E1B03478C4" display-inline="no-display-inline"><paragraph id="HDD1EA7E7FC554318A87CF507F68BD634"><enum>(2)</enum><text display-inline="yes-display-inline">12 years of service in the Armed Forces; or</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill> 
+

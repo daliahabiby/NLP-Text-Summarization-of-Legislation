@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H377EA87EE2994FBD94D2E072F0421A14" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9243 IH: PARTNER with ASEAN Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9243</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221028">October 28, 2022</action-date><action-desc><sponsor name-id="C001091">Mr. Castro of Texas</sponsor> (for himself and <cosponsor name-id="C000266">Mr. Chabot</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide for the treatment of the Association of Southeast Asian Nations as an international organization for purposes of the International Organizations Immunities Act, and for other purposes.</official-title></form><legis-body id="H246E3996D9B34B0A947729D84BB63F33" style="OLC">
+<section id="HC836860CB521436080E8D5108F43B290" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Providing Appropriate Recognition and Treatment Needed to Enhance Relations with ASEAN Act</short-title></quote> or the <quote>PARTNER with ASEAN Act</quote>. </text></section> <section id="H2544D591FBA3452F892F8580490E05A1" section-type="subsequent-section"><enum>2.</enum><header>Extension to the Association of Southeast Asian Nations</header><text display-inline="no-display-inline">The provisions of the International Organizations Immunities Act (<external-xref legal-doc="usc" parsable-cite="usc/22/288">22 U.S.C. 288 et seq.</external-xref>) may be extended to the Association of Southeast Asian Nations in the same manner, to the same extent, and subject to the same conditions as such provisions may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.</text></section> 
+</legis-body></bill>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H005B909C62FE463884D5D36812F3D725" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6939 IH: To prohibit the importation of oil and natural gas from the Russian Federation.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6939</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220303">March 3, 2022</action-date>
+<action-desc><sponsor name-id="V000133">Mr. Van Drew</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the importation of oil and natural gas from the Russian Federation.</official-title>
+</form>
+<legis-body id="H83E0FB05FD254BA383D3479BCFB4D6A8" style="OLC"> 
+<section id="H7D0C03F9333245DA8779134FD6E0397B" section-type="section-one"><enum>1.</enum><header>Prohibition on importation of oil and natural gas from the Russian Federation</header> 
+<subsection id="HEAB2D0AE620F40F6A4E62CEF31153665"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, the President shall take such actions as may be necessary to prohibit the importation of oil and natural gas from the Russian Federation.</text></subsection> <subsection id="HA846E3B2D8094C58BA0699C952838BC8"><enum>(b)</enum><header>Regulations</header><text>The President shall promulgate such regulations that may be necessary and appropriate to carry out this section.</text></subsection> 
+<subsection id="H76B9C8839A1E41F8BA963C8E31233CD9"><enum>(c)</enum><header>Effective date; termination</header><text>This section—</text> <paragraph id="H34B3BFC1CA2B4406B6333DFC3A9478A9"><enum>(1)</enum><text>shall take effect on the date that is 30 days after the date of the enactment of this Act; and</text></paragraph> 
+<paragraph id="H5D3D72FBD0554444B0A7DEABC76D0A24"><enum>(2)</enum><text>shall terminate on the date that is 2 years after such date of enactment.</text> </paragraph></subsection></section> </legis-body> </bill> 
+

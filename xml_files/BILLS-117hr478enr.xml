@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H61CE4F6E358D4E90AADDBAA02D794F0C" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 478 ENR: Blackwater Trading Post Land Transfer Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 478</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To direct the Secretary of the Interior to take certain land located in Pinal County, Arizona, into trust for the benefit of the Gila River Indian Community, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H32EA469482AD43F4AE22C77899CCD1F8" style="OLC"> 
+<section id="H613DB2CDAC754561A39F2DB66FD4C07F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Blackwater Trading Post Land Transfer Act</short-title></quote>.</text></section> <section id="H7776DF9A99384FFDBB43258895D0D813"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> 
+<paragraph id="HE80A775A706642449F174D0ECCDCB0F2"><enum>(1)</enum><header>Blackwater trading post land</header><text>The term <term>Blackwater Trading Post Land</term> means the approximately 55.3 acres of land as depicted on the map that—</text> <subparagraph id="H77C17AB6DBBF4B2A833B4EB3BD58BCDA"><enum>(A)</enum><text>is located in Pinal County, Arizona, and bordered by Community land to the east, west, and north and State Highway 87 to the south; and</text></subparagraph> 
+<subparagraph id="H0EAC14BADC2E4B239FB14AE911F2048F"><enum>(B)</enum><text>is owned by the Community.</text></subparagraph></paragraph> <paragraph id="HC84594418DAC41D5A10EEBCD3F77819E"><enum>(2)</enum><header>Community</header><text>The term <term>Community</term> means the Gila River Indian Community of the Reservation.</text></paragraph> 
+<paragraph id="H21294DAC0DE64C6AB559EBE8D347494A"><enum>(3)</enum><header>Map</header><text>The term <term>map</term> means the map entitled <quote>Results of Survey, Ellis Property, A Portion of the West ½ of Section 12, Township 5 South, Range 7 East, Gila and Salt River Meridian, Pinal County, Arizona</quote> and dated October 15, 2012.</text></paragraph> <paragraph id="HE2383CD4E0C5449F8A0D6C4B1F33E21D"><enum>(4)</enum><header>Reservation</header><text>The term <term>Reservation</term> means the land located within the exterior boundaries of the reservation created under sections 3 and 4 of the Act of February 28, 1859 (11 Stat. 401, chapter LXVI), and Executive orders of August 31, 1876, June 14, 1879, May 5, 1882, November 15, 1883, July 31, 1911, June 2, 1913, August 27, 1914, and July 19, 1915, and any other lands placed in trust for the benefit of the Community.</text></paragraph> 
+<paragraph id="H798DE3EED25A4D17AFF3478346B5E4D5"><enum>(5)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of the Interior.</text></paragraph></section> <section id="HC156B6AF62F04C76AC602DDB673F4DA5"><enum>3.</enum><header>Land taken into trust for benefit of the gila river indian community</header> <subsection id="H64BB7E196F8B45D9B482D87D50FB01CF"><enum>(a)</enum><header>In general</header><text>The Secretary shall take the Blackwater Trading Post land into trust for the benefit of the Community, after the Community—</text> 
+<paragraph id="HA79F37F9BF5541D0ABD316511DF1F24E"><enum>(1)</enum><text>conveys to the Secretary all right, title, and interest of the Community in and to the Blackwater Trading Post Land;</text></paragraph> <paragraph id="H13EC1284FFDB4BA5A24B88A451937D8F"><enum>(2)</enum><text>submits to the Secretary a request to take the Blackwater Trading Post Land into trust for the benefit of the Community;</text></paragraph> 
+<paragraph id="H1D24673033314012ADD6AB293F9B16F8"><enum>(3)</enum><text>conducts a survey (to the satisfaction of the Secretary) to determine the exact acreage and legal description of the Blackwater Trading Post Land, if the Secretary determines a survey is necessary; and</text></paragraph> <paragraph id="H501A6DC943D9427ABD825AE9A59AA038"><enum>(4)</enum><text>pays all costs of any survey conducted under paragraph (3).</text></paragraph></subsection> 
+<subsection id="H97B290E4EC624DC4B2FD2E0041B0E174"><enum>(b)</enum><header>Availability of map</header><text>Not later than 180 days after the Blackwater Trading Post Land is taken into trust under subsection (a), the map shall be on file and available for public inspection in the appropriate offices of the Secretary.</text></subsection> <subsection id="HEEC3BF7C641B4FC2A2489317881FD0FC"><enum>(c)</enum><header>Lands taken into trust part of reservation</header><text>After the date on which the Blackwater Trading Post Land is taken into trust under subsection (a), the land shall be treated as part of the Reservation.</text></subsection> 
+<subsection id="HF138AB17784242AE9689DBD561ACC56A"><enum>(d)</enum><header>Gaming</header><text>Class II and class III gaming under the Indian Gaming Regulatory Act (<external-xref legal-doc="usc" parsable-cite="usc/25/2701">25 U.S.C. 2701 et seq.</external-xref>) shall not be allowed at any time on the land taken into trust under subsection (a).</text></subsection> <subsection id="H82B4D0D625CA475496D03FCEA8A9CC93"><enum>(e)</enum><header>Description</header><text>Not later than 180 days after the date of enactment of this Act, the Secretary shall cause the full metes-and-bounds description of the Blackwater Trading Post Land to be published in the Federal Register. The description shall, on publication, constitute the official description of the Blackwater Trading Post Land.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

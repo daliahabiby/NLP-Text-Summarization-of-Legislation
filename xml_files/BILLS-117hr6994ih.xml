@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA9E00BAB3C064835B02C24E7F4328250" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6994 IH: Ukraine Sovereignty Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6994</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220308">March 8, 2022</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit United States Government recognition of the Russian Federation’s claim of sovereignty over any part of Ukraine (to include Crimea), its airspace, or its territorial waters, and for other purposes.</official-title></form><legis-body id="HD3EDB2464D6F465E843E22F6B25AEAF0" style="OLC"><section id="H88AFCCD784B54A15A25C6C1C7289CFCB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ukraine Sovereignty Act</short-title></quote>.</text></section><section id="HC2476CEE9D854D2594B51C5CAB6C7F90"><enum>2.</enum><header>Prohibition against United States recognition of the Russian Federation’s claim of sovereignty</header><subsection id="H08314CD607AF487190FE76DAA8CECF6E"><enum>(a)</enum><header>Statement of policy</header><text display-inline="yes-display-inline">It is the policy of the United States not to recognize the Russian Federation’s claim of sovereignty over any part of Ukraine (to include Crimea), its airspace, or its territorial waters.</text></subsection><subsection id="H03744ADF4C57479FA19948F09759F852"><enum>(b)</enum><header>Prohibition</header><text>In accordance with subsection (a), no Federal department or agency may take any action or extend any assistance that implies recognition of—</text><paragraph id="HB172E5298D5A4F4E9C3B5889E06045FA"><enum>(1)</enum><text>the Russian Federation’s claim of sovereignty over any part of Ukraine (to include Crimea), its airspace, or its territorial waters; and</text></paragraph><paragraph id="H27C7E0A4A5C54A7AA8B83D7132053D77"><enum>(2)</enum><text>the claims of sovereignty of the <quote>Donetsk People’s Republic</quote>, the <quote>Luhansk People’s Republic</quote>, or any other closely related successor entities.</text></paragraph></subsection></section></legis-body></bill> 
+

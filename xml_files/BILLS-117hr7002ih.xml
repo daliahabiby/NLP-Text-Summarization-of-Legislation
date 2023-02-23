@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2152B7CFE406447E842C6FCBD2474B0A" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7002 IH: Gateway Solidarity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7002</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220308">March 8, 2022</action-date>
+<action-desc><sponsor name-id="W000812">Mrs. Wagner</sponsor> (for herself, <cosponsor name-id="B001224">Ms. Bush</cosponsor>, <cosponsor name-id="L000569">Mr. Luetkemeyer</cosponsor>, <cosponsor name-id="H001053">Mrs. Hartzler</cosponsor>, <cosponsor name-id="C001061">Mr. Cleaver</cosponsor>, <cosponsor name-id="G000546">Mr. Graves of Missouri</cosponsor>, <cosponsor name-id="L000576">Mr. Long</cosponsor>, and <cosponsor name-id="S001195">Mr. Smith of Missouri</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To authorize the Gateway Arch in St. Louis, Missouri, to be illuminated by blue and yellow lights in support of Ukraine.</official-title>
+</form>
+<legis-body id="H8E1E67F21CC8403EB49684825430F3B9" style="OLC"> 
+<section id="HF6BD46EBF11847379A3F0201A39ACB3C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Gateway Solidarity Act</short-title></quote>.</text></section> <section id="H00273AED4D6845699616572AE511C4B6"><enum>2.</enum><header>Illumination of the Gateway Arch in support of Ukraine</header><text display-inline="no-display-inline">To show support and solidarity with the Ukrainian people, the Secretary of the Interior shall authorize the Gateway Arch in St. Louis, Missouri, to be illuminated by blue and yellow lights for a certain period of time, to be designated by the Secretary of the Interior.</text> </section> 
+</legis-body>
+</bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2061B6C2280340BC984EBE468A49EF50" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9004 IH: To allow the Secretary of the Interior to authorize geological and geophysical surveys for offshore oil and gas exploration.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9004</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220928">September 28, 2022</action-date><action-desc><sponsor name-id="G000577">Mr. Graves of Louisiana</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To allow the Secretary of the Interior to authorize geological and geophysical surveys for offshore oil and gas exploration.</official-title></form><legis-body id="H8ABE89F4DDFA42F2895B588E9DF5785A" style="OLC"><section id="HC143EC1C9F2E4942977AC89A355A562C" commented="no" section-type="section-one"><enum>1.</enum><header>Offshore oil and gas exploration licensing</header><text display-inline="no-display-inline">The Secretary of the Interior shall authorize geological and geophysical surveys related to oil and gas activities on the Gulf of Mexico Outer Continental Shelf, except within areas subject to existing oil and gas leasing moratoria. Such authorizations shall be issued within 30 days of receipt of a completed application and shall, as applicable to survey type, comply with the mitigation and monitoring measures in subsections (a), (b), (c), (d), (f), and (g) of section 217.184 of title 50, Code of Federal Regulations (as in effect on January 1, 2022), and section 217.185 of title 50, Code of Federal Regulations (as in effect on January 1, 2022). Geological and geophysical surveys authorized pursuant to this section are deemed to be in full compliance with the Marine Mammal Protection Act of 1972 (<external-xref legal-doc="usc" parsable-cite="usc/16/1361">16 U.S.C. 1361 et seq.</external-xref>) and the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>), and their implementing regulations.</text></section></legis-body></bill> 
+

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="HC05E487F05E94469840576BCFAD1BF40" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 5865 ENR: To designate the facility of the United States Postal Service located at 4110 Bluebonnet Drive in Stafford, Texas, as the “Leonard Scarcella Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 5865</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To designate the facility of the United States Postal Service located at 4110 Bluebonnet Drive in Stafford, Texas, as the <quote>Leonard Scarcella Post Office Building</quote>.</official-title> 
+</form> 
+<legis-body id="HFD252D84DB994E0584722257A53454E8" style="OLC"> 
+<section id="HB6528AB9C96B4721B667E06FA8B0FC41" section-type="section-one"><enum>1.</enum><header>Leonard Scarcella Post Office Building</header> 
+<subsection id="H2FA38B28FF0946ADBCFE92D90AE50770"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 4110 Bluebonnet Drive in Stafford, Texas, shall be known and designated as the <quote>Leonard Scarcella Post Office Building</quote>.</text></subsection> <subsection id="H9D0734B682784BE6B1B34C7BC2F27078"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Leonard Scarcella Post Office Building</quote>.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

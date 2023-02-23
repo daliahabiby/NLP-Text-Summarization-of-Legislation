@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H175E2FCD01434CAC8E4DC8196425B140" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6675 IH: Independent VA Audit Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6675</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220209">February 9, 2022</action-date><action-desc><sponsor name-id="G000565">Mr. Gosar</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Veterans Affairs to seek to enter into an agreement with a nongovernmental entity to conduct an audit of the health care system of the Department of Veterans Affairs.</official-title></form><legis-body id="H9B0A2A99D52F4747A9E794C5DD16E0D4" style="OLC"><section id="HC4FF0A5068F344378DFDEC866EAF7102" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Independent VA Audit Act</short-title></quote>.</text></section><section id="HC123C7A806FB4AC3A15633327B8964B6" section-type="subsequent-section"><enum>2.</enum><header>Audit of health care system of the Department of Veterans Affairs</header><subsection id="H8D39453683E94743AFF1701A8E6667C9"><enum>(a)</enum><header>Audit</header><text display-inline="yes-display-inline">The Secretary of Veterans Affairs shall seek to enter into an agreement with a nongovernmental entity to conduct an audit of the health care system of the Department of Veterans Affairs, including with respect to the timeliness of available appointments for veterans to receive hospital care and medical services.</text></subsection><subsection id="H4784F5E709D94747A6A62BE7EBD8B20E"><enum>(b)</enum><header>Submission</header><text display-inline="yes-display-inline">Not later than December 31, 2023, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate the audit conducted under subsection (a).</text></subsection></section></legis-body></bill> 
+

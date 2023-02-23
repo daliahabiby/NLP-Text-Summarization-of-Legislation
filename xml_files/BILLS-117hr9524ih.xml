@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDBA629B203D149629DB473B72B9EBEB9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9524 IH: Capital Loss Inflation Fairness Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9524</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221214">December 14, 2022</action-date><action-desc><sponsor name-id="N000190">Mr. Norman</sponsor> (for himself, <cosponsor name-id="L000589">Mrs. Lesko</cosponsor>, and <cosponsor name-id="D000616">Mr. DesJarlais</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to increase the limitation on capital losses and index the limitation to inflation.</official-title></form><legis-body id="H63596855C9144BD1A2169AE275B0B6F1" style="OLC"> 
+<section id="HD11182CDEB744F88B324437081E6BD56" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Capital Loss Inflation Fairness Act</short-title></quote>. </text></section> <section id="HC6F8EF361EC5457BA86C1AC5F74432EE"><enum>2.</enum><header>Increased limitation on capital losses</header> <subsection id="H3B26FC4F53AC4D0595459EB5C03A96BA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1211">Section 1211(b)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows: </text> 
+<quoted-block style="OLC" id="H7905A5A4BD2D4CC19F4BF73083328061" display-inline="no-display-inline"> 
+<subsection id="HCC489ACD847E495186DCE317B3E064E4"><enum>(b)</enum><header>Other taxpayers</header> 
+<paragraph id="H164329CB21444D28A91F10B8C232A122"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a taxpayer other than a corporation, losses from sales or exchanges of capital assets shall be allowed only to the extent of the gains from such sales or exchanges, plus (if such losses exceed such gains) the lower of—</text> <subparagraph id="HFBC1765CD5CE43089B7861EC8BDBF4C7"><enum>(A)</enum><text display-inline="yes-display-inline">$13,000 ($6,500 in the case of a married individual filing a separate return), or</text></subparagraph> 
+<subparagraph id="HD504E80A43DA43BAB788A880F7491EDD"><enum>(B)</enum><text display-inline="yes-display-inline">the excess of such losses over such gains.</text></subparagraph></paragraph> <paragraph id="H39C35C63196E463EB20993B61E3C5A05"><enum>(2)</enum><header>Inflation adjustment</header><text>In the case of any taxable year beginning in a calendar year after 2023, the dollar amounts in paragraph (1)(A) shall be increased by an amount equal to—</text> 
+<subparagraph id="HEF90E7B8034E4E5BB7B52E47808DE03B"><enum>(A)</enum><text>such dollar amount, multiplied by</text></subparagraph> <subparagraph id="HE2A2B2B020B24600B70B23DE1421E5B0"><enum>(B)</enum><text>the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting <quote>calendar year 2022</quote> for <quote>calendar year 2016</quote> in subparagraph (A)(ii) thereof. </text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H1154E2A8A5A2448EA9F9D6494F694EEE"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to losses in taxable years beginning after December 31, 2021. </text> </subsection></section> </legis-body></bill>
+

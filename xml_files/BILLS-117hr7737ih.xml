@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC6472B31D9A444C185FCD3E163192F5E" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7737 IH: Communist Visa Transparency Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7737</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220512">May 12, 2022</action-date>
+<action-desc><sponsor name-id="B001299">Mr. Banks</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of State to add questions to visa application forms related to membership and affiliation with Communist or other totalitarian parties, and for other purposes.</official-title>
+</form>
+<legis-body id="H9770FA856FB84BBA976CEC3803A41329" style="OLC">
+<section id="H56A02B74B6444BEA8C0F82F46FED3863" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Communist Visa Transparency Act of 2022</short-title></quote>.</text></section> <section id="H1EF4A54B2B854D5BB66CC445D41E2BD8"><enum>2.</enum><header>Additional written questions on visa application forms</header> <subsection id="H4337CAE68CA64EB282FC52D66A5D9FFD"><enum>(a)</enum><header>Nonimmigrant visa application form</header><text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Secretary of State shall revise the nonimmigrant visa application form (DS–160) to include, under the portion of the application related to security and background, the following questions:</text>
+<paragraph id="H8FC3EFBC5E3D437C8F0322A3E0D3CAC9"><enum>(1)</enum><text display-inline="yes-display-inline">Whether the alien is a member of or is affiliated with the Communist or other totalitarian party.</text></paragraph> <paragraph id="H27D5F52B30E043D88D9C135C41236C5B"><enum>(2)</enum><text display-inline="yes-display-inline">For an alien who indicates on such application that their country of origin is China, whether the alien is or has been a member of, employed or funded by, or otherwise affiliated with China’s military, paramilitary, law enforcement, public security, or national security forces. </text></paragraph></subsection>
+<subsection id="H60057422F808423AB57AC58E7113AC6A"><enum>(b)</enum><header>Immigrant visa application form</header><text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Secretary of State shall revise the immigrant visa application form (DS–260) to include, under the portion of the application related to security and background, for an alien who indicates on such application that their country of origin is China, the question of whether the alien is or has been a member of, employed or funded by, or otherwise affiliated with China’s military, paramilitary, law enforcement, public security, or national security forces. </text></subsection></section> </legis-body> </bill> 
+

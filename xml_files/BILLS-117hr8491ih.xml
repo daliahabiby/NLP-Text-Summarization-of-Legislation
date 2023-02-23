@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5E274077FCE44B7780C63AF46FB26DFF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8491 IH: To amend title XVIII of the Social Security Act to expand eligible practitioners to furnish telehealth services.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8491</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220726">July 26, 2022</action-date><action-desc><sponsor name-id="K000376">Mr. Kelly of Pennsylvania</sponsor> (for himself, <cosponsor name-id="G000558">Mr. Guthrie</cosponsor>, and <cosponsor name-id="V000129">Mr. Valadao</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XVIII of the Social Security Act to expand eligible practitioners to furnish telehealth services.</official-title></form><legis-body id="H7118BE9EF9664CA7A7CC35B33E55FE0D" style="OLC"> 
+<section id="H37B61965B54541D19708EC1D05B9AA2C" section-type="section-one"><enum>1.</enum><header>Expanding practitioners eligible to furnish telehealth services</header><text display-inline="no-display-inline">Section 1834(m)(4)(E) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(m)(4)(E)</external-xref>) is amended—</text> <paragraph id="H4DECD459DD624704B691038D138FF13C"><enum>(1)</enum><text>by striking <quote>for the 151-day period</quote>; and</text></paragraph> 
+<paragraph id="HFFE48CB8D5B643A98BC702BF0E9D24B5"><enum>(2)</enum><text>by striking <quote>of the period at the end of the emergency sentence</quote> and inserting <quote>of the emergency period</quote>.</text></paragraph></section> </legis-body></bill>
+

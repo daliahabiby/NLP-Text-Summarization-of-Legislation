@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-Senate" dms-id="H95896C39AD8B4323B43385502B3D7682" public-private="public" key="S" bill-type="olc" stage-count="1" slc-id="S1-OLL22327-ND8-D5-6S5"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 2324 RS: To designate the facility of the United States Postal Service located at 2800 South Adams Street in Tallahassee, Florida, as the “D. Edwina Stephens Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 330</calendar><congress>117th CONGRESS</congress><session>2d Session</session><legis-num display="yes">H. R. 2324</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date>February 9, 2022</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSGA00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><action stage="Reported-in-Senate"><action-date date="20220404" legis-day="20220331">April 4 (legislative day, March 31), 2022</action-date><action-desc>Reported by <sponsor name-id="S380">Mr. Peters</sponsor>, without amendment</action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 2800 South Adams Street in Tallahassee, Florida, as the <quote>D. Edwina Stephens Post Office</quote>.</official-title></form><legis-body id="H0FCB6824C9CD403791C7199FECB7A0D4" style="OLC"><section id="HBE55A3C81C36438E8CABA7CBE60E4BCA" section-type="section-one"><enum>1.</enum><header>D. Edwina Stephens Post Office Building</header><subsection id="H61EF7FC125D34C91B2BB846CF46EBD7F"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 2800 South Adams Street in Tallahassee, Florida, shall be known and designated as the <quote>D. Edwina Stephens Post Office Building</quote>.</text></subsection><subsection id="HF600C153AB034B6E9E05C5BF2AAB5B80"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>D. Edwina Stephens Post Office Building</quote>.</text></subsection></section></legis-body><endorsement><action-date date="20220404" legis-day="20220331">April 4 (legislative day, March 31), 2022</action-date><action-desc>Reported without amendment</action-desc></endorsement></bill> 
+

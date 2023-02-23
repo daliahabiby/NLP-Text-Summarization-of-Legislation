@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="HE5FB0E827461447984726710D6AE4C51" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 1621 EH: Prohibiting Punishment of Acquitted Conduct Act of 2021</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 1621</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend section 3661 of title 18, United States Code, to prohibit the consideration of acquitted conduct at sentencing.</official-title> 
+</form> 
+<legis-body id="H87B52A9B7E61496BACC402E906185A59" style="OLC"> 
+<section section-type="section-one" id="H89AA37B1CC384536AF0BA857B32074DB"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prohibiting Punishment of Acquitted Conduct Act of 2021</short-title></quote>.</text></section> <section id="H0C74A9EE716F4CAEAA888B9C41F47A82"><enum>2.</enum><header>Acquitted conduct at sentencing</header> <subsection id="H585BAE6D53AC44C094C66B2A42FF7D73"><enum>(a)</enum><header>Use of information for sentencing</header> <paragraph id="H6B57CD03962C464B8F4ADE49CAB2DF72"><enum>(1)</enum><header>Amendment</header><text>Section 3661 of title 18, United States Code, is amended by inserting <quote>, except that a court of the United States shall not consider, except for purposes of mitigating a sentence, acquitted conduct under this section</quote> before the period at the end.</text></paragraph> 
+<paragraph id="H7D795F7ECD1A46AC92167068B90DF3F9"><enum>(2)</enum><header>Applicability</header><text>The amendment made by paragraph (1) shall apply only to a judgment entered on or after the date of enactment of this Act.</text></paragraph></subsection> <subsection id="H2FF33C559EDD4906B5E9DAA95F023B54"><enum>(b)</enum><header>Definitions</header><text>Section 3673 of title 18, United States Code, is amended—</text> 
+<paragraph id="H6D3178983794428794AD4A6D426222E8"><enum>(1)</enum><text>in the matter preceding paragraph (1), by striking <quote>As</quote> and inserting the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HC6DD3477F75E4A63926BF83D28505AC4"> <subsection id="H56E9B11BB83C403C97A106F55AF3273E"><enum>(a)</enum><text>As</text></subsection><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="H1DA780573AA649C59CA6FEF231C5E255"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H78682DFDF8BD4AA5A44AA8F81F1EBD90"> <subsection id="H5F247A2AF6204E3AB8FA91AD078C351F"><enum>(b)</enum><text>As used in this chapter, the term <term>acquitted conduct</term> means—</text> 
+<paragraph id="H59A20AA046224906A1C51AE86BF5397D"><enum>(1)</enum><text>an act—</text> <subparagraph id="H5A51BDB3C8E74B51904D867014A5911C"><enum>(A)</enum><text>for which a person was criminally charged and with regard to which—</text> 
+<clause id="H57B4A8E9F2B2427985869E9084106FA3"><enum>(i)</enum><text>that person was adjudicated not guilty after trial in a Federal, State, or Tribal court; or</text></clause> <clause id="H3E38A43573A2436D9227E5820AC397AA"><enum>(ii)</enum><text display-inline="yes-display-inline">any favorable disposition to the person in any prior charge was made, regardless of whether the disposition was pretrial, at trial, or post trial; or</text></clause></subparagraph> 
+<subparagraph id="HDA6008EBF5944324869CFB48E62E56C7"><enum>(B)</enum><text>in the case of a juvenile, that was charged and for which the juvenile was found not responsible after a juvenile adjudication hearing; or</text></subparagraph></paragraph> <paragraph id="H47AE41D688BB4379857220F4EEEEDD4F"><enum>(2)</enum><text>any act underlying a criminal charge or juvenile information dismissed—</text> 
+<subparagraph id="H7EC04B3318FA4904BFD710669D202D6D"><enum>(A)</enum><text>in a Federal court upon a motion for acquittal under rule 29 of the Federal Rules of Criminal Procedure; or</text></subparagraph> <subparagraph id="H879457F0CA864D85ACB7FDA97C7B8770"><enum>(B)</enum><text>in a State or Tribal court upon a motion for acquittal or an analogous motion under the applicable State or Tribal rule of criminal procedure.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> 
+<section id="H1DEEC8ED775F4BB491AC6C4AB5B133E8"><enum>3.</enum><header>Determination of budgetary effects</header><text display-inline="no-display-inline">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</text></section> </legis-body> <attestation><attestation-group><attestation-date date="20220328" chamber="House">Passed the House of Representatives March 28, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

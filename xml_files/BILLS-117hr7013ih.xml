@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H87C382F5445F44FF9FFF4E8F5E2C0DDA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7013 IH: Harriet Tubman Day Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7013</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220309">March 9, 2022</action-date><action-desc><sponsor name-id="B001296">Mr. Brendan F. Boyle of Pennsylvania</sponsor> (for himself, <cosponsor name-id="B001281">Mrs. Beatty</cosponsor>, <cosponsor name-id="C001072">Mr. Carson</cosponsor>, <cosponsor name-id="D000610">Mr. Deutch</cosponsor>, <cosponsor name-id="C001067">Ms. Clarke of New York</cosponsor>, and <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 5, United States Code, to establish Harriet Tubman Day as a Federal holiday, and for other purposes.</official-title></form><legis-body id="H1090EDF38B94450A82B47E5A9A37358A" style="OLC"><section id="H147FD8597D2B47D498A71DCA3F0580DC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Harriet Tubman Day Act</short-title></quote>.</text></section><section id="H38EF4C112221476194E691CC46DD6EC1"><enum>2.</enum><header>Harriet Tubman Day</header><text display-inline="no-display-inline">Section 6103(a) of title 5, United States Code, is amended by inserting after the item relating to Washington’s Birthday the following:</text><quoted-block style="USC" id="HA25A8BE6507D460390DEE80DDCF3DC66" display-inline="no-display-inline"><paragraph id="HD8B829D8E5884F3DA4226ACE6896AAF2"><enum/><text display-inline="yes-display-inline">Harriet Tubman Day.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

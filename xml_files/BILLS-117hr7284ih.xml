@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H36953B86156B4502AC48D161BFF328E4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7284 IH: Informed Savers Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7284</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220330">March 30, 2022</action-date><action-desc><sponsor name-id="W000826">Ms. Wild</sponsor> (for herself and <cosponsor name-id="L000595">Ms. Letlow</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Labor to improve defined contribution plan fee disclosures.</official-title></form><legis-body id="H6481BE50BFB44765BB2FF932B96D183D" style="OLC"><section id="HC21F705D145144FF9B3F6D7189615F1B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Informed Savers Act</short-title></quote>. </text></section><section id="H958F863A3FE64E359138B6E94B96393A"><enum>2.</enum><header>Defined contribution plan fee disclosure improvements</header><text display-inline="no-display-inline">Not later than 2 years after the date of enactment of this Act, the Secretary of Labor shall review section 2550.404a–5 of title 29, Code of Federal Regulations, and explore how the content and design of the covered disclosures may be improved to enhance participants’ understanding of fees and expenses as well as the cumulative effect of fees and expenses on retirement savings over time. As part of such review, the Secretary shall conduct outreach to stakeholders, including those representing plan sponsors and retirement plan participants.</text></section></legis-body></bill> 
+

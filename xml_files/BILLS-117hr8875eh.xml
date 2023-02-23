@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="HE0494CBEADB445E39EC6DDE14C4F5CD0" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8875 EH: Expanding Home Loans for Guard and Reservists Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress>117th CONGRESS</congress> <session>2d Session</session> 
+<legis-num>H. R. 8875</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend title 38, United States Code, to expand eligibility of members of the National Guard for housing loans guaranteed by the Secretary of Veterans Affairs.</official-title> 
+</form> 
+<legis-body id="HEFCE4273B9154F408BABA80462CAF348" style="OLC"> 
+<section id="H914FBBBFA67E4C19A41ECE68D35AE687" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Expanding Home Loans for Guard and Reservists Act</short-title></quote>.</text></section> <section id="H5D3D8F3B4B174964B3177D28894CBC3D" section-type="subsequent-section"><enum>2.</enum><header>Expansion of eligibility of members of the National Guard for housing loans guaranteed by the Secretary of Veterans Affairs</header><text display-inline="no-display-inline">Section 3701(b)(7) of title 38, United States Code, is amended by striking <quote>full-time National Guard duty</quote> and inserting <quote>active service</quote>.</text></section> 
+<section id="HD92FE7A318B84A3690328CB9C900A2B9"><enum>3.</enum><header>Determination of budgetary effects</header><text display-inline="no-display-inline">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</text></section> </legis-body> <attestation><attestation-group><attestation-date date="20220929" chamber="House">Passed the House of Representatives September 29, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

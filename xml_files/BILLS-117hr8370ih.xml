@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H266096BCC63946B8AA953E5671C6458A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8370 IH: To designate the facility of the United States Postal Service located at 415 High Street in Freeport, Pennsylvania, as the “Corporal Joseph Rodney Chapman Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8370</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220713">July 13, 2022</action-date><action-desc><sponsor name-id="T000467">Mr. Thompson of Pennsylvania</sponsor> (for himself, <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>, <cosponsor name-id="B001296">Mr. Brendan F. Boyle of Pennsylvania</cosponsor>, <cosponsor name-id="E000296">Mr. Evans</cosponsor>, <cosponsor name-id="D000631">Ms. Dean</cosponsor>, <cosponsor name-id="S001205">Ms. Scanlon</cosponsor>, <cosponsor name-id="H001085">Ms. Houlahan</cosponsor>, <cosponsor name-id="W000826">Ms. Wild</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="M001204">Mr. Meuser</cosponsor>, <cosponsor name-id="P000605">Mr. Perry</cosponsor>, <cosponsor name-id="S001199">Mr. Smucker</cosponsor>, <cosponsor name-id="K000395">Mr. Keller</cosponsor>, <cosponsor name-id="J000302">Mr. Joyce of Pennsylvania</cosponsor>, <cosponsor name-id="R000610">Mr. Reschenthaler</cosponsor>, <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>, <cosponsor name-id="L000588">Mr. Lamb</cosponsor>, and <cosponsor name-id="D000482">Mr. Michael F. Doyle of Pennsylvania</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 415 High Street in Freeport, Pennsylvania, as the <quote>Corporal Joseph Rodney Chapman Post Office</quote>.</official-title></form><legis-body id="H57396967B866478BAE81AE3EAFB3D744" style="OLC"> 
+<section id="HA794D5FA1C4D4A6784548C66421FEEDB" section-type="section-one"><enum>1.</enum><header>Corporal Joseph Rodney Chapman Post Office</header>
+<subsection id="H78D5329A73E64F1381107F81D19675E0"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 415 High Street in Freeport, Pennsylvania, shall be known and designated as the <quote>Corporal Joseph Rodney Chapman Post Office</quote>.</text></subsection> <subsection id="H145FA57F8E9645508811A4904CD97186"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Corporal Joseph Rodney Chapman Post Office</quote>.</text></subsection></section> 
+</legis-body></bill>
+

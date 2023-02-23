@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC26548F4A1614B7FA074C6078F9207B1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7312 IH: To prohibit the use of Federal funds to support or facilitate the participation of the Russian Federation in the Group of Seven, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7312</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220331">March 31, 2022</action-date><action-desc><sponsor name-id="K000375">Mr. Keating</sponsor> (for himself, <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>, <cosponsor name-id="G000593">Mr. Gimenez</cosponsor>, <cosponsor name-id="M001186">Mr. Meijer</cosponsor>, <cosponsor name-id="K000009">Ms. Kaptur</cosponsor>, <cosponsor name-id="W000826">Ms. Wild</cosponsor>, <cosponsor name-id="G000581">Mr. Vicente Gonzalez of Texas</cosponsor>, and <cosponsor name-id="M000087">Mrs. Carolyn B. Maloney of New York</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of Federal funds to support or facilitate the participation of the Russian Federation in the Group of Seven, and for other purposes.</official-title></form><legis-body id="HC4F8E0F6D11E4692BAA0880393362D15" style="OLC"> 
+<section id="H51F75D556BB146508F4EC41D533693D3" section-type="section-one"><enum>1.</enum><header>Prohibition on Russian participation in the G7</header> 
+<subsection id="HA8CE5B090417415AB0CB999591517CDE"><enum>(a)</enum><header>Statement of policy</header><text>It is the policy of the United States to exclude the Russian Federation from the Group of Seven or reconstitute a Group of Eight that includes the Russian Federation.</text></subsection> <subsection id="H2562661559814A31AB92954FCFF9CF03"><enum>(b)</enum><header>Limitation</header><text>Notwithstanding any other provision of law, no Federal funds are authorized to be appropriated or otherwise made available to take any action to support or facilitate—</text> 
+<paragraph id="H359213F1115242C19B9D9A698198084E"><enum>(1)</enum><text>the participation of the Russian Federation in a Group of Seven proceeding; or</text></paragraph> <paragraph id="HF83E8AD2EC7D41AE9ED141DB035098CD"><enum>(2)</enum><text>the reconstitution of a Group of Eight that includes the Russian Federation.</text></paragraph></subsection></section> 
+</legis-body></bill>
+

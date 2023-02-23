@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="HBC3007E7371B4152ADC9730076595C91" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 5641 ENR: Small Project Efficient and Effective Disaster Recovery Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress>One Hundred Seventeenth Congress of the United States of America</congress> <session>At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num>H. R. 5641</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to increase the threshold for eligibility for assistance under sections 403, 406, 407, and 502 of such Act, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HFC292F9BF5364989902BE38E8676F6FF" style="OLC"> 
+<section id="HAFE26114506A448DAD260B126A9205B4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Project Efficient and Effective Disaster Recovery Act</short-title></quote> or the <quote><short-title>SPEED Recovery Act</short-title></quote>.</text></section> <section id="HB4C020B2F0E94500BC85D9E31EC1AE43"><enum>2.</enum><header>Simplified procedure</header> <subsection id="H5E4461BF932749C5BAD38DF4B1507641"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 422 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5189">42 U.S.C. 5189</external-xref>) is amended—</text> 
+<paragraph id="HAF79DE388F4C4A69B77AB55C8E7C81DA"><enum>(1)</enum><text>in subsection (a) by striking <quote>$35,000</quote> each place it appears and inserting <quote>$1,000,000</quote>; and</text></paragraph> <paragraph id="H8501064A64374DDE9AE7039FE49E8D2F"><enum>(2)</enum><text>in subsection (b)(3)—</text> 
+<subparagraph id="H25CC338AB68946D68A3E88B7F5347CB8"><enum>(A)</enum><text>in the heading by inserting <quote><header-in-text level="subsection" style="OLC">and Report</header-in-text></quote> after <quote><header-in-text level="paragraph" style="OLC">Review</header-in-text></quote>; and</text></subparagraph> <subparagraph id="H3000C360AEAC4826BE9DE3F1C097ACD6"><enum>(B)</enum><text>by inserting <quote>and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding such review, including any recommendations developed pursuant to such review</quote> after <quote>under this section</quote>.</text></subparagraph></paragraph></subsection> 
+<subsection id="H5BEDE9979CE04CFBB2C4DC670D6FFC7D"><enum>(b)</enum><header>Applicability</header><text>The amendments made by subsection (a) shall apply with respect to any amounts appropriated after the date of enactment of this Act. </text></subsection></section> <section id="H3FD5E697B2004B2DBFB0969AA5BC69D1" display-inline="no-display-inline" section-type="subsequent-section"><enum>3.</enum><header>Audit and review</header><text display-inline="no-display-inline">Not later than 3 years after the date of enactment of this Act, the Inspector General of the Department of Homeland Security shall conduct an audit, and submit to Congress a report, on whether there has been waste and abuse as a result of the amendment made under section 2(a)(1). </text></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation> 
+</bill> 
+
+

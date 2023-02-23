@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCF783C0BEDAB4734BCDE1B47764C4547" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9547 IH: To designate the facility of the United States Postal Service located at 120 Doty Street in Kaukauna, Wisconsin, as the “Sgt. Nickolas Mueller Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9547</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221214">December 14, 2022</action-date><action-desc><sponsor name-id="G000579">Mr. Gallagher</sponsor> (for himself, <cosponsor name-id="S001213">Mr. Steil</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, <cosponsor name-id="M001160">Ms. Moore of Wisconsin</cosponsor>, <cosponsor name-id="F000471">Mr. Fitzgerald</cosponsor>, <cosponsor name-id="G000576">Mr. Grothman</cosponsor>, and <cosponsor name-id="T000165">Mr. Tiffany</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 120 Doty Street in Kaukauna, Wisconsin, as the <quote>Sgt. Nickolas Mueller Post Office Building</quote>.</official-title></form><legis-body id="H53902AC3B6E54A70BCACA0472E3F1472" style="OLC"> 
+<section id="HCED2417854ED4DC69539F22D0A1DF44E" section-type="section-one"><enum>1.</enum><header>Sgt. Nickolas Mueller Post Office Building</header> 
+<subsection id="HEE53DFE696E14F708B13E7F913B07DCB"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 120 Doty Street in Kaukauna, Wisconsin, shall be known and designated as the <quote>Sgt. Nickolas Mueller Post Office Building</quote>.</text></subsection> <subsection id="H36F6C75EB44042A88D7F8061E27AD2A1"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Sgt. Nickolas Mueller Post Office Building</quote>.</text></subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB60AB9B98BFA4322AE1B8C27F0CF6F7E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7354 IH: Preventing Terrorist Sympathizers from Appeasing Terrorists Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7354</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220401">April 1, 2022</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> (for himself, <cosponsor name-id="M001199">Mr. Mast</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, and <cosponsor name-id="V000133">Mr. Van Drew</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To limit the revocation and rescission of the designation of the Islamic Revolutionary Guard Corps as a foreign terrorist organization, and for other purposes.</official-title></form><legis-body id="H65D265BBE54A4984A81A194A9FD987E6" style="OLC"><section id="H56B8E521712C47B393B3E84AD70157FF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preventing Terrorist Sympathizers from Appeasing Terrorists Act</short-title></quote>.</text></section><section id="H880F46F86D8442FDB9A27D531300502C"><enum>2.</enum><header>Foreign Terrorist Organization designation</header><text display-inline="no-display-inline">Notwithstanding section 219 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1189">8 U.S.C. 1189</external-xref>), the designation of the Islamic Revolutionary Guard Corps as a foreign terrorist organization under such section, on April 15, 2019, may not be revoked or rescinded, except by a joint resolution of Congress. </text></section></legis-body></bill> 
+

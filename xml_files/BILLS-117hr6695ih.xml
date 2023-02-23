@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3B5A3BE8E76C471F9B2A2DB1AD00A696" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6695 IH: To amend title 38, United States Code, to provide for the equitable restoration of eligibility for provision of Department of Veterans Affairs memorial headstones and markers for eligible spouses and dependent children of veterans whose remains are unavailable.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6695</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220209">February 9, 2022</action-date><action-desc><sponsor name-id="P000599">Mr. Posey</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to provide for the equitable restoration of eligibility for provision of Department of Veterans Affairs memorial headstones and markers for eligible spouses and dependent children of veterans whose remains are unavailable.</official-title></form><legis-body id="HE698F97BA24E4807A4F382A1B50944A7" style="OLC"><section id="HA936716DEAA94320A0AB25D4549001A6" section-type="section-one"><enum>1.</enum><header>Eligibility of veterans’ spouses and dependent children whose remains are unavailable for Department of Veterans Affairs memorial headstones and markers</header><text display-inline="no-display-inline">Section 2306(b)(2) of title 38, United States Code, is amended—</text><paragraph id="HFF1B8C2CE5C843E0BAB38D29A4EAAB47"><enum>(1)</enum><text>in subparagraph (B), by striking <quote>An individual who dies on or after November 11, 1998, who is the</quote> and inserting <quote>The</quote>; and</text></paragraph><paragraph id="H4D942A5166FB426BB60330F839F3D401"><enum>(2)</enum><text>in subparagraph (C), by striking <quote>An individual who dies on or after November 11, 1998, who is an</quote> and inserting <quote>An</quote>.</text></paragraph></section></legis-body></bill> 
+

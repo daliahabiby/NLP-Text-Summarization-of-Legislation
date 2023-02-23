@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H055004306FC8402CBBB13821E68E287C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7169 IH: Poland Over Russia Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7169</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220318">March 18, 2022</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To withhold all assessed and voluntary contributions to the United Nations until such time as the membership of the Russian Federation on the United Nations Security Council is terminated and the Republic of Poland is afforded full rights, privileges, and responsibilities as a Permanent Member of the United Nations Security Council, and for other purposes.</official-title></form><legis-body id="HD8EA0ABC805D4EEDA459D563C2BB929E" style="OLC">
+<section id="H3C81A559CD9E4097996E2EA9D8E94135" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Poland Over Russia Act</short-title></quote>.</text></section> <section id="H80301C148035451298D775D22BF9F34B"><enum>2.</enum><header>Permanent membership of Poland on the United Nations Security Council</header> <subsection id="H0F075AD281004725B0EBFD9F7146344D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, effective on the date of the enactment of this Act, the United States shall withhold all assessed and voluntary contributions to the United Nations until such time as the membership of the Russian Federation on the United Nations Security Council is terminated and the Republic of Poland is afforded full rights, privileges, and responsibilities as a Permanent Member of the United Nations Security Council. </text></subsection> 
+<subsection id="HA23B2E0E70C14BDEB2B2551749819888"><enum>(b)</enum><header>Presidential action</header><text>The President is authorized to take any appropriate action to carry out subsection (a).</text></subsection> <subsection id="H8F571754B4754141BF4DD6E223124762"><enum>(c)</enum><header>Actions at the United Nations</header><text>The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to encourage Member States of the United Nations to take actions identical or similar to the action described in subsection (a).</text></subsection> 
+<subsection id="H19BECE2C959A4DA188E7ED7C0D40BD3F"><enum>(d)</enum><header>No effect on the United States in the United Nations</header><text>United States membership in the United Nations shall not be affected in any way by any action under this section.</text> </subsection></section> </legis-body></bill>
+

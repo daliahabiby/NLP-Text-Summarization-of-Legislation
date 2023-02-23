@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE62FABFA7E3B493FA8746795F93B213A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8733 IH: To require the Secretary of the Army to include communities affected by major disasters in the definition of an economically disadvantaged community, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8733</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220819">August 19, 2022</action-date><action-desc><sponsor name-id="H001077">Mr. Higgins of Louisiana</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Secretary of the Army to include communities affected by major disasters in the definition of an economically disadvantaged community, and for other purposes.</official-title></form><legis-body id="H2711969612754D43BC3BC0F67010BC76" style="OLC"> 
+<section id="H27191FBE20A3442DBE3531EE6BC983AB" section-type="section-one"><enum>1.</enum><header>Definition of economically disadvantaged community</header> 
+<subsection id="H20522DE95022489D96D35932A0B4A41D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In carrying out section 160 of the Water Resources Development Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/33/2201">33 U.S.C. 2201</external-xref> note), the Secretary of the Army shall include in the definition of <quote>economically disadvantaged community</quote> any area that is designated as eligible to receive assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5121">42 U.S.C. 5121 et seq.</external-xref>) as a result of a major disaster declaration under section 401 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5170">42 U.S.C. 5170</external-xref>).</text></subsection> <subsection id="H35BA07F1E93548AD8CE8C96C7F0B2550"><enum>(b)</enum><header>Applicability</header><text>An area described in subsection (a) may only be included in the definition of <quote>economically disadvantaged community</quote> during the 5-year period beginning on the date on which a major disaster with respect to such area is declared.</text></subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H80F88A9CE2CD4A00AA712F2E08168CB3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7408 IH: SEC Economic Analysis Modernization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7408</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220405">April 5, 2022</action-date><action-desc><sponsor name-id="S001213">Mr. Steil</sponsor> (for himself and <cosponsor name-id="H001058">Mr. Huizenga</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Securities and Exchange Commission to update the Commissions’ guidance on economic analysis in rulemakings, and for other purposes.</official-title></form><legis-body id="HA95CF2335E6748BE8E474E07F965674C" style="OLC"><section id="H78C6E2DD92A7440690838053CA0A5C65" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>SEC Economic Analysis Modernization Act</short-title></quote>.</text></section><section id="H317C0BFC13C745DCBF7C61AB2463013F"><enum>2.</enum><header>Guidance on economic analysis for SEC rulemakings</header><subsection id="HEFBCA7EDD5A049CF832C9FFE1F121FB2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of this Act, and every 5 years thereafter, the Securities and Exchange Commission shall update the Commission’s guidance on economic analysis in rulemakings.</text></subsection><subsection id="H4FBC82A71A4F4295BAE893DC3C816961"><enum>(b)</enum><header>Availability of update</header><text>Upon the completion of each update required under subsection (a), the Commission shall make such update available to the public, including on the website of the Commission, along with a summary and justification of any changes made by the update.</text></subsection></section></legis-body></bill> 
+

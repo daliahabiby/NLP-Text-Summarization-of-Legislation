@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC7192380E02D442A9ED8D25422041CD7" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9173 IH: Colorado River Basin Conservation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9173</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221011">October 11, 2022</action-date><action-desc><sponsor name-id="S001218">Ms. Stansbury</sponsor> (for herself, <cosponsor name-id="L000589">Mrs. Lesko</cosponsor>, <cosponsor name-id="L000590">Mrs. Lee of Nevada</cosponsor>, <cosponsor name-id="T000468">Ms. Titus</cosponsor>, <cosponsor name-id="N000191">Mr. Neguse</cosponsor>, <cosponsor name-id="C001121">Mr. Crow</cosponsor>, and <cosponsor name-id="D000197">Ms. DeGette</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Energy and Water Development and Related Agencies Appropriations Act, 2015, to extend certain deadlines applicable to pilot projects to increase Colorado River System water to address effects of historic drought conditions, and for other purposes.</official-title></form><legis-body id="H16184CE1952F46C08C55853515A76D7D" style="OLC"> 
+<section id="H49DA793E925F434E91B60ED6E7D85EA8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Colorado River Basin Conservation Act</short-title></quote>.</text></section> <section id="H41CE0DD27B5344ED8849D2033483B9BC"><enum>2.</enum><header>Extension of certain deadlines relating to pilot projects to increase Colorado River System water to address effects of historic drought conditions</header><text display-inline="no-display-inline">Section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (<external-xref legal-doc="usc" parsable-cite="usc/43/620">43 U.S.C. 620</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/113/235">Public Law 113–235</external-xref>), is amended—</text> 
+<paragraph id="H844D3BCE97134DDCAE1C00A4879B5743"><enum>(1)</enum><text>in subsection (b)(2)—</text> <subparagraph id="H9B7C4EBAF36C427083F9AFFF8F460213"><enum>(A)</enum><text>by striking <quote>additional</quote>; and</text></subparagraph> 
+<subparagraph id="HC21371EA786348ED84A31910A8C82BF7"><enum>(B)</enum><text>by striking <quote>this Act</quote> and inserting <quote>the <short-title>Colorado River Basin Conservation Act</short-title></quote>;</text></subparagraph></paragraph> <paragraph id="H8AE41CBE41964E488A7E88077CB81770"><enum>(2)</enum><text>in subsection (c)(2), by striking <quote>2022</quote> and inserting <quote>2026</quote>; and</text></paragraph> 
+<paragraph id="H085976AFAEAD40F1ACA77F0044012A92"><enum>(3)</enum><text>in subsection (d), by striking <quote>2018</quote> and inserting <quote>2027</quote>.</text></paragraph></section> </legis-body></bill>
+

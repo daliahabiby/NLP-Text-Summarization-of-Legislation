@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H26466514444E4830B5E2BD25F2E4E709" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 2220 ENR: To amend title 40, United States Code, to modify the treatment of certain bargain-price options to purchase at less than fair market value, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 2220</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend title 40, United States Code, to modify the treatment of certain bargain-price options to purchase at less than fair market value, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H5FD0F1FA328244BC83926BE40AB90BBF" style="OLC"> 
+<section id="H99F2A2255D224F5D9E8CA4B82D3B39B2" section-type="section-one"><enum>1.</enum><header>Limitation on discounted purchase options</header><text display-inline="no-display-inline">Section 585 of title 40, United States Code, is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H490D00F028724299B97C8067F966CB04" style="USC"> <subsection id="HAE1DF5670330485CBD38DDF5E9359A2D"><enum>(d)</enum><text display-inline="yes-display-inline">Any bargain-price option to purchase at less than fair market value contained in any lease agreement entered into on or after January 1, 2021, pursuant to this section may be exercised only to the extent specifically provided for in subsequent appropriation Acts or other Acts of Congress.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

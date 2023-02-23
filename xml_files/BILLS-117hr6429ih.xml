@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H777577C90CEB4BE186F95D070817F038" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6429 IH: To establish certain protections for members of the Armed Forces who refuse to receive vaccinations against COVID-19, and to increase basic pay for members of the uniformed services.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6429</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220119">January 19, 2022</action-date>
+<action-desc><sponsor name-id="M001211">Mrs. Miller of Illinois</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To establish certain protections for members of the Armed Forces who refuse to receive vaccinations against COVID-19, and to increase basic pay for members of the uniformed services.</official-title>
+</form>
+<legis-body id="HE3C5D04D822C41F5AF75000D9E668505" style="OLC">
+<section id="H68971CB7C0FB49B594127CD4516491A7" section-type="section-one"><enum>1.</enum><header>Protections for members of the Armed Forces who refuse to receive vaccinations against COVID-19</header>
+<subsection id="HE3A954DBA784480EA527F2564AF7A88C"><enum>(a)</enum><header>Prohibitions</header>
+<paragraph id="HBE1307F388A94BDBA5EEB92A03997F52"><enum>(1)</enum><header>Federal funding</header><text>No Federal funds may be used to require a member of the Armed Forces to receive a vaccination against COVID-19.</text></paragraph> <paragraph id="HB8239793EF804C7697DB5B9D896AC0FB"><enum>(2)</enum><header>Adverse action</header><text display-inline="yes-display-inline">The Secretary concerned may not take any adverse action against a member of the Armed Forces solely on the basis that such member refuses to receive a vaccination against COVID-19.</text></paragraph></subsection>
+<subsection id="H42E2156DF306426B8A04A6168A202A41"><enum>(b)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H7285806EDED343FE9C9C21070D1D8887"><enum>(1)</enum><text>The term <quote>adverse action</quote> includes the following:</text>
+<subparagraph id="H9FDF5B41F5D0465EB9426090CDB20F6A"><enum>(A)</enum><text display-inline="yes-display-inline">Retaliation.</text></subparagraph> <subparagraph id="H2CDC405ED72B4318B2F70D0DF70EC325"><enum>(B)</enum><text>Punishment.</text></subparagraph>
+<subparagraph id="HD058FD6807F544239A51640F3FCA7B54"><enum>(C)</enum><text>Disparate treatment.</text></subparagraph> <subparagraph id="H3BB64EEF492C46028C9E41E8940D2070"><enum>(D)</enum><text>A requirement to wear a mask.</text></subparagraph>
+<subparagraph id="H254B0F5FF08244B6AAD13F5557A4CB3A"><enum>(E)</enum><text display-inline="yes-display-inline">A requirement to reside in substandard housing.</text></subparagraph></paragraph> <paragraph id="H772CED5F3E304A28859E092346449612"><enum>(2)</enum><text>The term <quote>Secretary concerned</quote> has the meaning given that term in section 101 of title 10, United States Code.</text></paragraph></subsection></section>
+<section id="H0B0DCDB9D9D5419A9BA960FD610E9DB6"><enum>2.</enum><header>Increase in basic pay for members of the uniformed services</header><text display-inline="no-display-inline">Effective on January 1, 2023, the rates of monthly basic pay for members of the uniformed services are increased by 2.7 percent.</text></section> </legis-body> </bill> 
+

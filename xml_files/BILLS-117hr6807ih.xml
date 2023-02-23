@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H26D06CD2DF744D6CBB1E881DB602441C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6807 IH: National Public Health Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6807</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220222">February 22, 2022</action-date>
+<action-desc><sponsor name-id="D000623">Mr. DeSaulnier</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Health and Human Services, for the purpose of addressing public health crises, to require the manufacturers of covered products to develop, maintain, and update a plan to mitigate the effects of such products on public health, and for other purposes.</official-title>
+</form>
+<legis-body id="H5D5E37E2342C45F48B2339B1B34CB540" style="OLC"> 
+<section id="H04E4096D30A345C3912F3B60E7EEE558" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>National Public Health Act</short-title></quote>.</text></section> <section id="H254827560BA64F539F55581C8CD9C96E"><enum>2.</enum><header>Addressing public health crises by requiring plans to mitigate the effects of covered products on public health</header> <subsection id="HC8BB48FBBECA4DAEB63F142B77B363FB"><enum>(a)</enum><header>Requirement</header><text display-inline="yes-display-inline">For the purpose of addressing public health crises listed pursuant to subsection (b), the Secretary shall require the manufacturer of a covered product—</text> 
+<paragraph id="H5B6F5E96EA944EA1A8C2373519F428AC"><enum>(1)</enum><text>not later than 180 days after such product is listed pursuant to subsection (c), to develop and begin implementation of a plan to mitigate the effects of such product on public health; and</text></paragraph> <paragraph id="H734AB4D5305F45F19F08FD0D8594A53B"><enum>(2)</enum><text>so long as the listing remains in effect, to maintain and update such plan.</text></paragraph></subsection> 
+<subsection id="H47474832DA174057B466EF35BB6FFA11"><enum>(b)</enum><header>List of public health crises</header><text>Subject to the availability of appropriations, the Secretary shall seek to enter into a contract, not later than 180 days after the date of enactment of this Act, with the National Academy of Medicine (or, if the National Academy declines, another appropriate entity)—</text> <paragraph id="H6068AABC721A493B982B3515190BCCC7"><enum>(1)</enum><text>to develop and publish a list of public health crises; and</text></paragraph> 
+<paragraph id="H7221DF1426384D44942AEC01D2EC7373"><enum>(2)</enum><text>to update such list continuously.</text></paragraph></subsection> <subsection id="HD9B2E0F8054248CA9A195700C3A0326B"><enum>(c)</enum><header>List of covered products</header><text>The Secretary shall develop, publish, and update a list of products (in this Act referred to as <term>covered products</term>) that—</text> 
+<paragraph id="HD111188F7BE3411E8114C39CE76B05DE"><enum>(1)</enum><text>are manufactured for human use or consumption; and</text></paragraph> <paragraph id="H9025977926844E89A5B72C07C0056401"><enum>(2)</enum><text>are determined by the Secretary to have a fiscal impact on the United States public health system, taken collectively with other similar products, of $50,000,000 or more per year.</text></paragraph></subsection> 
+<subsection id="HC9566C62D76640599A3DA0562B706087"><enum>(d)</enum><header>Civil penalty</header> 
+<paragraph id="H929793EE05464F92B50F733B63A8A398"><enum>(1)</enum><header>In general</header><text>A manufacturer shall be liable to the United States for a civil penalty if—</text> <subparagraph id="HAFBFA3E4B21649118E7FCAADC5648479"><enum>(A)</enum><text>the manufacturer violates subsection (a); and</text></subparagraph> 
+<subparagraph id="H73D04B83703C45D39C89E1BBC4289845"><enum>(B)</enum><text>the Secretary determines that such violation has a negative impact on public health.</text></subparagraph></paragraph> <paragraph id="H8457591EEEA64038A392CBD24960762E"><enum>(2)</enum><header>Amount</header><text>The amount of a civil penalty under paragraph (1) shall not exceed $20,000 for each day on which the violation continues.</text></paragraph></subsection> 
+<subsection id="H7E518A3BDD5C497D9E06855C85DF54C2"><enum>(e)</enum><header>Definition</header><text>For purposes of this Act:</text> <paragraph id="H813F56DE746D417A8E847B98874EB9AA"><enum>(1)</enum><text>The term <term>public health crisis</term>—</text> 
+<subparagraph id="H9DDFDFD9694D4C07A1D2D26D8B18DA6F"><enum>(A)</enum><text>shall be defined by the Secretary; and</text></subparagraph> <subparagraph id="HF2F57C0E1FFC43D08873AE3A93D4F82C"><enum>(B)</enum><text>may include an event or occurrence that—</text> 
+<clause id="H6C295CA6F8174BDF9E933FC88D57D611"><enum>(i)</enum><text>is temporary or permanent;</text></clause> <clause id="HAAF230B796064292BDCAE2073A975D25"><enum>(ii)</enum><text>is manmade or naturally occurring; and</text></clause> 
+<clause id="HB837D7E1438A4D28948B26F996DD021D"><enum>(iii)</enum><text>substantially negatively impacts the public health.</text></clause></subparagraph></paragraph> <paragraph id="H6F4377B86E0D44D88BD1EAC0E0B58429"><enum>(2)</enum><text>The term <term>Secretary</term> means the Secretary of Health and Human Services.</text></paragraph></subsection></section> 
+</legis-body>
+</bill> 
+

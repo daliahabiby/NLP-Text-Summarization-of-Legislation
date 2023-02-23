@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H2C610E46DA044F2892C77CD54B371A03" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 5271 EH: To designate the facility of the United States Postal Service located at 2245 Rosa L Parks Boulevard in Nashville, Tennessee, as the “Thelma Harper Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 5271</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To designate the facility of the United States Postal Service located at 2245 Rosa L Parks Boulevard in Nashville, Tennessee, as the <quote>Thelma Harper Post Office Building</quote>.</official-title> 
+</form> 
+<legis-body id="HCA9E1F1527954695BDF5BAEDF4020CBD" style="OLC"> 
+<section id="H9A2714C62E234106991ADAAA92CB74E5" section-type="section-one"><enum>1.</enum><header>Thelma Harper Post Office Building</header> 
+<subsection id="H315E73D8674642A6B1392D32F65637B2"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 2245 Rosa L Parks Boulevard in Nashville, Tennessee, shall be known and designated as the <quote>Thelma Harper Post Office Building</quote>.</text></subsection> <subsection id="HC28E77AF0447457A9F06EA0FD4E875F4"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Thelma Harper Post Office Building</quote>.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20220712" chamber="House">Passed the House of Representatives July 12, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

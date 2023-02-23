@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCAB6242860934181830AD2763F1E09CA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6361 IH: District of Columbia National Guard Commanding General Residency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6361</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220106">January 6, 2022</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill</action-desc></action><action display="yes"><action-date date="20220110">January 10, 2022</action-date><action-desc> Referred to the Committee on Oversight and Reform</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the commanding general of the District of Columbia National Guard to reside in the District of Columbia.</official-title></form><legis-body id="HEEC3AB2BEA794361BEC2602E63852181" style="OLC"><section id="HC9400794AA814B369F049FB80D91998C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>District of Columbia National Guard Commanding General Residency Act</short-title></quote>.</text></section><section id="H582E7382539B46C3843DE4B56EFF50E1" section-type="subsequent-section"><enum>2.</enum><header>Requirement that the Commanding General of the District of Columbia National Guard reside in the District of Columbia</header><subsection id="H6F1AA44758A24C3A95AAFC0CDF8F771A"><enum>(a)</enum><header>Requirement</header><text>Section 7 of the Act entitled <quote>An Act to provide for the organization of the militia of the District of Columbia, and for other purposes</quote>, approved March 1, 1889 (sec. 49–301, D.C. Official Code), is amended by adding at the end the following new subsection: </text><quoted-block style="traditional" id="HD9F33A9E7FA64FC28B82C9C52A4BF1BD" display-inline="no-display-inline"><subsection id="H543C9B7AC655430F8E897FC271D77577"><enum>(d)</enum><text>The Commanding General of the District of Columbia National Guard shall reside in the District of Columbia.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="H566F4E77C90C4993897214711652045E"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect on the day that is one year after the date of the enactment of this Act.</text></subsection></section></legis-body></bill> 
+

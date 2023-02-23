@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB91C951AEC8C4C42B3068989AAED31F3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8853 IH: Protecting American Savers and Retirees Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8853</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220915">September 15, 2022</action-date><action-desc><sponsor name-id="K000392">Mr. Kustoff</sponsor> (for himself, <cosponsor name-id="L000585">Mr. LaHood</cosponsor>, and <cosponsor name-id="S001183">Mr. Schweikert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Inflation Reduction Act of 2022 to prevent the excise tax on repurchase of corporate stock from taking effect.</official-title></form><legis-body id="H861BF4D9E17247E49718B1DCDBFD963D" style="OLC"><section id="H08D43039D7C14A33A189DF034E1C7370" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting American Savers and Retirees Act</short-title></quote>. </text></section><section id="H7608ABB4ECDD405E9FA03CE553B8ECD3"><enum>2.</enum><header>Repeal of excise tax on repurchase of corporate stock</header><subsection id="H572F89C5CA5640FD87959C191D75C06F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Inflation Reduction Act of 2022 (<external-xref legal-doc="public-law" parsable-cite="pl/117/169">Public Law 117–169</external-xref>) is amended by striking section 10201. </text></subsection><subsection id="HEAC385DC25E4440AA59B2FFF06368AA4"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall take effect as if included in the Inflation Reduction Act of 2022. </text></subsection></section></legis-body></bill> 
+

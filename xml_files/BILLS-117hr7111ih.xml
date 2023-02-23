@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE9B28C225E71471D8FF007D977C7B889" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7111 IH: Employee Privacy Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7111</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220317">March 17, 2022</action-date><action-desc><sponsor name-id="W000795">Mr. Wilson of South Carolina</sponsor> (for himself, <cosponsor name-id="A000372">Mr. Allen</cosponsor>, and <cosponsor name-id="W000798">Mr. Walberg</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the National Labor Relations Act to require that lists of employees eligible to vote in organizing elections be provided to the National Labor Relations Board.</official-title></form><legis-body id="HA93A31EF1C6048F7BEFBFCFE541E521F" style="OLC"><section id="HECFC367A8DAB4A678C88606FBEBB2281" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Employee Privacy Protection Act</short-title></quote>.</text></section><section id="HE5EFE4E20C2B4B2DA7DBF60DE872EA77"><enum>2.</enum><header>Lists of employees eligible to vote in elections</header><text display-inline="no-display-inline">Section 9(c)(1) of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/159">29 U.S.C. 159(c)(1)</external-xref>) is amended by adding at the end the following: <quote>Not earlier than 7 days after a final determination by the Board of the appropriate bargaining unit, the Board shall acquire from the employer a list of all employees eligible to vote in the election to be made available to all parties, which shall include the names of the employees, and not more than one additional form of personal contact information for the employee, (such as a telephone number, an email address, or a mailing address) chosen by the employee in writing.</quote>.</text></section></legis-body></bill> 
+

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H2EA98FDF8021453993FEF29A1AD49234" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 4250 ENR: War Crimes Rewards Expansion Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 4250</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend the State Department Basic Authorities Act of 1956 to provide for rewards for the arrest or conviction of certain foreign nationals who have committed genocide or war crimes, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HE835C9F781BA4C3098EBADC65734DCEE" style="OLC"> 
+<section id="H3F8FE0E168294927A6F172EB5973F5DE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>War Crimes Rewards Expansion Act</short-title></quote>.</text></section> <section id="H49C7536675E54707A3F1B2C7A5E1EAB0"><enum>2.</enum><header>Department of State rewards program</header><text display-inline="no-display-inline">Paragraph (10) of section 36(b) of the State Department Basic Authorities Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/22/2708">22 U.S.C. 2708(b)</external-xref>) is amended by striking <quote>defined under the statute of such tribunal;</quote> and inserting the following:</text> 
+<quoted-block display-inline="yes-display-inline" id="H11716928A3344419A9263B85A36A65FA" style="OLC"><text>defined under—</text> <subparagraph id="H138E912E22F747309E150B352521B6A0"><enum>(A)</enum><text display-inline="yes-display-inline">the statute of such country or tribunal, as the case may be; or</text></subparagraph> 
+<subparagraph id="HFC5FCBC927BE47E792B4743858459793"><enum>(B)</enum><text>United States law;</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation> </bill> 
+

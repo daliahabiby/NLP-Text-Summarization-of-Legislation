@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3C7E5CA4596B4CE5A380277B7474B7A6" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8020 IH: To amend the Internal Revenue Code of 1986 to allow a deduction for investment advisory expenses of certain funeral and cemetery trusts during suspension of miscellaneous itemized deductions, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8020</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220609">June 9, 2022</action-date>
+<action-desc><sponsor name-id="S001156">Ms. Sánchez</sponsor> (for herself and <cosponsor name-id="F000465">Mr. Ferguson</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to allow a deduction for investment advisory expenses of certain funeral and cemetery trusts during suspension of miscellaneous itemized deductions, and for other purposes.</official-title>
+</form>
+<legis-body id="H6620DC763C094D7581E30CEB291E711A" style="OLC"> 
+<section id="HCE677908A2C5461B880DA4E92640BF34" section-type="section-one"><enum>1.</enum><header>Deduction for investment advisory expenses of certain funeral and cemetery trusts allowed during suspension of miscellaneous itemized deductions</header> 
+<subsection id="H7E4A1B275B5C44BAA9DA4A729AB78E51"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/67">Section 67(g)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <paragraph id="HE4F7E4CA50AA4C388157071A012BB0AF"><enum>(1)</enum><text>by striking <quote>Notwithstanding</quote> and inserting the following: </text> 
+<quoted-block style="OLC" id="H2AAED3D7933E4FB4BFBF0818A76ECDEC" display-inline="no-display-inline"> 
+<paragraph id="H8EA212B15D8442C08E02EC7ECFE9E20D"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding</text></paragraph><after-quoted-block>, and</after-quoted-block></quoted-block></paragraph> <paragraph id="HB2446CA433A74AE3A77AF13B2BA4E112"><enum>(2)</enum><text>by adding at the end the following new paragraph:</text> 
+<quoted-block style="OLC" id="H381F298ABA1743EAB727E395F6DBB8D2" display-inline="no-display-inline"> 
+<paragraph id="H161104AEAD7A426C98D381ACF53143B3"><enum>(2)</enum><header>Deduction for investment advisory expenses of certain funeral and cemetery trusts allowed during suspension</header><text display-inline="yes-display-inline">In the case of any qualified funeral trust (as defined in section 685(b)) or cemetery perpetual care fund (described in section 642(i) and meeting the requirements of paragraphs (1) and (2) thereof), subsection (a) and paragraph (1) of this subsection shall not apply to any deduction allowed for investment advisory expenses for a taxable year beginning after December 31, 2021, and before January 1, 2028.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H69E16D4986124B54B75A5BBBE2F06A4A"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2021.</text></subsection></section> 
+<section id="H311B33FF515E4F2BAB950237E063CA8B"><enum>2.</enum><header>Special rule for distributions by cemetery perpetual funds indexed to inflation</header> 
+<subsection id="H58864E944C60424C9459780732C6F3F8"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/642">Section 642(i)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows: </text> <quoted-block style="OLC" id="H8CF04AC1BC45412D9BDE6C69D454C4B2" display-inline="no-display-inline"> <subsection id="HD4277208C2314C18816924E32F434DEA"><enum>(i)</enum><header>Certain distributions by cemetery perpetual care funds</header> <paragraph id="HB20E61E55A6B4525B5E232E7F19E670F"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a cemetery perpetual care fund which—</text> 
+<subparagraph id="H757F13762AA44BF5B74035DEB28E55E5"><enum>(A)</enum><text>was created pursuant to local law by a taxable cemetery corporation for the care and maintenance of cemetery property, and </text></subparagraph> <subparagraph id="HAC917E1AAA3C4776809C545039F85749"><enum>(B)</enum><text>is treated for the taxable year as a trust for purposes of this subchapter, any amount distributed by such fund for the care and maintenance of gravesites which have been purchased from the cemetery corporation before the beginning of the taxable year of the trust and with respect to which there is an obligation to furnish care and maintenance shall be considered to be a distribution solely for purposes of sections 651 and 661, but only to the extent that the aggregate amount so distributed during the taxable year does not exceed $25 multiplied by the aggregate number of such gravesites.</text></subparagraph></paragraph> 
+<paragraph id="H746291D81244404896CDA5F693F5D82F"><enum>(2)</enum><header>Inflation adjustment</header><text display-inline="yes-display-inline">In the case of any taxable year to which this subsection applies and which begins after 2022, the $25 amount in paragraph (1)(A) shall be increased by an amount equal to—</text> <subparagraph id="HACC97A005A3248448DE3D0109EF16BE1"><enum>(A)</enum><text>such dollar amount, multiplied by</text></subparagraph> 
+<subparagraph id="HB38E400BB3DB4719A505483FF040E410"><enum>(B)</enum><text>the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting <quote>calendar year 2021</quote> for <quote>calendar year 2016</quote> in subparagraph (A)(ii) thereof. </text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H06B48D3AD88D4431B788D1F875B7B296"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall apply to taxable years beginning after December 31, 2021. </text></subsection></section> 
+</legis-body>
+</bill> 
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5C3549A3E2664B27977F1034A6F4719C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8894 IH: To amend title 10, United States Code, to require the national security strategy for national technology and industrial base to provide for the research and development of sustainable and secure food sources.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8894</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220919">September 19, 2022</action-date><action-desc><sponsor name-id="S001208">Ms. Slotkin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 10, United States Code, to require the national security strategy for national technology and industrial base to provide for the research and development of sustainable and secure food sources.</official-title></form><legis-body id="H020BB8B11E9C438787B4CE3CF48E54DE" style="OLC"> 
+<section id="H38FC768E384F468BB13A9A9BFCFB5BD4" section-type="section-one"><enum>1.</enum><header>Modification of national security strategy for national technology and industrial base</header><text display-inline="no-display-inline">Section 4811(a) of title 10, United States Code, is amended by adding at the end the following new paragraph:</text> <quoted-block style="USC" id="H8D035CAAFBFC48AC8ECE9D03F03BE82C" display-inline="no-display-inline"> <paragraph id="HFFC9F410BE65495885299CEF38687856"><enum>(12)</enum><text display-inline="yes-display-inline">Providing for the research and development of sustainable and secure food sources, including food innovation and alternative protein development, in consultation with the Secretary of Agriculture.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

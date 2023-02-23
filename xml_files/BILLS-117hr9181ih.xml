@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7B073E2FF3A1473E98A72F5A70F38453" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9181 IH: To provide for a temporary 1-year halt to all proposed direct commercial sales and foreign military sales to the Kingdom of Saudi Arabia of weaponry and munitions.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9181</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221014">October 14, 2022</action-date><action-desc><sponsor name-id="K000389">Mr. Khanna</sponsor> (for himself, <cosponsor name-id="W000800">Mr. Welch</cosponsor>, and <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide for a temporary 1-year halt to all proposed direct commercial sales and foreign military sales to the Kingdom of Saudi Arabia of weaponry and munitions.</official-title></form><legis-body id="HEFB84048373641F9B67C44CDA7D7D25E" style="OLC"> 
+<section id="H235C119F679F4E6096A6B9CC22B423D6" section-type="section-one"><enum>1.</enum><header>Temporary halt to all Saudi arms sales</header><text display-inline="no-display-inline">For a period of one year following the date of the enactment of this Act, no license may be issued for the export with respect to any of the following transfers to the Kingdom of Saudi Arabia: the transfer of any defense articles proposed or submitted to Congress pursuant to section 36(c) of the Arms Export Control Act (<external-xref legal-doc="usc" parsable-cite="usc/22/2776">22 U.S.C. 2776(c)</external-xref>), to include direct munitions containers; weapon support and support equipment; spare and repair parts; United States Government and contractor engineering, technical and logistical support services; and other related elements of logistical and program support.</text></section> </legis-body></bill>
+

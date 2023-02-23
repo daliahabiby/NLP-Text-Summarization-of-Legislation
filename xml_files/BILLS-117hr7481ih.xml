@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6A16421CD5D4446882F13C3043E18CCA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7481 IH: To prohibit the obligation or expenditure of funds relating to the Office for Environmental Justice and any other program, project, or activity relating to climate change of the Department of Justice, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7481</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220407">April 7, 2022</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committees on <committee-name committee-id="HJU00">the Judiciary</committee-name>, and <committee-name committee-id="HII00">Natural Resources</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the obligation or expenditure of funds relating to the Office for Environmental Justice and any other program, project, or activity relating to climate change of the Department of Justice, and for other purposes.</official-title></form><legis-body id="H6DD65EDB20714EE183FD02E420017CCD" style="OLC"> 
+<section id="H66CA2BA2582B476A92745177DFAAE134" section-type="section-one"><enum>1.</enum><header>Prohibition relating to Office for Environmental Justice and any other program, project, or activity relating to climate change of the Department of Justice</header><text display-inline="no-display-inline">The Attorney General may not obligate or expend any funds—</text> <paragraph id="H164D223E36074D8F9DC0C57860E3127D"><enum>(1)</enum><text display-inline="yes-display-inline">to operate the Office for Environmental Justice of the Department of Justice;</text></paragraph> 
+<paragraph id="H0283EAC3F2A14CE98D1B16CBBA055961"><enum>(2)</enum><text>to establish or maintain a program to train individuals relating to climate change; or</text></paragraph> <paragraph id="H64E30FEF11C34D3F9FDF6B3BFBB8FC46"><enum>(3)</enum><text>for any program, project, or activity relating to climate change.</text></paragraph></section> 
+</legis-body></bill>
+

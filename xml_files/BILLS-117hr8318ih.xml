@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB5B1B6A28549415C8ECA570A652676C4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8318 IH: _______ Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8318</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220707">July 7, 2022</action-date><action-desc><sponsor name-id="T000460">Mr. Thompson of California</sponsor> (for himself and <cosponsor name-id="J000298">Ms. Jayapal</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To restrict limitations on the possession, sale, purchase, transportation or use of any contraceptive that relates to interstate commerce.</official-title></form><legis-body id="H4A80B931762642A486D2C3A1C31A25F1" style="OLC"> 
+<section id="H3033AC50EC70452383E1220C715E3093" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>_______ Act of 2022</short-title></quote>.</text></section> <section id="H3CAE86D11D044578B1BAEC9C31C2499B"><enum>2.</enum><header>Prohibition on limitation</header><text display-inline="no-display-inline">No person, acting under color of law, who is a State or local official, may prohibit or take any action to restrict the possession, sale, purchase, transportation or use of any contraceptive that relates to interstate commerce.</text></section>
+<section id="H0F6F9D010A4D4C3CA2B62B6B41B6D0C3"><enum>3.</enum><header>Enforcement</header>
+<subsection id="H4153F61E09E3411EB09F01191A723A61"><enum>(a)</enum><header>Private right of action</header><text display-inline="yes-display-inline">Any person injured by a violation of this section may bring a civil action against that person before any appropriate Federal district court for injunctive or declaratory relief.</text></subsection> <subsection id="HBECA3FB68DE346EDAF1C16BFCFDE7B6D"><enum>(b)</enum><header>Department of Justice</header><text display-inline="yes-display-inline">The Attorney General may bring a civil action to remedy any violation of this section for injunctive or declaratory relief before any appropriate Federal district court.</text></subsection></section>
+<section id="H06624E5C7DCB4A60B993660DCF076FC9"><enum>4.</enum><header>Definition</header><text display-inline="no-display-inline">The term <term>contraceptive</term> means any device or drug the primary purpose of which is to prevent pregnancy, including—</text> <paragraph id="HEEE50E143A4943CBA004328FA5F4BCCF"><enum>(1)</enum><text display-inline="yes-display-inline">prophylactics or condoms; </text></paragraph>
+<paragraph id="HC21CBD42BBFD4FAD85FA70E0F6848A3C"><enum>(2)</enum><text>intrauterine devices; </text></paragraph> <paragraph id="H991D086D5CF74F6D8B22391C1D50426E"><enum>(3)</enum><text display-inline="yes-display-inline">any pill, drug or prescription medication whose primary use is to prevent pregnancy; </text></paragraph>
+<paragraph id="HD9541F500FDF43D19F80985A3EE71CC0"><enum>(4)</enum><text>any FDA-approved medication, device or other product whose primary purpose is to prevent pregnancy; and</text></paragraph> <paragraph id="H398BB0B52A774AE18D2426BEE7675B9D"><enum>(5)</enum><text display-inline="yes-display-inline">any FDA-approved drug, pill, or medication, the primary purpose of which is to prevent pregnancy if administered or ingested within five days following sexual intercourse.</text></paragraph></section> 
+</legis-body></bill>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H0DCC532310684D759EE7BBA988DCA455" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 7735 ENR: Improving Access to the VA Home Loan Benefit Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 7735</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To direct the Secretary of Veterans Affairs to update the appraisal requirements for certain loans guaranteed by the Department of Veterans Affairs, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H4F91896A7BBF410EAD11ECF61DB0B733" style="OLC"> 
+<section id="H05A3FB657DD242CE93F4450372F1D16A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Access to the VA Home Loan Benefit Act of 2022</short-title></quote>.</text></section> <section id="H63B5A90DCF0C42FB96F4AE735461E25B"><enum>2.</enum><header>Recommendations for improving appraisal delivery times</header><text display-inline="no-display-inline">Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives recommendations for improving the delivery times for appraisals for loans guaranteed by the Department of Veterans Affairs.</text></section> 
+<section id="H07561AC9364B47F19F35BE6846A7C103"><enum>3.</enum><header>Update of appraisal requirements for certain loans guaranteed by the Department of Veterans Affairs</header> 
+<subsection id="H7929B2E051A64327BC5E9BB9170BFF46"><enum>(a)</enum><header>Updated regulations required</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe updated regulations or program requirements to clarify when an appraisal is required, how an appraisal is to be conducted, and who is eligible to conduct an appraisal for a loan guaranteed by the Department of Veterans Affairs under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/37">chapter 37</external-xref> of title 38, United States Code, for any purpose described in section 3710(a) of such title. In prescribing updated regulations or program requirements under this section, the Secretary shall take into consideration the recommendations of the Secretary submitted under section 2.</text></subsection> <subsection id="H82A7B79E00A843729FD49787A7AD83AE"><enum>(b)</enum><header>Waiver of requirement for certain properties</header><text>In prescribing updated regulations or program requirements under subsection (a), the Secretary shall consider making changes applicable to—</text> 
+<paragraph id="H20E73F3D01BC4B6887C46E896DDAC5BA" display-inline="no-display-inline"><enum>(1)</enum><text>certification requirements for appraisers;</text></paragraph> <paragraph id="H020CD24995064F00A21B6415A68634F2"><enum>(2)</enum><text>minimum property requirements;</text></paragraph> 
+<paragraph id="HE15CB7E2B6D942ECA4C40577722246D8"><enum>(3)</enum><text>the process for selecting and reviewing comparable sales;</text></paragraph> <paragraph id="H216EF642ACDB4CA08EDDD99AC22790D6"><enum>(4)</enum><text>quality control processes;</text></paragraph> 
+<paragraph id="H2DCACD289CB14D6C9504D775269BFDD1"><enum>(5)</enum><text>the Assisted Appraisal Processing Program; and</text></paragraph> <paragraph id="HDC691E503A27404584F6065F535CA2B5"><enum>(6)</enum><text>the use of waivers or other alternatives to existing appraisal processes.</text></paragraph></subsection> 
+<subsection id="HB2AD021DF6E04CF0A0265007C971692B"><enum>(c)</enum><header>Desk top appraisals</header><text display-inline="yes-display-inline">In prescribing updated regulations or program guidance under subsection (a), the Secretary shall provide guidance for the use of the authority under section 3731(b)(3) of title 38, United States Code, taking into consideration—</text> <paragraph id="HDBBE9D8398DD4005BCDEF28747A73AAE"><enum>(1)</enum><text>situations in which the use of such authority would provide for cost savings for the borrower; and</text></paragraph> 
+<paragraph id="HDC72935945204E18889095D432F1BCA0"><enum>(2)</enum><text>situations in which a traditional appraisal requirement could cause a delay substantial enough to jeopardize the ability of a borrower to complete a transaction.</text></paragraph></subsection></section> <section id="H2416BB59B0C34F3CB95F9727C4DAE8F7" display-inline="no-display-inline" section-type="subsequent-section"><enum>4.</enum><header>Determination of budgetary effects</header><text display-inline="no-display-inline">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</text></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

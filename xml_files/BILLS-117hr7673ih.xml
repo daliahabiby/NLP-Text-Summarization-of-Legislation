@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5821F3A623B245BE81686219DE4677D8" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7673 IH: To amend the Tennessee Valley Authority Act of 1933 to require that the compensation plan for Tennessee Valley Authority employees be based on an annual survey of prevailing compensation for similar private industry positions in the United States and Canada, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7673</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220506">May 6, 2022</action-date><action-desc><sponsor name-id="C001068">Mr. Cohen</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Tennessee Valley Authority Act of 1933 to require that the compensation plan for Tennessee Valley Authority employees be based on an annual survey of prevailing compensation for similar private industry positions in the United States and Canada, and for other purposes.</official-title></form><legis-body id="HBAF6E5C4279148C2AD9248D24A89D4A4" style="OLC"> 
+<section id="H07D47097766B47CDABC49DFDA699DEA0" section-type="section-one"><enum>1.</enum><header>Compensation plan for Tennessee Valley Authority employees</header><text display-inline="no-display-inline">Section 2(i)(2) of the Tennessee Valley Authority Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/16/831a">16 U.S.C. 831a(i)(2)</external-xref>) is amended by inserting <quote>in the United States and Canada</quote> after <quote>in private industry</quote>. </text> </section> </legis-body></bill>
+

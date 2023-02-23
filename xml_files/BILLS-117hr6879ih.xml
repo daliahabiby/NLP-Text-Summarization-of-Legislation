@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC427BF4BA6744AC4A9A6FF5E5380883C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6879 IH: Task Force Pineapple Congressional Gold Medal Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6879</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220301">March 1, 2022</action-date>
+<action-desc><sponsor name-id="C001104">Mr. Cawthorn</sponsor> (for himself, <cosponsor name-id="B001305">Mr. Budd</cosponsor>, <cosponsor name-id="J000292">Mr. Johnson of Ohio</cosponsor>, <cosponsor name-id="M001199">Mr. Mast</cosponsor>, <cosponsor name-id="W000823">Mr. Waltz</cosponsor>, <cosponsor name-id="M001190">Mr. Mullin</cosponsor>, and <cosponsor name-id="D000032">Mr. Donalds</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>, and in addition to the Committee on <committee-name committee-id="HHA00">House Administration</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To award a Congressional Gold Medal in honor of those who led and served during the first Task Force Pineapple mission to, directly and indirectly, help Americans and Afghan special operators and their families.</official-title>
+</form>
+<legis-body id="H3D7CA06D371B4B838E61B0817B93E3BF" style="OLC"> 
+<section id="HB7C2A162181A465583A10C17636D418D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Task Force Pineapple Congressional Gold Medal Act</short-title></quote>.</text></section> <section id="H62FD8EF9443545DDA83E4856CCB8493B"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> 
+<paragraph id="HDA69F67B12FD4E97886620E8B947A0E0"><enum>(1)</enum><text display-inline="yes-display-inline">Task Force Pineapple, a group of veterans, worked unofficially with the United States military and the United States Embassy to safely rescue hundreds of Afghan special operators and American citizens, bringing them into the United States military-controlled part of the Hamid Karzai International Airport as the United States was concluding its withdrawal from Afghanistan.</text></paragraph> <paragraph id="HB8D1CA0EDEE040F992B89DBE5667D298"><enum>(2)</enum><text display-inline="yes-display-inline">These Afghan special operators served alongside the United States military throughout the United States deployment in Afghanistan, interpreting and putting their own lives on the line to ally and assist the United States military. </text></paragraph> 
+<paragraph id="HC76DB042378F4B1DA443E5DC512C44F0"><enum>(3)</enum><text display-inline="yes-display-inline">Working alongside the United States military and the United States Embassy, Task Force Pineapple was able to save an estimate of 500 Afghan special operators and their families on the first mission.</text></paragraph></section> <section id="H602674B2D0CF4E11A1BDCBEBDC503221"><enum>3.</enum><header>Congressional Gold Medal</header> <subsection id="H0A82F3A1064546F18F6668CD1D949483"><enum>(a)</enum><header>Presentation authorized</header><text display-inline="yes-display-inline">The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the presentation, on behalf of the Congress, of a gold medal of appropriate design to Task Force Pineapple in recognition of the achievements of Task Force Pineapple.</text></subsection> 
+<subsection id="H32C111EA801D4837A8642031D822E39E"><enum>(b)</enum><header>Design and striking</header><text>For purposes of the presentation under subsection (a), the Secretary of the Treasury (referred to in this Act as the <quote>Secretary</quote>) shall strike a gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.</text></subsection> <subsection id="H2D4A26EF9250446D8B5B6B3EF4BCD4C0"><enum>(c)</enum><header>Smithsonian Institution</header><text display-inline="yes-display-inline">Following the award of the gold medal under subsection (a), the gold medal shall be given to the Smithsonian Institution, where it shall be available for display as appropriate and made available for research.</text></subsection></section> 
+<section id="HC8E0BD7139C7462284E2BE723604C324"><enum>4.</enum><header>Duplicate medals</header> 
+<subsection id="H952614C77DC6488A95FCFBD1BB1AB5CD"><enum>(a)</enum><header>Striking of duplicates</header><text>Under such regulations as the Secretary may prescribe, the Secretary may strike duplicates in bronze of the gold medal struck under section 3.</text></subsection> <subsection id="H92132188898B4891AD771306EF77E23A"><enum>(b)</enum><header>Selling of duplicates</header><text>The Secretary may sell such duplicates under subsection (a) at a price sufficient to cover the costs of such duplicates, including labor, materials, dies, use of machinery, and overhead expenses.</text></subsection></section> 
+<section id="H57D4E5F8F5654780A41A7F0FF64436C6"><enum>5.</enum><header>Status of medals</header> 
+<subsection id="H9EE851BF879040989DE005B7B07271C8"><enum>(a)</enum><header>National medals</header><text>Medals struck under this Act are national medals for purposes of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/51">chapter 51</external-xref> of title 31, United States Code.</text></subsection> <subsection id="HDACB30BA4D934A708706882AFBF5D903"><enum>(b)</enum><header>Numismatic items</header><text>For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.</text></subsection></section> 
+</legis-body>
+</bill> 
+

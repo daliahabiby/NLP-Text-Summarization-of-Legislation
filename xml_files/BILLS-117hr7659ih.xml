@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4462C85AD2BA461CA834358162F9014A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7659 IH: To prohibit the use of Federal funds to establish a Disinformation Governance Board.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7659</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220503">May 3, 2022</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> (for himself, <cosponsor name-id="J000304">Mr. Jackson</cosponsor>, <cosponsor name-id="B001311">Mr. Bishop of North Carolina</cosponsor>, <cosponsor name-id="P000599">Mr. Posey</cosponsor>, <cosponsor name-id="V000134">Ms. Van Duyne</cosponsor>, <cosponsor name-id="C001120">Mr. Crenshaw</cosponsor>, <cosponsor name-id="M001180">Mr. McKinley</cosponsor>, <cosponsor name-id="B001260">Mr. Buchanan</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="R000610">Mr. Reschenthaler</cosponsor>, <cosponsor name-id="C001104">Mr. Cawthorn</cosponsor>, <cosponsor name-id="W000806">Mr. Webster of Florida</cosponsor>, <cosponsor name-id="H001071">Mr. Hice of Georgia</cosponsor>, <cosponsor name-id="L000576">Mr. Long</cosponsor>, <cosponsor name-id="B000740">Mrs. Bice of Oklahoma</cosponsor>, <cosponsor name-id="M001215">Mrs. Miller-Meeks</cosponsor>, <cosponsor name-id="B000825">Mrs. Boebert</cosponsor>, <cosponsor name-id="G000576">Mr. Grothman</cosponsor>, <cosponsor name-id="H001091">Mrs. Hinson</cosponsor>, and <cosponsor name-id="S001172">Mr. Smith of Nebraska</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of Federal funds to establish a Disinformation Governance Board.</official-title></form><legis-body id="H4B5F86CAEBDC4C0BB7DEB5CC1AC5DA5D" style="OLC"> 
+<section id="H86F12B089B534CFB991BA24E6BE60774" section-type="section-one"><enum>1.</enum><header>Prohibition on establishment of a Disinformation Governance Board</header><text display-inline="no-display-inline">No Federal funds authorized to be appropriated or otherwise made available to the Secretary of Homeland Security may be made available for the establishment of a Disinformation Governance Board.</text> </section> </legis-body></bill>
+

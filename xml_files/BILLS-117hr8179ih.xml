@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H181070767C93411C83404DB0DBFC942D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8179 IH: Securing Facilities for Mental Health Services Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8179</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220622">June 22, 2022</action-date><action-desc><sponsor name-id="E000294">Mr. Emmer</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend section 242 of the National Housing Act to provide parity with respect to access to the mortgage insurance for hospitals program for licensed hospitals, and for other purposes.</official-title></form><legis-body id="HD436E04F92B745F7A6877E7C349394F3" style="OLC"><section id="H10C96EC5239C496E9F7F55082EE12FB8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Securing Facilities for Mental Health Services Act</short-title></quote>.</text></section><section id="H61797CFAF98645AFBC379476EAB51B1A"><enum>2.</enum><header>Mortgage insurance for hospitals parity</header><subsection id="H3771FD3480674455A045CCF22BCD6EDD"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 242(b)(1) of the National Housing Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1715z-7">12 U.S.C. 1715z–7(b)(1)</external-xref>) is amended—</text><paragraph id="H1630EFDCDF4C4BDB8D44996F32C7ACF9"><enum>(1)</enum><text>in subparagraph (A), by striking the semicolon at the end and inserting <quote>; and</quote>; </text></paragraph><paragraph id="HDF07592C7AAD47198B0861325416D3BD"><enum>(2)</enum><text display-inline="yes-display-inline">by striking subparagraph (B); and</text></paragraph><paragraph id="H275B11F4A11949B6B9DFB87B5EA7AE4B"><enum>(3)</enum><text>by redesignating subparagraph (C) as subparagraph (B).</text></paragraph></subsection><subsection id="H74FAB133D87C4499925C5D89E6BF30C1"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply upon the date of the enactment of this Act.</text></subsection></section></legis-body></bill> 
+

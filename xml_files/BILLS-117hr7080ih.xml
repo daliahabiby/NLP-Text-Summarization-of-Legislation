@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0E462CD9DE8544C39420D681A446FBB7" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7080 IH: Nowhere to Hide Oligarchs’ Assets Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7080</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220315">March 15, 2022</action-date><action-desc><sponsor name-id="W000187">Ms. Waters</sponsor> (for herself, <cosponsor name-id="L000562">Mr. Lynch</cosponsor>, and <cosponsor name-id="C001117">Mr. Casten</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend section 5326(a), of title 31, United States Code, to clarify that an order may be issued that covers the entirety of the United States, to amend section 5314 of title 31, United States Code, to allow the Financial Crimes Enforcement Network to obtain necessary information concerning foreign non-financial trades or businesses involved in illicit financial activities, including those of Russian and Belarussian oligarchs, and for other purposes.</official-title></form><legis-body id="H2E817F88883C46399160835FDEE13512" style="OLC"> 
+<section id="HC593059C1BDA40C0B5ADAC6F201AEE8B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Nowhere to Hide Oligarchs’ Assets Act</short-title></quote>.</text></section> <section id="H2D7F1CB89C034D459BEBF2036A0EA9F2"><enum>2.</enum><header>Records of certain domestic transactions</header><text display-inline="no-display-inline">Section 5326(a) of title 31, United States Code, is amended by striking <quote>in a geographic area</quote>. </text></section> 
+<section id="H200EC0ED7D1C491383D2D780A22D4AD9"><enum>3.</enum><header>Records and reports on foreign financial agency transactions and foreign nonfinancial trade or business transactions</header> 
+<subsection id="HCCC9FE2ABFDB4F608DAEDF3B71E83116"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 5314 of title 31, United States Code, is amended—</text> <paragraph id="H083C552EE28A43A4A4D8585642EEAA2D"><enum>(1)</enum><text>in the heading, by striking <quote><header-in-text level="section" style="OLC">foreign financial agency transactions</header-in-text></quote> and inserting <quote><header-in-text level="section" style="OLC">foreign financial agency transactions and foreign nonfinancial trade or business transactions</header-in-text></quote>; and </text></paragraph> 
+<paragraph id="HB366FD893ED14F9091B38DFF732D2A16"><enum>(2)</enum><text>in subsection (a) by striking <quote>foreign financial agency</quote> each place it occurs and inserting <quote>foreign financial agency or foreign nonfinancial trade or business</quote>.</text></paragraph></subsection> <subsection id="HFE5DCAA070F2499CBE7C254C17701381"><enum>(b)</enum><header>Conforming amendment</header><text display-inline="yes-display-inline">The table of sections located in subchapter II of Chapter 53 of Subtitle IV of Title 31 is amended in the item relating to section 5314 by striking <quote>foreign financial agency transactions</quote> and inserting <quote>foreign financial agency transactions and foreign nonfinancial trade or business transactions</quote>. </text></subsection></section> 
+</legis-body></bill>
+

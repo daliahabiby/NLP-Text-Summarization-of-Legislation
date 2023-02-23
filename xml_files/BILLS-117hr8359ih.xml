@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7F915E30C51F45AFB67AD53E746AAA83" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 8359 IH: Detection at Range Technology for Screening of Passengers Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8359</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220713">July 13, 2022</action-date><action-desc><sponsor name-id="G000593">Mr. Gimenez</sponsor> (for himself and <cosponsor name-id="K000386">Mr. Katko</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 49, United States Code, to clarify the use of detection at range technology for the screening of passengers, and for other purposes.</official-title></form><legis-body id="H50C4BF8A22934A048365780D35679FDF" style="OLC"><section id="H77F575F097884A9399DF48964320E420" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Detection at Range Technology for Screening of Passengers Act</short-title></quote>. </text></section><section id="H34383EA6B58B4D47ACA74E9A887DCC2A"><enum>2.</enum><header>Clarification of use of detection at range technology for screening of passengers</header><text display-inline="no-display-inline">Paragraph (2) of section 44901(l) of title 49, United States Code, is amended—</text><paragraph id="H888BF5B66D8F44DCB297CD8283D0D8AD"><enum>(1)</enum><text>in subparagraph (A), by striking <quote>and</quote> after the semicolon and inserting <quote>or</quote>; and</text></paragraph><paragraph id="H6281D5851F9546E08F13A5E6B5DE62EC"><enum>(2)</enum><text>in subparagraph (B)—</text><subparagraph id="H4E05C021E28F4BB7BFBD1B6A54E62FB5"><enum>(A)</enum><text>by inserting <quote>, including section 521 of title V of division F of the Consolidated Appropriations Act, 2018 (<external-xref legal-doc="public-law" parsable-cite="pl/115/141">Public Law 115–141</external-xref>),</quote> after <quote>requirements</quote>; and</text></subparagraph><subparagraph id="HA82C842315194372A70238F1F54BA3AA"><enum>(B)</enum><text>by inserting <quote>civil rights, civil liberties, and</quote> before <quote>privacy</quote>.</text></subparagraph></paragraph></section></legis-body></bill> 
+

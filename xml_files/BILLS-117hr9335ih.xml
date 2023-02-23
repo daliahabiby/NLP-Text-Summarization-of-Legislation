@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2C1C8730F82D4F48B4D48DBFC4D5E4D3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9335 IH: To designate the facility of the United States Postal Service located at 410 Franklin Street in Appleton, Wisconsin, as the “Mitchell F. Lundgaard Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-11-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9335</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221117">November 17, 2022</action-date><action-desc><sponsor name-id="G000579">Mr. Gallagher</sponsor> (for himself, <cosponsor name-id="S001213">Mr. Steil</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, <cosponsor name-id="M001160">Ms. Moore of Wisconsin</cosponsor>, <cosponsor name-id="F000471">Mr. Fitzgerald</cosponsor>, <cosponsor name-id="G000576">Mr. Grothman</cosponsor>, and <cosponsor name-id="T000165">Mr. Tiffany</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 410 Franklin Street in Appleton, Wisconsin, as the <quote>Mitchell F. Lundgaard Post Office Building</quote>.</official-title></form><legis-body id="H967638ABF17141DA81A0AF8079DB0B4E" style="OLC"> 
+<section id="H0B7F596E799D4719A7DF081A4F19EE03" section-type="section-one"><enum>1.</enum><header>Mitchell F. Lundgaard Post Office Building</header> 
+<subsection id="H5EE5D9A50A4C4B619B1A478D2C552688"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 410 Franklin Street in Appleton, Wisconsin, shall be known and designated as the <quote>Mitchell F. Lundgaard Post Office Building</quote>.</text></subsection> <subsection id="HCED267438B544FB38654550C03E4A7D1"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Mitchell F. Lundgaard Post Office Building</quote>.</text></subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="HBA8944B9E9CF40389616AC896570DCCC" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 7352 ENR: PPP and Bank Fraud Enforcement Harmonization Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 7352</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend the Small Business Act to extend the statute of limitation for fraud by borrowers under the Paycheck Protection Program, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H0AB1F1028F5F4B5A965A8AE1873ED551" style="OLC"> 
+<section id="H331C884210164EE3B201CB7F55A7E6BF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>PPP and Bank Fraud Enforcement Harmonization Act of 2022</short-title></quote>.</text></section> <section id="HB04BEE1C0CBE435889AC8A6B3025D4BE"><enum>2.</enum><header>Fraud enforcement harmonization</header> <subsection id="HB3AB55127E7E4FDBA24A861DB7FD3E74"><enum>(a)</enum><header>Paycheck Protection Program</header><text display-inline="yes-display-inline">Section 7(a)(36) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(36)</external-xref>) is amended by adding at the end the following new subparagraph:</text> 
+<quoted-block id="H56AA96DC23F944918F5BE54D3E1A31C6" style="OLC"> 
+<subparagraph id="H0D7138FB45DF4CB880ECA59367F9F38E"><enum>(W)</enum><header>Fraud enforcement harmonization</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to a covered loan guaranteed under this paragraph shall be filed not later than 10 years after the offense was committed.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HD54CD88CB2B84C479759C4013CDEBFE5"><enum>(b)</enum><header>Paycheck protection program second draw loans</header><text display-inline="yes-display-inline">Section 7(a)(37) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(37)</external-xref>) is amended by adding at the end the following new subparagraph:</text> 
+<quoted-block id="H54EB6A5F8D934DBC85F40CA686C67FBE" style="OLC"> 
+<subparagraph id="HDAD4F24D34E4492282D83DBE9BEF403A"><enum>(P)</enum><header>Fraud enforcement harmonization</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to a covered loan guaranteed under this paragraph shall be filed not later than 10 years after the offense was committed.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation> </bill> 
+

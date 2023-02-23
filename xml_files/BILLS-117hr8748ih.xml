@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H83658E2A452847A1A9DF5A6402F16687" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8748 IH: Defund Davos Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8748</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220826">August 26, 2022</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> (for himself, <cosponsor name-id="T000165">Mr. Tiffany</cosponsor>, and <cosponsor name-id="B000825">Mrs. Boebert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit funding for the World Economic Forum.</official-title></form><legis-body id="HF58FBA32E9A042038113BAC2B20CE7CB" style="OLC"> 
+<section id="H4F3E8006E38A4AE9A9024ACE0B4F9021" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defund Davos Act</short-title></quote>.</text></section> <section id="HC6636CA0082F406B818A3A74F995DF31"><enum>2.</enum><header>Prohibition on funding</header><text display-inline="no-display-inline">No funds available to the Department of State, the United States Agency for International Development, or any other department or agency may be used to provide funding for the World Economic Forum.</text> </section> 
+</legis-body></bill>
+

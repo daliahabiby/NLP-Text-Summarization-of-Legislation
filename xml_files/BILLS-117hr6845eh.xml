@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H01639CFFC73640A9A1F1CA4DB1AD9017" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6845 EH: Commercial Remote Sensing Amendment Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 6845</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To provide for transparent licensing of commercial remote sensing systems.</official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC" id="H681384036D14490690055B44F55E848E"> 
+<section id="H5607948E48C447E0AD423F5ED4D60B2A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Commercial Remote Sensing Amendment Act of 2022</short-title></quote>.</text></section> <section id="H9E68CE9B3D77491D9E0CA9264F16160C"><enum>2.</enum><header>Annual reports</header> <subsection id="HD8315FFCCDD4495AA46EFE591F1EF94E"><enum>(a)</enum><header>Deadlines</header> <paragraph id="H151D8937AC7A447880E8EE42C0FD2CB1"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 60121(c) of title 51, United States Code, is amended by striking <quote>120</quote> and inserting <quote>60</quote>.</text></paragraph> 
+<paragraph id="HC749345EF4BD43559F8D75986916F23F"><enum>(2)</enum><header>Conforming amendment</header><text>Section 60126(a)(1)(E) of title 51, United States Code, is amended by striking <quote>120</quote> and inserting <quote>60</quote>.</text></paragraph></subsection> <subsection id="H7082929DB1B440BB9D7A969B42722E30"><enum>(b)</enum><header>Notifications</header><text display-inline="yes-display-inline">Section 60126(a)(2) of title 51, United States Code, is amended by striking <quote>section 60122; and</quote> and inserting <quote>paragraphs (5) and (6) of section 60122(b);</quote>.</text></subsection> 
+<subsection id="HF280592A1047492FB74D514A2ACC2126"><enum>(c)</enum><header>Conditions</header><text display-inline="yes-display-inline">Section 60126(a) of title 51, United States Code, is amended—</text> <paragraph id="HE20B4E6A832D418097A91A432E50AFCD"><enum>(1)</enum><text display-inline="yes-display-inline">by redesignating paragraph (3) as paragraph (4); and</text></paragraph> 
+<paragraph id="H8CA23B16F682485B82C0DF0F25075DBF"><enum>(2)</enum><text display-inline="yes-display-inline">by inserting after paragraph (2) the following:</text> <quoted-block id="HFA56233E342447E0BAF0E3C6175E5323" style="OLC"> <paragraph id="HCFD647C87ED74283ABAE3469207C2FEB"><enum>(3)</enum><text>all terms, conditions, or restrictions placed on licensees pursuant to section 60122; and</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H4E8FABDCB42A4D4DA3CC997D4524CAA5"><enum>(d)</enum><header>Tiers</header><text>Section 60126(a)(1) of title 51, United States Code, is amended—</text> <paragraph id="H981253C0A635417A8EFEEC04EC9780AA"><enum>(1)</enum><text>in subparagraph (D), by striking <quote>and</quote> at the end;</text></paragraph> 
+<paragraph id="HB07CA6ECD2E646F1BF027B708A6FA726"><enum>(2)</enum><text>in subparagraph (E), by inserting <quote>and</quote> at the end; and</text></paragraph> <paragraph id="H1DE5CF892ED3498B84DE1CD4F08E7AA2"><enum>(3)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="OLC" id="HCEE69C88A6754B34A8AC9918E11111B4" display-inline="no-display-inline"> 
+<subparagraph id="HFA79E452BF9546C8A230CADDE98A38D1"><enum>(F)</enum><text display-inline="yes-display-inline">a list of all applications submitted and licenses granted in accordance therewith, listed by tier as defined in regulation, as well as the rationale for each tier categorization;</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HEA2ABA881CF149148B8BB3661B829FC3"><enum>(e)</enum><header>Sunset</header><text display-inline="yes-display-inline">Section 60126 of title 51, United States Code, is amended by striking <quote>September 30, 2020</quote> and inserting <quote>September 30, 2030</quote>.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20220726" chamber="House">Passed the House of Representatives July 26, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

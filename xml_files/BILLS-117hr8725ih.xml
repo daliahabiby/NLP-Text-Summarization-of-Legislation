@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H831DE654A2C24AD78171C0751A81BAB0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8725 IH: To provide supplemental appropriations for the Emergency Food and Shelter Program to provide humanitarian relief for migrants, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8725</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220816">August 16, 2022</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAP00">Committee on Appropriations</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide supplemental appropriations for the Emergency Food and Shelter Program to provide humanitarian relief for migrants, and for other purposes.</official-title></form><legis-body id="H72811E432C7E48E6AD55806592D1439C" style="OLC"> 
+<section id="HDA0DE0467719433EBA16DF480E144A7B" section-type="section-one"><enum>1.</enum><header>Supplemental appropriation</header><text display-inline="no-display-inline">There is appropriated, out of any amounts in the Treasury not otherwise appropriated, $50,000,000, to remain available until expended, for the <quote>Federal Emergency Management Agency—Federal Assistance</quote> account, to be made available to the emergency food and shelter program for purposes of providing shelter and other services to families and individuals encountered by the Department of Homeland Security.</text> </section> </legis-body></bill>
+

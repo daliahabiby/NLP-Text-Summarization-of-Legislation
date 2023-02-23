@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA73432D649AF49D984446E2AF1408479" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8545 IH: To establish a blockchain and cryptocurrency position within the Office of Science and Technology Policy, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8545</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220727">July 27, 2022</action-date><action-desc><sponsor name-id="S001200">Mr. Soto</sponsor> (for himself and <cosponsor name-id="B001305">Mr. Budd</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To establish a blockchain and cryptocurrency position within the Office of Science and Technology Policy, and for other purposes.</official-title></form><legis-body id="H1A3BC5A53A584B8AA0FCBA583F6A3707" style="OLC"> 
+<section id="HDC65C9BA303B48B68CE923DBFA9A7E5E" section-type="section-one"><enum>1.</enum><header>Establishment of blockchain and cryptocurrency position within the Office of Science and Technology Policy</header><text display-inline="no-display-inline">The Director of the Office of Science and Technology Policy shall establish or designate a blockchain and cryptocurrencies advisory specialist position within the Office to coordinate Federal activities and advise the President on matters of research and development relating to blockchain, cryptocurrencies, and distributed ledger technologies.</text></section> </legis-body></bill>
+

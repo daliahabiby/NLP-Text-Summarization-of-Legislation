@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9FF8B11D076A421D941DC017FB1CED32" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9199 IH: Preventing Adversary Influence, Disinformation, and Obscured Foreign Financing Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9199</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221018">October 18, 2022</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> (for himself and <cosponsor name-id="C001121">Mr. Crow</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Foreign Agents Registration Act of 1938, as amended, to modify requirements under that Act relating to exemptions, and for other purposes.</official-title></form><legis-body id="H203EC47538B144D8BA721473F562E09B" style="OLC"> 
+<section id="HA9F1FAE5678A481285DB913A9970FC24" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preventing Adversary Influence, Disinformation, and Obscured Foreign Financing Act of 2022</short-title></quote> or the <quote><short-title>PAID OFF Act of 2022</short-title></quote>.</text></section> <section id="H6BB19AE2A2EC40B8830A0FD62C7E2503"><enum>2.</enum><header>Treatment of exemptions under FARA</header> <subsection id="HFFEF75F5CFEC46729B2169210782E87C"><enum>(a)</enum><header>Definition</header><text>Section 1 of the Foreign Agents Registration Act of 1938, as amended (<external-xref legal-doc="usc" parsable-cite="usc/22/611">22 U.S.C. 611</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block style="OLC" display-inline="no-display-inline" id="H8BA5037E882E456A996031F2CB41D67C">
+<subsection id="H6E3A1497F2C04F6CA72A7911846CF348"><enum>(q)</enum><text>The term <quote>country of concern</quote> means—</text> <paragraph id="HB542926E039A405184B50F37CAD06261"><enum>(1)</enum><text>the People's Republic of China;</text></paragraph>
+<paragraph id="H5EC8290B095E428199E4E0B871013978"><enum>(2)</enum><text>the Russian Federation;</text></paragraph> <paragraph id="H284B883CDBE8437DB059A075C0278781"><enum>(3)</enum><text>the Islamic Republic of Iran;</text></paragraph>
+<paragraph id="H6B4D3C151F784A4EB50C7381C5FDA3AE"><enum>(4)</enum><text>the Democratic People's Republic of Korea;</text></paragraph> <paragraph id="HF90C8EB5739E4146B12000CD397DB312"><enum>(5)</enum><text>the Republic of Cuba; and</text></paragraph>
+<paragraph id="HE99B3B7B825944B6A9B4D40738F7FDBA"><enum>(6)</enum><text>the Syrian Arab Republic.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H30AA442591134FABA92091A649242E6C"><enum>(b)</enum><header>Exemptions</header><text display-inline="yes-display-inline">Section 3 of the Foreign Agents Registration Act of 1938, as amended (<external-xref legal-doc="usc" parsable-cite="usc/22/613">22 U.S.C. 613</external-xref>), is amended, in the matter preceding subsection (a), by inserting <quote>, except that the exemptions under subsections (d)(1) and (h) shall not apply to any agent of a foreign principal that is a country of concern</quote> before the colon.</text></subsection>
+<subsection id="H06D34D8294C441838A04CD33613A76B9"><enum>(c)</enum><header>Sunset</header><text>The amendments made by subsections (a) and (b) shall terminate on October 1, 2025. </text></subsection></section> </legis-body></bill>
+

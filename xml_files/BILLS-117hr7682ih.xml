@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1C3B861A5D924983B2C3BFFE1FC9EF64" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7682 IH: Ensuring an Accurate Postal Fleet Electrification Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7682</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220506">May 6, 2022</action-date><action-desc><sponsor name-id="M000087">Mrs. Carolyn B. Maloney of New York</sponsor> (for herself and <cosponsor name-id="C001078">Mr. Connolly</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the United States Postal Service to conduct a new environmental impact statement with respect to procuring next generation delivery vehicles, and for other purposes.</official-title></form><legis-body id="HCD37D1818790435A8AFB8C6520B9267F" style="OLC"><section id="H606C3814D16D4B0187E14F333D2A92EF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensuring an Accurate Postal Fleet Electrification Act</short-title></quote>. </text></section><section id="H65F03CDFC3864C7191705D36BFF7CBC1"><enum>2.</enum><header>USPS environmental impact statement on procurement of next generation delivery vehicles</header><subsection id="H700A808301F64429A07C9E29F1822170"><enum>(a)</enum><header>Limitation</header><text display-inline="yes-display-inline">The final environmental impact statement issued by the United States Postal Service entitled <quote>Final Environmental Impact Statement for Purchase of Next Generation Delivery Vehicles</quote> in December 2021 shall have no force or effect.</text></subsection><subsection id="H129E6CA6BB5C49469BA6CCBFB01499F2"><enum>(b)</enum><header>Procuring new fleet</header><text display-inline="yes-display-inline">The United States Postal Service may not procure any delivery vehicle under the contract entered into in February 2021 between the Postal Service and Oshkosh Defense until the Postal Service issues a revised final environmental impact statement in accordance with section 102(2)(C) of the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4332">42 U.S.C. 4332(2)(C)</external-xref>).</text></subsection></section></legis-body></bill> 
+

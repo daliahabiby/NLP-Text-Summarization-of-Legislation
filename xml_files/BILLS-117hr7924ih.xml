@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H940E39208DCB41A393D628EA13458DA6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7924 IH: Bobby Moran Soldier’s Medal Retirement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7924</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220531">May 31, 2022</action-date><action-desc><sponsor name-id="M001159">Mrs. Rodgers of Washington</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 10, United States Code, to eliminate the cap on additional retired pay for extraordinary heroism for members of the Army and Air Force who served during the Vietnam Era.</official-title></form><legis-body id="H68366FAE2F4B4C7EA3A51B886892A764" style="OLC"> 
+<section id="HA599D794331B4A87B78900FAFB6C2D73" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Bobby Moran Soldier’s Medal Retirement Act</short-title></quote>.</text></section> <section id="H4EB71998FBD4428B943BDD37BF68B77E" section-type="subsequent-section"><enum>2.</enum><header>Elimination of cap on additional retired pay for extraordinary heroism for members of the Army and Air Force who served during the Vietnam Era</header><text display-inline="no-display-inline">Title 10, United States Code, is amended—</text> 
+<paragraph id="HA7368C207F4F44B3BECB5F1688B390E4"><enum>(1)</enum><text>in section 1402(f)(2), by striking <quote>The amount</quote> and inserting <quote>Except in the case of a member who served during the Vietnam Era (as that term is defined in section 12731 of this title), the amount</quote>;</text></paragraph> <paragraph id="H22B528D7356E41DAA35C03FACC406E60"><enum>(2)</enum><text>in section 7361(a)(2), by inserting <quote>(except in the case of a member who served during the Vietnam Era, as that term is defined in section 12731 of this title)</quote> after <quote>based</quote>; and</text></paragraph> 
+<paragraph id="H6ACAFAD7A5E94B6EA230F21C942916E6"><enum>(3)</enum><text display-inline="yes-display-inline">in section 9361(a)(2), by inserting <quote>(except in the case of a member who served during the Vietnam Era, as that term is defined in section 12731 of this title)</quote> after <quote>based</quote>.</text> </paragraph></section> </legis-body></bill>
+

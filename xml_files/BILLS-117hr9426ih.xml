@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA2C598F5DB1747049422331DB613062E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9426 IH: To prohibit the use of Federal funds made available for foreign assistance to be used to support drag theater performances.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9426</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221205">December 5, 2022</action-date><action-desc><sponsor name-id="G000552">Mr. Gohmert</sponsor> (for himself and <cosponsor name-id="G000565">Mr. Gosar</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of Federal funds made available for foreign assistance to be used to support drag theater performances.</official-title></form><legis-body id="HDB7A03E0A5074D15BC8846BAB5CB60C5" style="OLC"><section id="H79D451F52546409D8D2D4FD18F5740B0" section-type="section-one"><enum>1.</enum><header>Prohibition</header><text display-inline="no-display-inline">No Federal funds are authorized to be appropriated or otherwise made available in the form of foreign assistance to any program, project, or activity that involves the hosting or that otherwise involves supporting drag shows, performances, testimonials, or any demonstrations involving drag. For purposes of this section, the term <quote>drag</quote> refers to dressing in clothing that is typical of the opposite gender, including by using exaggeratedly gendered mannerisms or by combining elements of typically male and female dress, or in elaborate or outrageous gendered costumes.</text></section></legis-body></bill> 
+

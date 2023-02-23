@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H374DC432C5504FCAAA108FC413CC60C5" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9529 IH: Defense Law Enforcement Officer Credential Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9529</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221214">December 14, 2022</action-date><action-desc><sponsor name-id="B001298">Mr. Bacon</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Defense to provide for standardized credentials for law enforcement officers of the Department of Defense, and for other purposes.</official-title></form><legis-body id="H9D809574A07B4707AAE82D85A632D7EC" style="OLC"> 
+<section id="H01EE200D1DFC4C039E46DDC5FAC192FE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defense Law Enforcement Officer Credential Act of 2022</short-title></quote>. </text> </section> <section id="HEA54B9492DE443BA91B9727DEF7FBD92"><enum>2.</enum><header>Standardized credentials for law enforcement officers of the Department of Defense</header> <subsection id="HE9D8F90184C2413D9CC28428D2DA7390"><enum>(a)</enum><header>Standardized credentials required</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall ensure that—</text> 
+<paragraph id="H84B411C12EC448BFBA2B9A4BFC8D1C2D"><enum>(1)</enum><text>the Secretary of each military department develops standardized credentials for Defense law enforcement officers under their respective authority;</text></paragraph> <paragraph id="HB2F81637EAE8404881D2C8A8D9BA464E"><enum>(2)</enum><text>the Secretary of each military department issues such credential to each such officer at no cost to such officer; and</text></paragraph> 
+<paragraph id="H581EE29BB5FB49E485D78EBEDD78C66A"><enum>(3)</enum><text>any Department of Defense common access card issued to such an officer clearly identifies the officer as a Defense law enforcement officer.</text></paragraph></subsection> <subsection id="H72507B0041EF4C008DBD38744542BD1D"><enum>(b)</enum><header>Defense law enforcement officer defined</header><text>In this section, the term <term>Defense law enforcement officer</term> means a member of the Armed Forces or civilian employee of the Department of Defense who—</text> 
+<paragraph id="HFDCDAD815A7E4E298FA44F1D461293AE"><enum>(1)</enum><text>is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law;</text></paragraph> <paragraph id="H9CE1A844B6484F0287CA345041B2D096"><enum>(2)</enum><text>has statutory powers of arrest or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice); and</text></paragraph> 
+<paragraph id="H3532CFDCF6B14A988FF402CBF2DA990E"><enum>(3)</enum><text>is authorized by the Department to carry a firearm.</text></paragraph></subsection></section> </legis-body></bill>
+

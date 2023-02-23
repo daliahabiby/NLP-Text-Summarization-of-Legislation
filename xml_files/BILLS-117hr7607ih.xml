@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCEE8CD30D1B54181BA2D08829A089402" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7607 IH: Helping Applicants Receive Valid and Reasonable Decisions Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7607</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220427">April 27, 2022</action-date><action-desc><sponsor name-id="S001135">Mrs. Steel</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct institutions of higher education to improve transparency with respect to the use of personality traits in admissions, and for other purposes.</official-title></form><legis-body id="H0FE03C224D524433A6620E1046CE71E3" style="OLC"> 
+<section id="H84A02334EC584B698016B6CC59755256" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Helping Applicants Receive Valid and Reasonable Decisions Act</short-title></quote> or the <quote><short-title>HARVARD Act</short-title></quote>. </text></section> <section id="H792E8DB0098A43A8BEF043E500368A1E"><enum>2.</enum><header>Use of personality traits in admissions</header><text display-inline="no-display-inline">Section 487(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1094">20 U.S.C. 1094(a)</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="H12AF4C3ED27642BE95F6761622ED5373" display-inline="no-display-inline"> 
+<paragraph id="H5F8539E80FB54643B8D586279EEEE610"><enum>(30)</enum> 
+<subparagraph id="H48B8DB34E53A4A5FAB37B45CF71820CA" display-inline="yes-display-inline"><enum>(A)</enum><text>In the case of an institution that considers the personality traits of applicants in making admission determinations, the institution shall make available on the public website and application materials of such institution—</text> <clause id="H8EE5E41C087D49CDA3783F02638FA1EE" indent="up1"><enum>(i)</enum><text display-inline="yes-display-inline">a statement informing applicants of the use of personality traits in making admission determinations;</text></clause> 
+<clause id="HF48911F62926485C800360A7265A638B" indent="up1"><enum>(ii)</enum><text>the rationale for such use of personality traits;</text></clause> <clause id="H077396A1EF9B452C8A7C97EA5962B699" indent="up1"><enum>(iii)</enum><text>a description of the process under which personality traits are considered; and</text></clause> 
+<clause id="H5826783203AD45AA933DD3254DC29072" indent="up1"><enum>(iv)</enum><text>the standards and criteria used for rating personality traits.</text></clause></subparagraph> <subparagraph id="HAB7C2F02CAA74D538FCDD0A36D5EBD9C" indent="up1"><enum>(B)</enum><text>In this paragraph, the term <quote>personality traits</quote> means, with respect to an individual, the patterns of such individual with respect to behaviors, thoughts, and emotions, and may include patterns relating to humor, sensitivity, grit, leadership, integrity, helpfulness, courage, and kindness.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </section> 
+</legis-body></bill>
+

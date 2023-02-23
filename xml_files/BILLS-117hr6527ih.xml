@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCDD51BA310694CE487AD5F51B33C09B7" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6527 IH: Driving Veterans Success Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6527</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220128">January 28, 2022</action-date><action-desc><sponsor name-id="S001135">Mrs. Steel</sponsor> (for herself and <cosponsor name-id="P000618">Ms. Porter</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name>, and in addition to the Committee on <committee-name committee-id="HSM00">Small Business</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Infrastructure Investment and Jobs Act to establish a veterans business enterprises program, and for other purposes.</official-title></form><legis-body id="H17308300AE244FE4903AC21AEAFA1EE5" style="OLC">
+<section id="HC2489EE72F9C4E5187C7CB347AB316C7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Driving Veterans Success Act</short-title></quote>.</text></section> <section id="HE6C5629E157A4DF7BFE994D1AE36FC26" section-type="subsequent-section"><enum>2.</enum><header>Veterans business enterprises program</header><text display-inline="no-display-inline">Section 11101 of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="public-law" parsable-cite="pl/117/58">Public Law 117–58</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block display-inline="no-display-inline" id="HA9B225B1EB01423080100CCFD0924150" style="OLC"> 
+<subsection id="HFA9BE0BD7BFC439BBB94C3893D1E50AA"><enum>(f)</enum><header>Veterans business enterprises program</header><text display-inline="yes-display-inline">Except to the extent that the Secretary determines otherwise, not less than 10 percent of the amounts made available for any program under this division (other than section 14004), division C, and section 403 of title 23, United States Code, shall be expended through small business concerns owned and controlled by veterans, as defined in section 3(q) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/632">15 U.S.C. 632(q)</external-xref>).</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+

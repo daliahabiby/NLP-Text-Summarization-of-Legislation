@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-Senate" dms-id="HE911CDCAA2F343CBAEF42738ED41A62D" public-private="public" key="S" bill-type="olc" stage-count="1" slc-id="S1-OLL22A53-C5N-J2-41S"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 3175 RS: To designate the facility of the United States Postal Service located at 135 Main Street in Biloxi, Mississippi, as the “Robert S. McKeithen Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-10-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 555</calendar><congress>117th CONGRESS</congress><session>2d Session</session><legis-num display="yes">H. R. 3175</legis-num><current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20211021">October 21, 2021</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSGA00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><action stage="Reported-in-Senate"><action-date>November 17, 2022</action-date><action-desc>Reported by <sponsor name-id="S380">Mr. Peters</sponsor>, without amendment</action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 135 Main Street in Biloxi, Mississippi, as the <quote>Robert S. McKeithen Post Office Building</quote>.</official-title></form><legis-body id="H054B28EB21E84F3A8C08C929F401CDA0" style="OLC"><section id="H6C7924A4660E46E0BCCC01BD6B5106E6" section-type="section-one"><enum>1.</enum><header>Robert S. McKeithen Post Office Building</header><subsection id="H9507711699504D74AE1E1EAF64AA86A3"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 135 Main Street in Biloxi, Mississippi, shall be known and designated as the <quote>Robert S. McKeithen Post Office Building</quote>.</text></subsection><subsection id="HF84694F95725442D9226271CF093AB6D"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Robert S. McKeithen Post Office Building</quote>.</text></subsection></section></legis-body><endorsement><action-date>November 17, 2022</action-date><action-desc>Reported without amendment</action-desc></endorsement></bill> 
+

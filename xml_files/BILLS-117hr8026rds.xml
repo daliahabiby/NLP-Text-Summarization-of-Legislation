@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Received-in-Senate" dms-id="H0E4162D9B1C6421395DDCAEF64D4519B" public-private="public" key="G" bill-type="olc" stage-count="1"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8026 : To designate the facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, as the “Charles W. Lindberg Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8026</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20221213">December 13, 2022</action-date><action-desc>Received</action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, as the <quote>Charles W. Lindberg Post Office</quote>.</official-title></form><legis-body id="HE71F42040730453187B5E440CB402AFD" style="OLC"><pagebreak></pagebreak><section id="H7FC9EFB3D00B499CBC053E433A89329E" section-type="section-one"><enum>1.</enum><header>Charles W. Lindberg Post Office</header><subsection id="HB54847632A2C401DB51DFFB9393FC694"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, shall be known and designated as the <quote>Charles W. Lindberg Post Office</quote>.</text></subsection><subsection id="HEA679996A8694CDB8B6552D5DC6615A0"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Charles W. Lindberg Post Office</quote>.</text></subsection></section></legis-body><attestation><attestation-group><attestation-date date="20221212" chamber="House">Passed the House of Representatives December 12, 2022.</attestation-date><attestor display="yes">Cheryl L. Johnson,</attestor><role>Clerk.</role><proxy display="yes">Kevin F. McCumber,</proxy><role>Deputy Clerk.</role></attestation-group></attestation></bill> 
+

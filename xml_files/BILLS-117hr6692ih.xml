@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H342AE771AE804D07A32042000FCF2864" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6692 IH: To prohibit the obligation or expenditure of funds relating to the Climate Change Professionals Program and any other program, project, or activity relating to climate change of the Department of Homeland Security, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6692</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220209">February 9, 2022</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HHM00">Homeland Security</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the obligation or expenditure of funds relating to the Climate Change Professionals Program and any other program, project, or activity relating to climate change of the Department of Homeland Security, and for other purposes.</official-title></form><legis-body id="H5486D07D88C546358AF5E4CE613AE938" style="OLC"><section id="H997320FB846247AC9B6363E074D786D9" section-type="section-one"><enum>1.</enum><header>Prohibition relating to Climate Change Professionals Program and any other program, project, or activity relating to climate change of the Department of Homeland Security</header><text display-inline="no-display-inline">The Secretary of Homeland Security may not obligate or expend any funds—</text><paragraph id="H82A082AF95164F13A53190418E5FC01A"><enum>(1)</enum><text>to carry out the Climate Change Professionals Program of the Department of Homeland Security;</text></paragraph><paragraph id="H38D8F0BCA9BA4959AAF0FFAADC957A23"><enum>(2)</enum><text>to establish or maintain a program to train individuals relating to climate change; or</text></paragraph><paragraph id="H590EF22339BD4E3CA911FCEC246020F1"><enum>(3)</enum><text>for any program, project, or activity relating to climate change.</text></paragraph></section></legis-body></bill> 
+

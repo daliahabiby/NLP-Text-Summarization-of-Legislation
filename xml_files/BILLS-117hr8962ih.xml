@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCAA92842E7BE4210A4EC01AE2D559693" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8962 IH: Public Servant Anti-Intimidation Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8962</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220922">September 22, 2022</action-date>
+<action-desc><sponsor name-id="G000552">Mr. Gohmert</sponsor> (for himself and <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 18, United States Code, to prohibit the publication of personal information of public servants on the internet, and for other purposes.</official-title>
+</form>
+<legis-body id="HC59FF99240834B8DBE27BF25F6EB5F35" style="OLC">
+<section id="H7D1C001824764F40AB389FFE8D9D6729" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Public Servant Anti-Intimidation Act of 2022</short-title></quote>.</text></section> <section id="HD8231B80A65E4BFEBE167BF5C8F93108"><enum>2.</enum><header>Prohibition on disclosing personal information of public servants on the Internet</header> <subsection id="H25EBE8EE51AF427895C07961313DF5F5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/93">Chapter 93</external-xref> of title 18, United States Code, is amended by adding at the end the following: </text>
+<quoted-block style="USC" id="HA703E32659DF4B7B9BB07B93FF4F09CF" display-inline="no-display-inline">
+<section id="HEDCA4554CF75401EBC72838D2E82BF27"><enum>1925.</enum><header>Publication of personal information of public servants</header>
+<subsection id="H5D3E67E3CA974436B66B90924D8794F1"><enum>(a)</enum><header>Offense</header><text display-inline="yes-display-inline">Except as provided in subsection (b), whoever, in or affecting interstate or foreign commerce, knowingly publishes on the Internet or otherwise makes publicly available, the personal information of a public servant or the immediate family member of a public servant, shall be fined under this title, imprisoned not more than one year, or both. </text></subsection> <subsection id="HD7D2136F222246238F007333350D582A"><enum>(b)</enum><header>Exception</header><text>Subsection (a) shall not apply with respect to personal information—</text>
+<paragraph id="H46CB0403759D454C8339E48FBFC06FFA"><enum>(1)</enum><text>published on the Internet or otherwise made publicly available before an individual became a public servant; or</text></paragraph> <paragraph id="H85E84793412545FB8B50127B8BF3B4AD"><enum>(2)</enum><text>published on the Internet or otherwise made publicly available with the consent of the public servant or the immediate family member of a public servant. </text></paragraph></subsection>
+<subsection id="HBE147E73C78340A480123048900A83C4"><enum>(c)</enum><header>Civil action</header><text>A public servant or immediate family member of a public servant who is a victim of an offense under subsection (a) may bring a civil action in an appropriate United States district court for equitable relief, damages in an amount that is presumed to be not less than $10,000, and attorney’s fees.</text></subsection> <subsection id="HA5EF1165DFD44D3AB4BD5A79A4321CCA" display-inline="no-display-inline"><enum>(d)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Section 230 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/230">47 U.S.C. 230</external-xref>) does not apply to a provider of any type of interactive computer service with respect to liability under this section. </text></subsection>
+<subsection id="HCF5CCF82A4B8411799AF98F2ADFAA416"><enum>(e)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H3C17CD53EC9D4996A42A6E32A95B26B6"><enum>(1)</enum><text display-inline="yes-display-inline">The term <term>public servant</term> means—</text>
+<subparagraph id="HB2B2D2FD796E4A36A16BFB7AA81EC5D6"><enum>(A)</enum><text display-inline="yes-display-inline">an officer or employee of the Executive, Legislative, or Judicial branch of the Federal Government; </text></subparagraph> <subparagraph id="HA26D14F0620E41AD8C43F7C3F5115937"><enum>(B)</enum><text>the President; and</text></subparagraph>
+<subparagraph id="HF302487A41464D81B02765362F864D26"><enum>(C)</enum><text display-inline="yes-display-inline">a Member of Congress (as such term is defined in section 2106 of title 5). </text></subparagraph></paragraph> <paragraph id="HB4F2F85A3FF04CF5A1E73D9419BF0CC5"><enum>(2)</enum><text display-inline="yes-display-inline">The term <term>personal information</term> means a person’s home address, home phone number, personal cell phone number, Social Security Number, or other personal identification number. </text></paragraph>
+<paragraph id="HEBBD5A6926C04F4F9214F7011DBF81AB"><enum>(3)</enum><text>The term <term>interactive computer service</term> has the meaning given the term in section 230(f) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/230">47 U.S.C. 230(f)</external-xref>).</text></paragraph> <paragraph id="H2566E541F6614A22950134F454F86366"><enum>(4)</enum><text display-inline="yes-display-inline">The term <term>immediate family member</term> means a spouse, child, parent, or sibling. </text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="HD7264EC09C1348B8B6316FF2E76687E8"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/93">chapter 93</external-xref> of title 18, United States Code, is amended by adding at the end the following: </text> <quoted-block style="USC" id="HB3B7392C30904D1BABF06F2EE697AD50" display-inline="no-display-inline"> <toc regeneration="no-regeneration"> <toc-entry level="section">1925. Publication of personal information of public servants. </toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> </bill> 
+

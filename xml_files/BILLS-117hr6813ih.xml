@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF1F8481182E146F5BC94E88D86707983" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6813 IH: To direct the Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, to conduct a study on the neurological impacts of COVID–19 on individuals with a neurological disease.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6813</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220222">February 22, 2022</action-date>
+<action-desc><sponsor name-id="K000375">Mr. Keating</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, to conduct a study on the neurological impacts of COVID–19 on individuals with a neurological disease.</official-title>
+</form>
+<legis-body id="H21A0A44A34DE4BB5986BF46545DA9F88" style="OLC"> 
+<section id="H2BD52789B06E442BA18813EAD4C6C54D" section-type="section-one"><enum>1.</enum><header>Study on the neurological impacts of COVID–19 on individuals with a neurological disease</header> 
+<subsection id="HD2CCE4194D5A40338554383906645DA4"><enum>(a)</enum><header>Study</header><text display-inline="yes-display-inline">The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall conduct a study on the neurological impacts of COVID–19 on individuals with a neurological disease.</text></subsection> <subsection id="H8E9EC5CDD4B647F4A8F5F5A9C8019356"><enum>(b)</enum><header>Report</header><text>Not later than 120 days after the date of enactment of this Act, the Secretary of Health and Human Services shall complete the study under subsection (a) and submit to the Congress a report on the results of such study.</text> </subsection> </section> 
+</legis-body>
+</bill> 
+
+

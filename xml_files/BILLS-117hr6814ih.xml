@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H22CFFCC45F514B8B8F8629247FA62283" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6814 IH: Small Business Fair Debt Collection Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6814</legis-num>
+<current-chamber></current-chamber>
+<action display="yes">
+<action-date date="20220222">February 22, 2022</action-date>
+<action-desc><sponsor name-id="L000586">Mr. Lawson of Florida</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To apply the Fair Debt Collection Practices Act to small business debt to the same extent as such Act applies to consumers, and for other purposes.</official-title>
+</form>
+<legis-body id="HFC47C2A3A0DB445D9379748445EAA27F" style="OLC">
+<section id="H7E695D7DD0DD40A1863D357309ED12E9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Fair Debt Collection Protection Act</short-title></quote>.</text></section> <section id="H6E0C10ED96AD4809A0FD200AEA8107A5"><enum>2.</enum><header>Fair debt collection practices for loans to small businesses</header> <subsection id="H13E9ED76660249C0979349C08EFCC4CE"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692">15 U.S.C. 1692 et seq.</external-xref>) is amended—</text>
+<paragraph id="H59F37893D1854EF8A0E9003E29BD6D26"><enum>(1)</enum><text>in section 803—</text> <subparagraph id="HDB9006F1906344E383F1C89EF9AA662A"><enum>(A)</enum><text>by amending paragraph (5) to read as follows:</text>
+<quoted-block style="USC" id="H1B449B1BC3C94D89A5DDEE4F8BF5AE39" display-inline="no-display-inline">
+<paragraph id="H1F27093E7E24456F83C0BD78E60F42BB"><enum>(5)</enum><text>The term <term>debt</term> means any obligation or alleged obligation to pay money arising out of a transaction, whether or not such obligation has been reduced to judgment.</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph> <subparagraph id="H300F04712F06404EBD93555BDCCC0DF9"><enum>(B)</enum><text>by adding at the end the following new paragraph:</text>
+<quoted-block style="OLC" id="H6B355D60E87B4FAFBC28BB59A736B173" display-inline="no-display-inline">
+<paragraph id="H4F16A70606794C6EB21389C14509AB48"><enum>(9)</enum><text display-inline="yes-display-inline">The term <term>commercial credit bureau</term> means any person which, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating commercial credit information or other information on businesses for the purpose of furnishing credit reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing credit reports.</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="HE9C2630819D3446F8F38A6E255B879CD"><enum>(2)</enum><text>by redesignating section 819 as section 820; and</text></paragraph>
+<paragraph id="H9AF0459FF9F6420786B7BCB98BC47072"><enum>(3)</enum><text>by inserting after section 818 the following:</text> <quoted-block style="USC" id="H15DFEEADD02840358E9CC4FBBD99AD69" display-inline="no-display-inline"> <section id="H7CA6C8D59236428EACCA366B372F1951"><enum>819.</enum><header>Application to small business debt</header> <subsection id="H959D03E4BA494BED86970EF63B8AE3EA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">This Act shall apply to small business debt to the same extent as this Act applies to debt of consumers.</text></subsection>
+<subsection id="HAE766E33BD6F406087F2782B2E89C0C5"><enum>(b)</enum><header>Small business debt defined</header><text display-inline="yes-display-inline">The term <term>small business debt</term>—</text> <paragraph id="HEBF84227BC664E26BC523A62185C707B"><enum>(1)</enum><text>means any non-equity obligation or alleged obligation of a partnership, corporation, trust, estate, cooperative, association, government or governmental subdivision or agency, or other entity that is less than $5,000,000; and</text></paragraph>
+<paragraph id="HFA5A45A9F7D04BC8B2D8593256CA866D"><enum>(2)</enum><text>does not include any obligation or alleged obligation—</text> <subparagraph id="HB0B54183B4C04BE081F65B5839141FE7"><enum>(A)</enum><text>of an individual; or</text></subparagraph>
+<subparagraph id="HEAE788CD2F7E475D988E55A4F1D1AD16"><enum>(B)</enum><text>that is primarily for personal, family, or household purposes.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HD6174D76F1FF4F10A56691F746A48FCC"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of contents for the Fair Debt Collection Practices Act is amended by striking the item relating to section 819 and inserting the following:</text>
+<quoted-block style="USC" id="H456BF4A1EE2F4DAB9E800142948DE4A0" display-inline="no-display-inline">
+<toc regeneration="no-regeneration">
+<toc-entry level="section">819. Application to small business debt. </toc-entry>
+<toc-entry level="section">820. Effective date.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H0228B22AD1444646B3F497278D3C33DC"><enum>(c)</enum><header>Conforming amendments</header><text display-inline="yes-display-inline">The Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692">15 U.S.C. 1692 et seq.</external-xref>) is amended—</text> <paragraph id="H7673DAE6A2E94995921A35CCA7E9F110"><enum>(1)</enum><text>in section 805(b), by inserting <quote>or a commercial credit bureau (as applicable)</quote> after <quote>consumer reporting agency</quote>;</text></paragraph>
+<paragraph id="H4E01BC1DBC7840198536CF9F5A09DDBC"><enum>(2)</enum><text display-inline="yes-display-inline">in section 806(3)—</text> <subparagraph id="HE9A5E7673C9649948940C72494B2C912"><enum>(A)</enum><text>by striking <quote>consumers who</quote> and inserting <quote>consumers or small businesses that</quote>; and</text></subparagraph>
+<subparagraph id="H357DE45C41BC420A812B01FE502DC04A"><enum>(B)</enum><text>by inserting <quote>or to a commercial credit bureau (as applicable),</quote> after <quote>consumer reporting agency</quote>; and</text></subparagraph></paragraph> <paragraph id="H4FC57F43F0C4404D8AF5C78CEBAAF09C"><enum>(3)</enum><text>in section 807(16), by inserting <quote>or a commercial credit bureau</quote> after <quote>this Act</quote>.</text></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

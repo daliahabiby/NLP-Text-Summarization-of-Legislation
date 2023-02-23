@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAB6EA4E105004686854B0B1888ACE037" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8479 IH: Desert Lands Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8479</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220721">July 21, 2022</action-date><action-desc><sponsor name-id="R000599">Mr. Ruiz</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the California Desert Protection Act of 1994 with respect to the definition of the term <quote>conservation land</quote>, and for other purposes.</official-title></form><legis-body id="H684864E12C2744B2B2653288C441A651" style="OLC"> 
+<section id="H0643601C462A4721A951273034A7125B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Desert Lands Protection Act</short-title></quote>.</text></section> <section id="H9D31C2A0508241CC95C3BDCE8CE6BC1B"><enum>2.</enum><header>Prohibited uses of acquired, donated, and conservation land</header><text display-inline="no-display-inline">Section 714(a) of the California Desert Protection Act of 1994 (<external-xref legal-doc="public-law" parsable-cite="pl/103/433">Public Law 103–433</external-xref>; 16 U.S.C. 410aaa–81c(a)) is amended by striking paragraph (3) and inserting the following:</text> 
+<quoted-block style="OLC" id="HA1FF42495DF64F5E85640EF0FDAFA27E" display-inline="no-display-inline"> 
+<paragraph id="H91DF0D51078B4AB893553606F85F7C6F"><enum>(3)</enum><header>Conservation land</header><text display-inline="yes-display-inline">The term <term>conservation land</term> means—</text> <subparagraph id="H4F0A6873458D469D98DF101F8BFC7214"><enum>(A)</enum><text>any land within the Conservation Area that is designated to satisfy the conditions of a Federal habitat conservation plan, general conservation plan, or State natural communities conservation plan;</text></subparagraph> 
+<subparagraph id="H106F04B5C71843848CCC1A29C9B4AA73"><enum>(B)</enum><text>any national conservation land within the Conservation Area established pursuant to section 2002(b)(2)(D) of the Omnibus Public Land Management Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/16/7202">16 U.S.C. 7202(b)(2)(D)</external-xref>); and</text></subparagraph> <subparagraph id="H09EDE442BF21421DA64EE63994BBC42F"><enum>(C)</enum><text>any area of critical environmental concern within the Conservation Area established pursuant to section 202(c)(3) of the Federal Land Policy and Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/43/1712">43 U.S.C. 1712(c)(3)</external-xref>).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

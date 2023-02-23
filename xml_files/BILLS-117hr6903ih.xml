@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage='Introduced-in-House' dms-id='A1' public-private='public' key='H' bill-type='olc'><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6903 IH: To require the Secretary of Agriculture to carry out activities to suppress wildfires, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display='yes'>I</distribution-code><congress display='yes'>117th CONGRESS</congress><session display='yes'>2d Session</session><legis-num display='yes'>H. R. 6903</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display='yes'><action-date date='20220302'>March 2, 2022</action-date><action-desc><sponsor name-id='M001177'>Mr. McClintock</sponsor> (for himself and <cosponsor name-id='L000578'>Mr. LaMalfa</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id='HAG00'>Committee on Agriculture</committee-name>, and in addition to the Committee on <committee-name committee-id='HII00'>Natural Resources</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display='yes'>To require the Secretary of Agriculture to carry out activities to suppress wildfires, and for other purposes.</official-title></form><legis-body id="H2469A8C924E8457AB34D94D31ACDD9EE" style="OLC" display-enacting-clause="yes-display-enacting-clause"> 
+<section id="HC8808302347C" section-type="section-one"><enum>1.</enum><header>Suppression of wildfires</header> 
+<subsection id="H6CFD3D100DC445BB9DBDE3F40FA9F41F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Agriculture, acting through the Chief of the Forest Service—</text> <paragraph id="H1913539B486F44649ADAFB63B7623542"><enum>(1)</enum><text>shall—</text> 
+<subparagraph id="H154C53C221584A9BB205031DDF93197D"><enum>(A)</enum><text display-inline="yes-display-inline">to the maximum extent practicable—</text> <clause id="HBDE829282B7B4C7C83F6C5F34AECA00D"><enum>(i)</enum><text display-inline="yes-display-inline">use all available resources to carry out wildfire suppression with the purpose of extinguishing wildfires detected on National Forest System lands not later than 24 hours after such a wildfire is detected; and</text></clause> 
+<clause id="H262ED70CB526457D9DC7E1E1294E6804"><enum>(ii)</enum><text>immediately suppress any prescribed fire that exceeds prescription; </text></clause></subparagraph> <subparagraph id="H97C2FD4FE5404284B7409D0D3B1BB240"><enum>(B)</enum><text>not inhibit the suppression efforts of State or local firefighting agencies that are authorized to respond to wildfire on National Forest System lands;</text></subparagraph> </paragraph> 
+<paragraph id="H9CCEE7F8A04D4EBDB484FAFC0DBAC3C9"><enum>(2)</enum><text display-inline="yes-display-inline">may only use fire as a resource management tool if the fire is a prescribed fire that complies with applicable law and regulations;</text></paragraph> <paragraph id="H7724978B780E43A9AA57ECD0660276F2"><enum>(3)</enum><text>may only initiate a backfire or burnout during a wildfire by order of the responsible incident commander; and</text> </paragraph> 
+<paragraph id="H130F3A35A9B7431F9269C96BFF7C3F66"><enum>(4)</enum><text>shall control any such initiated backfire or burnout until extinguished.</text></paragraph></subsection> <subsection id="HC81BFA6C2AFF4DC390B2A25CE66DFB7F" commented="no"><enum>(b)</enum><header>Penalty</header><text display-inline="yes-display-inline">Any person aggrieved by a violation of paragraph (3) or (4) of subsection (a) may bring a civil action against the United States in the appropriate Federal district court for actual damages.</text> </subsection></section> 
+</legis-body></bill>
+

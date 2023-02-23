@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H433ECEFD924B4CC48C7D8444CE4E167A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7170 IH: Republic of Somaliland Independence Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7170</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220318">March 18, 2022</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To recognize Somaliland of the Federal Republic of Somalia as a separate, independent country.</official-title></form><legis-body id="H84DACABB5BF9421A9F88782AFE574354" style="OLC"><section id="HDF3B857F98C84A12B8B4BE52604474C2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Republic of Somaliland Independence Act</short-title></quote>.</text></section><section id="HF9E5173400D9449EB5FA12D8C6DF8DEE"><enum>2.</enum><header>Statement of policy; authorization</header><subsection id="HE74D069F59234A3A995E3220E2C656EE"><enum>(a)</enum><header>Statement of policy</header><text display-inline="yes-display-inline">It is the policy of the United States that all territorial claims by the Federal Republic of Somalia over the area known as Somaliland are invalid and without merit.</text></subsection><subsection id="H2705413CC8C7443AA3915566A1A93ED1"><enum>(b)</enum><header>Authorization</header><text>The President is authorized to recognize Somaliland of the Federal Republic of Somalia as a separate, independent country, in accordance with subsection (a).</text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0082057AFA7243EDB2AE536E1047399F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8376 IH: Peggy Frank Memorial Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8376</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220714">July 14, 2022</action-date><action-desc><sponsor name-id="C001097">Mr. Cárdenas</sponsor> (for himself and <cosponsor name-id="M001202">Mrs. Murphy of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require any delivery vehicle owned or leased by the United States Postal Service have a climate control unit, and for other purposes.</official-title></form><legis-body id="H3CEEAD69CE0A4FC0997D8F2D169631E4" style="OLC"><section id="H2E75AD3F70184178A7A6FB978AC2F0C2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Peggy Frank Memorial Act</short-title></quote>.</text></section><section id="H686E91F32AD0460EB0C95FAD4B56875F"><enum>2.</enum><header>Requiring Postal Service delivery vehicles to have climate control units</header><subsection commented="no" id="H5AB2B4960A714122B85D284E0B6D5C03"><enum>(a)</enum><header>Current vehicles</header><paragraph id="H36A13DA1229F4B7CA13A9552CA9244A8"><enum>(1)</enum><header>In general</header><text>Not later than 3 years after the date of enactment of this Act, any delivery vehicle owned or leased by the United States Postal Service as of that date shall be modified to include a climate control unit.</text></paragraph><paragraph id="H1A2BBA3DBDF84FE79588F60566D8DE47"><enum>(2)</enum><header>Annual report</header><text display-inline="yes-display-inline">The Postmaster General shall submit a progress report to Congress not later than 1 year after the date of enactment of this Act and annually thereafter until the modifications required under this subsection are complete.</text></paragraph></subsection><subsection id="HBF43DC5B7D274B44AE179679BA6BE0BB"><enum>(b)</enum><header>Future vehicles</header><text>On or after the date of enactment of this Act, the Postmaster General may not purchase or lease any delivery vehicle for use by the United States Postal Service unless that vehicle has a climate control unit.</text></subsection></section></legis-body></bill> 
+

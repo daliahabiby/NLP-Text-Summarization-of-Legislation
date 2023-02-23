@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAD2F4C07C64445B1A14E515135EE4DD5" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6473 IH: To require the Secretary of Homeland Security to publish the number of known or suspected terrorists encountered attempting to enter the United States on a monthly basis, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6473</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220121">January 21, 2022</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> (for himself, <cosponsor name-id="K000386">Mr. Katko</cosponsor>, and <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Secretary of Homeland Security to publish the number of known or suspected terrorists encountered attempting to enter the United States on a monthly basis, and for other purposes.</official-title></form><legis-body id="HB0157E795C89413B97EBCF4CC0E19A06" style="OLC"> 
+<section id="HE42AF5F121E448C587D5A54042826A02" section-type="section-one"><enum>1.</enum><header>Publication by the Department of Homeland Security of the number of known or suspected terrorists encountered attempting to enter the United States</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall, not later than the fifteenth day of each month, publish the total number of known or suspected terrorists, and individuals whose identities are included in the Terrorist Screening Database, encountered by the Department of Homeland Security attempting to enter the United States during the immediately preceding month. Each such report shall—</text> <paragraph id="H1C9A668A5AF749A5AFD18395B809219D"><enum>(1)</enum><text>include the aggregate such number, and such number disaggregated by geographic regions of such encounters, including distinctions relating to whether such encounters were land-, air-, or sea-based; and</text> </paragraph> 
+<paragraph id="H0F2B1FECADBC4DEE8430D32A08524AAF"><enum>(2)</enum><text>be published on a public-facing website of the Department.</text></paragraph></section> </legis-body></bill>
+

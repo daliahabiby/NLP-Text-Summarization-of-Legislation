@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H24E7574DC5CF472E9BBB39FE4CF10FBE" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6907 IH: Cuban Family Reunification Parole Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6907</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220302">March 2, 2022</action-date>
+<action-desc><sponsor name-id="W000797">Ms. Wasserman Schultz</sponsor> (for herself, <cosponsor name-id="S001165">Mr. Sires</cosponsor>, <cosponsor name-id="L000586">Mr. Lawson of Florida</cosponsor>, <cosponsor name-id="D000627">Mrs. Demings</cosponsor>, <cosponsor name-id="C001111">Mr. Crist</cosponsor>, <cosponsor name-id="C001066">Ms. Castor of Florida</cosponsor>, <cosponsor name-id="C001127">Mrs. Cherfilus-McCormick</cosponsor>, and <cosponsor name-id="M001202">Mrs. Murphy of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Homeland Security to reinstate the processing of applications for parole under the Cuban Family Reunification Parole Program, and for other purposes.</official-title>
+</form>
+<legis-body id="HE2DA37CED1BB460E9845A5C169BBEBD7" style="OLC">
+<section id="H8CDFA77B40DC44C3BF2ADF426E9CAC76" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cuban Family Reunification Parole Act of 2022</short-title></quote>.</text></section> <section id="HF389B66F0EEE4F539673D325AAE79C04"><enum>2.</enum><header>Reinstatement of Cuban family reunification parole program</header> <subsection id="H6CB91769DBFF4568980A8DEA0D06573B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 30 days after the date of the enactment of this Act, the Secretary of Homeland Security, in coordination with the Secretary of State, shall—</text>
+<paragraph id="H55E8B258AA504BBC85B8C246B4C6E51B"><enum>(1)</enum><text display-inline="yes-display-inline">begin to reinstate the processing of applications for parole under the Cuban Family Reunification Parole Program at the United States Embassy in Havana, Cuba; and</text></paragraph> <paragraph id="H592E00C4E5824550BD0FB8EC8CC36F86"><enum>(2)</enum><text>prioritize applications described in paragraph (1) in the order in which they were received by the United States Citizenship and Immigration Services before the date of the enactment of this Act.</text></paragraph></subsection>
+<subsection id="HC256188C0DF94FAEB99E96653C206A2C"><enum>(b)</enum><header>Additional personnel</header>
+<paragraph id="H5619A876206E46FAA19166814EC56228"><enum>(1)</enum><header>Assignment</header><text>To carry out subsection (a)—</text> <subparagraph id="H424CD1EDCB4B406F80A595ACA1379214"><enum>(A)</enum><text display-inline="yes-display-inline">the Secretary of Homeland Security shall assign to the United States Embassy in Havana, Cuba, appropriate personnel from the United States Citizenship and Immigration Services; and</text></subparagraph>
+<subparagraph id="H8AC87125589D44A19377F63F011B615B"><enum>(B)</enum><text display-inline="yes-display-inline">the Secretary of State, with the permission of the Secretary of Homeland Security, shall assign to the United States Embassy in Havana, Cuba, appropriate personnel from the Department of State. </text></subparagraph></paragraph> <paragraph id="H37C771FDE20A44838E737369578ECBCC"><enum>(2)</enum><header>Safety of personnel</header><text>The Secretary of Homeland Security and Secretary of State shall take such actions as may be necessary to ensure the safety of such personnel and to ensure that such personnel are available a minimum of one business day each week for the Cuban Family Reunification Parole Program.</text></paragraph></subsection>
+<subsection id="H87B6FF2264134AA699CC6988D7F6BA84"><enum>(c)</enum><header>Accessibility</header><text display-inline="yes-display-inline">To carry out subsection (a), the Secretary of Homeland Security, in coordination with the Secretary of State, may to the extent practicable make available to applicants for parole under the Cuban Family Reunification Parole Program video teleconference capabilities and may fly personnel assigned under subsection (b) to the United State Embassy in Havana, Cuba, for time sufficient to process applications in a safe manner. In carrying out this subsection, the Secretaries shall ensure that appropriate privacy and security requirements are satisfied for all personnel involved. </text></subsection> <subsection id="H195D046E36F548F99C80D3A2408AC469"><enum>(d)</enum><header>Duration</header><text display-inline="yes-display-inline">Parole granted under the Cuban Family Reunification Parole Program shall be valid for an initial period of at least two years. </text></subsection>
+<subsection id="H2AFF1C263A9B4DAFBC158DA606AC5F4D"><enum>(e)</enum><header>Expeditious processing</header><text display-inline="yes-display-inline">The Secretary of Homeland Security, in coordination with the Secretary of State, shall ensure that applications for parole under the Cuban Family Reunification Parole Program that were filed before the date of the enactment of this Act have started being adjudicated not more than six months after the date of the enactment of this Act.</text></subsection></section> </legis-body> </bill> 
+

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HECCB539128544DA28DC130FEAFE0558A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9492 IH: International Megan’s Law Improvement Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9492</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221212">December 12, 2022</action-date><action-desc><sponsor name-id="H001077">Mr. Higgins of Louisiana</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend Public Law 110&#8211;457 to modify the provision relating to unique passport identifiers for covered sex offenders.</official-title></form><legis-body id="H5B73C7D80B114203BCAE5BBDD25853FC" style="OLC">
+<section id="H574F11D00EE444F1982A6EBB78055B1A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>International Megan’s Law Improvement Act of 2022</short-title></quote>.</text></section> <section id="H531FD401297C416C86B4009783EDDB16" section-type="subsequent-section"><enum>2.</enum><header>Modification of provision relating to unique passport identifiers for covered sex offenders</header><text display-inline="no-display-inline">Section 240(c)(1)(B) of <external-xref legal-doc="public-law" parsable-cite="pl/110/457">Public Law 110–457</external-xref> (<external-xref legal-doc="usc" parsable-cite="usc/22/212b">22 U.S.C. 212b(c)(1)(B)</external-xref>) is amended by adding at the end before the semicolon the following: <quote>or has an existing requirement prior to relocating to another country of residence that would require re-registration under the sex offender registration program of any jurisdiction upon return to that jurisdiction</quote>. </text> </section> 
+</legis-body></bill>
+

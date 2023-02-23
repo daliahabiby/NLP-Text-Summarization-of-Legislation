@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H68419F152239441B93C04B738ADAC61E" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 1281 ENR: To name the Department of Veterans Affairs community-based outpatient clinic in Gaylord, Michigan, as the “Navy Corpsman Steve Andrews Department of Veterans Affairs Health Care Clinic”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 1281</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To name the Department of Veterans Affairs community-based outpatient clinic in Gaylord, Michigan, as the <quote>Navy Corpsman Steve Andrews Department of Veterans Affairs Health Care Clinic</quote>.</official-title> 
+</form> 
+<legis-body id="HE438683FB3664DA392427500F73A8B07" style="OLC"> 
+<section id="H1FAF4C39F07247318880638EEEBB0B00" section-type="section-one"><enum>1.</enum><header>Name of Department of Veterans Affairs community-based outpatient clinic, Gaylord, Michigan</header><text display-inline="no-display-inline">The Department of Veterans Affairs community-based outpatient clinic located at 2782 S. Otsego Avenue, Gaylord, Michigan, shall after the date of the enactment of this Act be known and designated as the <quote>Navy Corpsman Steve Andrews Department of Veterans Affairs Health Care Clinic</quote>. Any reference to such clinic in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Navy Corpsman Steve Andrews Department of Veterans Affairs Health Care Clinic.</text></section> </legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation> </bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3047574A45454B8C8B9AB324D810746E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7604 IH: Partial Birth Abortion Is Murder Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7604</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220427">April 27, 2022</action-date><action-desc><sponsor name-id="M001190">Mr. Mullin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 18, United States Code, to provide for enhanced penalties for partial birth abortions.</official-title></form><legis-body id="H5413FAFE18CC4A8A852C433CBBD91ABC" style="OLC"><section id="H160709BE3C6E48EE89844BCC8390B2C2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Partial Birth Abortion Is Murder Act</short-title></quote>.</text></section><section id="HF629F1BD292448D5B6E4E38295B96C83"><enum>2.</enum><header>Increased penalty</header><text display-inline="no-display-inline">Section 1531(a) of title 18, United States Code, is amended by striking <quote>Any physician who, in or affecting interstate or foreign commerce, knowingly performs a partial-birth abortion and thereby kills a human fetus shall be fined under this title or imprisoned not more than 2 years, or both.</quote> and inserting the following: <quote>Any physician who, in or affecting interstate or foreign commerce, knowingly performs a partial-birth abortion and thereby kills a human fetus shall be imprisoned for any term of years or for life (but in no event for not less than 5 years), may in addition be fined under this title, and shall not be eligible for supervised release.</quote>. </text></section></legis-body></bill> 
+

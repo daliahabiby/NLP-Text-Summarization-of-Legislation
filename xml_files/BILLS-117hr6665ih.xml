@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H713523192B1F476FBB52E8C951B13911" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6665 IH: Ukraine and Southern Border Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6665</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220209">February 9, 2022</action-date><action-desc><sponsor name-id="C001104">Mr. Cawthorn</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Defense to ensure that the number of members of the Armed Forces who are deployed by reason of the situation in Ukraine does not exceed the number of members of the Armed Forces who are deployed to the Southern Border of the United States.</official-title></form><legis-body id="H13A075B892334B13B946915C7CD646A7" style="OLC"><section id="H1ED19C9865F441718F4554945661719B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ukraine and Southern Border Act</short-title></quote> or the <quote><short-title>USB Act</short-title></quote>. </text></section><section id="H6398ECAD65A64D6CA9DA06B3018E3E13"><enum>2.</enum><header>Deployment of at least equal numbers of members of the Armed Forces to Southern Border of United States as by reason of situation in Ukraine</header><text display-inline="no-display-inline">The Secretary of Defense shall ensure that the number of members of the Armed Forces who are deployed by reason of the situation in Ukraine does not exceed the number of members of the Armed Forces who are deployed to the Southern Border of the United States.</text></section></legis-body></bill> 
+

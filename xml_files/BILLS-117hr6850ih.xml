@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE4A14DD009D54107B31C979B8E1F9A99" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6850 IH: Salary Transparency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6850</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220225">February 25, 2022</action-date>
+<action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Fair Labor Standards Act to require an employer providing an employment opportunity to disclose the wage range for such employment opportunity to employees and applicants for employment, and for other purposes.</official-title>
+</form>
+<legis-body id="HEAE42E0493164920B67D55E4E2A047C6" style="OLC"> 
+<section id="HF43DBB311AD14D7DBDB08156996A3AE6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Salary Transparency Act</short-title></quote>. </text> </section> <section id="HBD968B85E5954682AC669AB66EBAF85A"><enum>2.</enum><header>Prohibitions relating to wage disclosures</header> <subsection id="H96D36DC8A47E4F838124D867C2D9F16A"><enum>(a)</enum><header>In general</header><text>The Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/201">29 U.S.C. 201 et seq.</external-xref>) is amended by inserting after section 7 the following new section:</text> 
+<quoted-block id="H366A6DA2AB884A54B138598E3A5C6E6A" style="OLC"> 
+<section id="HF44A258B2D4F43C89C68B6E66656D742" section-type="subsequent-section"><enum>8.</enum><header>Requirements and prohibitions relating to wage disclosures</header> 
+<subsection id="H44C8A4B6477848CF8024098C10BC2E51" display-inline="no-display-inline"><enum>(a)</enum><header>In general</header><text>It shall be an unlawful practice for an employer to—</text> <paragraph id="H7789FDA4421A45ACAA859AC3D5755651" display-inline="no-display-inline"><enum>(1)</enum><text>fail or refuse to disclose, in any public or internal posting for an employment opportunity, the wage or wage range for such employment opportunity;</text></paragraph> 
+<paragraph id="HE505E3BCF44D4A7C83BB8D6BDB39CD73"><enum>(2)</enum><text display-inline="yes-display-inline">in any case in which a public or internal posting for an employment opportunity has not been made available to an applicant for such employment opportunity, fail or refuse to disclose to such applicant the wage or wage range for such employment opportunity prior to discussing compensation with the applicant and at any time upon the applicant’s request;</text></paragraph> <paragraph id="H93797990A7994302B929E8D6636BB4E1"><enum>(3)</enum><text display-inline="yes-display-inline">fail or refuse to disclose to an employee the wage or wage range for the employee’s position upon hire and at least annually thereafter and at any time upon the employee’s request; or</text></paragraph> 
+<paragraph id="HA8E7AFA219094078B50373EC7974101B"><enum>(4)</enum><text display-inline="yes-display-inline">refuse to interview, hire, promote, or employ an employee or applicant for employment, or in any other manner retaliate against an employee or applicant for employment, for exercising any rights under this section.</text></paragraph> </subsection> <subsection id="HF39DA2E32D054E72B4FF9532DEE3F99E"><enum>(b)</enum><header>Definition</header><text display-inline="yes-display-inline">In this section, the term <quote>wage range</quote>, with respect to an employment opportunity, means the range of wages, or salaries and other forms of compensation, that the employer providing such employment opportunity anticipates in good faith relying on in setting the pay for such employment opportunity. Such term may include reference to any applicable pay scale, previously determined wage range for the position, the actual wage range for those currently holding equivalent positions, or the budgeted amount for the position, as applicable. For the purposes of subsection (a)(3), such term may include reference to any applicable pay scale, previously determined wage range for the position, or the wage range for incumbents in equivalent positions, as applicable.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H24600A2FA19346F78237FD45043961A5"><enum>(b)</enum><header>Penalties</header><text>Section 16 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/29/216">29 U.S.C. 216</external-xref>) is amended by adding at the end the following new subsection:</text> <quoted-block id="H0A4CEAAFE24644FCA4018C0EBC0899A6" style="OLC"> <subsection id="H242CF5D3EC074B4ABB4974D676B919F6"><enum>(f)</enum> <paragraph commented="no" display-inline="yes-display-inline" id="HE727F48E16DC461098788ADFC9ABF779"><enum>(1)</enum><text>Any person who violates the provisions of section 8 shall—</text> 
+<subparagraph id="H9F5F13780BB140E6872668FAA35B4985" indent="up1"><enum>(A)</enum><text>be subject to a civil penalty of $5,000 for a first violation, increased by an additional $1,000 for each subsequent violation, not to exceed $10,000; and</text></subparagraph> <subparagraph id="H7D765255878A425D80A78F8D3EF15EDF" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">be liable to each employee or applicant for employment who was the subject of the violation for statutory damages between $1,000 and $10,000, or actual damages, whichever is greater, plus reasonable attorneys’ fees, and shall be subject to such injunctive relief as may be appropriate.</text></subparagraph></paragraph> 
+<paragraph id="H2584E9ACF84E441AA46BB6EBF069CE6B" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">An action to recover the liability described in paragraph (1)(B) may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees or applicants for employment for and on behalf of—</text> <subparagraph id="H27D76DB226344E848D0AB70548890C49"><enum>(A)</enum><text display-inline="yes-display-inline">the employees or applicants for employment; and</text></subparagraph> 
+<subparagraph id="H40455D97FBE44E17811CE878A989AF7B"><enum>(B)</enum><text display-inline="yes-display-inline">other employees or applicants for employment similarly situated.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> </bill> 
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" public-private="public" dms-id="H28B8ECE3DE1549599F21493AD7A185EF">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6483 IH: Improved Transparency of Foreign Drug Manufacturing Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6483</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220125">January 25, 2022</action-date>
+<action-desc><sponsor name-id="E000215">Ms. Eshoo</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Federal Food, Drug, and Cosmetic Act to clarify reporting requirements for establishments within a foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of an active pharmaceutical ingredient, and for other purposes.</official-title>
+</form>
+<legis-body id="HEE3CF75D2F274F13944B7801FD666CAB">
+<section id="HFFB5122E979548BB8199E64AA28B222E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improved Transparency of Foreign Drug Manufacturing Act of 2022</short-title></quote>.</text></section> <section id="H88A1E92606334F3E89D0E09A0EC11E80"><enum>2.</enum><header>Reporting requirement for drug manufacturers</header> <subsection id="H58439D6C48A24299816CEB88038AB6E9"><enum>(a)</enum><header>Establishments in a foreign country</header><text>Section 510(i) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360">21 U.S.C. 360(i)</external-xref>) is amended by inserting at the end the following:</text>
+<quoted-block id="H8D051DC84705418C90C7B4D536403F4A" style="OLC">
+<paragraph id="H2EC798B2106C4B46B91B5954AB4DDFE1"><enum>(5)</enum><text>The requirements of paragraphs (1) and (2) shall apply to establishments within a foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of any drug, including the active pharmaceutical ingredient, that is required to be listed pursuant to subsection (j). Such requirements shall apply regardless of whether the drug or active pharmaceutical ingredient undergoes further manufacture, preparation, propagation, compounding, or processing at a separate establishment or establishments outside the United States prior to being imported or offered for import into the United States.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H209E77B09BDE475D90B82BA0B857B917"><enum>(b)</enum><header>Listing of drugs</header><text>Section 510(j)(1) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360">21 U.S.C. 360(j)(1)</external-xref>) is amended—</text>
+<paragraph id="H41EB86826985474790D4EA6B7942D22A"><enum>(1)</enum><text>in subparagraph (D), by striking <quote>and</quote> at the end;</text></paragraph> <paragraph id="HF7ECE9F5B3594148AB9624B3A24F7A86"><enum>(2)</enum><text>in subparagraph (E), by striking the period at the end and inserting <quote>; and</quote>; and</text></paragraph>
+<paragraph id="H928679801F49472EBF240C1905A9AABD"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block id="H3A6AB3BC1B984B30A8F5BBE06F7E8C7A" style="OLC"> <subparagraph id="H40002B9D993E4DBA864948B6A1544E9F"><enum>(F)</enum><text>in the case of a drug contained in the applicable list, a certification that the registrant has—</text>
+<clause id="H03E12FBD13394D81AED399525E64F8B7"><enum>(i)</enum><text>identified every other known establishment where manufacturing is performed for the drug; and</text></clause> <clause id="H3703A55021214039A37A6B3536CF4441"><enum>(ii)</enum><text>notified each known foreign establishment engaged in the manufacture, preparation, propagation, compounding, or processing of the drug, including the active pharmaceutical ingredient, of the inclusion of the drug in the list and the obligation to register.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection>
+<subsection id="HADF32DEAD8DB4ED48DD3BC1A7B7296CD"><enum>(c)</enum><header>Quarterly reporting on amount of drugs manufactured</header><text>Section 510(j)(3)(A) of the Federal Food, Drug, and Cosmetic Act (as added by section 3112 of the CARES Act (<external-xref legal-doc="public-law" parsable-cite="pl/116/136">Public Law 116–136</external-xref>)) is amended by striking <quote>annually</quote> and inserting <quote>once during the month of March of each year, once during the month of June of each year, once during the month of September of each year, and once during the month of December of each year</quote>.</text></subsection></section> </legis-body> </bill> 
+

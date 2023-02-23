@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4B81DA23859949CE8903C11510039011" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8398 IH: Driver Reimbursement Increase for Veteran Equity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8398</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220715">July 15, 2022</action-date><action-desc><sponsor name-id="B001285">Ms. Brownley</sponsor> (for herself and <cosponsor name-id="W000800">Mr. Welch</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to increase the mileage rate offered by the Department of Veterans Affairs through their Beneficiary Travel program for health related travel, and for other purposes.</official-title></form><legis-body id="H1BFE8FA719F44B429221EB22865028B0" style="OLC"> 
+<section id="H3F4CB4B9D9ED48A58F8844E5CDFF9977" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Driver Reimbursement Increase for Veteran Equity Act</short-title></quote> or the <quote><short-title>DRIVE Act</short-title></quote>. </text></section> <section id="HC349FBB3510C4DF0A47C5294572BB700"><enum>2.</enum><header>VA payments or allowances for beneficiary travel</header><text display-inline="no-display-inline">Section 111(g) of title 38, United States Code, is amended—</text> 
+<paragraph id="H6AAF51C37D2D4590A669761A85EB587F"><enum>(1)</enum><text>by striking <quote><header-in-text level="paragraph" style="USC"><enum-in-header>(1) </enum-in-header></header-in-text>Beginning one year after the date of the enactment of the Caregivers and Veterans Omnibus Health Services Act of 2010, the Secretary may</quote> and inserting <quote>The Secretary shall</quote>; </text></paragraph> <paragraph id="H13A2E89EB2EA4C0BB53CC789BED72473"><enum>(2)</enum><text display-inline="yes-display-inline">by striking <quote>to be</quote> and inserting <quote>to be at least</quote>; and </text></paragraph> 
+<paragraph id="H26F7FDC7CDDA4A8EB2F7C8E8D8CD47B8"><enum>(3)</enum><text>by striking paragraph (2). </text></paragraph></section> </legis-body></bill>
+

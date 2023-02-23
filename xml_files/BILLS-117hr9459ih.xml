@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE66B92AD68304283AB159EE8AE3DE6B4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9459 IH: To amend the Securities Exchange Act of 1934 to exclude qualified institutional buyers and institutional accredited investors when calculating holders of a security for purposes of the mandatory registration threshold under such Act, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9459</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221207">December 7, 2022</action-date><action-desc><sponsor name-id="M001156">Mr. McHenry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Securities Exchange Act of 1934 to exclude qualified institutional buyers and institutional accredited investors when calculating holders of a security for purposes of the mandatory registration threshold under such Act, and for other purposes.</official-title></form><legis-body id="HF7910DB9CEEC4B9587DAB356E4B0C4CA" style="OLC"> 
+<section id="H2B13F635C23F485FA8A9BAD8F1582BD8" section-type="section-one"><enum>1.</enum><header>Exclusions from mandatory registration threshold</header> 
+<subsection id="H96D99C773AB842668D37745779011D9F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 12(g)(1) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78l">15 U.S.C. 78l(g)(1)</external-xref>) is amended—</text> <paragraph id="H0563E5DAEB6E4BF4B92554E4AB2F79F4"><enum>(1)</enum><text>in paragraph (A)(i), by inserting after <quote>persons</quote> the following: <quote>(that are not a qualified institutional buyer or an institutional accredited investor)</quote>; and</text></paragraph> 
+<paragraph id="HB1942E91CB9E42E9A335BEEF1C015B13"><enum>(2)</enum><text display-inline="yes-display-inline">in paragraph (B), by inserting after <quote>persons</quote> the following: <quote>(that are not a qualified institutional buyer or an institutional accredited investor)</quote>.</text></paragraph></subsection> <subsection id="HC37E3E73B4814BCD993708F995879B00"><enum>(b)</enum><header>Nonapplicability of general exemptive authority</header><text display-inline="yes-display-inline">Section 36 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78mm">15 U.S.C. 78mm</external-xref>) shall not apply to the matter inserted by the amendments made by subsection (a).</text> </subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H7CE3744522ED4D1FA5E804704AB8C0BE" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6089 EH: Stop Iranian Drones Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 6089</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To clarify that section 107 of the Countering America’s Adversaries Through Sanctions Act applies sanctions with respect to unmanned combat aerial vehicles following a 2019 change by the United Nations providing additional clarity to the United Nations Register of Conventional Arms.</official-title> 
+</form> 
+<legis-body id="H742B70B7C94148779F04EE2AFE83B080" style="OLC"><pagebreak/>
+<section id="H793F6A7BBF144A05AAA7E74086BA7894" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Iranian Drones Act</short-title></quote>.</text></section> <section id="HC8EC5F5F5E4149028C6270BBFBC5B56D"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> 
+<paragraph id="H4B6B858AA1B54496BEF1DCE0D8278189"><enum>(1)</enum><text display-inline="yes-display-inline">A July 15, 2013, United Nations General Assembly Report on the continuing operation of the United Nations Register of Conventional Arms and its further development (document A/68/140) states in paragraph 45, <quote>The Group noted the discussion of the 2006 Group that category IV already covered armed unmanned aerial vehicles and of the 2009 Group on a proposal to include a new category for such vehicles. The Group reviewed proposals for providing greater clarity to category IV.</quote>.</text></paragraph> <paragraph id="HBC8F534A390D42A7AB002B01CF2E5600"><enum>(2)</enum><text display-inline="yes-display-inline">Section 107 of the Countering America’s Adversaries Through Sanctions Act (<external-xref legal-doc="usc" parsable-cite="usc/22/9406">22 U.S.C. 9406</external-xref>), enacted August 2, 2017, requires the President to impose sanctions on any person that the President determines <quote>knowingly engages in any activity that materially contributes to the supply, sale, or transfer directly or indirectly to or from Iran, or for the use in or benefit of Iran, of any battle tanks, armored combat vehicles, large caliber artillery systems, combat aircraft, attack helicopters, warships, missiles or missile systems, as defined for the purpose of the United Nations Register of Conventional Arms, or related materiel, including spare parts</quote>.</text></paragraph> 
+<paragraph id="H994FA522929845B2A9734E05A984AE23"><enum>(3)</enum><text>In 2019, the United Nations formally changed the heading of category IV of the United Nations Register of Conventional Arms to <quote>combat aircraft and unmanned combat aerial vehicles</quote>.</text></paragraph></section> <section id="HC33AFA1FCC6D403684B89FB44C428985"><enum>3.</enum><header>Statement of policy</header><text display-inline="no-display-inline">It shall be the policy of the United States to prevent Iran and Iranian-aligned terrorist and militia groups from acquiring unmanned aerial vehicles, including commercially available component parts, that can be used in attacks against United States persons and partner nations. </text></section> 
+<section id="H1C0EE89B49C7454CABEE9617A62CF0AF"><enum>4.</enum><header>Amendment to Countering America’s Adversaries Through Sanctions Act relating to sanctions with respect to Iran</header> 
+<subsection id="HDD1C5AE343754E9BB9A6C1590434E7E4"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 107 of the Countering America’s Adversaries Through Sanctions Act (<external-xref legal-doc="usc" parsable-cite="usc/22/9406">22 U.S.C. 9406</external-xref>) is amended—</text> <paragraph id="H69C306035DA04FE1BDCFD8646937D690"><enum>(1)</enum><text>in the section heading, by striking <quote><header-in-text level="section" style="OLC">enforcement of arms embargos</header-in-text></quote> and inserting <quote><header-in-text level="section" style="OLC">sanctions with respect to major conventional arms</header-in-text></quote>; and</text></paragraph> 
+<paragraph id="H47C911F96C24473393E2EE4066442176"><enum>(2)</enum><text>in subsection (a)(1), by inserting <quote>or unmanned combat aerial vehicles</quote> after <quote>combat aircraft</quote>.</text></paragraph></subsection> <subsection id="H92329184500B4AB2B38D57B5CCFE4004"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of contents for the Countering America’s Adversaries Through Sanctions Act is amended by striking the item relating to section 107 and inserting the following:</text> 
+<quoted-block style="OLC" id="H31A55CB446FC4BF59BC21C5EBE8729AC" display-inline="no-display-inline"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">Sec. 107. Sanctions with respect to major conventional arms.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H23DE6496AE5945819AAECD9DE02C0BA9"><enum>(c)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section take effect on the date of the enactment of this Act and apply with respect to any person that knowingly engages in any activity that materially contributes to the supply, sale, or transfer directly or indirectly to or from Iran, or for the use in or benefit of Iran, of any unmanned combat aerial vehicles, as defined for the purpose of the United Nations Register of Conventional Arms, before, on, or after such date of enactment. </text></subsection></section> <section id="HAC31106F0BBF4405AEE8A6D7516285CC" display-inline="no-display-inline" section-type="subsequent-section"><enum>5.</enum><header>Determination of budgetary effects</header><text display-inline="no-display-inline">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</text></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20220427" chamber="House">Passed the House of Representatives April 27, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> 
+<endorsement display="yes"></endorsement> 
+</bill> 
+
+

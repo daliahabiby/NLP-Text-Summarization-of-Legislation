@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5AFB4FEB7D2E41FC9E08C7BE62556E85" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8714 IH: Alien Criminal Expulsion Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8714</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220812">August 12, 2022</action-date><action-desc><sponsor name-id="T000165">Mr. Tiffany</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Immigration and Nationality Act to halt the issuance of immigrant and nonimmigrant visas to nationals of recalcitrant countries, and for other purposes.</official-title></form><legis-body id="H30C6F681F98549AA83736398DD1777A2" style="OLC"><section id="H4E28B6D8B2D64889AEE9E8DEC7440B5F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Alien Criminal Expulsion Act</short-title></quote> or the <quote><short-title>ACE Act</short-title></quote>.</text></section><section id="H2FA38E66056C4855BA838DA4D5A82FCB"><enum>2.</enum><header>Mandatory suspension of all visas</header><text display-inline="no-display-inline">Section 243(d) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1253">8 U.S.C. 1253(d)</external-xref>) is amended—</text><paragraph id="H75E3171AD08A4AC0B0496E7F38B62399"><enum>(1)</enum><text>by striking <quote>Attorney General</quote> each place it appears and inserting <quote>Secretary of Homeland Security</quote>;</text></paragraph><paragraph id="H41572D5BC9974DAD9B22DCF6FC9E1E73"><enum>(2)</enum><text>by striking <quote>or nonimmigrant visas, or both,</quote> and inserting <quote>and nonimmigrant visas</quote>; and </text></paragraph><paragraph id="H071E14B4886C421EBCA3E1D8D5023ABA"><enum>(3)</enum><text>by striking <quote>notifies the Secretary</quote> and inserting <quote>and the Secretary of State notify Congress</quote>.</text></paragraph></section></legis-body></bill> 
+

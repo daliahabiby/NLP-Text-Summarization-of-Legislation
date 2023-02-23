@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB047B673D16C4E5D9CD2ABC511ED0737" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8607 IH: To direct the Secretary of Transportation to give priority consideration for certain Department of Transportation grant programs to eligible projects that improve or build resiliency in the supply chain, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8607</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220729">July 29, 2022</action-date><action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Transportation to give priority consideration for certain Department of Transportation grant programs to eligible projects that improve or build resiliency in the supply chain, and for other purposes.</official-title></form><legis-body id="H8DE85B6083AC434F8EC0F33E77352B27" style="OLC"><section id="H944EB63949224B9A869DC469A03CBD45" section-type="section-one"><enum>1.</enum><header>Prioritization for supply chain resiliency</header><text display-inline="no-display-inline">In making grants under section 117 of title 23, United States Code, and sections 6701 and 6702 of title 49, United States Code, in addition to adhering to any prioritization, project evaluation and selection criteria, set aside, State limitation, or any other criteria, limitation, or requirements described under such sections, the Secretary of Transportation shall give priority consideration to eligible projects, including multimodal projects, that improve or build resiliency in the supply chain. </text></section></legis-body></bill> 
+

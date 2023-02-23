@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" dms-id="H12BA3C962ECE4E888CA88C47AB1E4C21" public-private="public" key="G" bill-type="olc" stage-count="1"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9308 : To designate the facility of the United States Postal Service located at 6401 El Cajon Boulevard in San Diego, California, as the “Susan A. Davis Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IIB</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9308</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date>December 5, 2022</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 6401 El Cajon Boulevard in San Diego, California, as the <quote>Susan A. Davis Post Office</quote>.</official-title></form><legis-body id="H98542E12C2AA44248CB5715506A9EAF5" style="OLC"><section id="HFDF9398FED0B453282A654FCED3AB6B8" section-type="section-one"><enum>1.</enum><header>Susan A. Davis Post Office</header><subsection id="HDAB4F050B07B48DD87751B0C540093C2"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 6401 El Cajon Boulevard in San Diego, California, shall be known and designated as the <quote>Susan A. Davis Post Office</quote>.</text></subsection><subsection id="HFF86332467F34B5FA586C5C56B9D1134"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Susan A. Davis Post Office</quote>.</text></subsection></section></legis-body><attestation><attestation-group><attestation-date date="20221201" chamber="House">Passed the House of Representatives December 1, 2022.</attestation-date><attestor display="yes">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation></bill> 
+

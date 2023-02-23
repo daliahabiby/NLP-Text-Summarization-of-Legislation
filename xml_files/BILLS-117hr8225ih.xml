@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE5BBC9A292CE4A26B9275E7FD215C6B8" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8225 IH: To amend title 38, United States Code, to improve the treatment of anesthesiologist assistants in the Veterans Health Administration of the Department of Veterans Affairs.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8225</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220624">June 24, 2022</action-date><action-desc><sponsor name-id="C001104">Mr. Cawthorn</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to improve the treatment of anesthesiologist assistants in the Veterans Health Administration of the Department of Veterans Affairs.</official-title></form><legis-body id="H3391904B0BAD4D61832966D258713C0B" style="OLC"><section id="HA72545E163084E73960AC41A6594DCD9" section-type="section-one"><enum>1.</enum><header>Anesthesiologist assistants in Veterans Health Administration</header><subsection id="H49241FDC26AC4F648B16F73C5868EDFD"><enum>(a)</enum><header>Appointments of anesthesiologist assistants</header><text display-inline="yes-display-inline">Section 7401(1) of title 38, United States Code, is amended by inserting <quote>anesthesiologist assistants,</quote> after <quote>physician assistants,</quote>. </text></subsection><subsection id="H5105C6D133164B7BA58D2DD3B5D99FC6"><enum>(b)</enum><header>Additional pay for anesthesiologist assistants</header><text display-inline="yes-display-inline">Section 7454(a) of title 38, United States Code, is amended by inserting <quote>, anesthesiologist assistants,</quote> after <quote>Physician assistants</quote>.</text></subsection></section></legis-body></bill> 
+

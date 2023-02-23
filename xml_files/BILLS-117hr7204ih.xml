@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H14904BE5AEA94C1E8B3A54DE483E597F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7204 IH: Returning Amtrak To Economic Sustainability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7204</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220324">March 24, 2022</action-date><action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> (for himself, <cosponsor name-id="G000577">Mr. Graves of Louisiana</cosponsor>, <cosponsor name-id="G000579">Mr. Gallagher</cosponsor>, <cosponsor name-id="M000194">Ms. Mace</cosponsor>, <cosponsor name-id="M001199">Mr. Mast</cosponsor>, <cosponsor name-id="N000026">Mr. Nehls</cosponsor>, and <cosponsor name-id="P000605">Mr. Perry</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 49, United States Code, to encourage economic sustainability of intercity passenger rail service, and for other purposes.</official-title></form><legis-body id="H7B0B4A74D9E740A0BBDA3DB750F2252C" style="OLC"><section id="H0605534A82C74CE0A8A1A83A6C0E0410" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Returning Amtrak To Economic Sustainability Act</short-title></quote> or the <quote><short-title>RATES Act</short-title></quote>. </text></section><section id="H75383EEAC2564FE68F8E49CB9FE6AD2C"><enum>2.</enum><header>Amtrak mission and goals</header><subsection id="HFE2EDAE6F30B48019F0D17B52599B5F6"><enum>(a)</enum><header>Findings</header><text>Section 24101(a)(5) of title 49, United States Code, is amended by striking <quote>Modern</quote> and inserting <quote>Economically sustainable</quote>.</text></subsection><subsection id="H78E5A54968CD4365A2B2691D4CC8B8BC"><enum>(b)</enum><header>Mission</header><text>Section 24101(b) of title 49, United States Code, is amended by inserting <quote>, while ensuring route profitability proportional to the Federal share of investment,</quote> before <quote>consisting of high quality</quote>.</text></subsection><subsection id="H7A318DC708B84F348EABA6DDA3865F53"><enum>(c)</enum><header>Goals</header><text>Section 24101(c)(1) of title 49, United States Code, is amended by striking <quote>use its best business judgment in acting to</quote>.</text></subsection></section></legis-body></bill> 
+

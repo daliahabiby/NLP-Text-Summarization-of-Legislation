@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD74AAD259D62437BAC8394CB0F67483B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8986 IH: State and Local Corrections Officer Retirement Fairness Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8986</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220926">September 26, 2022</action-date><action-desc><sponsor name-id="K000380">Mr. Kildee</sponsor> (for himself and <cosponsor name-id="S001199">Mr. Smucker</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to extend the exemption from the retirement plan early withdrawal penalty for public safety officers to State and local government corrections employees.</official-title></form><legis-body id="H0F394B6172934A6C86E8175E828D9C6D" style="OLC"> 
+<section id="HF14D79857FD148F2AD645D0AB88B9291" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>State and Local Corrections Officer Retirement Fairness Act of 2022</short-title></quote>.</text></section> <section section-type="subsequent-section" id="H50A746A52A77402B98F1F8C0AA6B5ACB"><enum>2.</enum><header>Exemption from early withdrawal penalty for certain State and local government corrections employees</header> <subsection id="H5547080A52FF43FD82F0AC17515C3836"><enum>(a)</enum><header>In general</header><text>Clause (i) of <external-xref legal-doc="usc" parsable-cite="usc/26/72">section 72(t)(10)(B)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>or emergency medical services</quote> and inserting <quote>emergency medical services, or services as a corrections officer or as a forensic security employee providing for the care, custody, and control of forensic patients</quote>.</text></subsection> 
+<subsection id="HEF2A76934BB9418B8C63AE3091297C37"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text></subsection></section> </legis-body></bill>
+

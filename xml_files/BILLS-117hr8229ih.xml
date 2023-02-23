@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDE8782218BBB4A37A3134CA1B551EECA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8229 IH: Telemental Health Parity Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8229</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220624">June 24, 2022</action-date><action-desc><sponsor name-id="M001135">Ms. Manning</sponsor> (for herself, <cosponsor name-id="M001163">Ms. Matsui</cosponsor>, and <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committees on <committee-name committee-id="HED00">Education and Labor</committee-name>, and <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To clarify the applicability of certain parity provisions to mental health and substance use disorder telehealth benefits.</official-title></form><legis-body id="H112DE7ECCBB34A08BDA5C58641095B0E" style="OLC"><section id="HBCEB0A42C9CA421E91DBA41C751BD430" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Telemental Health Parity Act of 2022</short-title></quote>.</text></section><section id="HA949A957D94043B5834F280F1A98D26F" section-type="subsequent-section"><enum>2.</enum><header>Clarifying the applicability of certain parity provisions to mental health and substance use disorder telehealth benefits</header><text display-inline="no-display-inline">The provisions of sections 2726 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-26">42 U.S.C. 300gg–26</external-xref>), 712 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1185a">29 U.S.C. 1185a</external-xref>), and 9812 of the Internal Revenue Code of 1986 shall apply to benefits for mental health or substance use disorder services furnished via telehealth in the same manner as such provisions apply to benefits for mental health or substance use disorder services that are furnished in-person. </text></section></legis-body></bill> 
+

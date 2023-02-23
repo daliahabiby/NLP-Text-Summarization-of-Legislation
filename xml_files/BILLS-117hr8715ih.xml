@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDA00EA8FFEDC42BC875B8CDBD91D22AD" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8715 IH: Nulhegan River and Paul Stream Wild and Scenic River Study Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8715</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220812">August 12, 2022</action-date><action-desc><sponsor name-id="W000800">Mr. Welch</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Wild and Scenic Rivers Act to designate the Nulhegan River and Paul Stream in the State of Vermont for potential addition to the national wild and scenic rivers system, and for other purposes.</official-title></form><legis-body id="HDA31D77FEC9A42BFAA211A3A89EC5633" style="OLC"> 
+<section id="HA7266DE870814A3B97AA2A9D32637BC5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Nulhegan River and Paul Stream Wild and Scenic River Study Act of 2022</short-title></quote>.</text></section> <section id="H7D71647C280149DEABE46D2D20D223A7"><enum>2.</enum><header>Amendments to the Wild and Scenic Rivers Act</header> <subsection id="HF210F78006B54245892E4821B0C46117"><enum>(a)</enum><header>Designation for study</header><text display-inline="yes-display-inline">Section 5(a) of the Wild and Scenic Rivers Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1276">16 U.S.C. 1276(a)</external-xref>) is amended by adding at the end the following: </text> 
+<quoted-block style="OLC" id="H206A98BA57F64CD39A3478BF453A71A2" display-inline="no-display-inline"> 
+<paragraph id="H1FE812AD5DD94F4AA1F280610058B8E1"><enum>(145)</enum><header>Nulhegan River and Paul Stream, Vermont</header><text display-inline="yes-display-inline">The following segments:</text> <subparagraph id="H5C724D7FBD1342328DDA1E41BDCFEDF9"><enum>(A)</enum><text>The approximately 22-mile segment of the main stem of the Nulhegan River from the headwaters near Nulhegan Pond to the confluence with the Connecticut River, and any associated tributaries (including the North, Yellow, Black, and East Branches).</text></subparagraph> 
+<subparagraph id="H1F4A97A74F8E4D73B036F3C090BA325E"><enum>(B)</enum><text>The approximately 18-mile segment of Paul Stream from the headwaters on West Mountain to the confluence with the Connecticut River, and any associated tributaries.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H6CD55CD4177B4A1D92C80411A6D2ED75"><enum>(b)</enum><header>Study and report</header><text>Section 5(b) of the Wild and Scenic Rivers Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1276">16 U.S.C. 1276(b)</external-xref>) is amended by adding at the end the following: </text> 
+<quoted-block style="OLC" id="H3CD6032598344555AD772ABDD585E594" display-inline="no-display-inline"> 
+<paragraph id="H5F4485A5EB0241A58F4995FF358D7995"><enum>(22)</enum><header>Nulhegan River and Paul Stream, Vermont</header><text display-inline="yes-display-inline">Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—</text> <subparagraph id="H599886AB0E9142BE990FCCEF7B76A91D"><enum>(A)</enum><text>complete the study of the Nulhegan River and Paul Stream segments in Vermont described in subsection (a)(145); and</text></subparagraph> 
+<subparagraph id="HEA7BCC8A96E048E2B6365CFDBD58430D"><enum>(B)</enum><text>submit to the appropriate committees of Congress a report describing the results of such study. </text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection></section> </legis-body></bill>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7B39A0295CD64FD19E15D10F4A5BC999" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9419 IH: Federal Mechanical Insulation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 9419</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20221202">December 2, 2022</action-date>
+<action-desc><sponsor name-id="S001156">Ms. Sánchez</sponsor> (for herself, <cosponsor name-id="C001067">Ms. Clarke of New York</cosponsor>, <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>, <cosponsor name-id="T000469">Mr. Tonko</cosponsor>, <cosponsor name-id="B001300">Ms. Barragán</cosponsor>, <cosponsor name-id="T000482">Mrs. Trahan</cosponsor>, <cosponsor name-id="M001160">Ms. Moore of Wisconsin</cosponsor>, and <cosponsor name-id="C001117">Mr. Casten</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To clarify that installation of mechanical insulation property is an energy or water efficiency measure that may be used in Federal buildings for purposes of section 543(f) of the National Energy Conservation Policy Act, and for other purposes.</official-title>
+</form>
+<legis-body id="H8280EE7BEBFC40EA912A74D1B18EB143" style="OLC"> 
+<section id="H0C7C449FE3824EE3BF9F67670CFFCDDB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Mechanical Insulation Act</short-title></quote>. </text></section> <section id="H34E33037A46E4A46A575225B4FA5ADE2"><enum>2.</enum><header>Installation of mechanical insulation property as an energy or water efficiency measure in Federal buildings</header> <subsection id="HC95E27BAF17E479DBB61EEBF1C5B3493"><enum>(a)</enum><header>Definition of mechanical insulation property</header><text display-inline="yes-display-inline">Section 543(f)(1) of the National Energy Conservation Policy Act (<external-xref legal-doc="usc" parsable-cite="usc/42/8253">42 U.S.C. 8253(f)(1)</external-xref>) is amended by adding at the end the following: </text> 
+<quoted-block style="OLC" id="H68518BCD60A14787B7A5A1A0328C76FB" display-inline="no-display-inline"> 
+<subparagraph id="HC30DCEB5F9D04A5F97BA38668E2CA2AA"><enum>(I)</enum><header>Mechanical insulation property</header><text display-inline="yes-display-inline">The term <term>mechanical insulation property</term> means insulation materials, facings, and accessory products installed in connection to such insulation materials— </text> <clause id="HA0C1C1C2DA1A43559E6504670C1E049B"><enum>(i)</enum><text>placed in service—</text> 
+<subclause id="H24E3A70235F24055BAA7E69A37FC7A24"><enum>(I)</enum><text>in connection with a mechanical system; and</text></subclause> <subclause id="H1FD380E0411D4A46A9285421CA5B0AEB"><enum>(II)</enum><text display-inline="yes-display-inline">in a manner that meets or complies with the minimum requirements of Reference Standard 90.1 (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/179D">section 179D(c)(2)</external-xref> of the Internal Revenue Code of 1986); and</text> </subclause></clause> 
+<clause id="H30B3A8BAFF544AA19A3A2E70460931A0"><enum>(ii)</enum><text display-inline="yes-display-inline">which result in a reduction in energy loss from the mechanical system.</text></clause> </subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H62CF61BCD5214FB7A946E74D1E84E3AD"><enum>(b)</enum><header>Comprehensive energy and water evaluations</header><text>Section 543(f)(3)(A) of the National Energy Conservation Policy Act (<external-xref legal-doc="usc" parsable-cite="usc/42/8253">42 U.S.C. 8253(f)(3)(A)</external-xref>) is amended by inserting <quote>, including identification of energy- and water-saving measures (including installation of mechanical insulation property, if applicable),</quote> after <quote>a comprehensive energy and water evaluation</quote>.</text></subsection> 
+<subsection id="HD66C6674C4874C87805705036DE8F8A6"><enum>(c)</enum><header>Qualified installation of mechanical insulation property</header><text display-inline="yes-display-inline">Section 543(f)(4) of the National Energy Conservation Policy Act (<external-xref legal-doc="usc" parsable-cite="usc/42/8253">42 U.S.C. 8253(f)(4)</external-xref>) is amended by adding at the end the following: </text> <quoted-block style="OLC" id="H262170B1B9894F0785F3A93F49F6DE92" display-inline="no-display-inline"> <subparagraph id="HF658F6E82C3F46ABA251985AAF15E34A"><enum>(C)</enum><header>Qualified installation of mechanical insulation property</header><text display-inline="yes-display-inline">For each measure implemented under this paragraph that involves installation of mechanical insulation property, such installation shall be performed by an individual who has completed an apprenticeship registered under the Act of August 16, 1937 (commonly known as the <quote>National Apprenticeship Act</quote>; 50 Stat. 664, chapter 663; <external-xref legal-doc="usc" parsable-cite="usc/29/50">29 U.S.C. 50 et seq.</external-xref>).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> </section> 
+</legis-body>
+</bill> 
+
+

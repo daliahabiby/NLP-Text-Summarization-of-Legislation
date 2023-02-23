@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6030631E37EF41E8A3C7F7EC1A9A2F16" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8999 IH: To amend the Occupational Safety and Health Act of 1970 to provide for the expiration of emergency temporary standards after 6 months.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8999</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220928">September 28, 2022</action-date><action-desc><sponsor name-id="C001104">Mr. Cawthorn</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Occupational Safety and Health Act of 1970 to provide for the expiration of emergency temporary standards after 6 months.</official-title></form><legis-body id="H27DB8DD94D444FB9AFAAD2C77A6F4465" style="OLC"><section id="H838C52D8556E404481613404ED10D478" section-type="section-one"><enum>1.</enum><header>Expiration of emergency temporary standards</header><text display-inline="no-display-inline">Section 6(c)(2) of the Occupational Safety and Health Act of 1970 (<external-xref legal-doc="usc" parsable-cite="usc/29/655">29 U.S.C. 655(c)(2)</external-xref>) is amended by inserting before the period at the end the following: <quote>, but in no case shall such emergency temporary standard remain in effect for a period exceeding 6 months</quote>. </text></section></legis-body></bill> 
+

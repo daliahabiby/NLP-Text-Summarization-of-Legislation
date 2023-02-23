@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2004E70932054ED7833F7DB06A127FEA" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6881 IH: To amend the Tariff Act of 1930 to protect from public disclosure of personally identifiable information contained in manifests.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6881</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220301">March 1, 2022</action-date>
+<action-desc><sponsor name-id="C001111">Mr. Crist</sponsor> (for himself and <cosponsor name-id="W000823">Mr. Waltz</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Tariff Act of 1930 to protect from public disclosure of personally identifiable information contained in manifests.</official-title>
+</form>
+<legis-body id="H3CC90E5A24894FAAB67D3F3172026968" style="OLC"> 
+<section id="HA818887F7410471383D84D5BDC902F92" section-type="section-one"><enum>1.</enum><header>Protection from public disclosure of personally identifiable information contained in manifests</header> 
+<subsection id="HE538917E462A40E9845A25799B8F8CAA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Paragraph (2) of section 431(c) of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1431">19 U.S.C. 1431(c)</external-xref>) is amended to read as follows: </text> <quoted-block style="OLC" id="HB318E01AB6794928BF0D71A6815D154A" display-inline="no-display-inline"> <paragraph id="H8334F2A3CC1F4B3FA047F87FD3D37ABC" indent="up1"><enum>(2)</enum> <subparagraph id="H67F9AEB62366426595E3350AF231A648" display-inline="yes-display-inline"><enum>(A)</enum><text display-inline="yes-display-inline">The information listed in paragraph (1) shall not be available for public disclosure if—</text> 
+<clause id="H2B6EB433335C4994A575ACEAD8F4A6CC" indent="up1"><enum>(i)</enum><text>the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or </text></clause> <clause id="H6DBAF174701F42A88CBE1096CBD517BC" indent="up1"><enum>(ii)</enum><text>the information is exempt under the provisions of section 552(b)(1) of title 5, United States Code. </text></clause></subparagraph> 
+<subparagraph id="HE7182E71937B42C194B6419756A6770D" indent="up1"><enum>(B)</enum><text>The Secretary shall ensure that any personally identifiable information, including Social Security account numbers and passport numbers, is removed from any manifest signed, produced, delivered, or electronically transmitted under this section before access to the manifest is provided to the public.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H4E11DEBFBEA74C83BE8DED8F77DDF50D"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect on the date that is 30 days after the date of the enactment of this Act.</text></subsection></section> 
+</legis-body>
+</bill> 
+

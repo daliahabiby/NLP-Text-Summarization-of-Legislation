@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HEE1472FD2EB04705BB13945F8DB4BCB8" public-private="private" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9276 IH: For the relief of Jaime Avalos Rosales.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-11-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">V</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 9276</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20221103">November 3, 2022</action-date>
+<action-desc><sponsor name-id="G000553">Mr. Green of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">For the relief of Jaime Avalos Rosales.</official-title>
+</form>
+<legis-body id="HE7DA481B255A430E8C37EFBC1CA269BC" style="OLC">
+<section id="H25FDFA6DA6064EC785E51EE14E42ADEF" section-type="section-one"><enum>1.</enum><header>Permanent resident status for Jaime Avalos Rosales</header>
+<subsection id="H7627E005FE154BF5B4BE17C65E6D39F4"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding subsections (a) and (b) of section 201 of the Immigration and Nationality Act, Jaime Avalos Rosales shall be eligible for issuance of an immigrant visa or for adjustment of status to that of an alien lawfully admitted for permanent residence upon filing an application for issuance of an immigrant visa under section 204 of such Act or for adjustment of status to lawful permanent resident.</text></subsection> <subsection id="H3190636C7E274DE8B8C3623FC460E4F3"><enum>(b)</enum><header>Adjustment of status</header><text display-inline="yes-display-inline">If Jaime Avalos Rosales enters the United States before the filing deadline specified in subsection (d), he shall be considered to have entered and remained lawfully and shall, if otherwise eligible, be eligible for adjustment of status under section 245 of the Immigration and Nationality Act as of the date of the enactment of this Act.</text></subsection>
+<subsection id="HB4F52B799F544E348744138EFCE24983"><enum>(c)</enum><header>Waiver of grounds for removal or denial of admission</header>
+<paragraph id="H1982473E4925495786A26E02F0C280EB"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding sections 212(a) and 237(a) of the Immigration and Nationality Act, Jaime Avalos Rosales may not be removed from the United States by reason of any ground for removal or denial of admission that is reflected in the records of the Department of Homeland Security or the Visa Office of the Department of State on the date of the enactment of this Act.</text></paragraph> <paragraph id="HA26BAD96A35D4EA8A6B5AD5CCC9390F2"><enum>(2)</enum><header>Rescission of outstanding order of removal</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall rescind any outstanding order of removal or deportation, or any finding of inadmissibility or deportability, that has been entered against Jaime Avalos Rosales by reason of any ground described in paragraph (1).</text></paragraph></subsection>
+<subsection id="H7989F88F706A45E2AF4000779D26D0BB"><enum>(d)</enum><header>Deadline for application and payment of fees</header><text display-inline="yes-display-inline">Subsections (a) and (b) shall apply only if the application for issuance of an immigrant visa or the application for adjustment of status is filed with appropriate fees within 2 years after the date of the enactment of this Act.</text></subsection> <subsection id="H4DF6300A6E154070B255768BA2696529"><enum>(e)</enum><header>Reduction of immigrant visa number</header><text display-inline="yes-display-inline">Upon the granting of an immigrant visa or permanent residence to Jaime Avalos Rosales, the Secretary of State shall instruct the proper officer to reduce by 1, during the current or next following fiscal year, the total number of immigrant visas that are made available to natives of the country of the alien’s birth under section 203(a) of the Immigration and Nationality Act or, if applicable, the total number of immigrant visas that are made available to natives of the country of the alien’s birth under section 202(e) of such Act.</text></subsection>
+<subsection id="HFAB5E553EA854695A6000985188CAAB9"><enum>(f)</enum><header>Denial of preferential immigration treatment for certain relatives</header><text display-inline="yes-display-inline">The natural parents, brothers, and sisters of Jaime Avalos Rosales shall not, by virtue of such relationship, be accorded any right, privilege, or status under the Immigration and Nationality Act.</text></subsection></section> </legis-body> </bill> 
+

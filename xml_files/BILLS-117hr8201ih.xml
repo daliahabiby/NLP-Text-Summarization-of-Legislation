@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0D64FBFD96D8449FB942C475CE81E10D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8201 IH: Promoting Health Care Quality Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8201</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220623">June 23, 2022</action-date><action-desc><sponsor name-id="C001080">Ms. Chu</sponsor> (for herself and <cosponsor name-id="C001103">Mr. Carter of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XVIII of the Social Security Act to increase funding for quality measure endorsement, input, and selection under the Medicare program, and for other purposes.</official-title></form><legis-body id="HDE3241880F4548AC82DF8643F287399F" style="OLC"><section id="H01803E23F073451095B2BB2DA0D9B133" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Promoting Health Care Quality Act of 2022</short-title></quote>. </text></section><section id="H116EA12E16B34559ACA9DFD16707DCDE"><enum>2.</enum><header>Funding quality measurement programs</header><text display-inline="no-display-inline">Section 1890 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395aaa">42 U.S.C. 1395aaa</external-xref>) is amended in subparagraph (d)(2), by striking <quote>$20,000,000 for fiscal year 2023</quote> and inserting <quote>$26,000,000 for fiscal year 2023</quote>.</text></section></legis-body></bill> 
+

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7C33A6B72C454421B462F34A3DE8370A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9260 IH: Stop Online Suicide Assistance Forums Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9260</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221031">October 31, 2022</action-date><action-desc><sponsor name-id="T000482">Mrs. Trahan</sponsor> (for herself, <cosponsor name-id="C001126">Mr. Carey</cosponsor>, <cosponsor name-id="S001192">Mr. Stewart</cosponsor>, and <cosponsor name-id="P000618">Ms. Porter</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of mail or interstate communications to assist suicide, and for other purposes.</official-title></form><legis-body id="HC0B591D958D245FB8A87F0F4BA1B9A69" style="OLC"> 
+<section id="HAA49340214BF4D0CB561EB3010BF8399" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Online Suicide Assistance Forums Act</short-title></quote>.</text></section> <section id="H043F3C6214F14F438D5A124E89662706"><enum>2.</enum><header>Prohibition assisted suicide</header> <subsection id="HD90A45218F1C4D67A87706F0F0F97B36"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/51">Chapter 51</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block style="USC" id="H423EDBAD365147D0AF1208738B153281" display-inline="no-display-inline"> 
+<section id="H458F77C03E994E23BDBA5470D8C3A93A"><enum>1123.</enum><header>Prohibiting assisted suicide through certain communications<editorial></editorial></header> 
+<subsection id="H9D8973C4118C4D84BCA98C9FFE5F963C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Whoever uses mail or interstate communication to intentionally assist another individual in taking that individual’s own life, and death results, shall be fined under this title, imprisoned not more than 5 years, or both.</text></subsection> <subsection id="H8822A188A98440AF92C7AE2A59EDD306"><enum>(b)</enum><header>Limitation</header><text display-inline="yes-display-inline">Any action taken in accordance with State laws governing physician-assisted end of life shall not constitute an offense under subsection (a).</text></subsection> 
+<subsection id="H6C72195435854243830ED959726791FC"><enum>(c)</enum><header>Rules of construction</header> 
+<paragraph id="H59F7091917CA46839408F07D1D0E800B"><enum>(1)</enum><header>State laws</header><text>Nothing in this section shall preempt the authority of a State to enact laws relating to assisted suicide within such State.</text></paragraph> <paragraph id="HF27CE15FF53F411BB78DBA24F6E1ABDC"><enum>(2)</enum><header>Suicide</header><text>Nothing in this section shall be interpreted to make unlawful or otherwise criminalize the act of suicide or deliberate self-injury, or punish the person committing any such act.</text></paragraph></subsection> 
+<subsection id="HCB1AF37650234E1686421C8AFF1B43C0"><enum>(d)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HB84EFE9AE0F64690B9AB1AF5E2886E8D"><enum>(1)</enum><header>Assist</header><text>The term <quote>assist</quote> means, with respect to a person assisting another individual in taking that individual’s own life, that—</text> 
+<subparagraph id="HCDE81F069F03415AAB5DAF778ECF8361"><enum>(A)</enum><text>the person specifically aims to facilitate the individual’s suicide; and</text></subparagraph> <subparagraph id="H38306D65CBFA474F990E4735B9482127"><enum>(B)</enum><text>the person furnishes the individual with substantial material support to facilitate the suicide, or with substantial communication facilitating the suicide at the same time as an attempt or act of suicide is occurring.</text></subparagraph></paragraph> 
+<paragraph id="HAFC4430BBDA74B98B1C7273D2042E48D"><enum>(2)</enum><header>Material support</header><text>The term <quote>material support</quote> means any tangible property.</text></paragraph> </subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection> <subsection id="H63BE83EC2632484C8483BAAA8D2D8321"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of section for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/51">chapter 51</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block style="USC" id="H7C7802BCF92C4AF3A5A379290A6F0094" display-inline="no-display-inline"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">1123. Prohibiting assisted suicide through certain communications.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body></bill>
+

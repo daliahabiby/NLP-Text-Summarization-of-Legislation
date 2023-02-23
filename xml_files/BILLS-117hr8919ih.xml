@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H493DB88AC2704FA796063BADE073904F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8919 IH: No Partisan Radio Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8919</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220920">September 20, 2022</action-date><action-desc><sponsor name-id="J000304">Mr. Jackson</sponsor> (for himself and <cosponsor name-id="D000615">Mr. Duncan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To eliminate taxpayer funding for the partisan radio outlet known as National Public Radio, and for other purposes.</official-title></form><legis-body id="H165490F78B1146A584AD192E4E76565D" style="OLC"><section id="H2BF8973D6A134828A8914C6CDE2DFA0D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Partisan Radio Act</short-title></quote> or the <quote><short-title>NPR Act</short-title></quote>.</text></section><section id="H1404E97A804E4580888DDF7D6DFD0583"><enum>2.</enum><header>Prohibition on Federal funding for National Public Radio</header><subsection id="H83222D90BA834C1983BA91C9776058D9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">After the date of the enactment of this Act, no Federal funds may, directly or indirectly, be made available to or used to support the organization described in subsection (b), including through the payment of dues to or the purchase of programming from such organization by a public broadcast station using Federal funds received by such station.</text></subsection><subsection id="HD49C1CA01694465DBBD04D1650E84C94"><enum>(b)</enum><header>Organization described</header><text>The organization described in this subsection is—</text><paragraph id="H80AC2552D049462097D7E9D359ABDEDA"><enum>(1)</enum><text>the organization known, as of the date of the enactment of this Act, as <quote>National Public Radio</quote>; or</text></paragraph><paragraph id="H8BFF9BBD80564A6AB7A4D47BFDE72E51"><enum>(2)</enum><text>any successor organization to the organization described in paragraph (1).</text></paragraph></subsection></section></legis-body></bill> 
+

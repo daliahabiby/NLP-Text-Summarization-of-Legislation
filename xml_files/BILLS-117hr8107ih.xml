@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0D003CF1BECE4768870F58F72A21EE00" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8107 IH: Stop Taxes Against Menstrual Products Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8107</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220616">June 16, 2022</action-date><action-desc><sponsor name-id="G000553">Mr. Green of Texas</sponsor> (for himself and <cosponsor name-id="M001188">Ms. Meng</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit States from imposing a tax on the retail sale of menstrual products.</official-title></form><legis-body id="H0FEA424F19BE434ABC25D40254B3E709" style="OLC"><section id="HAEAF9AF712B045A3B860F1B93C30ABF4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Taxes Against Menstrual Products Act of 2022</short-title></quote> or the <short-title><quote>STAMP Act of 2022</quote>.</short-title></text></section><section id="H880BE647455B4B94A4DB3C8B0603F4C3"><enum>2.</enum><header>Prohibition</header><text display-inline="no-display-inline">It shall be unlawful for a State, or unit of local government of a State, to impose a tax on the retail sale of a menstrual product.</text></section><section id="H34829BF39149490A854E994C74BEF120"><enum>3.</enum><header>Definitions</header><text display-inline="no-display-inline">For purposes of this Act:</text><paragraph id="HE5DDE33527A648039C44E677DD7F3CD6"><enum>(1)</enum><header>Menstrual product</header><text display-inline="yes-display-inline">The term <quote>menstrual product</quote> means a sanitary napkin, or tampon, menstrual cups, menstrual discs, period underwear, and that conforms to industry standards. </text></paragraph><paragraph id="H8D7590959C224A508AF29A1989F4372D"><enum>(2)</enum><header>State</header><text>The term <quote>State</quote> means any of the several States or the District of Columbia.</text></paragraph></section><section id="HBFC7EB5292A248CD8A359DEC0BEA9EE8"><enum>4.</enum><header>Effective Date</header><text display-inline="no-display-inline">This Act shall take effect 120 days after the date of the enactment of this Act.</text></section></legis-body></bill> 
+

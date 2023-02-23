@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5F5719124BBA458CA5B92F46A2E612A3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8211 IH: To require the return of amounts loaned under the Paycheck Protection Program of the Small Business Administration used for illegal activities, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8211</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220623">June 23, 2022</action-date><action-desc><sponsor name-id="M001190">Mr. Mullin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HSM00">Committee on Small Business</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the return of amounts loaned under the Paycheck Protection Program of the Small Business Administration used for illegal activities, and for other purposes.</official-title></form><legis-body id="H57511C82A3AE4AA1861D8915A7E47209" style="OLC"> 
+<section id="H9A75228206094557BE065753D8A3886B" section-type="section-one"><enum>1.</enum><header>Return of PPP amounts used for illegal activity</header><text display-inline="no-display-inline">The Administrator of the Small Business Administration shall ensure that a person that received a covered loan under paragraph (36) or (37) of section 7(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>) and used any amount of such covered loan to conduct an illegal activity shall return the entire amount of such covered loan to the Treasury.</text></section> </legis-body></bill>
+

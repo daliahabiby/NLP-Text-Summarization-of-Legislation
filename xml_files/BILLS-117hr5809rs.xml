@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-Senate" dms-id="HDC2C486E59124724AA360D98319FACBA" public-private="public" key="S" bill-type="olc" stage-count="1" slc-id="S1-OLL22773-65D-0S-Y8S"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 5809 RS: To designate the facility of the United States Postal Service located at 1801 Town and Country Drive in Norco, California, as the “Lance Corporal Kareem Nikoui Memorial Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 474</calendar><congress>117th CONGRESS</congress><session>2d Session</session><legis-num display="yes">H. R. 5809</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date>July 13, 2022</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSGA00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><action stage="Reported-in-Senate"><action-date date="20220804">August 4, 2022</action-date><action-desc>Reported by <sponsor name-id="S380">Mr. Peters</sponsor>, without amendment</action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 1801 Town and Country Drive in Norco, California, as the <quote>Lance Corporal Kareem Nikoui Memorial Post Office Building</quote>.</official-title></form><legis-body id="HD8A5537EFC254CE79DC5E3CDC18B09E3" style="OLC"><section id="H82AD8EB259FF4AC4934388ED4933B7C8" section-type="section-one"><enum>1.</enum><header>Lance Corporal Kareem Nikoui Memorial Post Office</header><subsection id="H5209740A36B04F4DAFB661B872596538"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 1801 Town and Country Drive in Norco, California, shall be known and designated as the <quote>Lance Corporal Kareem Nikoui Memorial Post Office Building</quote>.</text></subsection><subsection id="HA86FB5C4E5D0486DA57DD2EC7E256C7D"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Lance Corporal Kareem Nikoui Memorial Post Office Building</quote>.</text></subsection></section></legis-body><endorsement><action-date date="20220804">August 4, 2022</action-date><action-desc>Reported without amendment</action-desc></endorsement></bill> 
+

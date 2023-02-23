@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H671F0E44B27047948735FADCC9F47EDF" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 4881 ENR: Old Pascua Community Land Acquisition Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline>
+<legis-num display="yes">H. R. 4881</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To direct the Secretary of the Interior to take into trust for the Pascua Yaqui Tribe of Arizona certain land in Pima County, Arizona, and for other purposes.</official-title>
+</form>
+<legis-body id="H0A3EC847801D4BB18D2118A91019A36F" style="OLC">
+<section id="H35537AAD36354FC5ABFD6D08E4A58017" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline"> This Act may be cited as the <quote><short-title>Old Pascua Community Land Acquisition Act</short-title></quote>.</text></section> <section id="HF418B0420A5C46D096D1556919CC015A"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+<paragraph id="H829CACB30F2746CAAB5CE696FBE639A0"><enum>(1)</enum><header>Compact-designated area</header><text display-inline="yes-display-inline">The term <term>Compact Designated Area</term> means the area south of West Grant Road, east of Interstate 10, north of West Calle Adelanto, and west of North 15th Avenue in the City of Tucson, Arizona, as provided specifically in the Pascua Yaqui Tribe—State of Arizona Amended and Restated Gaming Compact signed in 2021.</text></paragraph> <paragraph id="H4451B67652FD4E98902DA499FD2D5E58"><enum>(2)</enum><header>Tribe</header><text>The term <term>Tribe</term> means the Pascua Yaqui Tribe of Arizona, a federally recognized Indian tribe.</text></paragraph>
+<paragraph id="H32DC3B25BF664EA0ACDB78F4597029EF"><enum>(3)</enum><header>Indian tribe</header><text>The term <term>Indian Tribe</term>—</text> <subparagraph id="HDA2C7635CBE04BF999365346E8C1D87F"><enum>(A)</enum><text>means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; and</text></subparagraph>
+<subparagraph id="HE53FF201CD2B474B9D88E753BC989C8C"><enum>(B)</enum><text display-inline="yes-display-inline">does not include any Alaska Native regional or village corporation.</text></subparagraph></paragraph> <paragraph id="H8F1939415E524C7BAE060DEEADD56013"><enum>(4)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of the Interior.</text></paragraph></section>
+<section id="H6B8293EB081A4787AC4FC7DF772A2747"><enum>3.</enum><header>Land to be held in trust</header><text display-inline="no-display-inline">Upon the request of the Tribe, the Secretary shall accept and take into trust for the benefit of the Tribe, subject to all valid existing rights, any land within the Compact-Designated Area that is owned by Tribe.</text></section> <section id="H95107A7758AC4398A13649B91D106AA1"><enum>4.</enum><header>Application of current law</header><text display-inline="no-display-inline">Gaming conducted by the Tribe in the Compact-Designated Area shall be subject to—</text>
+<paragraph id="H9A86589584D54AF0B6B574A686EC99D6"><enum>(1)</enum><text>the Indian Gaming Regulatory Act (<external-xref legal-doc="usc" parsable-cite="usc/25/2701">25 U.S.C. 2701 et seq.</external-xref>); and</text></paragraph> <paragraph id="H075B929474564941A1E6B7FA30048A18"><enum>(2)</enum><text>sections 1166 through 1168 of title 18, United States Code.</text></paragraph></section>
+<section id="H6AF7878F4ED64F6C9B2F102684846E35"><enum>5.</enum><header>Reaffirmation of status and actions</header>
+<subsection id="H1A4427A91FA34DC1BF4B0015B6E909ED"><enum>(a)</enum><header>Administration</header><text>Land placed into trust pursuant to this Act shall—</text> <paragraph id="HDB928B5514714B668AA7CFB7B8E9103D"><enum>(1)</enum><text>be a part of the Pascua Yaqui Reservation and administered in accordance with the laws and regulations generally applicable to land held in trust by the United States for an Indian Tribe; and</text></paragraph>
+<paragraph id="H8B2141E41191423BAD3BBFA179EEF47E"><enum>(2)</enum><text>be deemed to have been acquired and taken into trust on September 18, 1978.</text></paragraph></subsection> <subsection id="H0E892F0956564E67BF391C35C6881387"><enum>(b)</enum><header>Rules of construction</header><text>Nothing in this Act shall—</text>
+<paragraph id="H242241C7CD5C4B47B2A3DAB563A5CD4C"><enum>(1)</enum><text>enlarge, impair, or otherwise affect any right or claim of the Tribe to any land or interest in land in existence before the date of the enactment of this Act;</text></paragraph> <paragraph id="H2579EBA64BEE46EDB31134F8BAE494A5"><enum>(2)</enum><text>affect any water right of the Tribe in existence before the date of the enactment of this Act;</text></paragraph>
+<paragraph id="H6B884DD4D2F6418582D7836FF20BCC5F"><enum>(3)</enum><text>terminate or limit any access in any way to any right-of-way or right-of-use issued, granted, or permitted before the date of the enactment of this Act; or</text></paragraph> <paragraph id="HE7FD052619DF4D6FAB7AF0AD6F37B1BE"><enum>(4)</enum><text>alter or diminish the right of the Tribe to seek to have additional land taken into trust by the United States for the benefit of the Tribe.</text></paragraph></subsection></section>
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

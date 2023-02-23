@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCF52EA9804044783843D5F8E534E21D3" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8291 IH: Passenger Rail Station Security Report Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8291</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220705">July 5, 2022</action-date>
+<action-desc><sponsor name-id="T000486">Mr. Torres of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Homeland Security to submit a report to Congress on counterterrorism security at certain passenger rail stations, and for other purposes.</official-title>
+</form>
+<legis-body id="H1B3AEA0B61E24FC8AD7B7634BE7D2D51" style="OLC">
+<section id="HAADFC11214FF4A4BAA0B6A2DE4973CD2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Passenger Rail Station Security Report Act</short-title></quote>.</text></section> <section id="H838C451C4AB04B548739E321E2F395BB" section-type="subsequent-section"><enum>2.</enum><header>Report on improving counterterrorism security at passenger rail stations</header> <subsection id="H7B9F13F1F4A04E739778DD899FE746EE"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Secretary of Homeland Security, acting through the Administrator of the Transportation Security Administration, in consultation with the Secretary of Transportation, the Administrator of the Federal Emergency Management Agency, the Administrator of the United States Fire Administration, passenger rail station owners and operators, State and local transportation entities, and other agencies or stakeholders as determined appropriate by the Secretary, shall submit to the appropriate congressional committees a report on the 5 largest passenger rail stations by annual ridership and a representative sample of 8 other-sized passenger rail stations that contains the following:</text>
+<paragraph id="H2A0BA367BDED424789464F92686A7143"><enum>(1)</enum><text>An analysis of the effectiveness of counterterrorism measures implemented in each passenger rail station to include prevention systems, including—</text> <subparagraph id="H5AC3906E35BE4A77B4A2A3D1CDBAB5D2" display-inline="no-display-inline"><enum>(A)</enum><text>surveillance systems, including cameras, and physical law enforcement presence;</text></subparagraph>
+<subparagraph id="H205116E4634A4E9A83A7BC8C44C4C31B"><enum>(B)</enum><text>response systems including—</text> <clause id="HA8B5A7B5BDD34A0694BF28DEF8831CF4"><enum>(i)</enum><text>evacuation systems to allow passengers and workers to egress the stations, mezzanines, and rail cars;</text></clause>
+<clause id="H7E07C7842F96435281F3C5ECA515F301"><enum>(ii)</enum><text>fire safety measures, including ventilation and fire suppression systems; and</text></clause> <clause id="H0655AF5A1B5545B9876A4EAD3F6A36D4"><enum>(iii)</enum><text>public alert systems; and</text></clause></subparagraph>
+<subparagraph id="H5528D6CDB66645289814520D548D9BF9"><enum>(C)</enum><text>recovery systems, including coordination with State and Federal agencies. </text></subparagraph></paragraph> <paragraph id="HB8359ABC27CA4838AAD6EDFEA03784D0"><enum>(2)</enum><text>A description of any actions directed as a result of the analysis conducted under paragraph (1). </text></paragraph>
+<paragraph id="H27AF3ED5EB70401FA67E32CAE2F870B7"><enum>(3)</enum><text>Recommendations, as appropriate, for passenger rail station owners and operators, and State and local transportation entities to improve counterterrorism measures outlined in paragraph (1).</text></paragraph> <paragraph id="H58043C0078364F1FBF167B02BD8BBA6F"><enum>(4)</enum><text>Proposals, as appropriate, for legislative actions and funding needed to improve counterterrorism measures.</text></paragraph></subsection>
+<subsection id="H6A39FCAB89F54720916CA25D04ABA6BA"><enum>(b)</enum><header>Appropriate congressional committees defined</header><text>In this section, the term <quote>appropriate congressional committees</quote> means the Committee on Homeland Security of the House of Representatives, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate. </text></subsection></section> </legis-body> </bill> 
+

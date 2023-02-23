@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-Senate" bill-type="olc" dms-id="H59E94599F61E468E86834D4E0AF3C1D0" key="S" public-private="public" stage-count="1" slc-id="S1-OLL22953-0PM-1N-VW0"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 1095 RS: To designate the facility of the United States Postal Service located at 101 South Willowbrook Avenue in Compton, California, as the “PFC James Anderson, Jr., Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 517</calendar><congress>117th CONGRESS</congress><session>2d Session</session><legis-num display="yes">H. R. 1095</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date>July 13, 2022</action-date><action-desc>Received; read twice and referred to the <committee-name added-display-style="italic" committee-id="SSGA00" deleted-display-style="strikethrough">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><action stage="Reported-in-Senate"><action-date date="20220928">September 28, 2022</action-date><action-desc>Reported by <sponsor name-id="S380">Mr. Peters</sponsor>, without amendment</action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 101 South Willowbrook Avenue in Compton, California, as the <quote>PFC James Anderson, Jr., Post Office Building</quote>.</official-title></form><legis-body id="H51F1868F2F7C492C9131176BD2550ABC" style="OLC"><section id="H1DD6CDD848F444E2BCDDBD009B8AE56E" section-type="section-one"><enum>1.</enum><header>PFC James Anderson, Jr., Post Office Building</header><subsection id="H1C40797BD31749BA9D485A6E8EA0AEE4"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 101 South Willowbrook Avenue in Compton, California, shall be known and designated as the <quote>PFC James Anderson, Jr., Post Office Building</quote>.</text></subsection><subsection id="H9ED922E603674924AFB2C4F2AF0AB3C5"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>PFC James Anderson, Jr., Post Office Building</quote>.</text></subsection></section></legis-body><endorsement><action-date date="20220928">September 28, 2022</action-date><action-desc>Reported without amendment</action-desc></endorsement></bill> 
+

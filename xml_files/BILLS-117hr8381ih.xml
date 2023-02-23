@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA00EB2E3F7A944D19B4D4EAC594445BC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8381 IH: Preserving Options for Everglades Restoration and National Defense in the Straits of Florida Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8381</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220714">July 14, 2022</action-date><action-desc><sponsor name-id="G000593">Mr. Gimenez</sponsor> (for himself, <cosponsor name-id="W000823">Mr. Waltz</cosponsor>, <cosponsor name-id="D000600">Mr. Diaz-Balart</cosponsor>, and <cosponsor name-id="S000168">Ms. Salazar</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of the Air Force from entering into an agreement that would provide for or permit the joint use of Homestead Air Reserve Base, Homestead, Florida, by the Air Force and civil aircraft.</official-title></form><legis-body id="H5126CF9B15A24A79AF5750F52D2D9F7D" style="OLC"> 
+<section id="H61C7B479DC2447D6B0091292BE6B2912" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preserving Options for Everglades Restoration and National Defense in the Straits of Florida Act</short-title></quote>.</text></section> <section id="H519E103559FC4F76A5F203C1C06F6293"><enum>2.</enum><header>Prohibition on joint use of homestead air reserve base with civil aviation</header><text display-inline="no-display-inline">The Secretary of the Air Force may not enter into an agreement that would provide for or permit the joint use of Homestead Air Reserve Base, Homestead, Florida, by the Air Force and civil aircraft.</text></section> 
+</legis-body></bill>
+

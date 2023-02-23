@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H1858ED3633924805AE8153F31DCA5BAB" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 2545 ENR: To amend title 38, United States Code, to clarify the role of doctors of podiatric medicine in the Department of Veterans Affairs, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 2545</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend title 38, United States Code, to clarify the role of doctors of podiatric medicine in the Department of Veterans Affairs, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H67B248E9B7534561A09BB8389C2D6EA5" style="OLC"> 
+<section id="H2230A84EF94144FAB81D5D8FD47531E5" section-type="section-one"><enum>1.</enum><header>Role of doctors of podiatric medicine in Department of Veterans Affairs</header> 
+<subsection id="HD9C09041C6874157A757B1C469A1541C"><enum>(a)</enum><header>Clarification of role</header><text display-inline="yes-display-inline">Section 7306 of title 38, United States Code, is amended—</text> <paragraph id="H1C769CAC8F564E4B94EB63C8EA1D0DFF"><enum>(1)</enum><text>in subsection (a)—</text> 
+<subparagraph id="H1D5D8F02E02C4E6E838FBCD053D95575"><enum>(A)</enum><text>in paragraph (6), by striking <quote>a Director of Podiatric Service,</quote>;</text></subparagraph> <subparagraph id="H21E0CFF10B5242DFBFA3FA199B0EB7FC"><enum>(B)</enum><text>by redesignating paragraph (10) as paragraph (11); and</text></subparagraph> 
+<subparagraph id="H60198581642B43C5B8F2DB8072CF742E"><enum>(C)</enum><text>by inserting after paragraph (9) the following new paragraph:</text> <quoted-block style="USC" id="H2EEA3AB5B59E4A3BA97382C3062DED4C" display-inline="no-display-inline"> <paragraph id="H4E854ECE310A4A7F8A00A6C012A619A1"><enum>(10)</enum><text display-inline="yes-display-inline">A Podiatric Medical Director, who shall be a qualified doctor of podiatric medicine and who shall be responsible to the Under Secretary for Health for the operation of the Podiatric Service.</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></subparagraph></paragraph> 
+<paragraph id="HB1E8E560E40148499E6CCD51469DA9A4"><enum>(2)</enum><text>in subsection (b)(1), by inserting <quote>podiatric medicine,</quote> after <quote>doctors of medicine,</quote>; and</text></paragraph> <paragraph id="HEEF17B4C49064406999E36EEEE394215"><enum>(3)</enum><text>in subsection (c), by striking <quote>and (8)</quote> and inserting <quote>(8), and (10)</quote>. </text></paragraph></subsection> 
+<subsection id="HAFD20E3DC0BD49308C091A8EAA84F7F0"><enum>(b)</enum><header>Clarification of pay grade</header><text>Section 7404 of title 38, United States Code, is amended—</text> <paragraph id="H83A5C36BEED449BF91D5766C67043ADC"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a)(2), by inserting <quote>, podiatrists,</quote> after <quote>physicians</quote>; and</text></paragraph> 
+<paragraph id="H33F1469CE9BD4172B51082AF5238D870" commented="no"><enum>(2)</enum><text>in subsection (b), in the first heading of the list following the colon, by striking <quote><header-in-text level="subsection" style="USC"></header-in-text>PODIATRIST</quote> and inserting <quote>PODIATRIST (DPM)</quote>.</text></paragraph></subsection></section> </legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation> </bill> 
+

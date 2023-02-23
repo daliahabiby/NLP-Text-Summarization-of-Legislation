@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H15DB3A70385B42E7970ED0B9839C143E" public-private="private" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6804 IH: For the relief of Oli Mohammed.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">V</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6804</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220218">February 18, 2022</action-date>
+<action-desc><sponsor name-id="G000587">Ms. Garcia of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">For the relief of Oli Mohammed.</official-title>
+</form>
+<legis-body id="H507718EDEA9C46C6990511B44C95E586" style="OLC"> 
+<section id="HF398857F46B64289A0249ECA5AC9D8AD" section-type="section-one"><enum>1.</enum><header>Permanent resident status for Oli Mohammed</header> 
+<subsection id="H02B65D87FF734223B0EAC65A3B1A3A8E"><enum>(a)</enum><header>In general</header><text>Notwithstanding subsection (a) and (b) of section 201 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1151">8 U.S.C. 1151</external-xref>), Oli Mohammed shall be eligible for issuance of an immigrant visa or for adjustment of status to that of an alien lawfully admitted for permanent residence upon filing an application for issuance of an immigrant visa under section 204 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1154">8 U.S.C. 1154</external-xref>) or for adjustment of status to lawful permanent resident.</text></subsection> <subsection id="H41C2B3E1EA824A8EA0E8A4A6C2027F8F"><enum>(b)</enum><header>Adjustment of status</header><text>If Oli Mohammed enters the United States before the filing deadline specified in subsection (d), he shall be considered to have entered and remained lawfully and shall, if otherwise eligible, be eligible for adjustment of status under section 245 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1255">8 U.S.C. 1255</external-xref>) as of the date of the enactment of this Act.</text></subsection> 
+<subsection id="HB10F84999E4E496E9F4EE80A1AF7CAC0"><enum>(c)</enum><header>Waiver of grounds for removal or denial of admission</header> 
+<paragraph id="H8B80504E1BBA461DA1BACBC79C2EB106"><enum>(1)</enum><header>In general</header><text>Notwithstanding sections 212(a) and 237(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(a)</external-xref> and 1227(a)), Oli Mohammed may not be removed from the United States, denied admission to the United States, or considered ineligible for lawful permanent residence in the United States by reason of any ground for removal or denial of admission that is reflected in the records of the Department of Homeland Security or the Visa Office of the Department of State on the date of the enactment of this Act.</text></paragraph> <paragraph id="HFC2BA9ECAB234ACEBE5A63957AB230AE" commented="no"><enum>(2)</enum><header>Rescission of outstanding order of removal</header><text>The Secretary of Homeland Security shall rescind any outstanding order of removal or deportation, or any finding of inadmissibility or deportability, that has been entered against Oli Mohammed by reason of any ground described in paragraph (1)</text></paragraph></subsection> 
+<subsection id="HF5890F24BA604520BF6D9C2434B115F2" commented="no"><enum>(d)</enum><header>Deadline for application and payment</header><text>Subsections (a) and (b) shall apply only if the application for issuance of an immigrant visa or the application for adjustment of status is filed with appropriate fees within 2 years after the date of the enactment of this Act.</text></subsection> <subsection id="H1EC6F395D409426DB1B48F69B3FAA1C4"><enum>(e)</enum><header>Reduction of immigrant visa number</header><text>Upon the granting of an immigrant visa or permanent residence to Oli Mohammed, the Secretary of State shall instruct the proper officer to reduce by 1, during the current or next following fiscal year, the total number of immigrant visas that are made available to natives of the country of the alien’s birth under section 203(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1153">8 U.S.C. 1153(a)</external-xref>) or, if applicable, the total number of immigrant visas that are made available to natives of the country of the alien’s birth under section 202(e) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1152">8 U.S.C. 1152(e)</external-xref>).</text></subsection> 
+<subsection id="H031F8FF29E19448DBB279D7AB7E8D5C3"><enum>(f)</enum><header>Denial of preferential immigration treatment for certain relatives</header><text>The natural parents, brothers, and sisters of Oli Mohammed shall not, by virtue of such relationship, be accorded any right, privilege, or status under the Immigration and Nationality Act.</text></subsection></section> </legis-body> </bill> 
+

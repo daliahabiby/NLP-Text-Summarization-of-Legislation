@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB24D07734FFF4F01A5633316F0E493CF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8025 IH: To designate the facility of the United States Postal Service located at 100 South 1st Street in Minneapolis, Minnesota, as the “Martin Olav Sabo Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8025</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220613">June 13, 2022</action-date><action-desc><sponsor name-id="O000173">Ms. Omar</sponsor> (for herself, <cosponsor name-id="P000616">Mr. Phillips</cosponsor>, <cosponsor name-id="M001143">Ms. McCollum</cosponsor>, <cosponsor name-id="E000294">Mr. Emmer</cosponsor>, <cosponsor name-id="C001119">Ms. Craig</cosponsor>, <cosponsor name-id="F000470">Mrs. Fischbach</cosponsor>, and <cosponsor name-id="S001212">Mr. Stauber</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 100 South 1st Street in Minneapolis, Minnesota, as the <quote>Martin Olav Sabo Post Office</quote>.</official-title></form><legis-body id="HE075FAB19C024D85A5F8BCB5C9590576" style="OLC"> 
+<section id="H5EDF91065DF74A7FA7292CB731DEA2F5" section-type="section-one"><enum>1.</enum><header>Martin Olav Sabo Post Office</header> 
+<subsection id="HA27925DA6E1942599D68E5D3E699D2B3"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 100 South 1st Street in Minneapolis, Minnesota, shall be known and designated as the <quote>Martin Olav Sabo Post Office</quote>.</text></subsection> <subsection id="HCF9AE503D8274A268B087E2BE2FF756A"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Martin Olav Sabo Post Office</quote>.</text> </subsection></section> 
+</legis-body></bill>
+

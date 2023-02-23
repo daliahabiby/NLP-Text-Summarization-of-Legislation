@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H36D44AA3904B42FEB42CD2E728B218DF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8339 IH: To modify the annual report on military and security developments involving the Russian Federation.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8339</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220712">July 12, 2022</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> (for himself and <cosponsor name-id="P000613">Mr. Panetta</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To modify the annual report on military and security developments involving the Russian Federation.</official-title></form><legis-body id="H8DA31B4D8C6B4214ABF9B20F0CEB7C81" style="OLC"> 
+<section id="H7FAA09ECFC264796A17DEA14748049D8" section-type="section-one"><enum>1.</enum><header>Modification to annual report on military and security developments involving the Russian Federation</header><text display-inline="no-display-inline">Section 1234(b) of the National Defense Authorization Act for Fiscal Year 2021 (134 Stat. 3936) is amended—</text> <paragraph id="H1D75719EE1D149B4A9D5A05AD05BA5B3"><enum>(1)</enum><text>by redesignating paragraph (24) as paragraph (25); and</text></paragraph>
+<paragraph id="H4E70759DC6884FF3B43C916E505D94BB"><enum>(2)</enum><text>by inserting after paragraph (23) the following:</text> <quoted-block style="OLC" id="H9F6D47CF45324532B608CB2B574DED1B" display-inline="no-display-inline"> <paragraph id="H6BD44A5417594DE4AE787692DFC54129"><enum>(24)</enum><text display-inline="yes-display-inline">A detailed description of—</text>
+<subparagraph id="H73C991ADA55D48CF8FE97F0F654F6E37"><enum>(A)</enum><text>how Russian private military companies are being utilized to advance the political, economic, and military interests of the Russian Federation;</text></subparagraph> <subparagraph id="H9268CDDC7D0F4E95A5A4E8AE63E1D3C7"><enum>(B)</enum><text>the direct or indirect threats Russian private military companies present to United States security interests;</text></subparagraph>
+<subparagraph id="HD54639B5BFF148C986DDD7B6042CA1EC"><enum>(C)</enum><text display-inline="yes-display-inline">how sanctions that are currently in place to impede or deter Russian private military companies from continuing their malign activities have impacted the Russian private military companies’ behavior; and</text></subparagraph> <subparagraph id="HB4555D674B0445FEB70B0DBAABE1BE5C"><enum>(D)</enum><text display-inline="yes-display-inline">all foreign persons engaged significantly with Russian private military companies.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section> 
+</legis-body></bill>
+

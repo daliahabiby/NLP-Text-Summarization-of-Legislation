@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="A1" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6936 IH: Stamp Out Invasive Species Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6936</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220303">March 3, 2022</action-date>
+<action-desc><sponsor name-id="S001196">Ms. Stefanik</sponsor> (for herself, <cosponsor name-id="C001055">Mr. Case</cosponsor>, <cosponsor name-id="Y000033">Mr. Young</cosponsor>, <cosponsor name-id="C001087">Mr. Crawford</cosponsor>, <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="R000600">Mrs. Radewagen</cosponsor>, <cosponsor name-id="G000577">Mr. Graves of Louisiana</cosponsor>, and <cosponsor name-id="S001200">Mr. Soto</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name>, and in addition to the Committees on <committee-name committee-id="HII00">Natural Resources</committee-name>, and <committee-name committee-id="HAG00">Agriculture</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To provide for the issuance of a semipostal to benefit programs that combat invasive species.</official-title>
+</form>
+<legis-body id="H8009EEAE4B154C5BBA6D35B3FF205653" style="OLC" display-enacting-clause="yes-display-enacting-clause"> 
+<section id="H5E6330D548F84F60A0A2937BED8CEFD5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stamp Out Invasive Species Act</short-title></quote>.</text></section> <section id="HBE845CCAAC5C435DA4EEDB16E55F7E14"><enum>2.</enum><header>Combating invasive species semipostal</header> <subsection id="HD7535D7C77594F3295EC3DE0E0D310EA"><enum>(a)</enum><header>Finding</header><text display-inline="yes-display-inline">Congress finds that invasive species pose a serious threat to our natural ecosystems, significantly harm native plant and animal populations, and cause detrimental economic damage to local communities. </text></subsection> 
+<subsection id="H2AC346A26D194F23ABC2F02F48286D53"><enum>(b)</enum><header>Semipostal</header><text display-inline="yes-display-inline">In order to afford a convenient way for members of the public to contribute to programs at the Department of the Interior and the Department of Agriculture that combat invasive species, the United States Postal Service shall issue a semipostal stamp in accordance with the provisions of this section. Such semipostal stamp shall be known as the <quote>Combating Invasive Species Semipostal Stamp</quote>.</text></subsection> <subsection id="HC429B4D390F64E93BFB96D8AF4D714FA"><enum>(c)</enum><header>Terms and Conditions</header> <paragraph id="H227B3D1A9D7B440ABB3C14857E787FDA"><enum>(1)</enum><header>In General</header><text display-inline="yes-display-inline">The issuance and sale of the Combating Invasive Species Semipostal Stamp shall be governed by the provisions of section 416 of title 39, United States Code, and regulations issued under such section, subject to the requirements of this subsection.</text></paragraph> 
+<paragraph id="H088D0E43A699441D8CF650A838773EFD"><enum>(2)</enum><header>Differential rate</header><text display-inline="yes-display-inline">The differential included in the rate of postage established for the Combating Invasive Species Semipostal Stamp under section 416(c) of such title may not exceed 25 percent.</text></paragraph> <paragraph id="H740DFB5D07E846CBB4330AE008299431"><enum>(3)</enum><header>Duration</header><text display-inline="yes-display-inline">The Combating Invasive Species Semipostal Stamp shall be made available to the public for a period of 2 years, beginning not later than 12 months after the date of enactment of this Act.</text></paragraph> 
+<paragraph id="H9FDF26D385F14C7F9AA91FB7E251D582"><enum>(4)</enum><header>Disposition of Proceeds</header><text display-inline="yes-display-inline">All amounts becoming available from the sale of the Combating Invasive Species Semipostal Stamp (as determined under section 416(d) of such title) shall be transferred in equal proportion to the Department of the Interior and the Department of Agriculture, for the programs described in subsection (b), through payments which shall be made at least twice a year.</text></paragraph></subsection> <subsection id="H34C8F6C2E7744CAF8AD3D8449A5777C3"><enum>(d)</enum><header>Definition</header><text>For purposes of this Act, the term <term>semipostal stamp</term> means a stamp described in section 416(a)(1) of such title.</text></subsection></section> 
+</legis-body>
+</bill> 
+

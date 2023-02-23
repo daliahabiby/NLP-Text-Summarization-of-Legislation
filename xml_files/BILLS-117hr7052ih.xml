@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA5B6D3D59F1742E3A1383BDC595246AA" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7052 IH: To designate the facility of the United States Postal Service located at 1535 East Los Ebanos Boulevard in Brownsville, Texas, as the “1st Lieutenant Andres Zermeno Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7052</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220309">March 9, 2022</action-date>
+<action-desc><sponsor name-id="V000132">Mr. Vela</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To designate the facility of the United States Postal Service located at 1535 East Los Ebanos Boulevard in Brownsville, Texas, as the <quote>1st Lieutenant Andres Zermeno Post Office Building</quote>.</official-title>
+</form>
+<legis-body id="HD98BBA31E8964B5F91A402FDEC375F5D" style="OLC"> 
+<section id="H2E830DF13FCF47F0900AD43F5B304570" section-type="section-one"><enum>1.</enum><header>1st Lieutenant Andres Zermeno Post Office Building</header> 
+<subsection id="HDAA7D13C4DA5439CB36DAF48973A1986"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 1535 East Los Ebanos Boulevard in Brownsville, Texas, shall be known and designated as the <quote>1st Lieutenant Andres Zermeno Post Office Building</quote>.</text></subsection> <subsection id="HB3C81922685049C3B52F560FC485B152"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>1st Lieutenant Andres Zermeno Post Office Building</quote>.</text> </subsection></section> 
+</legis-body>
+</bill> 
+

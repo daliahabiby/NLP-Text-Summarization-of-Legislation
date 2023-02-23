@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H81F3A9E3CC2044ADB05B01C4B45FA0D8" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 5794 ENR: To designate the facility of the United States Postal Service located at 850 Walnut Street in McKeesport, Pennsylvania, as the “First Sergeant Leonard A. Funk, Jr. Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 5794</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To designate the facility of the United States Postal Service located at 850 Walnut Street in McKeesport, Pennsylvania, as the <quote>First Sergeant Leonard A. Funk, Jr. Post Office Building</quote>.</official-title> 
+</form> 
+<legis-body id="H2F149221A04944B8BA9E35FC4350D034" style="OLC"> 
+<section id="H4B7BA3B70283447EAA982C51E33762D2" section-type="section-one"><enum>1.</enum><header>First Sergeant Leonard A. Funk, Jr. Post Office Building</header> 
+<subsection id="H27BD0F574CEC4C1F9A75D984A46E6FF7"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 850 Walnut Street in McKeesport, Pennsylvania, shall be known and designated as the <quote>First Sergeant Leonard A. Funk, Jr. Post Office Building</quote>.</text></subsection> <subsection id="H2EE70DA2774B4F95BB3F21F48FB9683E"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>First Sergeant Leonard A. Funk, Jr. Post Office Building</quote>.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

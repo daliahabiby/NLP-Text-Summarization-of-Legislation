@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H54FE6ACCEABD4701ACCDFBF7F59082DD" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6458 IH: To amend title 38, United States Code, to eliminate the requirement to specify an effective period of a transfer of Post-9/11 educational assistance to a dependent.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6458</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220120">January 20, 2022</action-date><action-desc><sponsor name-id="M001210">Mr. Murphy of North Carolina</sponsor> (for himself, <cosponsor name-id="A000378">Mrs. Axne</cosponsor>, and <cosponsor name-id="T000483">Mr. Trone</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to eliminate the requirement to specify an effective period of a transfer of Post-9/11 educational assistance to a dependent.</official-title></form><legis-body id="H027ACFC8063D4CEFA6149D650AC23726" style="OLC"><section id="H271EE7E2D38649C98553120C86CEDFFB" section-type="section-one"><enum>1.</enum><header>Elimination of requirement to specify an effective period of a transfer of Post-9/11 educational assistance to a dependent</header><text display-inline="no-display-inline">Section 3319(e) of title 38, United States Code, is amended—</text><paragraph id="HDF441F99B09C4B8C843D73A74165A9FA"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (1), by adding <quote>and</quote> after the semicolon;</text></paragraph><paragraph id="HBA12660E231D4221980A912F464A9904"><enum>(2)</enum><text>in paragraph (2), by striking <quote>; and</quote> and inserting a period; and</text></paragraph><paragraph id="H8E8D3BFB79F34A72B4614CD3CFA90853"><enum>(3)</enum><text>by striking paragraph (3).</text></paragraph></section></legis-body></bill> 
+

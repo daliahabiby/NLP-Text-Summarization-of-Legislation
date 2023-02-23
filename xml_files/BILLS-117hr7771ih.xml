@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7D719C3CF43747F2A1B2249505B37A9B" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7771 IH: To require the Secretary of the Army and the Administrator of the Environmental Protection Agency to conduct a study analyzing the cost to permit applicants and permit holders of complying with sections 402 and 404 of the Federal Water Pollution Control Act, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7771</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220513">May 13, 2022</action-date>
+<action-desc><sponsor name-id="R000603">Mr. Rouzer</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require the Secretary of the Army and the Administrator of the Environmental Protection Agency to conduct a study analyzing the cost to permit applicants and permit holders of complying with sections 402 and 404 of the Federal Water Pollution Control Act, and for other purposes.</official-title>
+</form>
+<legis-body id="HACC198B46E4442F8BF16E8F2621EDF7B" style="OLC">
+<section id="H5D95867D06544A51BCC3AE3752AB2947" section-type="section-one"><enum>1.</enum><header>Study on cost of compliance with permit requirements</header>
+<subsection id="HF92DA2522A01454D85427D370A4E12A2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Secretary of the Army, acting through the Chief of Engineers, and the Administrator of the Environmental Protection Agency shall conduct a study analyzing the cost to permit applicants and permit holders of complying with sections 402 and 404 of the Federal Water Pollution Control Act (33 U.S.C. 1342 and 1344), including—</text> <paragraph id="H385174D5196F4EEDBD9DC236368BFC27"><enum>(1)</enum><text display-inline="yes-display-inline">with respect to such section 402, costs associated with applications, permitting time, compliance with effluent limitations and best management practices, and monitoring; and</text></paragraph>
+<paragraph id="H390276E62A90417C81E6462E962ACD78"><enum>(2)</enum><text display-inline="yes-display-inline">with respect to such section 404, costs associated with applications, permitting time, impact avoidance and minimization, and compensatory mitigation.</text></paragraph></subsection> <subsection id="HD83824DE183E4B82A2401350399DD764"><enum>(b)</enum><header>Contents of study</header><text>The study required under subsection (a) shall include an analysis, with respect to the 5 years prior to the date of enactment of this Act, of—</text>
+<paragraph id="HBC07CE85B236496CA8DBDF03D02E5053"><enum>(1)</enum><text display-inline="yes-display-inline">the total cost to all permit applicants and permit holders of complying with sections 402 and 404 of the Federal Water Pollution Control Act (33 U.S.C. 1342 and 1344);</text></paragraph> <paragraph id="HC05E3FE6318A43E9AD79D745D6623496"><enum>(2)</enum><text>the average cost to a permit applicant or permit holder of complying with such sections, including such average cost in each such year;</text></paragraph>
+<paragraph id="H87F3E81BF7334C1D9A85FD9EFD74960D"><enum>(3)</enum><text display-inline="yes-display-inline">the cost to permit applicants and permit holders of complying with such sections based on the type of permit applicant or permit holder and the economic sector to which such permit applicant or permit holder belongs; and</text></paragraph> <paragraph id="H172F668B4BC64F3EA96B9F446F49A1CF"><enum>(4)</enum><text>a comparison of such costs in urban and rural areas.</text></paragraph></subsection>
+<subsection id="H36B28960CB504954A74073E16BE89D02"><enum>(c)</enum><header>Submission</header><text display-inline="yes-display-inline">Upon completion of the study required under subsection (a), the Secretary of the Army and the Administrator of the Environmental Protection Agency shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report containing the results of such study.</text></subsection></section> </legis-body> </bill> 
+

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3F9B56E3B1BB440D865547A4E06592E8" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6911 IH: No Travel for Traffickers Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6911</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220303">March 3, 2022</action-date>
+<action-desc><sponsor name-id="O000086">Mr. Owens</sponsor> (for himself, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, and <cosponsor name-id="M001203">Mr. Malinowski</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committee on <committee-name committee-id="HFA00">Foreign Affairs</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Immigration and Nationality Act to prohibit the participation in the Visa Waiver Program of certain countries that provide citizenship for investment programs, and for other purposes.</official-title>
+</form>
+<legis-body id="H291438CCFBD346F5B9B0894F24D67653" style="OLC"> 
+<section id="H269F132D58954A80B14F456FBD54CA98" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Travel for Traffickers Act of 2022</short-title></quote>.</text></section> <section id="H511E96B7A9554D62B2C492A24F0549F4"><enum>2.</enum><header>Limitation on participation in the Visa Waiver Program</header><text display-inline="no-display-inline">Section 217 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187</external-xref>) is amended—</text> 
+<paragraph id="H8CE1F72946B641A9A2711CCA59439C0B"><enum>(1)</enum><text>in subsection (c)(2), by adding at the end the following:</text> <quoted-block style="OLC" id="H7349F6F5024C48959392315AB2138484" display-inline="no-display-inline"> <subparagraph id="H34EF287AC1094EE69EB90FA3714EA79C"><enum>(H)</enum><header>Not a disqualified country</header><text display-inline="yes-display-inline">The country is not a country disqualified from designation under subsection (j).</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="HFEF6E0DFD190485F98DED109074C36A0"><enum>(2)</enum><text>by adding at the end the following: </text> <quoted-block style="OLC" id="H6BFB93E5480F425D879869203BDE8625" display-inline="no-display-inline"> <subsection id="HA40C9731BC3349F88F730C51AEB92477"><enum>(j)</enum><header>Disqualified countries</header><text display-inline="yes-display-inline">A country shall be ineligible for designation under subsection (c) as a program country if the country has in effect any program permitting an individual who is not a national of that country to be provided with citizenship, on condition that the individual make an investment in that country. </text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+<section id="H2F6342D191FA450F92DE9C17E8E936A5"><enum>3.</enum><header>List of foreign states with citizenship by investment programs</header><text display-inline="no-display-inline">No later than 60 days after the enactment of this Act, the Secretary of Homeland Security shall provide to the appropriate congressional committees an unclassified list of countries ineligible for designation as program countries under section 217(j) of the Immigration and Nationality Act.</text></section> <section id="HFB5D8895DF6F466EA3021027FF5B0240"><enum>4.</enum><header>Cooperation with European Union and United Kingdom</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall engage with partners in the European Union, the United Kingdom, and other relevant partners to eliminate Schengen area visa-free travel access for foreign states that are ineligible for designation as program countries under section 217(j) of the Immigration and Nationality Act.</text></section> 
+<section id="HDB34A80D64AE4051A21F09145DCE8B03"><enum>5.</enum><header>Restriction on use of funds for foreign vetting</header><text display-inline="no-display-inline">No amounts made available in appropriations Acts may be used for the purpose of vetting applicants for a program described in section 217(j) of the Immigration and Nationality Act on behalf of, or at the request of, a foreign state, or to otherwise assist a foreign state with the operation of such a program.</text></section> </legis-body> </bill> 
+

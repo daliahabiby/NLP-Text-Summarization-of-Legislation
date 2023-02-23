@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0D2E1ABE775841109CF31E553C5D5E6C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7386 IH: Service Academies District of Columbia Equality Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7386</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220404">April 4, 2022</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 10, United States Code, to increase the number of individuals from the District of Columbia who may be appointed to military service academies.</official-title></form><legis-body id="H23AED34A13894B3892FCB4BB20154020" style="OLC"><section id="H4BFFE134EFF14795BF4A883A962FE7EF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Service Academies District of Columbia Equality Act</short-title></quote>.</text></section><section id="H0529410DE1EF4D5BAC41D7D746418D5D"><enum>2.</enum><header>United States Military Academy</header><text display-inline="no-display-inline">Section 7442(a)(5) of title 10, United States Code, is amended by striking <quote>Five</quote> and inserting <quote>Fifteen</quote>.</text></section><section id="H07BCDBFA96154466B72EC29CC6CA32B2"><enum>3.</enum><header>United States Naval Academy</header><text display-inline="no-display-inline">Section 8454(a)(5) of title 10, United States Code, is amended by striking <quote>Five</quote> and inserting <quote>Fifteen</quote>.</text></section><section id="H9EB3DF26AC6047C6B4A5DE112404ABC9" section-type="subsequent-section"><enum>4.</enum><header>United States Air Force Academy</header><text display-inline="no-display-inline">Section 9442(a)(5) of title 10, United States Code, is amended by striking <quote>Five</quote> and inserting <quote>Fifteen</quote>.</text></section></legis-body></bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0A876793CFAF40558A0D9D8132C8B3AF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6690 IH: To prohibit the Secretary of Transportation from issuing any rule, regulation, or guidance that promotes the use of speed safety cameras, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6690</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220209">February 9, 2022</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> (for himself and <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of Transportation from issuing any rule, regulation, or guidance that promotes the use of speed safety cameras, and for other purposes.</official-title></form><legis-body id="H702DF7D387CD4E63949B57603D30C0B0" style="OLC"><section id="H04CBBEE71E9641BABDFDD66D98B040AF" section-type="section-one"><enum>1.</enum><header>Prohibition on rule promoting use of speed safety cameras</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, the Secretary of Transportation may not propose, issue, or implement any rule, regulation, or guidance that promotes the use of speed safety cameras.</text></section></legis-body></bill> 
+

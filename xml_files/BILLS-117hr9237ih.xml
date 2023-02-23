@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H487C38F1B48346D192CF04052BFAB8B6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9237 IH: To name the Department of Veterans Affairs community-based outpatient clinic in Vallejo, California, as the “Delphine Metcalf-Foster VA Clinic”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9237</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221025">October 25, 2022</action-date><action-desc><sponsor name-id="T000460">Mr. Thompson of California</sponsor> (for himself and <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To name the Department of Veterans Affairs community-based outpatient clinic in Vallejo, California, as the <quote>Delphine Metcalf-Foster VA Clinic</quote>.</official-title></form><legis-body id="H0CCA302B012348E5AE8E00804A940A0B" style="OLC" display-enacting-clause="yes-display-enacting-clause"> 
+<section section-type="section-one" id="HF24619F16DE44C049AD7436C3364ED21" commented="no" display-inline="no-display-inline"><enum>1.</enum><header display-inline="yes-display-inline">Name of Department of Veterans Affairs community-based outpatient clinic, Vallejo, California<editorial></editorial></header> <text display-inline="no-display-inline">The Department of Veterans Affairs community-based outpatient clinic in Vallejo, California, shall after the date of the enactment of this Act be known and designated as the <quote>Delphine Metcalf-Foster VA Clinic</quote>. Any reference to such clinic in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Delphine Metcalf-Foster VA Clinic.</text></section> </legis-body></bill>
+

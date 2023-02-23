@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2DEFE69D45924CABAE37AE79E41665DF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9153 IH: Trucking Workforce Improvement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9153</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221007">October 7, 2022</action-date><action-desc><sponsor name-id="G000595">Mr. Good of Virginia</sponsor> (for himself, <cosponsor name-id="C001115">Mr. Cloud</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="W000804">Mr. Wittman</cosponsor>, <cosponsor name-id="R000614">Mr. Roy</cosponsor>, and <cosponsor name-id="R000103">Mr. Rosendale</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To repeal the Federal Motor Carrier Safety Administration’s rule titled <quote>Minimum Training Requirements for Entry-Level Commercial Motor Vehicle Operators</quote>.</official-title></form><legis-body id="H9601ACE0B5F14288B4F9363AD7001A74" style="OLC"><section id="HE5938F734C71483AA9B0FB351B176F40" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Trucking Workforce Improvement Act</short-title></quote>. </text></section><section id="H5691922BF07340BCB8422C4E0DAE8ED5"><enum>2.</enum><header>Repeal of rule</header><text display-inline="no-display-inline">The final rule issued by the Federal Motor Carrier Safety Administration titled <quote>Minimum Training Requirements for Entry-Level Commercial Motor Vehicle Operators</quote> issued on December 8, 2016 (81 Fed. Reg. 88732) shall have no force or effect.</text></section></legis-body></bill> 
+

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H09FBDADB1ADC4BF8AF96D049B731CEE5" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8045 IH: Critical Minerals Classification Improvement Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8045</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220613">June 13, 2022</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> (for himself, <cosponsor name-id="N000189">Mr. Newhouse</cosponsor>, <cosponsor name-id="C001063">Mr. Cuellar</cosponsor>, and <cosponsor name-id="G000581">Mr. Vicente Gonzalez of Texas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Energy Act of 2020 to alter the criteria for the designation of critical minerals.</official-title></form><legis-body id="H1C7E789FDE3C4D12B988FF010BCFCF66" style="OLC"> 
+<section id="HB3D50AFF37E74669B210FAF1F3696EAF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Critical Minerals Classification Improvement Act of 2022</short-title></quote>. </text></section> <section id="H1CC2AB0572CF49A691E4D7ED115C71C9"><enum>2.</enum><header>Amendment to definition of critical mineral remove exclusion of fuel minerals</header> <subsection id="H1776ABE5297F4B60AEC246EC0756C8EF"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 7002(a)(3)(B) of the Energy Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/30/1606">30 U.S.C. 1606(a)(3)(B)</external-xref>) is amended—</text> 
+<paragraph id="H80EC23C102434E02BF743190C02987D1"><enum>(1)</enum><text>by striking clause (i); and</text></paragraph> <paragraph id="HD8589F46AF3B42FEADF81AC425432BC8"><enum>(2)</enum><text>by redesignating clauses (ii) and (iii) as clauses (i) and (ii), respectively.</text></paragraph></subsection> 
+<subsection id="HE35909EA71BE400B8025CBA5141DA136"><enum>(b)</enum><header>Technical correction</header><text>Section 7002(a)(3)(B)(i) of the Energy Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/30/1606">30 U.S.C. 1606(a)(3)(B)</external-xref>), as redesignated, is amended by inserting <quote>or</quote> after the semicolon.</text></subsection> <subsection id="HB50F07AD621241D9BB09B55194CBB803"><enum>(c)</enum><header>Uranium critical mineral status</header><text>The Director of the United States Geological Survey shall, not later than 90 days after the date of enactment of this Act, make such revisions to the final list of critical minerals included in the notice entitled <quote>2022 Final List of Critical Minerals</quote> published by the United States Geological Survey (87 Fed. Reg. 10381; February 24, 2022) as the Director determines are necessary consistent with the amendments made by this section.</text></subsection> </section> 
+</legis-body></bill>
+

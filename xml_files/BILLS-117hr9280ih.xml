@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HFDA06A73551649C3B1C4A0750C1B51E6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9280 IH: To prohibit the provision of Federal funds to a local educational agency that imposes or enforces a COVID–19 vaccine mandate on students at the schools served by such agency.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-11-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9280</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221107">November 7, 2022</action-date><action-desc><sponsor name-id="V000133">Mr. Van Drew</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the provision of Federal funds to a local educational agency that imposes or enforces a COVID&#8211;19 vaccine mandate on students at the schools served by such agency.</official-title></form><legis-body id="HF22B04D5C5B24F13A181CAD98EBF2958" style="OLC"> 
+<section id="H03398C654F71436581B1C7215BD1D310" section-type="section-one"><enum>1.</enum><header>Prohibition on Federal funds for certain local educational agencies</header> 
+<subsection id="H8BC66B1D37FC407EA0ACD77F74DA4C65"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">No Federal funds may be provided to a local educational agency that imposes or enforces a COVID–19 vaccine requirement on a student in connection with enrollment by such student at a public elementary school or secondary school under the jurisdiction of such agency.</text></subsection> <subsection id="H452C1C6264FE4C409A34E96682C74D11"><enum>(b)</enum><header>ESEA terms</header><text display-inline="yes-display-inline">In this section, the terms <quote>elementary school</quote>, <quote>local educational agency</quote>, and <quote>secondary school</quote> have the meanings given such terms in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text></subsection></section> 
+</legis-body></bill>
+

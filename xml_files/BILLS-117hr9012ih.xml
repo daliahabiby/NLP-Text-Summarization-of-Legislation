@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H37A2AED03457499F86FCA50B08897794" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9012 IH: Stay Off My Line Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9012</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220928">September 28, 2022</action-date><action-desc><sponsor name-id="M001215">Mrs. Miller-Meeks</sponsor> (for herself and <cosponsor name-id="W000821">Mr. Westerman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the National Environmental Policy Act of 1969 to limit the scope of environmental reviews required by such Act, and for other purposes.</official-title></form><legis-body id="HF7DE95194BCC4D168A0B60A22E252BCF" style="OLC"> 
+<section id="H31E367B0F2AF4103900D3D7B201DAF13" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stay Off My Line Act</short-title></quote>. </text></section> <section id="H0F046F32140E47708AE34C28794675B1"><enum>2.</enum><header>National Environmental Policy Act clarification</header><text display-inline="no-display-inline">Title I of the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="H746A3A5794A1478D91DFC4532D7FBC1D" display-inline="no-display-inline"> 
+<section id="H661A00E93CA4436899696985115AE985"><enum>106.</enum><header>Application limited to Federal land and certain Federal actions</header> 
+<subsection id="H6FA276CF4C7248F6BCC4CDA523247538"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Under section 102(2)(C), the term ‘major Federal action’ does not include a project or action that—</text> <paragraph id="H7131E4DD5967493E8A7833DDE51A3432"><enum>(1)</enum><text display-inline="yes-display-inline">does not involve Federal land; and</text></paragraph> 
+<paragraph id="HF005C9C2ABAE4363BEFE003A1D76F551"><enum>(2)</enum><text display-inline="yes-display-inline">is not subject to Federal control and responsibility.</text></paragraph></subsection> <subsection id="H3C52BE786EEF4FE09501D1FB0D65D162"><enum>(b)</enum><header>Exclusion</header><text display-inline="yes-display-inline">A project or action may not be determined to be a major Federal action under section 102(2)(C) on the basis of—</text> 
+<paragraph id="HF31DC74B18C24600A5833904EB140B58"><enum>(1)</enum><text display-inline="yes-display-inline">an interstate effect of such project or action; or</text></paragraph> <paragraph id="HA8E2DE5B0A1D4ACBA66DA96678D74429"><enum>(2)</enum><text display-inline="yes-display-inline">the provision of Federal funds for such project or activity.</text></paragraph></subsection> 
+<subsection id="H72CF94073A914CDB9E6EF13A8F33742F"><enum>(c)</enum><header>Scope of review</header><text display-inline="yes-display-inline">The scope of any review under section 102 shall extend only to so much of a major Federal action as is—</text> <paragraph id="H11CB495A2CD04F7A92A0CCA09F8791B4"><enum>(1)</enum><text display-inline="yes-display-inline">on Federal land; or</text></paragraph> 
+<paragraph id="H6C223A4754BD4A62BAC6878A7CF06882"><enum>(2)</enum><text display-inline="yes-display-inline">is subject to Federal control and responsibility.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block> </section> </legis-body></bill>
+

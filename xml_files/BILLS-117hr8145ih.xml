@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H23D04BF662BD4AF6BCD10A31DA2C7614" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8145 IH: Professional Images Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8145</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220617">June 17, 2022</action-date>
+<action-desc><sponsor name-id="M000087">Mrs. Carolyn B. Maloney of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Fair Labor Standards Act of 1938 to provide for prohibitions on employers relating to the recording and use of employee images, and for other purposes.</official-title>
+</form>
+<legis-body id="HDC20A6EC408D4B95BDA74A6639EA4FD6" style="OLC">
+<section id="H00BBA28C0E42459B992E3EE325745E23" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Professional Images Protection Act</short-title></quote>.</text></section> <section id="HFD3FD2320B3A4AA880DF1F6BCE9BF6B2"><enum>2.</enum><header>Prohibitions relating to recording and use of employee images</header> <subsection id="HBB7A4D7530044953BC47D97D4CE417E9"><enum>(a)</enum><header>In general</header><text>The Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/201">29 U.S.C. 201 et seq.</external-xref>) is amended by inserting after section 7 the following new section:</text>
+<quoted-block id="HEF0F91BE19444A5F881DC9CF94EEE269" style="OLC">
+<section id="H934459B3E7AC4F1FB71CFEDB7777E051"><enum>8.</enum><header>Prohibitions relating to recording and use of employee images</header>
+<subsection id="H46A7973E03B04F2B97A1D8978B8D5DAE"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">It shall be an unlawful practice for an employer—</text> <paragraph id="H88B1FFE8D45246A784ED6685689FBA5E"><enum>(1)</enum><text>to record or use an image of any employee (including photographs and audio or video recordings) unless—</text>
+<subparagraph id="H5E2182F1FBF044EAAF8A8EA3B66BB7E7"><enum>(A)</enum><text display-inline="yes-display-inline">prior to the recording of such image—</text> <clause id="HBCB735FCBC1D4E93B02748E6D7A7B05C"><enum>(i)</enum><text>the employer discloses in writing to the employee—</text>
+<subclause id="H95C6412166B94B9A96C0CD1C8DA3746A"><enum>(I)</enum><text>each person who will have access to the image, including any person not employed by the employer;</text></subclause> <subclause id="HDC263671A59B40A7AE705453ED46516A"><enum>(II)</enum><text>how the image will be used, which must be for a work-related purpose; and</text></subclause>
+<subclause id="H7E0BC01C8D5C40E0A8C1FF5F9A418AEE"><enum>(III)</enum><text display-inline="yes-display-inline">when the image will be used; and</text></subclause></clause> <clause id="HA5CF8433E4074EFC9F641CC09AA018EC"><enum>(ii)</enum><text>the employer obtains written consent to record and use such image in accordance with such disclosure; and</text></clause></subparagraph>
+<subparagraph id="HD8E6F74D40EA4470A6121E50D9318692"><enum>(B)</enum><text>in any event the employer seeks to use an image already recorded for a purpose not included in such disclosure, the employer issues a new disclosure in writing and obtains written consent for such new purpose; or</text></subparagraph></paragraph> <paragraph id="HAD596BD9A48C4A459C71461E6560924F"><enum>(2)</enum><text>to discharge or in any other manner retaliate against any employee or prospective employee because the employee or prospective employee—</text>
+<subparagraph id="HD4E91277F570435296963D0DDE1D5707"><enum>(A)</enum><text>opposed any act or practice made unlawful by this section; or</text></subparagraph> <subparagraph id="HA5D97D5CD19945BEA6847992DA6F1B75"><enum>(B)</enum><text>took an action for which discrimination is forbidden under section 15(a)(3).</text></subparagraph></paragraph></subsection>
+<subsection id="H0F436E9B2DAA417AA7B0C6C9B0FE3B0C"><enum>(b)</enum><header>Exception</header><text display-inline="yes-display-inline">Subsection (a) shall not apply to the recording or use of any image in which it is impractical to obtain such consent, including recordings of large gatherings or recordings made for security purposes.</text></subsection> <subsection id="HDA2378E5D89B4B068AA88DBB33A1735A"><enum>(c)</enum><header>Application to independent contractors</header><text display-inline="yes-display-inline">This section and section 16(f) shall apply with respect to any contractor of an employer in the same manner as such sections apply to the employees of such employer.</text></subsection>
+<subsection id="H8B8C31544BA1417A9C847FBCE52B0130"><enum>(d)</enum><header>Authority To issue regulations</header><text display-inline="yes-display-inline">The Secretary of Labor shall issue such regulations or other guidance as the Secretary considers necessary to assist employers in the implementation of this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H18AD3235B3FA48C086086A64F9AB3107"><enum>(b)</enum><header>Penalties</header><text>Section 16 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/29/216">29 U.S.C. 216</external-xref>) is amended by adding at the end the following new subsection:</text>
+<quoted-block id="HE94087D10DFD46C3AA4BA40A11B5EA9F" style="OLC">
+<subsection id="HF22CAB859EEF419999C69F6479186184"><enum>(f)</enum>
+<paragraph commented="no" display-inline="yes-display-inline" id="H32509EC43EB94205B2EB3A2E15B25BF9"><enum>(1)</enum><text>Any person who violates the provisions of section 8 shall—</text> <subparagraph id="H55C6E5A08F254C38866BE30D158CA4CD" indent="up1"><enum>(A)</enum><text display-inline="yes-display-inline">be subject to a civil penalty—</text>
+<clause id="H6E3DA0A542C444AFB87E706DFF6A2C79"><enum>(i)</enum><text display-inline="yes-display-inline">in the case of an employer with 100 employees or fewer, of $20,000 for a first offense, increased by an additional $10,000 for each subsequent offense;</text></clause> <clause id="H50F6DAFFCC3C40398E7BB3D9DAEDB881"><enum>(ii)</enum><text display-inline="yes-display-inline">in the case of an employer with more than 100 employees but not more than 200 employees, of $50,000 for a first offense, increased by an additional $15,000 for each subsequent offense;</text></clause>
+<clause id="H41F1771957704EE4B99B4CF5FFC55DDD"><enum>(iii)</enum><text display-inline="yes-display-inline">in the case of an employer with more than 200 employees but not more than 500 employees, of $100,000 for a first offense, increased by an additional $20,000 for each subsequent offense; and</text></clause> <clause id="H3ACA9D67074343D5BA1EF1E24EEB001B"><enum>(iv)</enum><text display-inline="yes-display-inline">in the case of an employer with more than 500 employees, of $300,000 for a first offense, increased by an additional $25,000 for each subsequent offense; and</text></clause></subparagraph>
+<subparagraph id="H10C89AC92DD249F99B8C9F0708742EE6" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">be liable to each employee or prospective employee who was the subject of the violation for special damages not to exceed $10,000 plus attorneys’ fees, and shall be subject to such injunctive relief as may be appropriate.</text></subparagraph></paragraph> <paragraph id="H1921784A7B3F48D6AF70C7112C0F8081" indent="up1"><enum>(2)</enum><text>An action to recover the liability described in paragraph (1)(B) may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees or prospective employees for and on behalf of—</text>
+<subparagraph id="HB20AB032F6E2407698D6AC544C2D6092"><enum>(A)</enum><text>the employees or prospective employees; and</text></subparagraph> <subparagraph id="HA9D729C2A4C441A29162EA5F8DFFAEB0"><enum>(B)</enum><text>other employees or prospective employees similarly situated.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section>
+</legis-body>
+</bill> 
+
+

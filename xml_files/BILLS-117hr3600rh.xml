@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" dms-id="HD649658436224D4E8717E3141BD9FDF9" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 3600 RH: Route 66 National Historic Trail Designation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-05-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code> 
+<calendar display="yes">Union Calendar No. 428</calendar> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 3600</legis-num> 
+<associated-doc role="report" display="yes">[Report No. 117–593]</associated-doc> 
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20210528">May 28, 2021</action-date> 
+<action-desc><sponsor name-id="L000585">Mr. LaHood</sponsor> (for himself and <cosponsor name-id="N000179">Mrs. Napolitano</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc> 
+</action> 
+<action> 
+<action-date>December 7, 2022</action-date> 
+<action-desc>Additional sponsors: <cosponsor name-id="A000371">Mr. Aguilar</cosponsor>, <cosponsor name-id="D000619">Mr. Rodney Davis of Illinois</cosponsor>, <cosponsor name-id="H001090">Mr. Harder of California</cosponsor>, <cosponsor name-id="H001053">Mrs. Hartzler</cosponsor>, <cosponsor name-id="C001080">Ms. Chu</cosponsor>, <cosponsor name-id="N000191">Mr. Neguse</cosponsor>, <cosponsor name-id="K000391">Mr. Krishnamoorthi</cosponsor>, <cosponsor name-id="K000385">Ms. Kelly of Illinois</cosponsor>, and <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor></action-desc> 
+</action> 
+<action> 
+<action-date>December 7, 2022</action-date> 
+<action-desc>Reported from the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name>; committed to the Committee of the Whole House on the State of the Union and ordered to be printed<pagebreak/></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To amend the National Trails System Act to designate the Route 66 National Historic Trail, and for other purposes.<pagebreak/></official-title> 
+</form> 
+<legis-body id="HA391090999754910B8E1D4A5EF988EA8" style="OLC"> 
+<section id="HE06CA4BF8A194BEB99C21F8529256726" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Route 66 National Historic Trail Designation Act</short-title></quote>.</text></section> <section id="H89682E0FC6D043E69682B786B37E6C30" section-type="subsequent-section"><enum>2.</enum><header>Designation of the Route 66 National Historic Trail</header><text display-inline="no-display-inline">Section 5(a) of the National Trails System Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1244">16 U.S.C. 1244(a)</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block display-inline="no-display-inline" id="H3B61E6E1171C4012B1D7B3E0D45A116E" style="OLC"> 
+<paragraph id="H9229F3FD68E2483CBDE2D673290D2F80"><enum>(31)</enum><header>Route 66 National Historic Trail</header> 
+<subparagraph id="HF4EAC25C55B24FD99E9D5787215368FB"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The Route 66 National Historic Trail, a trail that includes all the alignments of U.S. Highway 66 in existence between 1926 and 1985, extending along a route of approximately 2,400 miles from Chicago, Illinois, to Santa Monica, California, as generally depicted on the map entitled <quote>Route 66 National Historic Trail, Proposed Route</quote>, numbered P26/141,279, and dated December 2017.</text></subparagraph> <subparagraph id="H427ABD66F7084FF3976B6663ED31F83F"><enum>(B)</enum><header>Availability of map</header><text display-inline="yes-display-inline">The map described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.</text></subparagraph> 
+<subparagraph id="HACFCBD26E8CC4B4581E566D8E2AE9176"><enum>(C)</enum><header>Administration</header><text display-inline="yes-display-inline">The Route 66 National Historic Trail shall be administered by the Secretary of the Interior, acting through the Director of the National Park Service. Such administration shall be conducted in a manner that respects and maintains the idiosyncratic nature of the Route 66 National Historic Trail.</text></subparagraph> <subparagraph id="HFA2D902781594B3FBF8CC085F0299BDC"><enum>(D)</enum><header>Land Acquisition</header><text display-inline="yes-display-inline">The United States may not acquire for the Route 66 National Historic Trail any land or interest in land—</text> 
+<clause id="H66CFFA8C5EFC4EA9A7BF6AF91FFFB746"><enum>(i)</enum><text>outside the exterior boundary of any federally managed area without the consent of the owner of the land or interest in land; or</text></clause> <clause id="H8DF299FB8A574D1085CBBBA2A181B4E9"><enum>(ii)</enum><text display-inline="yes-display-inline">that extends more than an average of one-quarter of a mile on either side of the trail.</text></clause></subparagraph> 
+<subparagraph id="HE876A19DD36945E9AED5EB59D03107CC"><enum>(E)</enum><header>No buffer zone created</header><text display-inline="yes-display-inline">Nothing in this Act, the acquisition of the land or an interest in land authorized by this Act, or the management plan for the Route 66 National Historic Trail shall be construed to create buffer zones outside of the Trail. That activities or uses can be seen, heard, or detected from the acquired land shall not preclude, limit, control, regulate, or determine the conduct or management of activities or uses outside of the trail.</text></subparagraph> <subparagraph id="HE5E94350EF9140499816C93743394366"><enum>(F)</enum><header>Energy</header><text display-inline="yes-display-inline">Nothing in this Act, the acquisition of land or an interest in land authorized by this Act, or the management plan for the Route 66 National Historic Trail shall prohibit, hinder, or disrupt the development, production, or transmission of energy.</text></subparagraph> 
+<subparagraph id="H4189B7B4252F4A658B783F30DF9A3BA1"><enum>(G)</enum><header>Eminent Domain or Condemnation</header><text display-inline="yes-display-inline">In carrying out this Act, the Secretary of the Interior may not use eminent domain or condemnation.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> <endorsement display="yes"> <action-date>December 7, 2022</action-date> <action-desc>Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc></endorsement> </bill> 
+

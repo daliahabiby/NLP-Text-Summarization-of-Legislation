@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2E34CDC5A6A444538471D9044A144CC1" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6942 IH: To prohibit the importation of oil and gas products from Russia, Iran, or Venezuela, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6942</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220307">March 7, 2022</action-date>
+<action-desc><sponsor name-id="G000590">Mr. Green of Tennessee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the importation of oil and gas products from Russia, Iran, or Venezuela, and for other purposes.</official-title>
+</form>
+<legis-body id="H03544661817F4EF9AEED4E919FA04D44" style="OLC"> 
+<section id="H8EAF67B8D07746229982F3EC9195D55D" section-type="section-one"><enum>1.</enum><header>Prohibition on oil and gas imports</header><text display-inline="no-display-inline">Beginning on the date of the enactment of this Act, the importation of any petroleum product (as such term is defined in section 3 of the Energy Policy and Conservation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6202">42 U.S.C. 6202</external-xref>)) originating from Russia, Iran, or Venezuela into the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule) is prohibited.</text> </section> </legis-body> </bill> 
+

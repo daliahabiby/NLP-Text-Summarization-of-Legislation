@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H6E835B3E74074FFEA5D64DAFAAF7149F" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 1066 EH: Wildfire Recovery Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 1066</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide flexibility with the cost share for fire management assistance, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HB155565D864B499A98165568C614B37E" style="OLC"> 
+<section id="HC9B69FE86FF24D66B09969A99E0FCEA0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Wildfire Recovery Act</short-title></quote>. </text></section> <section id="H06317A531198499286E913F886FCB168"><enum>2.</enum><header>Fire management assistance cost share</header> <subsection id="HF865F2D31C6145F8AFDDD659BD68D6CF"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act is amended—</text> 
+<paragraph id="HB07897C75FA44DE79836A6595EFC9E59"><enum>(1)</enum><text>by redesignating subsection (e) as subsection (f); and</text></paragraph> <paragraph id="H8E6EA61DC3844565873A8ECBC5526B7E"><enum>(2)</enum><text>by inserting after subsection (d) the following:</text> 
+<quoted-block style="OLC" id="H0C4AF524C3D14FEDA65961D725D2DE8F" display-inline="no-display-inline"> 
+<subsection id="H50DF4B7FAEDC4C86B94EB9792FB58AAF"><enum>(e)</enum><header>Federal share</header><text display-inline="yes-display-inline">The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of such assistance.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H88AB84BF6F8646E9A1F513E5AAF90BF7"><enum>(b)</enum><header>Applicability</header><text>The amendment made by subsection (a) shall only apply to amounts appropriated on or after the date of enactment of this Act. </text></subsection></section> 
+<section id="H542D4F220FA948ABAEF5507D5F7CB982"><enum>3.</enum><header>Rulemaking</header><text display-inline="no-display-inline">Not later than 3 years after the date of enactment of this Act, the President, acting through the Administrator of the Federal Emergency Management Agency, shall conduct and complete a rulemaking to provide criteria for the circumstances under which the Administrator may recommend the President increase the Federal cost share for section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5187">42 U.S.C. 5187</external-xref>). Such criteria shall include a threshold metric that assesses the financial impact to a State or local government from responding to a fire for which fire management assistance is being provided.</text></section> </legis-body> <attestation><attestation-group><attestation-date date="20220913" chamber="House">Passed the House of Representatives September 13, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

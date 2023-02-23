@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8EF80BD0E2F045BC96D015D9A345C1E6" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6615 IH: Safer Heat Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6615</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220204">February 4, 2022</action-date>
+<action-desc><sponsor name-id="T000486">Mr. Torres of New York</sponsor> (for himself and <cosponsor name-id="C001067">Ms. Clarke of New York</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require the Consumer Product Safety Commission to issue a consumer product safety standard for portable electric heating devices, and for other purposes.</official-title>
+</form>
+<legis-body id="HAB24B0A7D62D44029664DB76990964EE" style="OLC">
+<section id="H7EA1AB61ECEE457999B435977872086F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Safer Heat Act of 2022</short-title></quote>.</text></section> <section id="H437EC2F6F28946998B1BDB56F6CAC5B8"><enum>2.</enum><header>Consumer product safety standard for portable heating devices</header> <subsection id="H197FCC277D4D4BBC99DED32D4FCAABEC"><enum>(a)</enum><header>Consumer product safety standard required</header><text display-inline="yes-display-inline">The Consumer Product Safety Commission shall—</text>
+<paragraph id="H22AFFBBDE71547FF88B42E9EE41D5B00"><enum>(1)</enum><text>in consultation with representatives of consumer groups, portable heating device product manufacturers, and independent engineers and experts and fire safety experts, examine and assess the effectiveness of any voluntary consumer product safety standard for portable heating devices; and</text></paragraph> <paragraph id="HD974F64C42B04F889E9C8418610AAA06"><enum>(2)</enum><text>in accordance with section 553 of title 5, United States Code, promulgate a consumer product safety standard that includes, at a minimum, a requirement that the portable heating device shut off at threshold determined hazardous by the Commission, and that—</text>
+<subparagraph id="H87264A61271E4C05BD999DED7C25E720"><enum>(A)</enum><text>is substantially the same as such voluntary standard; or</text></subparagraph> <subparagraph id="HB367E427E1E64851835546F5EA9FF523"><enum>(B)</enum><text>is more stringent than such voluntary standard, if the Commission determines that a more stringent standard would further reduce the risk of injury associated with such device.</text></subparagraph></paragraph></subsection>
+<subsection id="H237A1368206A493186A173ED75B1ACBD" commented="no"><enum>(b)</enum><header>Treatment of standard</header><text display-inline="yes-display-inline">A consumer product safety standard promulgated under subsection (a) shall be treated as a consumer product safety rule promulgated under section 9 of the Consumer Product Safety Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2058">15 U.S.C. 2058</external-xref>). </text></subsection> <subsection id="H75EE188C8C144AADACEE3B5621100052"><enum>(c)</enum><header>Additional rulemaking</header><text display-inline="yes-display-inline">After promulgating the standard required pursuant to subsection (a), the Commission may periodically review and revise the standard to ensure the standard provides the highest level of safety for portable heating devices that is feasible.</text></subsection>
+<subsection id="HE1933A3808E645F3A53B21AED5A3847B"><enum>(d)</enum><header>Judicial review</header><text>Any person adversely affected by a standard promulgated or revised under this section may file a petition for review under the procedures set forth in section 11(g) of the Consumer Product Safety Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2060">15 U.S.C. 2060(g)</external-xref>).</text></subsection> <subsection id="H3B149A44FD6346718B5034A48C947715"><enum>(e)</enum><header>Revisions to voluntary standard</header> <paragraph id="H678CC0EC7314490E8293A4847C3FC737"><enum>(1)</enum><header>Notice of adoption</header><text>Not later than 60 days after the date on which the Commission promulgates a consumer product safety standard under this section that is based, in whole or in part, on a voluntary standard, the Commission shall notify the organization that issued the voluntary standard of the Commission standard and shall provide a copy of the Commission standard to the organization.</text></paragraph>
+<paragraph id="H5D39FFA6138C4C71AD6B93D2E4E88D7A"><enum>(2)</enum><header>Commission action on revised voluntary standard</header>
+<subparagraph id="H441E4EE76D4B4430B5E8FB45E5C959A0"><enum>(A)</enum><header>Notification by standards organization</header><text display-inline="yes-display-inline">Not later than 60 days after the date on which an organization revises a standard that has been adopted, in whole or in part, as a consumer product safety standard under this section, the organization shall notify the Commission of such revision. </text></subparagraph> <subparagraph id="H10662AC9814248F5AFEADB06FC747EB8"><enum>(B)</enum><header>Adoption or rejection of revised standard</header><text display-inline="yes-display-inline">A revised voluntary standard described under subparagraph (A) shall be treated as a consumer product safety standard promulgated under section 9 of the Consumer Product Safety Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2058">15 U.S.C. 2058</external-xref>) effective 180 days after the date on which the organization notifies the Commission (or such later date specified by the Commission in the Federal Register) unless, within 90 days after the date on which the notice is received, the Commission notifies the organization that the Commission has determined that the revised voluntary standard does not improve the safety of the consumer product covered by the standard and that the Commission will not adopt that standard.</text></subparagraph></paragraph></subsection>
+<subsection id="HB2937214EDD445EDB67269175127A144"><enum>(f)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H56AF4A64796F4382B4E4CE06B18EA72F"><enum>(1)</enum><header>Commission</header><text display-inline="yes-display-inline">The term <term>Commission</term> means the Consumer Product Safety Commission. </text></paragraph>
+<paragraph id="HB4F6F5D848CF470F80D5F3A845842FC1"><enum>(2)</enum><header>Portable heating device</header><text>The term <term>portable heating device</term> means an electric heater that—</text> <subparagraph id="HDCA607016CA946CA99F4B022DE6A443D"><enum>(A)</enum><text>is intended to stand unsupported (freestanding);</text></subparagraph>
+<subparagraph id="H9D372293DE5D4B338063550FEDDD5CF6"><enum>(B)</enum><text>can be moved from place to place within conditioned areas in a structure;</text></subparagraph> <subparagraph id="H0162E9D9C65D4160B95FC678BCAAFA2A"><enum>(C)</enum><text>is connected to a nominal 120 VAC electric supply through a cord and plug;</text></subparagraph>
+<subparagraph id="HCD4ADC04D0EB4C6D9DC18D5273FA890D"><enum>(D)</enum><text>transfers heat by radiation, convection, or both (either natural or forced); and</text></subparagraph> <subparagraph id="H339CF9A080EA49ACA47B2109C4525DEF"><enum>(E)</enum><text>is intended for residential use.</text></subparagraph></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

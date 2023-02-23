@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCAD486F7FC5047D7A5A34E570ABF6C45" public-private="private" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7761 IH: To authorize the President to award the Medal of Honor to James Capers, Jr. for acts of valor as a member of the Marine Corps during the Vietnam War.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">V</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7761</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220512">May 12, 2022</action-date><action-desc><sponsor name-id="N000190">Mr. Norman</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To authorize the President to award the Medal of Honor to James Capers, Jr. for acts of valor as a member of the Marine Corps during the Vietnam War.</official-title></form><legis-body id="HDFE69F1C0BA9479C9750F9C18FFC757C" style="OLC"><section id="HA296B72D24A844249D37562EF5119030" section-type="section-one"><enum>1.</enum><header>Authorization for award of Medal of Honor to James Capers, Jr. for acts of valor as a member of the Marine Corps during the Vietnam War<editorial></editorial></header><subsection id="H7E466BF1971D4656941A641AF6E513C1"><enum>(a)</enum><header>Authorization</header><text display-inline="yes-display-inline">Notwithstanding the time limitations specified in sections 8298(a) and 8300 of title 10, United States Code, or any other time limitation with respect to the awarding of certain medals to persons who served in the Armed Forces, the President is authorized to award the Medal of Honor, under section 8291 of such title, to James Capers, Jr. for the acts of valor described in subsection (b).</text></subsection><subsection id="H122151A8E5A940DF9CC5022B47BBBC03"><enum>(b)</enum><header>Acts of valor described</header><text display-inline="yes-display-inline">The acts of valor described in this subsection are the actions of James Capers, Jr., as a member of the Marine Corps, during the period of March 31 through April 3, 1967, during the Vietnam War, for which he was previously awarded the Silver Star.</text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" dms-id="HF374C8DF26394DCE8475BA75F4308090" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6933 RH: Cost-Share Accountability Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code>
+<calendar display="yes">Union Calendar No. 278</calendar>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6933</legis-num>
+<associated-doc role="report" display="yes">[Report No. 117–367]</associated-doc>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220303">March 3, 2022</action-date>
+<action-desc><sponsor name-id="O000019">Mr. Obernolte</sponsor> (for himself and <cosponsor name-id="F000454">Mr. Foster</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc>
+</action>
+<action display="yes">
+<action-date date="20220614">June 14, 2022</action-date>
+<action-desc>Reported from the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name>; committed to the Committee of the Whole House on the State of the Union and ordered to be printed<pagebreak/></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Energy Policy Act of 2005 to require reporting relating to certain cost-share requirements.<pagebreak/></official-title>
+</form>
+<legis-body id="H6A25F72529C749CCA4FE530E1ED02319" style="OLC">
+<section id="HCBA29FD1912E4825A4F129B95625E463" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cost-Share Accountability Act of 2022</short-title></quote>.</text></section> <section id="H028D5F06D6A949A7B75DD37DB5CE597F"><enum>2.</enum><header>Reporting requirements</header><text display-inline="no-display-inline">Section 988 of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/16352">42 U.S.C. 16352</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block id="HC77F6449B24C485F992653A316CDDD63" style="OLC">
+<subsection id="H49FD00BBA01143EEAC972A06CD243E78"><enum>(g)</enum><header>Reporting</header><text>Not later than 120 days after the enactment of the <short-title>Cost-Share Accountability Act of 2022</short-title>, and at least quarterly thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology and Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate, and shall make publicly available, a report on the use by the Department during the period covered by the report of the authority to reduce or eliminate cost-sharing requirements provided by subsections (b)(3) or (c)(2).</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> <endorsement display="yes"> <action-date date="20220614">June 14, 2022</action-date> <action-desc> Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc></endorsement> </bill> 
+

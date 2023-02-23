@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H252C43D1995045269D7DD22240C26B5F" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7955 IH: Leading Against White Supremacy Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7955</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220607">June 7, 2022</action-date>
+<action-desc><sponsor name-id="J000032">Ms. Jackson Lee</sponsor> (for herself, <cosponsor name-id="C001067">Ms. Clarke of New York</cosponsor>, <cosponsor name-id="C001072">Mr. Carson</cosponsor>, <cosponsor name-id="C001084">Mr. Cicilline</cosponsor>, <cosponsor name-id="M000687">Mr. Mfume</cosponsor>, <cosponsor name-id="C001125">Mr. Carter of Louisiana</cosponsor>, <cosponsor name-id="C001127">Mrs. Cherfilus-McCormick</cosponsor>, <cosponsor name-id="C001061">Mr. Cleaver</cosponsor>, and <cosponsor name-id="B001251">Mr. Butterfield</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prevent and prosecute white supremacy inspired hate crime and conspiracy to commit white supremacy inspired hate crime.</official-title>
+</form>
+<legis-body id="H838F58F9693249EDA911E2F08B502D0E" style="OLC">
+<section id="H5EF71F79B1F44930A7834A4DDE8154E6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Leading Against White Supremacy Act of 2022</short-title></quote>.</text></section> <section id="H3011C078A1FE4E3F86919FC4D335F6B0"><enum>2.</enum><header>White supremacy inspired hate crime</header> <subsection id="H35430853977746BF95CDD8DA6B7676C9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">A person shall be determined to have engaged in a white supremacy inspired hate crime when white supremacy ideology is found to have motivated the planning, development, preparation, or perpetration of actions that constituted a crime or were undertaken in furtherance of activity that, if effectuated, would have constituted a crime.</text></subsection>
+<subsection id="HFC78DC7AEFEF41BE9CF85E4087716D63"><enum>(b)</enum><header>Conspiracy</header><text display-inline="yes-display-inline">A conspiracy to engage in white supremacy inspired hate crime shall be determined to exist—</text> <paragraph id="H9CE062EEB6B94C5F9FE5BF4E5446CB55"><enum>(1)</enum><text>between two or more persons engaged in the planning, development, preparation, or perpetration of a white supremacy inspired hate crime; or</text></paragraph>
+<paragraph id="HF68CC597D1E84B6E9D9F5E06536AAAD8"><enum>(2)</enum><text>between two or more persons—</text> <subparagraph id="H7C9ED2C90495479C8F124E8FD95131A1"><enum>(A)</enum><text>at least one of whom engaged in the planning, development, preparation, or perpetration of a white supremacy inspired hate crime; and</text></subparagraph>
+<subparagraph id="H838D3025532E44BE8F3E5C42B315F6C1"><enum>(B)</enum><text>at least one of whom published material advancing white supremacy, white supremacist ideology, antagonism toward <quote>replacement theory</quote>, or hate speech that vilifies or is otherwise directed against any non-white person or group, and such published material—</text> <clause id="HA77D19F7B7CB44B4B59E21FFDB9B7622"><enum>(i)</enum><text>was published on a social media platform or by other means of publication with the likelihood that it would be viewed by persons who are predisposed to engaging in any action in furtherance of a white supremacy inspired hate crime, or who are susceptible to being encouraged to engage in actions in furtherance of a white supremacy inspired hate crime;</text></clause>
+<clause id="H97EB2FBE2722485A81D6E09032CA7852"><enum>(ii)</enum><text>could, as determined by a reasonable person, motivate actions by a person predisposed to engaging in a white supremacy inspired hate crime or by a person who is susceptible to being encouraged to engage in actions relating to a white supremacy inspired hate crime; and </text></clause> <clause id="H66084171EC5F4A3F9EC1A68E5154013E"><enum>(iii)</enum><text>was read, heard, or viewed by a person who engaged in the planning, development, preparation, or perpetration of a white supremacy inspired hate crime.</text></clause></subparagraph></paragraph></subsection>
+<subsection id="H58D86F34A4064928A26185DD7302DABD"><enum>(c)</enum><header>Department of Justice authority, enforcement, monitoring, and reporting</header><text display-inline="yes-display-inline">The Department shall have authority to conduct operations and activities pursuant to this section, specifically—</text> <paragraph id="H14C7103DDB42494EB6A5ED9108A62022"><enum>(1)</enum><text>with regard to information or evidence obtained by the Department of any action cited in this section, the Department shall have the authority to investigate, intercede, and undertake other actions that it deems necessary and appropriate to interdict, mitigate, or prevent such action from culminating in violent activity;</text></paragraph>
+<paragraph id="H0BCBB71A4BC6416CA94B634D556D3F5B"><enum>(2)</enum><text>the Department shall have the authority to prosecute persons who engaged in actions cited in this section; and</text></paragraph> <paragraph id="H5DEA2217DA74452CA1043C4185C2BF55"><enum>(3)</enum><text display-inline="yes-display-inline">the Uniform Crime Reporting Program in the Department of Justice shall maintain records of white supremacy inspired hate crimes and related actions cited in this section, and enforcement actions in response thereto. </text></paragraph><continuation-text continuation-text-level="subsection">The Department shall provide annual reports to the appropriate committees in Congress that shall include information cited in this paragraph.</continuation-text></subsection></section>
+</legis-body>
+</bill> 
+
+

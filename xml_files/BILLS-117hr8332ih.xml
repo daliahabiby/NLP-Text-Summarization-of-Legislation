@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBA0E8B7AB26F46B8932D63777D942E10" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8332 IH: Elimination of the VA Asset and Infrastructure Review (AIR) Commission Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8332</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220712">July 12, 2022</action-date><action-desc><sponsor name-id="G000592">Mr. Golden</sponsor> (for himself and <cosponsor name-id="M001180">Mr. McKinley</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name>, and in addition to the Committee on <committee-name committee-id="HRU00">Rules</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To repeal the VA Asset and Infrastructure Review Act of 2018.</official-title></form><legis-body id="HAE843D41D4334A1388C0833FB7801B6D" style="OLC"> 
+<section section-type="section-one" id="HB806B16536524C56951A7A70F2D13D34"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Elimination of the VA Asset and Infrastructure Review (AIR) Commission Act of 2022</short-title></quote>.</text></section> <section section-type="subsequent-section" id="HE8E0D0E29AA9473A838D1035640A44F3"><enum>2.</enum><header>Elimination of Asset and Infrastructure Review Commission of Department of Veterans Affairs</header><text display-inline="no-display-inline">The VA Asset and Infrastructure Review Act of 2018 (subtitle A of title II of <external-xref legal-doc="public-law" parsable-cite="pl/115/182">Public Law 115–182</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/38/8122">38 U.S.C. 8122</external-xref> note) is repealed. </text></section> 
+</legis-body></bill>
+

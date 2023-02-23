@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H86C94AB3653E44B0B1DF613DC2233FC5" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 7181 ENR: Human Trafficking Prevention Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 7181</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend the Trafficking Victims Protection Act of 2000 to direct the Secretary of Transportation to seek to provide for the posting of contact information of the national human trafficking hotline in the restrooms of each aircraft, airport, over-the-road bus, bus station, passenger train, and passenger railroad station operating within the United States, and for other purposes.</official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC" id="HE87C2D4DB4184E05A456EC92CD62850E"> 
+<section id="H66C05A73AFC4478EAB11525791C91616" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Human Trafficking Prevention Act of 2022</short-title></quote>. </text></section> <section id="H2D651584811A49008BA04D7B70357B88"><enum>2.</enum><header>Posting of national human trafficking phone number in certain restrooms</header><text display-inline="no-display-inline">Section 107(b)(1)(B)(ii) of the Trafficking Victims Protection Act of 2000 (enacted as division A of the Victims of Trafficking and Violence Protection Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/22/7105">22 U.S.C. 7105(b)(1)(B)(ii)</external-xref>)) is amended by—</text> 
+<paragraph id="H450D2BFF243A4FB4AB9E2343CDE7B9C5"><enum>(1)</enum><text display-inline="yes-display-inline">striking the third sentence; and</text></paragraph> <paragraph id="H99AEA069F5F041268D08F4DE0DB2E26C"><enum>(2)</enum><text>inserting after the period at the end the following: </text> 
+<quoted-block style="OLC" display-inline="yes-display-inline" id="H1AE0F4D69866463FB1B082F0FFCC7771"><text display-inline="yes-display-inline">The contact information of the national human trafficking hotline (including options to reach out to the hotline such as through phone, text, or TTY) shall be posted as follows:</text> <subclause id="HBD45D44AC17449B58A1EBE80B6B4C5C5"><enum>(I)</enum><text display-inline="yes-display-inline">In a visible place in all Federal buildings.</text></subclause> 
+<subclause id="H0177D8A84C544ACFBF1987710CCB6DC2"><enum>(II)</enum><text display-inline="yes-display-inline">The Secretary of Transportation, in consultation with the Secretary of Health and Human Services, shall seek to coordinate with the owners and operators of aircraft, airports, over-the road buses, bus stations, passenger trains, and passenger railroad stations to place the contact information of the national human trafficking hotline in the restrooms of each such aircraft, airport, over the-road bus, bus station, passenger train, and passenger railroad station operating within the United States.</text></subclause> <subclause id="H17EA2A22334D48D5846C603FB4F3C6B6"><enum>(III)</enum><text>The Secretary of Homeland Security, in consultation with the Secretary of Health and Human Services and in coordination with the heads of such other Federal agencies as may be appropriate, shall place the contact information of the national human trafficking hotline at each port of entry. </text></subclause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

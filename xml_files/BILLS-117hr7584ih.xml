@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8F777F898CEA42829988BA9C20E7C5C4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7584 IH: To amend the Internal Revenue Code of 1986 to end the investment tax credit for offshore wind facilities in the inland navigable waters of the United States.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7584</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220426">April 26, 2022</action-date><action-desc><sponsor name-id="J000020">Mr. Jacobs of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to end the investment tax credit for offshore wind facilities in the inland navigable waters of the United States.</official-title></form><legis-body id="HCA63FDE5F5E84370ADE4BF3B2EAF5DB4" style="OLC"><section id="H381AD6784E664835BCE6A8D7EFFED102" section-type="section-one"><enum>1.</enum><header>ITC for certain offshore wind facilities prohibited after 2021</header><subsection id="HCAF77E2BE0184F60A4C27B83BFCE1B34"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/48">Section 48(a)(5)(F)(ii)</external-xref> of the Internal Revenue Code of 1986 is amended by inserting <quote>(other than any of the Great Lakes)</quote> after <quote>in the inland navigable waters of the United States</quote>. </text></subsection><subsection id="HDA9CEE95B96B46E29F3D10C8DD6E41F8"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall apply to taxable years beginning after December 31, 2021. </text></subsection></section></legis-body></bill> 
+

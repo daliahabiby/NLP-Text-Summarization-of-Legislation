@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H43AE1EFC8F4E479B9C56B4E1A9CEFA1F" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7145 IH: Apprenticeship Support for Small Employers and Teams Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7145</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220317">March 17, 2022</action-date>
+<action-desc><sponsor name-id="T000482">Mrs. Trahan</sponsor> (for herself, <cosponsor name-id="M001206">Mr. Morelle</cosponsor>, and <cosponsor name-id="C001121">Mr. Crow</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To encourage employer participation in apprenticeship programs.</official-title>
+</form>
+<legis-body id="H7542BD3B54B041CD870B57F844534C06" style="OLC"> 
+<section id="H45D6099E81234ECDABE450621DA85BEA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Apprenticeship Support for Small Employers and Teams Act</short-title></quote> or the <quote><short-title>ASSET Act</short-title></quote>. </text></section> <section id="H2FBA46E399EE4FB28B024989523CFFF0"><enum>2.</enum><header>Authorization of grants, contracts, and cooperative agreements</header><text display-inline="no-display-inline">The Administrator of the Office of Apprenticeship of the Department of Labor shall award grants, contracts, or cooperative agreements to eligible entities on a competitive basis for the following purposes:</text> 
+<paragraph id="H875DB81D54A048F7A24390150A041281"><enum>(1)</enum><header>Encouraging employer participation</header><text display-inline="yes-display-inline">To encourage employer participation in apprenticeship programs—</text> <subparagraph id="H693D947817CA4F84A94E845478B338F0"><enum>(A)</enum><text display-inline="yes-display-inline">that target individuals with barriers to employment in youth apprenticeship, pre-apprenticeship, or apprenticeship programs, prioritizing nontraditional apprenticeship populations such as women, minorities, long-term unemployed, individuals with a disability, individuals with substance abuse issues, veterans, military spouses, individuals experiencing homelessness, individuals impacted by the criminal or juvenile justice system, and foster and former foster youth;</text></subparagraph> 
+<subparagraph id="H2DC6767F67874E3E8D05D3DC469FAC91"><enum>(B)</enum><text display-inline="yes-display-inline">that are in high-need social service-related industries, sectors, or occupations, such as direct care workers and early childhood educators;</text></subparagraph> <subparagraph id="H0E0460A877004D88B30FA9D9BD10268D"><enum>(C)</enum><text display-inline="yes-display-inline">that target individuals currently or recently incarcerated; or</text></subparagraph> 
+<subparagraph id="H999EA79626864BE1AD7FAB0F425663B3"><enum>(D)</enum><text display-inline="yes-display-inline">among small- and medium-sized employers.</text></subparagraph></paragraph> <paragraph id="HA43EE519ED064DF8B3EA5141BE11171E"><enum>(2)</enum><header>In-demand industry sector or occupation grants for small- and medium-sized businesses</header><text display-inline="yes-display-inline">An eligible entity that receives funds under this section shall use such funds to encourage participation of small- and medium-sized businesses in apprenticeship programs, which may include—</text> 
+<subparagraph id="H445EE1B7E73245C0BBC9764B9E2B176A"><enum>(A)</enum><text display-inline="yes-display-inline">providing financial assistance to employers to support costs related to the programs, such as training incumbent workers as mentors or employees supervising the on-the-job learning;</text></subparagraph> <subparagraph id="HD7D96A8C2AF145F0A4C09AA8F9E5B87B"><enum>(B)</enum><text display-inline="yes-display-inline">supporting the cost of related instruction or wages for program participants during related instruction;</text></subparagraph> 
+<subparagraph id="HEDA04D6C5CEF4A37A1F095C616E4280F"><enum>(C)</enum><text display-inline="yes-display-inline">providing technical assistance to small- and medium-sized businesses on the program registration process and leveraging other available funds to support carrying out such programs; or</text></subparagraph> <subparagraph id="H9533FFB07A6A4F70AC96F6CC3992F2A4"><enum>(D)</enum><text display-inline="yes-display-inline">establishing or expanding partnerships to support program development or expansion, including establishing or expanding industry or sector partnerships to ensure inclusion of small- and medium-sized businesses.</text></subparagraph></paragraph></section> 
+<section id="HD128F4DC052148B2BDBA1863A3AEFB41"><enum>3.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="HE4CEF15D7E0F420395F761BBF775C5F6"><enum>(1)</enum><header>Apprenticeship program</header><text>The term <term>apprenticeship program</term> means an apprenticeship registered under the Act of August 16, 1937 (commonly known as the <quote>National Apprenticeship Act</quote>; 50 Stat. 664, chapter 663; <external-xref legal-doc="usc" parsable-cite="usc/29/50">29 U.S.C. 50 et seq.</external-xref>).</text></paragraph> 
+<paragraph id="H5060BD78EE6D4C9CB2F54F875179B006"><enum>(2)</enum><header>Eligible entity</header><text>The term <term>eligible entity</term> means—</text> <subparagraph id="H3D19201893B040248EF7F33700944DF0"><enum>(A)</enum><text>a program sponsor;</text></subparagraph> 
+<subparagraph id="H232AA7949A104FDB9890C20995E140BC"><enum>(B)</enum><text>a State workforce development board or State workforce agency, or a local workforce development board or local workforce development agency;</text></subparagraph> <subparagraph id="HA38D3122402E4771BB3CC94B44E92A2B"><enum>(C)</enum><text>an education and training provider, or a consortium thereof;</text></subparagraph> 
+<subparagraph id="H5F6F9F09074548B498D38F2A28E6BD7E"><enum>(D)</enum><text>a State apprenticeship agency;</text></subparagraph> <subparagraph id="HF7B6F05763784AAE8B4AC8FE8B88825E"><enum>(E)</enum><text>an Indian Tribe or Tribal organization;</text></subparagraph> 
+<subparagraph id="H1000F35A05E74C38BD2E52E73405C411"><enum>(F)</enum><text>an industry or sector partnership, a group of employers, a trade association, or a professional association that sponsors an apprenticeship program;</text></subparagraph> <subparagraph id="HA40810EFE34E4F51A800938C654CD769"><enum>(G)</enum><text>a Governor;</text></subparagraph> 
+<subparagraph id="H0F66F1155AB7413DBC2A6B9CEF423545"><enum>(H)</enum><text>a labor organization or joint labor management organization; or</text></subparagraph> <subparagraph id="H6F58CC867EA043F4A988936413171BEC"><enum>(I)</enum><text>a qualified intermediary.</text></subparagraph></paragraph></section> 
+</legis-body>
+</bill> 
+
+

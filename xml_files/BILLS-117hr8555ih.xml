@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HEB6C2E752C1D4631BE6EEAF74A9AEF7D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8555 IH: To amend the Internal Revenue Code of 1986 to stipulate that a parking benefit is not a qualified parking fringe benefit unless an employer offers employees the option to receive an equivalent cash benefit or alternative tax-exempt benefit in lieu of the parking benefit.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8555</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220728">July 28, 2022</action-date><action-desc><sponsor name-id="B000574">Mr. Blumenauer</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to stipulate that a parking benefit is not a qualified parking fringe benefit unless an employer offers employees the option to receive an equivalent cash benefit or alternative tax-exempt benefit in lieu of the parking benefit.</official-title></form><legis-body id="H7493E5A59E7C4133B86088442A152485" style="OLC"> 
+<section id="HC94CA0F978B84E13B550084BF93796F9" section-type="section-one"><enum>1.</enum><header>Option for cash benefit required</header> 
+<subsection id="H331DF028675249B1B41CD98453F192D0"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 132(f)(5)(C) is amended by striking <quote>or by carpool.</quote> and inserting <quote>or by carpool if the employer offers the employee the option to receive, in lieu of the qualified parking, the fair market value of the parking.</quote> </text></subsection> <subsection id="H210048721CFD40BAB25095823C9DE31A"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years beginning after December 31, 2022. </text> </subsection></section> 
+</legis-body></bill>
+

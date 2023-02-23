@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2502DEFF2AA94F6BBE344130AD5CDA83" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8438 IH: Foreign Terrorist Organization Designation Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8438</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220720">July 20, 2022</action-date>
+<action-desc><sponsor name-id="B001298">Mr. Bacon</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To specify that revoking a Foreign Terrorist Organization designation requires a joint certification from the Secretary of State and Secretary of Defense, to restrict waiver authority for allowing members and conscripts of Foreign Terrorist Organizations into the United States, and for other purposes.</official-title>
+</form>
+<legis-body id="HECDC938A69604544894D3C1ED82D36C9" style="OLC">
+<section id="HFFB12472F9D84D6FA9D3C7ACDBDC0CE5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Foreign Terrorist Organization Designation Act of 2022</short-title></quote>.</text></section> <section id="H722196A024A1461FB37837895AF3F822"><enum>2.</enum><header>Treatment of Foreign Terrorist Organizations</header> <subsection id="H29FC06F579F04905A8DA0C92DCEB030B"><enum>(a)</enum><header>Islamic Revolutionary Guard Corps</header><text display-inline="yes-display-inline">Section 212 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182</external-xref>) is amended—</text>
+<paragraph id="H91082BCAFC324F07B4086C7C72236EB7"><enum>(1)</enum><text>in subsection (a)(3)(B)(i), in the matter following subclause (IX), by inserting after <quote>the Palestine Liberation Organization</quote> the following: <quote>, or a member or conscript or a former member or conscript of the Islamic Revolutionary Guard Corps,</quote>; and</text></paragraph> <paragraph id="H91A1380B886744F1AA1B9045612FCA94"><enum>(2)</enum><text>in subsection (d)(3)(B)(i), by inserting <quote>, no such waiver may be extended to an alien who is a member or representative of, or has knowingly and voluntarily provided any level of support to an organization described in subsection (a)(3)(B)(vi)(I)</quote> before <quote>, and no such waiver may</quote>. </text></paragraph></subsection>
+<subsection id="H79E3752BCC634BFDBE1C17EA4E8ECDFF"><enum>(b)</enum><header>Revocation</header><text display-inline="yes-display-inline">Section 219(a)(6) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1189">8 U.S.C. 1189(a)(6)</external-xref>) is amended—</text> <paragraph id="H7D7D843C6D1B47D9A8A43D045709CF9B"><enum>(1)</enum><text>by amending subparagraph (A) to read as follows:</text>
+<quoted-block style="OLC" id="HD932B9B71E9441E9B23B99E424C68B6C" display-inline="no-display-inline">
+<subparagraph id="HBE50E4A20E8B4347B30EDF41C8364D7F"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary may revoke a designation made under paragraph (1) at any time, and shall revoke a designation upon completion of a review conducted pursuant to subparagraphs (B) and (C) of paragraph (4) if—</text> <clause id="H61B6E1E62687471FAD3149180FE22CF6"><enum>(i)</enum><text>the Secretary finds that—</text>
+<subclause id="H9A7CECFF1F24412285064CADA0CC861E"><enum>(I)</enum><text display-inline="yes-display-inline">the organization no longer fits the criteria listed under subparagraphs (B) and (C) of paragraph (1); or </text></subclause> <subclause id="HAA32C32FC30B41808CDDD461B08C54A5"><enum>(II)</enum><text>the national security of the United States warrants a revocation; and</text></subclause></clause>
+<clause id="H20719A8F03DA41C19FAAD4A3206F8AA9"><enum>(ii)</enum><text display-inline="yes-display-inline">the Secretary of State and the Secretary of Defense submit to the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees of the House of Representatives and the Senate, together with the findings and the factual basis of the revocation, a joint certification, indicating that the organization has not engaged in terrorism or support of terrorism for 2 years prior to the proposed revocation of the designation.</text></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> <paragraph id="H0EEA0E0D31F344B3A38818DECADAC22D"><enum>(2)</enum><text>by adding at the end the following:</text>
+<quoted-block style="OLC" id="HFE5DC403728741628D53DDF7A91DCDC2" display-inline="no-display-inline">
+<subparagraph id="H9D6BF49BDE3C43F99AEA850A380B74DA"><enum>(C)</enum><header>Congressional authority</header><text display-inline="yes-display-inline">The Congress, by an Act of Congress, may block a revocation of a designation made under paragraph (1).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> </legis-body> </bill> 
+

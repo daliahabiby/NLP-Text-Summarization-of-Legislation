@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9B37983C7000412ABC0B80B4105FAAF5" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8751 IH: High School Sports Injury Reporting</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8751</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220826">August 26, 2022</action-date>
+<action-desc><sponsor name-id="V000131">Mr. Veasey</sponsor> (for himself and <cosponsor name-id="E000294">Mr. Emmer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HED00">Education and Labor</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Director of the Centers for Disease Control and Prevention to submit a report to Congress on the feasibility of reporting data relating to injuries in high school sports to improve the safety of student athletes.</official-title>
+</form>
+<legis-body id="HE21CD23ABE65438CA25F21D310C8F407" style="OLC"> 
+<section id="H6B7FE5D1AD324A2FB1AB75309DBF8B3B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>High School Sports Injury Reporting</short-title></quote>. </text></section> <section id="H5DA49D426790448B9B6E45C8D4CC4DF4"><enum>2.</enum><header>Report on feasability of reporting data on injuries in high school sports to improve safety of student athletes</header> <subsection id="H80CC9266BDE947F9B851A86861A60B19"><enum>(a)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the appropriate congressional committees a report on high school sports injury reporting. </text></subsection> 
+<subsection id="H025BA00CB4FF4CD38836BB583C41BC58"><enum>(b)</enum><header>Contents</header><text>The report under subsection (a) shall include the following:</text> <paragraph id="H6DA40189CA2742319B6B339012961DC4"><enum>(1)</enum><text display-inline="yes-display-inline">A survey to examine how injuries in high school sports are reported in the United States, including—</text> 
+<subparagraph id="H5D6D3653C59C4F7483CDB3D74C49CFE8"><enum>(A)</enum><text>the kind of data that is available;</text></subparagraph> <subparagraph id="H1A5FC0B0F2C74362910C181986395EEE"><enum>(B)</enum><text>the tools used to report such data; and</text></subparagraph> 
+<subparagraph id="H12B50916852545D8AA984D8838955862"><enum>(C)</enum><text>the effect of such reporting on the outcomes relating to such injuries.</text></subparagraph></paragraph> <paragraph id="H258133C899AC4844B18614488EA896F1"><enum>(2)</enum><text>An in-depth evaluation of a State that requires reporting data relating to such injuries, including—</text> 
+<subparagraph id="H008CC6A8ACB64448AFFD1AAE886DF340"><enum>(A)</enum><text>the tools that high schools in that State use to conduct such reporting; </text></subparagraph> <subparagraph id="H5478DB4EAF6843F297D35D635ECD01B0"><enum>(B)</enum><text>the ability of such schools to collect such data; and</text></subparagraph> 
+<subparagraph id="HA54E949F656945CAAA56BE06119A1E9A"><enum>(C)</enum><text>the effect of such reporting on the recovery of student athletes from such injuries.</text></subparagraph></paragraph> <paragraph id="HF512C1C73A184B5D84217E2C6F888363"><enum>(3)</enum><text>An analysis of how such reporting affects the number of such injuries and the treatment relating to such injuries.</text></paragraph> 
+<paragraph id="H6C381D79F50143A69F3A65542070A43E"><enum>(4)</enum><text display-inline="yes-display-inline">A description of recommendations on how such data reporting helps inform sports safety statutes, policies, and practices in the State.</text></paragraph> <paragraph id="H2CE76876AE814B83BDD33CBC6033121A"><enum>(5)</enum><text display-inline="yes-display-inline">What Federal statutes, policies, tools, and practices could be employed to support high schools nationwide in employing robust high school sports injury reporting requirements and systems to improves student athlete safety. </text></paragraph> 
+<paragraph id="HC113C8B7CBF7459489D2378AFAE7B197"><enum>(6)</enum><text>Any other matters the Secretary considers appropriate.</text></paragraph></subsection> <subsection id="H1D3ED5CD2E7844BAAF0D020C49F7CE43"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> 
+<paragraph id="H0BCA3839F6FB4265AC1AF5298772DC77"><enum>(1)</enum><header>Appropriate congressional committees</header><text>The term <quote>appropriate congressional committees</quote> means—</text> <subparagraph id="H704978CB741D4A9ABB11638057B2C9A3"><enum>(A)</enum><text>the Committees on Appropriations, Education and Labor, and Energy and Commerce of the House of Representatives; and</text></subparagraph> 
+<subparagraph id="HD843DE7D560E44369A2690A2BE79BA32"><enum>(B)</enum><text>the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate.</text></subparagraph></paragraph> <paragraph id="HB8C6A4CFBA3048E69014CE5444E0FA60"><enum>(2)</enum><header>High school</header><text display-inline="yes-display-inline">The term <quote>high school</quote> has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>). </text> </paragraph></subsection></section> 
+</legis-body>
+</bill> 
+
+

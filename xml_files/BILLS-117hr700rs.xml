@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-Senate" dms-id="H37501C9352934129AC742599C0645E27" public-private="public" key="S" bill-type="olc" stage-count="1" slc-id="S1-OLL22767-CJK-JD-M28"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 700 RS: To designate the facility of the United States Postal Service located at 303 East Mississippi Avenue in Elwood, Illinois, as the “Lawrence M. Larry Walsh Sr. Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 471</calendar><congress>117th CONGRESS</congress><session>2d Session</session><legis-num display="yes">H. R. 700</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date>May 12, 2022</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><action stage="Reported-in-Senate"><action-date date="20220804">August 4, 2022</action-date><action-desc>Reported by <sponsor name-id="S380">Mr. Peters</sponsor>, without amendment</action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 303 East Mississippi Avenue in Elwood, Illinois, as the <quote>Lawrence M. <quote>Larry</quote> Walsh Sr. Post Office</quote>.</official-title></form><legis-body id="H5241A87C48014A588741AAA6555F672B" style="OLC"><section id="H8C9A89DF29BB477F88A3682B62163192" section-type="section-one"><enum>1.</enum><header>Lawrence M. <quote>Larry</quote> Walsh Sr. Post Office</header><subsection id="HC4BB9A1F1B49466DA6E7E5666348315F"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 303 East Mississippi Avenue in Elwood, Illinois, shall be known and designated as the <quote>Lawrence M. <quote>Larry</quote> Walsh Sr. Post Office</quote>.</text></subsection><subsection id="H02EF39AB8CE04354847D7F0326532026"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Lawrence M. <quote>Larry</quote> Walsh Sr. Post Office</quote>.</text></subsection></section></legis-body><endorsement><action-date date="20220804">August 4, 2022</action-date><action-desc>Reported without amendment</action-desc></endorsement></bill> 
+

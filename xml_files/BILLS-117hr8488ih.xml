@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5C09175375674359A06D9812D4C70E9A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8488 IH: Protecting America’s Strategic Petroleum Reserve from China Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8488</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220726">July 26, 2022</action-date><action-desc><sponsor name-id="M001159">Mrs. Rodgers of Washington</sponsor> (for herself, <cosponsor name-id="D000615">Mr. Duncan</cosponsor>, <cosponsor name-id="U000031">Mr. Upton</cosponsor>, and <cosponsor name-id="S001176">Mr. Scalise</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of Energy from sending petroleum products from the Strategic Petroleum Reserve to China, and for other purposes.</official-title></form><legis-body id="HF3F62401B1E047FBAF5E14AD7FEB28CD" style="OLC"> 
+<section id="H32247359ADC04392B9F4603DB8152A46" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting America’s Strategic Petroleum Reserve from China Act</short-title></quote>.</text></section> <section id="HFEF98A34719844C4AACBE2AB5273F678"><enum>2.</enum><header>Prohibition on sales of petroleum products from the Strategic Petroleum Reserve to China</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, the Secretary of Energy shall not draw down and sell petroleum products from the Strategic Petroleum Reserve—</text> 
+<paragraph id="H690487694D264853B0D54099B4A02319"><enum>(1)</enum><text display-inline="yes-display-inline">to any entity that is under the ownership, control, or influence of the Chinese Communist Party; or</text></paragraph> <paragraph id="H0FBBC86D16034B1398343AC6C4AA80D5"><enum>(2)</enum><text>except on the condition that such petroleum products will not be exported to the People’s Republic of China.</text></paragraph></section> 
+</legis-body></bill>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDDE004D016EA4D5FB0C095ABEE85BD88" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9282 IH: Veterans Protection from Fraud Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-11-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9282</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221110">November 10, 2022</action-date><action-desc><sponsor name-id="B001309">Mr. Burchett</sponsor> (for himself, <cosponsor name-id="C001072">Mr. Carson</cosponsor>, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, <cosponsor name-id="B001297">Mr. Buck</cosponsor>, <cosponsor name-id="S001214">Mr. Steube</cosponsor>, <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>, <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>, <cosponsor name-id="M000317">Ms. Malliotakis</cosponsor>, <cosponsor name-id="G000597">Mr. Garbarino</cosponsor>, <cosponsor name-id="S000168">Ms. Salazar</cosponsor>, <cosponsor name-id="G000578">Mr. Gaetz</cosponsor>, <cosponsor name-id="B001305">Mr. Budd</cosponsor>, <cosponsor name-id="M001196">Mr. Moulton</cosponsor>, <cosponsor name-id="J000299">Mr. Johnson of Louisiana</cosponsor>, <cosponsor name-id="F000246">Mr. Fallon</cosponsor>, <cosponsor name-id="U000040">Ms. Underwood</cosponsor>, <cosponsor name-id="C001128">Ms. Conway</cosponsor>, <cosponsor name-id="F000472">Mr. C. Scott Franklin of Florida</cosponsor>, <cosponsor name-id="C000266">Mr. Chabot</cosponsor>, and <cosponsor name-id="R000610">Mr. Reschenthaler</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 18, United States Code, to enhance penalties for certain crimes committed against veterans, and for other purposes.</official-title></form><legis-body id="HD942EF7246804F6BB703A04151D73B62" style="OLC"> 
+<section id="HB9C4E37E2F604D2E8847AD1C5BCB9B12" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Protection from Fraud Act</short-title></quote>.</text></section> <section id="HEF8C59AEDCE14B559F2696C8C2980DD8"><enum>2.</enum><header>Enhanced penalties for certain crimes against veterans</header><text display-inline="no-display-inline">Section 2326(2) of title 18, United States Code, is amended—</text> 
+<paragraph id="H29BF4FD7D58A4D93A864F2190DBD87CF"><enum>(1)</enum><text>in subparagraph (A), by striking <quote>or</quote> at the end;</text></paragraph> <paragraph id="H7B5FF04720C44FAD85A6A52BE90E2C1C"><enum>(2)</enum><text>in subparagraph (B), by striking the comma and inserting <quote>; or</quote>; and</text></paragraph> 
+<paragraph id="HD2456579C2D145DF9E5D2927C6773DCE"><enum>(3)</enum><text>by inserting after subparagraph (B) the following:</text> <quoted-block style="USC" id="H50F0159533E44B348F0C57AE291E6437" display-inline="no-display-inline"> <subparagraph id="HB4B9826B31A3408D98004A75B3F22FFB"><enum>(C)</enum><text display-inline="yes-display-inline">targeted veterans (as such term is defined in section 101 of title 38) of any age,</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section> 
+</legis-body></bill>
+

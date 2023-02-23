@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="HDDE7F93B2FFA464EB6E66C5A08AF9EC0" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 1154 ENR: Great Dismal Swamp National Heritage Area Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 1154</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To authorize the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating certain land as the Great Dismal Swamp National Heritage Area, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H82743737037A4F37A94BB1D07D384401" style="OLC"> 
+<section id="H295DCFC2722C487795748474FAC70DAA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Great Dismal Swamp National Heritage Area Act</short-title></quote>.</text></section> <section id="HB81D332CBD964C458CBAA32D8F16D286"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> 
+<paragraph id="H07D7547F27AC496CB328B0DC341089DD"><enum>(1)</enum><header>Heritage area</header><text>The term <term>Heritage Area</term> means the Great Dismal Swamp National Heritage Area.</text></paragraph> <paragraph id="HAB7D8755BC52474486AC41DD8D0BC21C"><enum>(2)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of the Interior.</text></paragraph> 
+<paragraph id="HD25C69615358416DBC35FEADD10D3FB4"><enum>(3)</enum><header>States</header><text>The term <term>States</term> means the States of Virginia and North Carolina.</text></paragraph> <paragraph id="HA06AED270B114C7B8466CB2E176ED990"><enum>(4)</enum><header>Study area</header><text>The term <term>study area</term> means—</text> 
+<subparagraph id="H3D4D2C0644404BE4A604789EA13054AD"><enum>(A)</enum><text display-inline="yes-display-inline">the cities of Chesapeake, Norfolk, Portsmouth, and Suffolk in the State of Virginia;</text></subparagraph> <subparagraph id="H810608A203804EB69DF5F87CF2C0919A"><enum>(B)</enum><text display-inline="yes-display-inline">Isle of Wight County in the State of Virginia;</text></subparagraph> 
+<subparagraph id="HEF6A40EBFA824F339CE7CD89F9B84334"><enum>(C)</enum><text display-inline="yes-display-inline">Camden, Currituck, Gates, and Pasquotank counties in the State of North Carolina; and</text></subparagraph> <subparagraph id="HB2864DF6BF8C4E87AD2998A9987BE1A2"><enum>(D)</enum><text>any other areas in the States that—</text> 
+<clause id="HC8CED993F140446D972A73C2C7D0512A"><enum>(i)</enum><text>have heritage aspects that are similar to the areas described in subparagraphs (A), (B), or (C); and</text></clause> <clause id="HC62D20EADFE94FA1B486FE87BB85CB7D"><enum>(ii)</enum><text>are adjacent to, or in the vicinity of, those areas.</text></clause></subparagraph></paragraph></section> 
+<section id="HB41CB8C5A7AD4643B574D3455F1DDAE0"><enum>3.</enum><header>Study</header> 
+<subsection id="H723A7AE8B27B43FBA4CF60685626F10F"><enum>(a)</enum><header>In general</header><text>The Secretary, in consultation with State and local organizations and governmental agencies, Tribal governments, non-profit organizations, and other appropriate entities, shall conduct a study to assess the suitability and feasibility of designating the study area as a National Heritage Area, to be known as the <quote>Great Dismal Swamp National Heritage Area</quote>.</text></subsection> <subsection id="H25BBD9608B224BABA131012ED1626EB8"><enum>(b)</enum><header>Requirements</header><text>The study shall include analysis, documentation, and determinations on whether the study area—</text> 
+<paragraph id="H83A40E31129D4DDFBB95A8BF3306675A"><enum>(1)</enum><text>has an assemblage of natural, historic, and cultural resources that—</text> <subparagraph id="H4FD1D85759F84833A3CFB9CF56C18F28"><enum>(A)</enum><text>represent distinctive aspects of the people and cultures of the United States;</text></subparagraph> 
+<subparagraph id="H7E657EC275E94D23A7539755C02E3CD5"><enum>(B)</enum><text>are worthy of recognition, conservation, interpretation, and continuing use; and</text></subparagraph> <subparagraph id="H30E3334601B64A3580D17C86637E4AF1"><enum>(C)</enum><text>would be best managed—</text> 
+<clause id="HC7A9D8C96147481A812E083FC3D0D6A1"><enum>(i)</enum><text>through partnerships among public and private entities; and</text></clause> <clause id="H58CE208AF36F4B69AF52EB4F59D0DCD3"><enum>(ii)</enum><text>by linking diverse and sometimes noncontiguous resources and active communities;</text></clause></subparagraph></paragraph> 
+<paragraph id="HA71B7B1F17C74F45B195793440F2D28A"><enum>(2)</enum><text>reflects traditions, customs, beliefs, and folklife that are a valuable part of the story of the United States;</text></paragraph> <paragraph id="HFEC5E769A32D46B9A008DE0328751F83"><enum>(3)</enum><text>provides outstanding opportunities—</text> 
+<subparagraph id="HAF31B32D62E549C0A1D32D9D8F9491B2"><enum>(A)</enum><text>to conserve natural, historic, cultural, or scenic features; and</text></subparagraph> <subparagraph id="HC1D46D47E6C94C9AB8E523350426A5D7"><enum>(B)</enum><text>for recreation and education;</text></subparagraph></paragraph> 
+<paragraph id="H4807587AB0EC4EE785A7405961FB0870"><enum>(4)</enum><text>contains resources that—</text> <subparagraph id="H93240772156C4B62B3799ECA9459CD93"><enum>(A)</enum><text>are important to any identified themes of the study area; and</text></subparagraph> 
+<subparagraph id="HA8AEF1B821ED4C74B3DC2B639989759E"><enum>(B)</enum><text>retain a degree of integrity capable of supporting interpretation;</text></subparagraph></paragraph> <paragraph id="HBB26A550AB80417E94754A7443CB07F6"><enum>(5)</enum><text display-inline="yes-display-inline">includes residents, business interests, nonprofit organizations, and State, local, and Tribal governments, and other appropriate entities that—</text> 
+<subparagraph id="H0BB0E4C5DD9A4418AE3C5265711D9085"><enum>(A)</enum><text>are involved in the planning of the Heritage Area;</text></subparagraph> <subparagraph id="H688C6FEF825E4EBA83FF5486283D4DA7"><enum>(B)</enum><text>have developed a conceptual financial plan that outlines the roles of all participants in the Heritage Area, including the Federal Government; and</text></subparagraph> 
+<subparagraph id="H2038A3D6099D4BB1A64E9A4DB4EE04F6"><enum>(C)</enum><text>have demonstrated support for the designation of the Heritage Area;</text></subparagraph></paragraph> <paragraph id="HB4C801C4064D479FBB9515104107DA65"><enum>(6)</enum><text>has a potential management entity to work in partnership with the individuals and entities described in paragraph (5) to develop the Heritage Area while encouraging State and local economic activity; and</text></paragraph> 
+<paragraph id="H96FF95CB04FF4BC58B4423655FDD5ED1"><enum>(7)</enum><text>has a conceptual boundary map that is supported by the public.</text></paragraph></subsection></section> <section id="H0A339B25CDA0413F949DA7D1D3BD683E"><enum>4.</enum><header>Report</header><text display-inline="no-display-inline">Not later than 3 years after the date on which funds are first made available to carry out this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—</text> 
+<paragraph id="H704252458B844E4AB668FBECCF6A59AF"><enum>(1)</enum><text>the findings of the study under section 3; and</text></paragraph> <paragraph id="H485714AB14C34BBD8243D61FEB1F4A74"><enum>(2)</enum><text>any conclusions and recommendations of the Secretary.</text></paragraph></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

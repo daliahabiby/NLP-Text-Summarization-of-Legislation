@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBE0A3696758D401481A7A66F9DD527B9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9528 IH: Military Pay Enhancement Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9528</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221214">December 14, 2022</action-date><action-desc><sponsor name-id="B001298">Mr. Bacon</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 37, United States Code, to increase the maximum amounts of certain bonus and special pay authorities for members of the uniformed services.</official-title></form><legis-body id="H647FD4973745435E9A1272E568FE6A44" style="OLC">
+<section id="HD5BF7D9FBF45412D8239FD4CBCD4C880" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Military Pay Enhancement Act of 2022</short-title></quote>.</text></section> <section id="H66CF54CF852A42B39113AB8C44101A69"><enum>2.</enum><header>Increase to maximum amounts of certain bonus and special pay authorities</header> <subsection id="H89757C8AC5CF43919750CE5D4F1DD212"><enum>(a)</enum><header>General bonus authority for enlisted members</header><text>Section 331(c)(1) of title 37, United States Code, is amended—</text>
+<paragraph id="H1B1E4D4C6AD3433B88A9BAD31F3B087A"><enum>(1)</enum><text>in subparagraph (A), by striking <quote>$50,000</quote> and inserting <quote>$75,000</quote>; and</text></paragraph> <paragraph id="HADDE512EE8A0488A83A2A06448FA075F"><enum>(2)</enum><text display-inline="yes-display-inline">in subparagraph (B), by striking <quote>$30,000</quote> and inserting <quote>$50,000</quote>.</text></paragraph></subsection>
+<subsection id="H32773D088FF64523BF9F3FDE1B89CB85"><enum>(b)</enum><header>Special bonus and incentive pay authorities for nuclear officers</header><text>Section 333(d)(1)(A) of title 37, United States Code, is amended by striking <quote>$50,000</quote> and inserting <quote>$75,000</quote>.</text></subsection> <subsection id="HF995CEB749914EDB89F19995A4DD80CF"><enum>(c)</enum><header>Special aviation incentive pay and bonus authorities for officers</header><text>Section 334(c)(1) of title 37, United States Code, is amended—</text>
+<paragraph id="H4979EE8C233E45F0BF8D74C676E89BCC"><enum>(1)</enum><text display-inline="yes-display-inline">in subparagraph (A), by striking <quote>$1,000</quote> and inserting <quote>$1,500</quote>; and</text></paragraph> <paragraph id="H4A68937CBDF84A33B002EB875F43EECF"><enum>(2)</enum><text display-inline="yes-display-inline">in subparagraph (B), by striking <quote>$35,000</quote> and inserting <quote>$50,000</quote>.</text></paragraph></subsection>
+<subsection id="HCE1E4962B42945EB88DEEA91AE4AEEE4"><enum>(d)</enum><header>Skill incentive pay or proficiency bonus</header><text>Section 353(c)(1)(A) of title 37, United States Code, is amended by striking <quote>$1,000</quote> and inserting <quote>$1,750</quote>.</text></subsection></section> </legis-body></bill>
+

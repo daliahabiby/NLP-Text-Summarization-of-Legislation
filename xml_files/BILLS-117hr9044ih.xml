@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD4F1F68F8B244219AE520E6430BC41F3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9044 IH: To amend the Internal Revenue Code of 1986 to create a safe harbor for certain perpetual trust funds.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9044</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220929">September 29, 2022</action-date><action-desc><sponsor name-id="D000399">Mr. Doggett</sponsor> (for himself and <cosponsor name-id="A000375">Mr. Arrington</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to create a safe harbor for certain perpetual trust funds.</official-title></form><legis-body id="HBA6F7716928D41C6B6CE93944BB0C869" style="OLC"> 
+<section id="H1F7FAFF15EBC48E7BE0099A69F7D2823" section-type="section-one"><enum>1.</enum><header>Safe harbor for certain perpetual trust funds</header> 
+<subsection id="HA9331F587E4A447C891D6897AEE202F4"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/148">Section 148(b)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: </text> <quoted-block style="OLC" id="HE4DD4CBB559B492C8A01C99415759A88" display-inline="no-display-inline"> <paragraph id="HD83238FC2EC4405391B51ABD1F151C0A"><enum>(5)</enum><header>Safe harbor for certain perpetual trust funds</header><text display-inline="yes-display-inline">The term <quote>investment property</quote> does not include any fund created and controlled by a State and established pursuant to its constitution or State law if—</text> 
+<subparagraph id="H70541EE7B47A42EF9D45AC5551DCB220"><enum>(A)</enum><text display-inline="yes-display-inline">substantially all of the assets of the fund consist of nonfinancial assets, revenues derived from such assets, gifts, appropriations, or bequests, </text></subparagraph> <subparagraph id="H76708C4DB5294A83B1D11F6D0A73E2CD"><enum>(B)</enum><text display-inline="yes-display-inline">the assets of the fund may be used only to support specifically designated essential governmental functions (within the meaning of section 115(1)) that are carried out by political subdivisions with general taxing powers or public elementary and public secondary schools,</text></subparagraph> 
+<subparagraph id="H00C91F9023124693BB5542EFCFD51C40"><enum>(C)</enum><text>the assets of the fund are required to support designated functions,</text></subparagraph> <subparagraph id="H0A38169753954E658B2E3540BAB2F33D"><enum>(D)</enum><text>to the extent the fund guarantees obligations, such obligations are not private activity bonds (other than qualified 501(c)(3) bonds) substantially all of the proceeds of which are to be used for designated functions, and </text></subparagraph> 
+<subparagraph id="H357D3483B6AC4DF1BEE044066794A26C"><enum>(E)</enum><text>the fund satisfied each of the requirements of subparagraphs (A) through (D) on August 16, 1986.</text></subparagraph> </paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H1A526F3F89374FE99A8B12C95CC3D40F"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall take effect on the date of the enactment of this Act. </text> </subsection></section> 
+</legis-body></bill>
+

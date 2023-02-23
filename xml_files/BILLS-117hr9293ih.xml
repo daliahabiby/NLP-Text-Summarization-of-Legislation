@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF1702AEA8DE54236AC0C01C9CB9FF725" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9293 IH: To amend the Omnibus Public Land Management Act of 2009 to make a technical correction to the Navajo Nation Water Resources Development Trust Fund, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-11-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9293</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221114">November 14, 2022</action-date><action-desc><sponsor name-id="L000273">Ms. Leger Fernandez</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Omnibus Public Land Management Act of 2009 to make a technical correction to the Navajo Nation Water Resources Development Trust Fund, and for other purposes.</official-title></form><legis-body id="H8A209D234D8846EA94C8DCA9B9CC168F" style="OLC"> 
+<section id="HAADB1E3AC55F403695ADFF4D5EDC7557" section-type="section-one"><enum>1.</enum><header>Authorization of payment of adjusted interest on the Navajo Nation Water Resources Development Trust Fund</header><text display-inline="no-display-inline">The Omnibus Public Land Management Act of 2009 (<external-xref legal-doc="public-law" parsable-cite="pl/111/11">Public Law 111–11</external-xref>) is amended—</text> <paragraph id="H7232016CCD0C47279FD79263BE5DEC2C"><enum>(1)</enum><text>in section 10701(e)(1)(A)(vii), by striking <quote>10702.</quote> and inserting <quote>10702, except for deposits made pursuant to section 10702(g).</quote>; and</text></paragraph> 
+<paragraph id="HB051666B86B3469E9A429AD7A79E16B1"><enum>(2)</enum><text>in section 10702—</text> <subparagraph id="H836BF20954634606A53D744FC2AE21AF"><enum>(A)</enum><text>in subsection (a)(1), by striking <quote>subsection (f)</quote> and inserting <quote>subsections (f) and (g)</quote>;</text></subparagraph> 
+<subparagraph id="H221A8C676E384920B5B429693D9F6280"><enum>(B)</enum><text>in subsection (a)(2), by striking <quote>subsection (d)</quote> and inserting <quote>subsections (d) and (g)</quote>; and</text></subparagraph> <subparagraph id="H9CC7F7EBE35A4ED59B32FC6A028C1B44"><enum>(C)</enum><text>by adding at the end the following: </text> 
+<quoted-block style="OLC" id="H5CB024011E584250A4F3D0F0804BCC38" display-inline="no-display-inline"> 
+<subsection id="H0D22343240E94FF9BAE4BEED24974336"><enum>(g)</enum><header>Adjusted interest payments</header><text display-inline="yes-display-inline">There is authorized to be appropriated for deposit in the Trust Fund $6,357,674.46.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </subparagraph></paragraph> </section> </legis-body></bill>
+

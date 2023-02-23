@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="HB59B0A7EEAB24E25A77F8C6D8F0B1B46" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 7925 ENR: To designate the Department of Veterans Affairs community-based outpatient clinic located in Palm Desert, California, as the “Sy Kaplan VA Clinic”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 7925</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To designate the Department of Veterans Affairs community-based outpatient clinic located in Palm Desert, California, as the <quote>Sy Kaplan VA Clinic</quote>.</official-title> 
+</form> 
+<legis-body id="H7932FC360BFF4669B845B6C083E224C8" style="OLC"> 
+<section id="H9C9F5A8124164865AD1464F07A544CC5" section-type="section-one"><enum>1.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="HFEAF88042632494E887D9B2F18551FF5"><enum>(1)</enum><text>Seymour <quote>Sy</quote> Kaplan was born on February 28, 1924.</text></paragraph> 
+<paragraph id="H30009B339F7C4B489B33B0C56EB6D9BC"><enum>(2)</enum><text display-inline="yes-display-inline">Sergeant Kaplan served in the United States Army from 1942 to 1945 as a combat engineer.</text></paragraph> <paragraph id="HFB434026FD74430A8F4059476701FB27"><enum>(3)</enum><text>Sergeant Kaplan served in the 2d, 4th, and 14th Armored Divisions, seeing service in North Africa, Italy, and France.</text></paragraph> 
+<paragraph id="H998FFB3ADFFF4D39A4C0C1B016128FA5"><enum>(4)</enum><text display-inline="yes-display-inline">Sergeant Kaplan rose to the rank of Technical Sergeant and earned 3 Battle Stars and 2 Purple Hearts.</text></paragraph> <paragraph id="H032C8E5DB96640C6874FD236F1F03C89"><enum>(5)</enum><text display-inline="yes-display-inline">Sergeant Kaplan served under General George Patton at the Battle of the Bulge and received 2 Purple Hearts for his service.</text></paragraph> 
+<paragraph id="HA05A0DC676B94B8FAA6606E241D08E8D"><enum>(6)</enum><text display-inline="yes-display-inline">In April 1945, Sergeant Kaplan was grievously wounded in an enemy mortar attack in Czechoslovakia and returned to the United States a wounded warrior.</text></paragraph> <paragraph id="HDA4F5361118C4C4395CB9B96824F8E86"><enum>(7)</enum><text>Sergeant Kaplan served as Commander of the Disabled American Veterans, Chapter 78 (Coachella Valley) for many years.</text></paragraph> 
+<paragraph id="H97305FB933AC49BDA5EF10647408813E"><enum>(8)</enum><text display-inline="yes-display-inline">Sergeant Kaplan was instrumental in the opening of the Department of Veterans Affairs clinic in Palm Desert.</text></paragraph> <paragraph id="H24F15B9DF75141228DF0865C35F618F2"><enum>(9)</enum><text display-inline="yes-display-inline">Sergeant Kaplan personally provided countless local veterans with advice and assistance in obtaining their earned Department of Veterans Affairs benefits.</text></paragraph> 
+<paragraph id="H57750E675D494661913CDE88CA3A76B9"><enum>(10)</enum><text>Sergeant Kaplan received the Senior Inspiration Award from Riverside County Supervisor Roy Wilson in 2001.</text></paragraph> <paragraph id="H3F594420A5574EDCB369C23E1A513070"><enum>(11)</enum><text>Wilson also appointed Sergeant Kaplan the first chair of the Desert Palms Community Council.</text></paragraph></section> 
+<section id="H9486E53946544FFE812700ACB5FBF8CA" section-type="subsequent-section"><enum>2.</enum><header>Designation of Department of Veterans Affairs community-based outpatient clinic located in Palm Desert, California</header> 
+<subsection id="HCD50000077F8460C99D0A4367D2FBD98"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The Department of Veterans Affairs community-based outpatient clinic located in Palm Desert, California, shall after the date of the enactment of this Act be known and designated as the <quote>Sy Kaplan VA Clinic</quote>.</text></subsection> <subsection id="HFABD36E3AF904530A48748AC052ABCB7"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Sy Kaplan VA Clinic</quote>.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

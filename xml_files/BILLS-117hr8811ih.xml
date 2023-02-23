@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H54EE63F575B2454CB9404BAF0C6F8B71" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8811 IH: Streamlining Aviation for Eligible Veterans Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8811</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220913">September 13, 2022</action-date><action-desc><sponsor name-id="O000019">Mr. Obernolte</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to expand certain rehabilitation programs for certain veterans with service-connected disabilities.</official-title></form><legis-body id="H7F1F30879A86433099CBBB73932051AC" style="OLC">
+<section id="HDB1AE28F0ED641238E4EA4F7FCDCE726" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Streamlining Aviation for Eligible Veterans Act</short-title></quote>.</text></section> <section id="H49B2BF6F5FB24742AD3340D593B076DB" section-type="subsequent-section"><enum>2.</enum><header>Inclusion of non-degree flight training in certain rehabilitation programs for certain veterans with service-connected disabilities</header><text display-inline="no-display-inline">Section 3101 of title 38, United States Code, is amended in paragraph (6) by adding at the end the following: <quote>A rehabilitation program may include a program that includes flight training and does not lead to a degree.</quote> </text> </section> 
+</legis-body></bill>
+

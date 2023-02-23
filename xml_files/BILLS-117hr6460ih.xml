@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8757CF81807241AAA285B183D32C4093" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6460 IH: To amend the Internal Revenue Code of 1986 to modify the mandatory delay in making certain refunds.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6460</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220120">January 20, 2022</action-date><action-desc><sponsor name-id="P000096">Mr. Pascrell</sponsor> (for himself and <cosponsor name-id="N000015">Mr. Neal</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to modify the mandatory delay in making certain refunds.</official-title></form><legis-body id="HDC5E134D470A49E2B4351BFECBA47176" style="OLC"> 
+<section id="H8264BE2582C34605A87C12A1ED0A152A" section-type="section-one"><enum>1.</enum><header>Modification of mandatory delay in making certain refunds</header>
+<subsection id="HC0B69FA44DF24EC78807ACEB961C768B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6402">Section 6402(m)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text> <quoted-block style="OLC" id="HABB5F90870794E91BBE458642D12FCFD" display-inline="no-display-inline"> <subsection id="H5D5459663C7C4EE986EEA87F32B01721"><enum>(m)</enum><header>Earliest date for certain refunds</header><text display-inline="yes-display-inline">In the case of any taxpayer allowed a credit under section 24 (by reason of subsection (d) or (i) thereof) or 32 for any taxable year, no credit or refund of an overpayment for such taxable year shall be made to such taxpayer before the earlier of—</text>
+<paragraph id="H4E665647DC17465994B0469F6BDE71C3"><enum>(1)</enum><text display-inline="yes-display-inline">the date on which the Secretary completes such matching of information relevant to such credit and relevant information filed under section 6071(c) as the Secretary determines appropriate, or</text></paragraph> <paragraph id="H4A35DFD2E2F247158C96BED0F761EB81"><enum>(2)</enum><text>the 15th day of the second month following the close of such taxable year.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H828251F2BA3F4FAE9F80C064D07C5E5D"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to credits and refunds made after the date of the enactment of this Act.</text></subsection></section> </legis-body></bill>
+

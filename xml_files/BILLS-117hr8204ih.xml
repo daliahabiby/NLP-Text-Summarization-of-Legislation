@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5D23722D615A44848833880D8406095C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8204 IH: No Cost Educational Resources Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8204</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220623">June 23, 2022</action-date>
+<action-desc><sponsor name-id="F000454">Mr. Foster</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend section 262 of the Museum and Library Services Act to authorize the Director of the Institute of Museum and Library Services to award grants to institutions of higher education for courses that use only publicly available digital resources for required reading assignments, and for other purposes.</official-title>
+</form>
+<legis-body id="H7D46139CDE7D49798D1B7DEBBC485ED5" style="OLC"> 
+<section id="HB64A4975E8A6407CA56950FCBF016C60" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Cost Educational Resources Act</short-title></quote>.</text></section> <section id="H67233CC08AE5487E9C9884405971C7C8" section-type="subsequent-section"><enum>2.</enum><header>Grants</header><text display-inline="no-display-inline">Section 262 of the Museum and Library Services Act (<external-xref legal-doc="usc" parsable-cite="usc/20/9162">20 U.S.C. 9162</external-xref>) is amended—</text> 
+<paragraph id="H139ABE8F1F7D4555A56594914ECD7B27"><enum>(1)</enum><text>in subsection (a)—</text> <subparagraph id="HC330394660884731BA90FE755E6C3726"><enum>(A)</enum><text>in the matter preceding paragraph (1)—</text> 
+<clause id="H6EDCDF9E57A648E8B2E6DA6BAF530D33"><enum>(i)</enum><text>by striking <quote>nationwide and to</quote> and inserting <quote>nationwide, to</quote>; and</text></clause> <clause id="H32F07DD9D0E94941B3F173CDF7088674"><enum>(ii)</enum><text>by inserting <quote>, and to provide funding for open educational reading material courses</quote> after <quote>museums</quote>;</text></clause></subparagraph> 
+<subparagraph id="HB50C1F62067E4FF5ACAECF1CC6E7D635"><enum>(B)</enum><text>in paragraph (4)(B), by striking <quote>and</quote> at the end;</text></subparagraph> <subparagraph id="HAFA1AB8F40864C728B70431BEBC603A1"><enum>(C)</enum><text>in paragraph (5), by striking the period at the end and inserting <quote>; and</quote>; and</text></subparagraph> 
+<subparagraph id="HC2CB5519C75A4E939DD367126FA1BFED"><enum>(D)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HC0B8FBDAD9BC47FDAA2F86F391A2F388"> <paragraph id="H70F55CA13BA144B2B4085A0F0E777760"><enum>(6)</enum><text display-inline="yes-display-inline">facilitating the adoption, adaption, and creation of open educational reading materials, and establishing more open educational reading material courses, pursuant to subsection (d).</text></paragraph><after-quoted-block>; </after-quoted-block></quoted-block></subparagraph></paragraph> 
+<paragraph id="HC9A15921B3BB42A2BA53E360B1BF147F"><enum>(2)</enum><text>in subsection (c), by striking <quote>The Director</quote> and inserting <quote>Except as provided in subsection (d), the Director</quote>; and </text></paragraph> <paragraph id="H304DF201220D400AB085E703C91984DA"><enum>(3)</enum><text>by adding at the end the following: </text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="H9652CCF0029F4A97B67A7352A3EDC0E5"> 
+<subsection id="H919FDB03ADE8447794351F53B23F7576"><enum>(d)</enum><header>Open educational reading material courses</header> 
+<paragraph id="H3D74577D93C5442CB1920EB551A8D859"><enum>(1)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this section:</text> <subparagraph id="H5286288F9D4946D9980B5B10796D9205"><enum>(A)</enum><text display-inline="yes-display-inline">The term <term>open educational reading material</term> means a free digital text that is publicly available to be downloaded and redistributed.</text></subparagraph> 
+<subparagraph id="H8AFFD5F736004E3182D7DDD0F077BC79"><enum>(B)</enum><text>The term <term>open educational reading material course</term> means a science, technology, engineering, or math course offered by an institution of higher education that uses only open educational reading materials as the form of the required readings for the course.</text></subparagraph></paragraph> <paragraph id="HC9AF25ED8F6243E8A1626839F5E4C91A"><enum>(2)</enum><header>Application</header><text display-inline="yes-display-inline">To receive a grant under subsection (a)(6), an institution of higher education shall submit to the Director an application that includes—</text> 
+<subparagraph id="HDEE9F61E9EE14BE7A878C35CFEF17CC7" commented="no"><enum>(A)</enum><text display-inline="yes-display-inline">a description of how the institution of higher education—</text> <clause id="HD410A8D6A8C2438B8F8323A6A7042F13" commented="no"><enum>(i)</enum><text display-inline="yes-display-inline">plans to facilitate the adoption, adaption, and creation of open educational reading materials by assigning leadership of the grant implementation to library administrators and librarians;</text></clause> 
+<clause id="H8D895965F23A4B2A98148E8D3B061285" commented="no"><enum>(ii)</enum><text>has collaborated with science, technology, engineering, and mathematics department faculty in developing the application and plans to continue to collaborate with such faculty in implementing the grant projects; and</text></clause> <clause id="H490D6E41A4F742CCBDD9B1C8E00F41B2" commented="no"><enum>(iii)</enum><text display-inline="yes-display-inline">plans to collaborate with other institutions of higher education to facilitate the wider adoption, adaption, and creation of open educational reading materials throughout the higher education community; and</text></clause></subparagraph> 
+<subparagraph id="HA130CA45E7BC416FB9B600FE94970A26"><enum>(B)</enum><text>a plan to review the quality of the open educational reading materials used at such institution of higher education.</text></subparagraph></paragraph> <paragraph id="H323F0B315C464D889D4E7E571AE91C9D"><enum>(3)</enum><header>Priority</header><text display-inline="yes-display-inline">In awarding grants under subsection (a)(6), the Director shall give priority to an institution of higher education that—</text> 
+<subparagraph id="H915A5C7B09054F99BFD12A0742D91408"><enum>(A)</enum><text>enrolls a high number of low-income or minority students, or both; and</text></subparagraph> <subparagraph id="HDC880C9C02784301A8C477D3CD7A69FE"><enum>(B)</enum><text>plans—</text> 
+<clause id="HD151383AA6C142239884EBDB469279B6" commented="no"><enum>(i)</enum><text>to assign a member of the faculty and a librarian to coordinate the implementation of open educational reading material courses;</text></clause> <clause id="HC0F6372F8EC6453B921AAB4756A7010C"><enum>(ii)</enum><text>to use library resources to facilitate the use of open educational reading materials;</text></clause> 
+<clause id="H5385893114F8414EA192B45839A7D71D"><enum>(iii)</enum><text display-inline="yes-display-inline">to use open educational reading materials as the form of the required readings for science, technology, engineering, and mathematics courses with high enrollment; and</text></clause> <clause id="HE28FC7446349409BA99A1ED7F2739D49"><enum>(iv)</enum><text display-inline="yes-display-inline">to provide incentives for faculty to use only open educational reading materials as the form of the required readings for their courses, such as monetary awards or dedicated work time to adopt, adapt, or create such materials.</text></clause></subparagraph></paragraph> 
+<paragraph id="H0ABA08BC6D1C401EBE4890E7C27DE571"><enum>(4)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 2 years after the date on which the first grant is awarded under subsection (a)(6), the Director shall submit to Congress a report that includes—</text> <subparagraph id="H8892225CA4A54DEFB097FF062F71CE5B"><enum>(A)</enum><text>the number of grants awarded under subsection (a)(6);</text></subparagraph> 
+<subparagraph id="H5881629A41EA48EC8A500C8B23AA38B5"><enum>(B)</enum><text>an evaluation of the effect of such grants on increasing the number of science, technology, engineering, and mathematics courses using open educational reading materials as the form of required readings for such courses; and</text></subparagraph> <subparagraph id="H24479CBBFFFB4DF5970D1C58DDA30FAB"><enum>(C)</enum><text>an evaluation of the amount of money saved by students who enroll in open educational reading material courses in comparison to students who enroll in similar courses with required readings that are only available by purchase. </text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body>
+</bill> 
+
+

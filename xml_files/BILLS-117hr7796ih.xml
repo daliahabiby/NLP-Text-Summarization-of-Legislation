@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0A0EC49AA4FD469E88868D9C085EABAA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7796 IH: Lake Lanier and Upper Chattahoochee Safety Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7796</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220517">May 17, 2022</action-date><action-desc><sponsor name-id="B001312">Ms. Bourdeaux</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Corps of Engineers to carry out a review of recreational hazards at Buford Dam, Lake Sidney Lanier, Georgia, and for other purposes.</official-title></form><legis-body id="HAD01C8E019524CCF9045A3FA3D6B4899" style="OLC"> 
+<section id="H579D9F6831DF4D3288E035A344F485FB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Lake Lanier and Upper Chattahoochee Safety Act</short-title></quote>.</text></section> <section id="H76149AC96A9249F28FD15D1968DF2D45" section-type="subsequent-section"><enum>2.</enum><header>Review of recreational hazards at Buford Dam, Lake Sidney Lanier, Georgia</header><text display-inline="no-display-inline">The Secretary of the Army, acting through the Chief of Engineers, shall—</text> 
+<paragraph id="H24437F159DFA4C01AC7848C91DED960C"><enum>(1)</enum><text>carry out a review of potential threats to human life and safety from use of designated recreational areas at the Buford Dam, Lake Sidney Lanier, Georgia, authorized by section 1 of the Act of July 24, 1946 (chapter 595, 60 Stat. 635); and</text></paragraph> <paragraph id="HC6C15DAE233147B4AE1F74551731A694"><enum>(2)</enum><text>install such technologies and other measures, including sirens, strobe lights, and signage, that the Secretary, based on the review carried out under paragraph (1), determines necessary for alerting the public of hazardous water conditions or to otherwise minimize or eliminate any identified threats to human life and safety.</text></paragraph></section> 
+</legis-body></bill>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB8E615D84BD24A6BA09A548BAC4862C4" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6838 IH: Canadian Trucker Freedom Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 6838</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20220225">February 25, 2022</action-date> 
+<action-desc><sponsor name-id="H001084">Ms. Herrell</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To provide for asylum or refugee status for certain Canadian nationals subject to harm by reason of the invocation of the Emergencies Act by the Government of Canada.</official-title> 
+</form> 
+<legis-body id="HAECA613130F340BB8E9BCEA78C97E569" style="OLC"> 
+<section id="HDDC82A5BA1354B7A8D24DE8F35204FFA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Canadian Trucker Freedom Act of 2022</short-title></quote>.</text></section> <section id="H3192A3830D2544E6AAFB72BA4DFD16C8" section-type="subsequent-section"><enum>2.</enum><header>Certain individuals deemed to be refugees</header><text display-inline="no-display-inline">For purposes of section 101(a)(42) of the Immigration and Nationality Act, a person who demonstrates that they are described in section 3 shall be deemed to be a refugee, and may be admitted as a refugee under section 207 of such Act or receive asylum under section 208 of such Act (without regard to any determination of credible fear under section 235 of such Act). Such deeming shall remain effective for a period of 5 years, which may be renewed by the Secretary of Homeland Security, if the Secretary determines that the person would continue to be subject to harm pursuant to the invocation of the Emergencies Act (R.S.C., 1985, c. 22 (4th Supp.)) by the Government of Canada. </text></section> 
+<section id="HA5ACC2E1A1D84A4FA7ECD9300EC46EF7"><enum>3.</enum><header>Person described</header><text display-inline="no-display-inline">A person described in this section is any Canadian national—</text> <paragraph id="HD2C0DEFA51604C58BFFBBAF270E2170E"><enum>(1)</enum><text>who engaged in a nonviolent protest;</text></paragraph> 
+<paragraph id="H2D2977757480460881C3DDE4EF00E18B"><enum>(2)</enum><text display-inline="yes-display-inline">who was harmed financially, physically, or in his or her reputation, as a result of that protest, by the Government of Canada pursuant to the invocation of the Emergencies Act (R.S.C., 1985, c. 22 (4th Supp.)) by that government;</text></paragraph> <paragraph id="HDBB2CE92B51C4D39BBCB2249D4ADABFB"><enum>(3)</enum><text>who presents himself or herself at a port of entry to the United States or at any United States consulate, and announces an intent to be deemed a refugee purusant to this Act; </text></paragraph> 
+<paragraph id="H991D5887E3B94B18B59FE1C0867296E0"><enum>(4)</enum><text>who consents to a test for SARS–CoV–2, and tests negative for such virus; and</text></paragraph> <paragraph id="H1328AFEE1DA94114A936E7E591157D15"><enum>(5)</enum><text display-inline="yes-display-inline">who did not unlawfully enter the United States. </text></paragraph></section> 
+</legis-body> 
+</bill> 
+
+

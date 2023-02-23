@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE7BBEE4A06E34BF1976D61C7E2FCA8B2" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6616 IH: Save Taxpayers’ Privacy Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6616</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220204">February 4, 2022</action-date><action-desc><sponsor name-id="W000813">Mrs. Walorski</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of the Treasury from requiring the use of facial recognition technology for access to any Internal Revenue Service online account or service.</official-title></form><legis-body id="HB6D6886C10EA495BB850A32234DF9822" style="OLC"><section id="H260D219A87404FADAF76F2CC0E2087F9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Save Taxpayers’ Privacy Act</short-title></quote>. </text></section><section id="HE55ACAC24B62485480039244B58B4438"><enum>2.</enum><header>Prohibition on facial recognition for access to Internal Revenue Service accounts</header><text display-inline="no-display-inline">The Secretary of the Treasury may not establish or maintain any verification process for access to an Internal Revenue Service online account or service using facial recognition technology. </text></section></legis-body></bill> 
+

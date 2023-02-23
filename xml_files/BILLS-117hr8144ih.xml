@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE15C5F1EFA494C8C8EBAE648C0DA3056" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8144 IH: Ukrainian Fighter Pilots Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8144</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220617">June 17, 2022</action-date>
+<action-desc><sponsor name-id="K000378">Mr. Kinzinger</sponsor> (for himself and <cosponsor name-id="H001085">Ms. Houlahan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To authorize appropriations to provide assistance and training to Ukrainian military pilots, and for other purposes.</official-title>
+</form>
+<legis-body id="H36C73D87C296437E98C81B1B80348802" style="OLC">
+<section id="H675F41DB7FB14ED494225CCCD623D0C0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ukrainian Fighter Pilots Act</short-title></quote>. </text></section> <section id="HC7FDE85F2DCB43589310662BF29090A0"><enum>2.</enum><header>Expansion of cooperation and training with Ukraine</header> <subsection id="H01857B7BEE0A4473AD20303E8327065C"><enum>(a)</enum><header>Authorization of appropriations</header><text display-inline="yes-display-inline">There is authorized to be appropriated, from amounts authorized to be appropriated to carry out section 541 of the Foreign Assistance Act of 1961 (<external-xref legal-doc="usc" parsable-cite="usc/22/2347">22 U.S.C. 2347</external-xref>; relating to international military education and training) and amounts authorized to be appropriated to build the capacity of foreign security forces pursuant to section 333 of title 10, United States Code, $100,000,000. Amounts so authorized shall be made available to provide assistance to Ukrainian military pilots (and, as appropriate, other Ukrainian Forces involved in flying or maintaining F–15 and F–16 aircraft) for the following purposes:</text>
+<paragraph id="H937C923FA6A945EB85B20EFE9C355CAA"><enum>(1)</enum><text>Training and familiarity building with the F–15, F–16, and other air platforms as appropriate for air-to-air combat.</text></paragraph> <paragraph id="HBD71C27FB00243809668E04E1D252C5F"><enum>(2)</enum><text>Training on the use of munitions sets determined appropriate by the Secretary of Defense, such as AIM–9X2 or AIM–9M.</text></paragraph>
+<paragraph id="H3C377B3F45034C2A8D69FED5314F9A31"><enum>(3)</enum><text display-inline="yes-display-inline">Establishing a rapport between the Armed Forces of the United States and the Armed Forces of Ukraine to build partnerships for the future.</text></paragraph> <paragraph id="H0498C6FD26B84F2A9157060BB400B546"><enum>(4)</enum><text>Enhancement of capabilities for aerial combat operations.</text></paragraph>
+<paragraph id="H5B8D86ED237F474293EB8BB60ACA89EE"><enum>(5)</enum><text>Focusing on the ability of Ukraine to teach current and future pilots on the F–15, F–16, and other air platforms in Ukraine and elsewhere, especially during the ongoing Russian invasion of Ukraine.</text></paragraph> <paragraph id="HB757193BBCA94FB88C6AF62330B311AA"><enum>(6)</enum><text>Fostering a better understanding of the air platforms, tactics, and techniques of the United States and other member countries of the North Atlantic Treaty Organization.</text></paragraph></subsection>
+<subsection id="HA9C9B830AF7A44048C3928AE393FB627"><enum>(b)</enum><header>Notice to Congress</header><text>Not later than 15 days before providing assistance or support using amounts made available pursuant to the authorization under subsection (b), the Secretary of Defense shall submit to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives a notification containing the following elements:</text> <paragraph id="H56A717C9E576432787B9F49B5242ABE5"><enum>(1)</enum><text>A detailed description of the assistance or support to be provided, including—</text>
+<subparagraph id="HD2BAE2A60AC24907A37AC63C4A2DA574"><enum>(A)</enum><text>the objectives of such assistance or support;</text></subparagraph> <subparagraph id="H06E7CBDA5CB4480A9EB0112D3F6CD82B"><enum>(B)</enum><text>the budget for such assistance or support; and</text></subparagraph>
+<subparagraph id="H53AAB11B63F341509F53B2333EB623CA"><enum>(C)</enum><text>the expected or estimated timeline for delivery of such assistance or support.</text></subparagraph></paragraph> <paragraph id="H1E24FED91091451AA878D9033422C040"><enum>(2)</enum><text>A description of such other matters as the Secretary considers appropriate.</text></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

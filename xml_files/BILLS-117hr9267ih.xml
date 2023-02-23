@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2AA6510A5EAB496A8C2477A297171FA1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9267 IH: 100 Year Canister Life Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-11-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9267</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221103">November 3, 2022</action-date><action-desc><sponsor name-id="L000593">Mr. Levin of California</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Nuclear Regulatory Commission to promulgate regulations prohibiting the issuance of certain certificates and licenses without a finding that a certain system or facility can safely operate with spent nuclear fuel for a period of at least 100 years, and for other purposes.</official-title></form><legis-body id="H8E6D4B31EC9043B482883B9505C46D0F" style="OLC"> 
+<section id="H2FAB4F9135CA49B9BE75E3562BE5C09F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>100 Year Canister Life Act</short-title></quote>.</text></section> <section id="HDAC48CF0F0624432BB9739E91D983D02"><enum>2.</enum><header>Spent nuclear fuel dry cask safety</header> <subsection id="HE90A95E6C6A94A25846ED7E5ED7FA5F3"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 18 months after the date of enactment of this Act, the Commission shall promulgate final regulations, after providing notice and opportunity for public comment, prohibiting any Certificate of Compliance for a cask for a spent nuclear fuel dry storage system or any specific license for a cask for a spent nuclear fuel dry storage facility to be issued by the Commission without a finding that such system or facility can safely operate with spent nuclear fuel for a period of at least 100 years.</text></subsection> 
+<subsection id="H5CEB6FA059BF43A2992C3A55D5B7C2B3"><enum>(b)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HD144B07E77F943D1891EFB8462AAA7C4"><enum>(1)</enum><header>Cask</header><text>The term <term>cask</term> has the meaning given such term in section 72.3 of title 10, Code of Federal Regulations (or any successor regulations).</text> </paragraph> 
+<paragraph id="HD40B8446AABA4AF5BD1EA8A9B2552105"><enum>(2)</enum><header>Certificate of Compliance</header><text>The term <term>Certificate of Compliance</term> has the meaning given such term in section 72.3 of title 10, Code of Federal Regulations (or any successor regulations).</text></paragraph> <paragraph id="H3717867C170D4E1E826773B67C67B292"><enum>(3)</enum><header>Commission</header><text>The term <term>Commission</term> means the Nuclear Regulatory Commission. </text> </paragraph> 
+<paragraph id="H0C0E52B0550B4C0193B54ED16C42222D"><enum>(4)</enum><header>Spent nuclear fuel</header><text>The term <term>spent nuclear fuel</term> has the meaning given such term in section 72.3 of title 10, Code of Federal Regulations (or any successor regulations).</text></paragraph> </subsection></section> </legis-body></bill>
+

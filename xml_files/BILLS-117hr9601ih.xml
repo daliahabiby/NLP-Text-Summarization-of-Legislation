@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBE78D9DFDC8F4BFAA3BB4261219FF3C0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9601 IH: Justice for Murder Victims Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9601</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221215">December 15, 2022</action-date><action-desc><sponsor name-id="T000165">Mr. Tiffany</sponsor> (for himself and <cosponsor name-id="J000288">Mr. Johnson of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To ensure that homicides can be prosecuted under Federal law without regard to the time elapsed between the act or omission that caused the death of the victim and the death itself.</official-title></form><legis-body id="HD9A49BA19E3B4C34BB477C6A5D3B163A" style="OLC"> 
+<section id="H9DCD58383B6B44D5B04F594B4D982700" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Justice for Murder Victims Act</short-title></quote>.</text></section> <section commented="no" display-inline="no-display-inline" id="H0EBFA38F22CB454F80F89C4285BA9B02" section-type="subsequent-section"><enum>2.</enum><header display-inline="yes-display-inline">Homicide offenses</header> <subsection id="H78EC68038B2041D893D91D6AA45E392E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/51">Chapter 51</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block style="USC" display-inline="no-display-inline" id="HB0416F5D15694C08949348372BF4F005"> 
+<section id="H173098405F034F72AA8EC35E832E8215"><enum>1123.</enum><header>No maximum time period between act or omission and death of victim</header><text display-inline="no-display-inline">A prosecution may be instituted for any homicide offense under the laws of the United States without regard to the time that elapsed between—</text> <paragraph id="H39C671741EE8461692D20BEF621920EB"><enum>(1)</enum><text display-inline="yes-display-inline">the act or omission that caused the death of the victim; and</text></paragraph> 
+<paragraph id="HEE05B00FEB664BBC85C97A208F5FD262"><enum>(2)</enum><text display-inline="yes-display-inline">the death of the victim.</text></paragraph></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HD5C9BEBB7D4345F781DCDFF576FDE639"><enum>(b)</enum><header>Table of contents</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/51">chapter 51</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="HCA1444F681B745E18131C269F81F97EC"> 
+<toc> 
+<toc-entry level="section" bold="off">1123. No maximum time period between act or omission and death of victim.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body></bill>
+

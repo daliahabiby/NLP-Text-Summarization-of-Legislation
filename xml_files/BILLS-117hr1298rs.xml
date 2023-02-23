@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-Senate" dms-id="H75CA5E6F2C4D4FE6A2A30ABE598917D4" public-private="public" key="S" bill-type="olc" stage-count="1" slc-id="S1-OLL22331-S42-6F-LNS"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 1298 RS: To designate the facility of the United States Postal Service located at 1233 North Cedar Street in Owasso, Oklahoma, as the “Technical Sergeant Marshal Roberts Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 329</calendar><congress>117th CONGRESS</congress><session>2d Session</session><legis-num display="yes">H. R. 1298</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date>February 2, 2022</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSGA00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><action stage="Reported-in-Senate"><action-date date="20220404" legis-day="20220331">April 4 (legislative day, March 31), 2022</action-date><action-desc>Reported by <sponsor name-id="S380">Mr. Peters</sponsor>, without amendment</action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 1233 North Cedar Street in Owasso, Oklahoma, as the <quote>Technical Sergeant Marshal Roberts Post Office Building</quote>.</official-title></form><legis-body id="H49895D3C40BA47C392170C144FE34CC3" style="OLC"><section id="H5289BC3D1831470D88C96BACAB4DAD41" section-type="section-one"><enum>1.</enum><header>Technical Sergeant Marshal Roberts Post Office Building</header><subsection id="H33FDADCCC99A4317B43223A63B82A78C"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 1233 North Cedar Street in Owasso, Oklahoma, shall be known and designated as the <quote>Technical Sergeant Marshal Roberts Post Office Building</quote>.</text></subsection><subsection id="H3E18C8F1E8374CD39F383469CE5524AA"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Technical Sergeant Marshal Roberts Post Office Building</quote>.</text></subsection></section></legis-body><endorsement><action-date date="20220404" legis-day="20220331">April 4 (legislative day, March 31), 2022</action-date><action-desc>Reported without amendment</action-desc></endorsement></bill> 
+

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="HD0A285A7838F42709FB691542BB10F91" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 1766 ENR: FTC Collaboration Act of 2021</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 1766</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To enhance cooperation between the Federal Trade Commission and State Attorneys General to combat unfair and deceptive practices, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H3D82664FAEEA43B7AF6816F595D7A691" style="OLC"> 
+<section id="H0C8161BA164B4A2CB8D71C92DC06D649" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>FTC Collaboration Act of 2021</short-title></quote>.</text></section> <section id="HDFCDDE6C763C4B4BA225749D72C6DBC9"><enum>2.</enum><header>Unfair and deceptive practices cooperation study</header> <subsection id="HD1BCE0AF3CEB44358278C7E8F14D0BE6"><enum>(a)</enum><header>In general</header> <paragraph id="HDF7DA0AA3785415884E1797EF3FD30E2"><enum>(1)</enum><header>Study required</header><text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Federal Trade Commission shall conduct a study on facilitating and refining existing efforts with State Attorneys General to prevent, publicize, and penalize frauds and scams being perpetrated on individuals in the United States.</text></paragraph> 
+<paragraph id="H2942EFA0D6CE4E4C88DE2635CF624D66"><enum>(2)</enum><header>Requirements of study</header><text>In conducting the study, the Commission shall examine the following:</text> <subparagraph id="H2E12969EBED24793A939E197DF12023F"><enum>(A)</enum><text>The roles and responsibilities of the Commission and State Attorneys General that best advance collaboration and consumer protection.</text></subparagraph> 
+<subparagraph id="H97C3CF8DECBD4A729C3471C681D99DDF"><enum>(B)</enum><text>The policies, procedures, and mechanisms that facilitate cooperation and communications across the Commission.</text></subparagraph> <subparagraph id="H82B0E847E73748BF8203A76D681E74B8"><enum>(C)</enum><text>How resources should be dedicated to best advance such collaboration and consumer protection.</text></subparagraph> 
+<subparagraph id="H678317FC666845C7812D9531EC8C4B98"><enum>(D)</enum><text>The accountability mechanisms that should be implemented to promote collaboration and consumer protection.</text></subparagraph></paragraph> <paragraph id="HD45C4E1E649342269D1BA7E719B49910"><enum>(3)</enum><header>Consultation and public comment</header><text>In producing the study required in paragraph (1), the Commission shall—</text> 
+<subparagraph id="H60E8698E3FE04CC6A78D3ACEA233EAA3"><enum>(A)</enum><text>consult with—</text> <clause id="HE51511721CA7459D9FDF161DBBFE684F"><enum>(i)</enum><text>the National Association of State Attorneys General;</text></clause> 
+<clause id="H6AC5244AC83E4CABB0D8B56EBAEE5811"><enum>(ii)</enum><text>public interest organizations dedicated to consumer protection;</text></clause> <clause id="H6B6F220F6F82492E8152486CB44BFAE9"><enum>(iii)</enum><text display-inline="yes-display-inline">relevant private sector entities; and</text></clause> 
+<clause id="H12EFE6E13EDE412A8765010D878C722C"><enum>(iv)</enum><text>any other Federal or State agency that the Federal Trade Commission considers necessary; and</text></clause></subparagraph> <subparagraph id="H702469D7DD5642EF80C4663E2F4DD642"><enum>(B)</enum><text>provide opportunity for public comment and advice relevant to the production of the study.</text></subparagraph></paragraph></subsection> 
+<subsection id="H297DBE01FD70446B955037A3BE3EE2C7"><enum>(b)</enum><header>Report to congress</header><text display-inline="yes-display-inline">Not later than 6 months after the completion of the study required pursuant to subsection (a), the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on the website of the Commission, a report that contains the following:</text> <paragraph id="H53D6AABA3A1B48FB9481421B75D84C48"><enum>(1)</enum><text>The results of the study.</text></paragraph> 
+<paragraph id="HE4F4206492ED4DC9A8B37391DD88D3D6"><enum>(2)</enum><text display-inline="yes-display-inline">Recommended best practices to enhance collaboration efforts between the Commission and State Attorneys General with respect to preventing, publicizing, and penalizing fraud and scams.</text></paragraph> <paragraph id="H2CD2E7EF03DF4DCDA8D2D253A3D08DB7"><enum>(3)</enum><text>Quantifiable metrics by which enhanced collaboration can be measured.</text></paragraph> 
+<paragraph id="HB823E7B61B5B400583D6FA518F3B16E1"><enum>(4)</enum><text display-inline="yes-display-inline">Legislative recommendations, if any, to enhance collaboration efforts between the Commission and State Attorneys General to prevent, publicize, and penalize fraud and scams.</text></paragraph></subsection> <subsection id="H5854BF548B4045EBB46795A1634A6757"><enum>(c)</enum><header>Commission defined</header><text>In this section, the term <term>Commission</term> means the Federal Trade Commission. </text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H62E587A9D8D64777A9873EDC3C8AA8EB" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9230 IH: State Efforts to Create Underground Regulatory Efficiency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9230</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221025">October 25, 2022</action-date><action-desc><sponsor name-id="J000295">Mr. Joyce of Ohio</sponsor> (for himself and <cosponsor name-id="C001125">Mr. Carter of Louisiana</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To increase the authorization of appropriations for grants to States to defray the expenses of the States related to the establishment and operation of a State underground injection control program for permitting Class VI wells for the injection of carbon dioxide.</official-title></form><legis-body id="HA3EC9E80976748AE9A54A4BE4470A1A1" style="OLC"><section id="HFD84AD5F5F1C4B7F89A3F88942454D14" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>State Efforts to Create Underground Regulatory Efficiency Act</short-title></quote> or the <quote><short-title>SECURE Act</short-title></quote>. </text></section><section id="H040200BD6AA64B34A37ED5FB856E7F1F"><enum>2.</enum><header>Authorization for State permitting program grants</header><text display-inline="no-display-inline">Section 40306(c)(3) of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300h-9">42 U.S.C. 300h–9(c)(3)</external-xref>) is amended by striking <quote>$50,000,000 for the period of fiscal years 2022 through 2026</quote> and inserting <quote>$100,000,000, which shall be authorized to remain available until expended</quote>.</text></section></legis-body></bill> 
+

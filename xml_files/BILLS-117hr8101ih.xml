@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5FFACE5199424270A54ABD3CFD0277D1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8101 IH: To direct the Commissioner of Social Security to conduct a study relating to administrative costs.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8101</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220616">June 16, 2022</action-date><action-desc><sponsor name-id="C001104">Mr. Cawthorn</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Commissioner of Social Security to conduct a study relating to administrative costs.</official-title></form><legis-body id="HEC1AB85589234F23A4CEB6A312CF1C67" style="OLC"> 
+<section id="HC80A8EF439DF4A52AEB7AB2DA14BF07A" section-type="section-one"><enum>1.</enum><header>Study on administrative costs</header>
+<subsection id="HBA5F897A4FE74458B242FEB301AE691D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Commissioner of Social Security shall conduct a study on ways to—</text> <paragraph id="H86AF5A81196F4EA2AEC8A9DF1C54313A"><enum>(1)</enum><text>lower administration costs by at least 15 percent;</text></paragraph>
+<paragraph id="H5AFFE7AA3D104C948C4AA7BAE5C9D74E"><enum>(2)</enum><text>protect current benefits;</text></paragraph> <paragraph id="H39ADEBDD9D744CF38366143355CCCF52"><enum>(3)</enum><text>investigate means testing, flat benefits, and basing benefits pay outs on lifelong labor earnings; and</text></paragraph>
+<paragraph id="HAF3D818EEDB743529B91676B10511EAD"><enum>(4)</enum><text>insure the solvency of the program.</text></paragraph></subsection> <subsection id="H14EE62889F2A44A09E6742496E0786FA"><enum>(b)</enum><header>Report</header><text>Not later than 1 year after the date of enactment of this Act, the Commissioner of Social Security shall submit a report on the results of the study under subsection (a) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.</text> </subsection></section> 
+</legis-body></bill>
+

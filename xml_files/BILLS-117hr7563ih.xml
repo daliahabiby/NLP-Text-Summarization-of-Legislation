@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H53CEDA03324543C29A0ADD81728E8200" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7563 IH: Increasing Homeownership for Servicemembers Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7563</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220421">April 21, 2022</action-date><action-desc><sponsor name-id="S001159">Ms. Strickland</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Defense to seek to enter into an agreement with an entity to conduct a study and produce a report on barriers to home ownership for members of the Armed Forces.</official-title></form><legis-body id="H63DCEC7C177441AE8E4C4BF61B552335" style="OLC"> 
+<section id="H344D998F11A9478D810D3BBC0CFCF480" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Increasing Homeownership for Servicemembers Act</short-title></quote>.</text></section> <section id="H433C2DEE3F7B4E3F84BD9C0B05796E70" section-type="subsequent-section"><enum>2.</enum><header>Study and report on barriers to home ownership for members of the Armed Forces</header><text display-inline="no-display-inline">Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall seek to enter into an agreement with a federally funded research and development center or non-profit entity to conduct a study on the barriers to home ownership for members of the Armed Forces. At the conclusion of such study, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives, a report containing the following elements:</text> 
+<paragraph id="H6C4C56DB2A9249B1A84A20AE57C79718"><enum>(1)</enum><text>Potential barriers to home ownership, including down payments, concerns about home maintenance, and challenges in selling a home.</text></paragraph> <paragraph id="HF225E9B8BD334B978054392F24D818B9"><enum>(2)</enum><text>The percentage of members who use the basic allowance for housing to pay for a mortgage, disaggregated by Armed Force, rank, and military housing area.</text></paragraph> 
+<paragraph id="H13A9E302D80D4B40A72C6C80187B8108"><enum>(3)</enum><text>Any identified differences in home ownership rates among members correlated with race or gender.</text></paragraph> <paragraph id="H430017BD5A2943FA8286700CFDA384BB"><enum>(4)</enum><text>What percentage of members own a home before they separate from the Armed Forces.</text></paragraph></section> 
+</legis-body></bill>
+

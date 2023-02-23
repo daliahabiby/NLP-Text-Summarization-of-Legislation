@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H43E941C646E44F14BFAD0A3DC1BBD089" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6791 IH: John White Ensuring Timely Black Lung Benefits Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6791</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220218">February 18, 2022</action-date>
+<action-desc><sponsor name-id="R000395">Mr. Rogers of Kentucky</sponsor> (for himself and <cosponsor name-id="B000490">Mr. Bishop of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title IV of the Federal Mine Safety and Health Act of 1977 to provide for the timely payment of black lung benefits pending liability determinations, and for other purposes.</official-title>
+</form>
+<legis-body id="HF9DEA9BFC9064FFC828079BE02C1DD0A" style="OLC">
+<section id="H220353133E75466BAE3319742870E92A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>John White Ensuring Timely Black Lung Benefits Act</short-title></quote>. </text></section> <section id="H982AD9E8FD444C598D24571BAF604F73"><enum>2.</enum><header>Payment of black lung benefits pending liability determinations</header> <subsection id="H5C5312B1E8A64349B2CFDFF2849D7993"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 422(h) of the Federal Mine Safety and Health Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/30/932">30 U.S.C. 932(h)</external-xref>) is amended—</text>
+<paragraph id="H397363EDCA9B492FB9B90EB72C62FC6F"><enum>(1)</enum><text>by striking <quote>The Secretary of Labor</quote> and inserting <quote>(1) The Secretary of Labor</quote>; and</text></paragraph> <paragraph id="H77746803F89F486FABFCCDA1D68C807A"><enum>(2)</enum><text>by adding at the end the following:</text>
+<quoted-block style="OLC" id="H08F0600490264DE4A6EC0679FA02C01B" display-inline="no-display-inline">
+<paragraph id="H2A9C710EE17040FA866A808C2D9FCC78" indent="up1"><enum>(2)</enum>
+<subparagraph commented="no" display-inline="yes-display-inline" id="HA42B5D422F0B4353835F9269B9D0F78D"><enum>(A)</enum><text display-inline="yes-display-inline">In any case in which a determination of liability described in paragraph (1) has not been made with respect to a benefit determination for a miner by the date that is 60 days after the date of such a benefit determination, the Secretary shall pay the benefits to which the miner is entitled under section 422 out of the fund (as defined in section 402(h)).</text></subparagraph> <subparagraph id="H8A7F994411984CB690DA5FF393FD62A5" indent="up1"><enum>(B)</enum><text>In no case shall payment of benefits under this paragraph be construed to relieve any operator subsequently determined responsible for the payment of such benefits of repayment liability described in section 424(b).</text></subparagraph>
+<subparagraph id="HB5FE82391DE144678E6597ECBBB0B63C" indent="up1"><enum>(C)</enum><text display-inline="yes-display-inline">For purposes of this paragraph, the term <quote>benefit determination for a miner</quote> means a determination by the Secretary that the miner is totally disabled due to pneumoconiosis or that the death of the miner was due to pneumoconiosis.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HFBA77707D7114BA487AA5BD20AE4B34D"><enum>(b)</enum><header>Authorization for expenditures from trust fund</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/9501">Section 9501(d)(1)</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+<paragraph id="H0DC6804EE83C450F857D44A65A1C39C3"><enum>(1)</enum><text>in subparagraph (A), by striking <quote>or</quote> at the end;</text></paragraph> <paragraph id="H0732CBD8D34A407DBF465177678C9A2A"><enum>(2)</enum><text>by redesignating subparagraph (B) as subparagraph (C); and</text></paragraph>
+<paragraph id="H9F0168C39B644A69A18A3302D5B4E927"><enum>(3)</enum><text>by inserting after subparagraph (A) the following:</text> <quoted-block style="OLC" id="H051C4D137F2845EFBC591E1540431E79" display-inline="no-display-inline"> <subparagraph id="H739AB126AB9B42EC9CFE64C3B461336D"><enum>(B)</enum><text display-inline="yes-display-inline">a determination of liability described in paragraph (1) of section 422(h) of such Act has not been made with respect to a benefit determination for a miner (as defined in paragraph (2)(C) of such section) by the date that is 60 days after the date of such a benefit determination, or</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

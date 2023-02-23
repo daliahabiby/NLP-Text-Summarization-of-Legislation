@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0FAA67C1F81944B686C0945EEE387762" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9549 IH: Fostering Secure Family Partnerships Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9549</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221214">December 14, 2022</action-date><action-desc><sponsor name-id="G000585">Mr. Gomez</sponsor> (for himself and <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To support the ability of kinship caregivers to provide safety and stability for the children placed in their homes.</official-title></form><legis-body id="HC8B2D3A553194EFAB2BB8B2EFA9C4F2F" style="OLC"><section id="HFE63B97FAF36469B8B97B3FCB2C6FAF6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fostering Secure Family Partnerships Act</short-title></quote>.</text></section><section id="H26EBCAFF554B43B2ACC83996E6FAD53D"><enum>2.</enum><header>Increase in Federal financial support for kinship navigator programs</header><subsection id="HF775EB6B45FA46A6B000BE725B7B16A0"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 474(a)(7) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/674">42 U.S.C. 674(a)(7)</external-xref>) is amended by striking <quote>50</quote> and inserting <quote>75</quote>.</text></subsection><subsection id="H6C1F5CEA836B443488F7DFA9C67E27D6"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by subsection (a) shall take effect on October 1, 2023, and shall apply to payments under part E of title IV of the Social Security Act for calendar quarters beginning on or after such date.</text></subsection></section></legis-body></bill> 
+

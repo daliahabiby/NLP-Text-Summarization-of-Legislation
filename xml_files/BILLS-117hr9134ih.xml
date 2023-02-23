@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H36EA438588D94D12977FBE27544A9276" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9134 IH: No PAC Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9134</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221004">October 4, 2022</action-date><action-desc><sponsor name-id="K000389">Mr. Khanna</sponsor> (for himself and <cosponsor name-id="P000616">Mr. Phillips</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Election Campaign Act of 1971 to prohibit a candidate for election to the office or Representative in Congress or Senator from accepting contributions from any political committee other than an authorized committee of the candidate and from establishing a leadership PAC.</official-title></form><legis-body id="HEF0D5FDE44FF41F99B85077DCD8F88F1" style="OLC"> 
+<section id="H8C78A1206ADC4CEEA4643949C2302279" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No PAC Act</short-title></quote>.</text></section> <section id="H3FE6CBD2203E4FCBB951FE814DD3E572"><enum>2.</enum><header>Prohibition on acceptance of contributions from PACs by candidates for Representative or Senator</header> <subsection id="HAA48E59F89034C34895605C28924050F"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">Section 315 of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/52/30116">52 U.S.C. 30116</external-xref>) is amended by adding at the end the following new subsection:</text> 
+<quoted-block display-inline="no-display-inline" id="H02A70D2633AA45A98DF711B4D2FC1883" style="OLC"> 
+<subsection id="HE6CC0B6C66524A2E845E7B6D451C97CB"><enum>(k)</enum><header>Prohibitions relating to certain political committees</header> 
+<paragraph id="H1CBD6D79B8C7426ABAEE1DD01F6787C4"><enum>(1)</enum><header>Acceptance of contributions from PACs</header><text display-inline="yes-display-inline">A candidate for election for the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress, may not accept a contribution with respect to the election from any political committee other than an authorized committee of the candidate.</text></paragraph> <paragraph id="H07FDA881A8484930A5A99150E3CBB38F"><enum>(2)</enum><header>Establishment of leadership PAC</header><text>A candidate for election for the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress may not establish a leadership PAC (as defined in subparagraph (B) of section 304(i)(8)).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H13E79D180041469BA332552E3DF2738D"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply with respect to elections occurring after 2022.</text></subsection></section> </legis-body></bill>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H0DD4333679A44FB88DFC4B54ABEF423D" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 4009 EH: Enslaved Voyages Memorial Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 4009</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To authorize the Georgetown African American Historic Landmark Project and Tour to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H4B50D4C832AE4E3DBB6B1BD4BC8C43B1" style="OLC"> 
+<section id="HCFA70518CA044D5B99958D88D8B7A888" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Enslaved Voyages Memorial Act</short-title></quote>.</text></section> <section id="HD8B24A491EDC4E959A49A624CE60219E"><enum>2.</enum><header>Authorization to establish commemorative work</header> <subsection id="H69D512F6EEC74BF18FD2F1EDADF55D31"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Georgetown African American Historic Landmark Project and Tour may establish a commemorative work on Federal land in the District of Columbia and its environs to commemorate the enslaved individuals, whose identities may be known or unknown, who endured the Middle Passage.</text></subsection> 
+<subsection id="HFA43B63243D7469EAF065085E93E8AC4"><enum>(b)</enum><header>Compliance with standards for commemorative works</header><text>The establishment of the commemorative work under this section shall be in accordance with <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/40/89">chapter 89</external-xref> of title 40, United States Code (commonly known as the <quote>Commemorative Works Act</quote>).</text></subsection> <subsection id="HBD1A6D735F2349339583CEE5D8079357"><enum>(c)</enum><header>Prohibition on the use of Federal funds</header> <paragraph id="H378B62D00E2545A994B1E5B01BB70E93"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Federal funds may not be used to pay any expense of the establishment of the commemorative work under this section.</text></paragraph> 
+<paragraph id="HA7667E5508FD462A85445A5F2A60F232"><enum>(2)</enum><header>Responsibility of the Georgetown African American Historic Landmark Project and Tour</header><text display-inline="yes-display-inline">The Georgetown African American Historic Landmark Project and Tour shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the commemorative work under this section.</text></paragraph></subsection> <subsection id="H9684E403A5CE41518A9109531EEE9577"><enum>(d)</enum><header>Deposit of excess funds</header> <paragraph id="H117E1F42AAC64ACABE53529DE40DA417"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">If upon payment of all expenses for the establishment of the memorial (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for the establishment of the commemorative work, the Georgetown African American Historic Landmark Project and Tour shall transmit the amount of the balance to the Secretary of the Interior for deposit in the account provided for in section 8906(b)(3) of title 40, United States Code.</text></paragraph> 
+<paragraph id="H4DF8668D33B14D7B97ABA5F4531AA51E"><enum>(2)</enum><header>On expiration of authority</header><text display-inline="yes-display-inline">If upon expiration of the authority for the commemorative work under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the commemorative work, the Georgetown African American Historic Landmark Project and Tour shall transmit the amount of the balance to a separate account with the National Park Foundation for memorials, to be available to the Secretary of the Interior or Administrator (as appropriate) following the process provided in section 8906(b)(4) of title 40, United States Code, for accounts established under section 8906(b)(2) or (3) of title 40, United States Code.</text></paragraph></subsection></section> <section id="H744C849CE83C4E0DAB3D693030ECAC9E"><enum>3.</enum><header>Determination of budgetary effects</header><text display-inline="no-display-inline">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</text></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20220920" chamber="House">Passed the House of Representatives September 20, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

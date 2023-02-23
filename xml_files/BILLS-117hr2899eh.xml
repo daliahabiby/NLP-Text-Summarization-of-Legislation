@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="HAFD20F58A01F44A39FE924BA8663A2E9" public-private="public" key="H" bill-type="olc" stage-count="1">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 2899 EH: To direct the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating areas within the island of Guam as a National Heritage Area, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 2899</legis-num>
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To direct the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating areas within the island of Guam as a National Heritage Area, and for other purposes.</official-title>
+</form>
+<legis-body id="HEDC8022EE2DC470E9ED095814D5CA7E4" style="OLC">
+<section id="H4C15165328314DECB338E6DEA3283690" section-type="section-one"><enum>1.</enum><header>The Guam National Heritage Area Study</header>
+<subsection id="H34E9AADE150447A0AA97CBCE77AFC301"><enum>(a)</enum><header>Study</header>
+<paragraph id="HE06F8C3973EF478AB3415087B70D4B92"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary, in consultation with appropriate regional and local organizations or agencies, shall conduct a study to assess the suitability and feasibility of designating the study areas as National Heritage Areas.</text></paragraph> <paragraph id="HC006A96989F94D069446FA422EFC08F3"><enum>(2)</enum><header>Requirements</header><text>The study shall include analysis, documentation, and determinations on whether the study areas—</text>
+<subparagraph id="HD7D64117C9DE4AAA89568A419834D668"><enum>(A)</enum><text>has an assemblage of natural, historic, and cultural resources that—</text> <clause id="H789C302A76164F09B03C7555FBFABEAD"><enum>(i)</enum><text>represent distinctive aspects of the heritage of the United States;</text></clause>
+<clause id="H8BECD094F087411A9BF50672D44912B8"><enum>(ii)</enum><text>are worthy of recognition, conservation, interpretation, and continuing use by residents and visitors; and</text></clause> <clause id="HB50BC50138EF4BAD8B5B18BC2B581F69"><enum>(iii)</enum><text>would be best managed—</text>
+<subclause id="H7DA02EC45CE145F1882AC32F73E4D056"><enum>(I)</enum><text>through partnerships among public and private entities; and</text></subclause> <subclause id="HD72AA9656B9348CBB4C7EA6157B4B938"><enum>(II)</enum><text>by linking diverse and sometimes noncontiguous resources and active communities that share a common heritage;</text></subclause></clause></subparagraph>
+<subparagraph id="H93CA10764FAD472998F19FD605F1324C"><enum>(B)</enum><text>reflects traditions, customs, beliefs, and folklife that are a valuable part of the story of the United States;</text></subparagraph> <subparagraph id="HAF3E4760678642C3AE5D01BE73F3CE40"><enum>(C)</enum><text>provides—</text>
+<clause id="H3AAFBE7D67714DA6AD14C854731FA89A"><enum>(i)</enum><text>outstanding opportunities to conserve natural, historic, cultural, or scenic features; and</text></clause> <clause id="H9B1A4CB3C17441C388C7077317868456"><enum>(ii)</enum><text>outstanding recreational and educational and cultural tourism opportunities;</text></clause></subparagraph>
+<subparagraph id="HD38CF0D28D79433980D566569304B31A"><enum>(D)</enum><text>contains resources that—</text> <clause id="HC25A7DA6630F41F6B93B35E73D696155"><enum>(i)</enum><text>are important to any identified themes of the study area; and</text></clause>
+<clause id="H870C4178083441A99324AB08E2349184"><enum>(ii)</enum><text>retain a degree of integrity capable of supporting interpretation;</text></clause></subparagraph> <subparagraph id="H20707308BAC04745A9A41AE1DCC74E8D"><enum>(E)</enum><text>includes residents, business interests, nonprofit organizations, including museums and heritage organizations, and State and local governments that—</text>
+<clause id="HD44F7529F4384E4EA1321EF639BEBA14"><enum>(i)</enum><text>are involved in the planning of the National Heritage Area;</text></clause> <clause id="HF250949E37554227868F98B1E63F5D1B"><enum>(ii)</enum><text>have developed a conceptual financial plan that outlines the roles of all participants in the Area, including the Federal Government; and</text></clause>
+<clause id="H34052194426B41D4A79179399A9F56A3"><enum>(iii)</enum><text>have demonstrated support for the designation of the Area;</text></clause></subparagraph> <subparagraph id="HD9209A1AD87143E397CC5AEDB1F53A1A"><enum>(F)</enum><text>has a potential management entity to work in partnership with the individuals and entities described in subparagraph (E) to develop the Area while encouraging State and local economic activity; and</text></subparagraph>
+<subparagraph id="H55251B2488FF44D7946D4FDC545DF279"><enum>(G)</enum><text>has a conceptual boundary map that is supported by the public.</text></subparagraph></paragraph></subsection> <subsection id="HD76B93D514DA4007AD7E1BBF03BC9819"><enum>(b)</enum><header>Private property considerations</header><text display-inline="yes-display-inline">In conducting the study, the Secretary shall consider the potential impact that designation of the study area as a national heritage area would have on private property on Guam.</text></subsection>
+<subsection id="H926BEFE601F14A47893854B14DE8AFA8"><enum>(c)</enum><header>Report</header><text>Not later than the end of the third fiscal year after the date on which funds are first made available for this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—</text> <paragraph id="H5A2C49309DD142AA8387F2ED423FD63E"><enum>(1)</enum><text>the findings of the study; and</text></paragraph>
+<paragraph id="H690EA2DAEEAE4BDB900579754669AE08"><enum>(2)</enum><text>any conclusions and recommendations of the Secretary.</text></paragraph></subsection> <subsection id="H91F9AC83F0E54FB8999501B565D84102"><enum>(d)</enum><header>Definitions</header><text>In this section:</text>
+<paragraph id="HA7999455959F4E27978C4979607CEE1A"><enum>(1)</enum><header>Area</header><text display-inline="yes-display-inline">The term <term>Area</term> means a National Heritage Area located in Guam.</text></paragraph> <paragraph id="H27C8C4EAEAA5454897C30764D0F2AE06"><enum>(2)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of the Interior.</text></paragraph>
+<paragraph id="HBFB3644F1FEA4A0BAE0D7663F49FB146"><enum>(3)</enum><header>Study area</header><text>The term <term>study area</term> means the island of Guam.</text></paragraph></subsection></section> </legis-body><attestation><attestation-group><attestation-date date="20220315" chamber="House">Passed the House of Representatives March 15, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

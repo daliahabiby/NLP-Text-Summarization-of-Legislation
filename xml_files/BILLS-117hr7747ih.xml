@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDC644B8C10F04D9F834A3A342E39CE0F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7747 IH: Combatting Painful Inflation (CPI) Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7747</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220512">May 12, 2022</action-date><action-desc><sponsor name-id="K000397">Mrs. Kim of California</sponsor> (for herself and <cosponsor name-id="W000823">Mr. Waltz</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the National Science Foundation to commission a study on inflation.</official-title></form><legis-body id="H9D1B44ADAB1C4E489982C84E04F2D114" style="OLC"> 
+<section id="HFA3BB882AC114B70947BD42F3D59F0FD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Combatting Painful Inflation (CPI) Act</short-title></quote>.</text> </section> <section id="H571226507DD944C38579A9FB2BD191FD"><enum>2.</enum><header>Inflation study</header><text display-inline="no-display-inline">Not later than 45 days after the date of enactment of this Act, the Director of the National Science Foundation shall commission a study to—</text> 
+<paragraph id="H5BF463B6FCB2435DAF4C213916E7E885"><enum>(1)</enum><text>measure the economic impact of inflation on the American people, including an analysis of cost-of-living impacts;</text></paragraph> <paragraph id="HC666EA664BDC46DD9AEE8BF826835018"><enum>(2)</enum><text>assess how the increase in inflation has harmed the American workforce through decreased, less valuable wages;</text></paragraph> 
+<paragraph id="H16E20F6922C54790B764B0ABADCBCBF3"><enum>(3)</enum><text>consider the impact of inflation on American international competitiveness, particularly as it relates to offshoring jobs in the manufacturing industry;</text></paragraph> <paragraph id="HB1AAE78A969A43DCB1A9F08E49834323"><enum>(4)</enum><text>evaluate the impact of inflation on rural and underserved communities throughout the country;</text></paragraph> 
+<paragraph id="HEA64244E5ACB4695A2ABF35C657703F1"><enum>(5)</enum><text>assess the ways inflation at its current trajectory could impact future American generations; and</text></paragraph> <paragraph id="H12C46BB8C7F44643B68AF0EF7EA30B42"><enum>(6)</enum><text>make recommendations to Congress on the impact of further Government spending in regard to inflation.</text></paragraph></section> 
+</legis-body></bill>
+

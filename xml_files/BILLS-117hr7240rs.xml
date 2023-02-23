@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-Senate" dms-id="H711655EBA07549568D137D1352029D34" public-private="public" key="S" bill-type="olc" stage-count="1" slc-id="S1-DAV22M68-0R8-83-C9T"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 7240 RS: READ Act Reauthorization Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 613</calendar><congress>117th CONGRESS</congress><session>2d Session</session><legis-num display="yes">H. R. 7240</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20220921">September 21, 2022</action-date><action-desc>Received</action-desc></action><action><action-date date="20221129">November 29, 2022</action-date><action-desc>Read twice and referred to the <committee-name committee-id="SSFR00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Foreign Relations</committee-name></action-desc></action><action stage="Reported-in-Senate"><action-date date="20221207">December 7, 2022</action-date><action-desc>Reported by <sponsor name-id="S306">Mr. Menendez</sponsor>, without amendment</action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To reauthorize the READ Act.</official-title></form><legis-body id="H2158B073D26C43809A6F31B9BA6E4826" style="OLC"><pagebreak></pagebreak><section id="HF4DB03664DD14ED6B3A9CCFBFAEECE25" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>READ Act Reauthorization Act of 2022</short-title></quote>.</text></section><section id="H20C39FDD10794E65B8B39EF4E55E9589"><enum>2.</enum><header>Reauthorization</header><text display-inline="no-display-inline">Section 4(a) of the Reinforcing Education Accountability in Development Act (division A of <external-xref legal-doc="public-law" parsable-cite="pl/115/56">Public Law 115–56</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/22/2151c">22 U.S.C. 2151c</external-xref> note) is amended by striking <quote>during the following five fiscal years</quote> and inserting <quote>during the following ten fiscal years</quote>.</text></section></legis-body><endorsement><action-date date="20221207">December 7, 2022</action-date><action-desc>Reported without amendment</action-desc></endorsement></bill> 
+

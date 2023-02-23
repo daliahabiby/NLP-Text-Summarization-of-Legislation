@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDB5C76D4DDC04BC3B6FA34BE9AFE6502" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6864 IH: Ocean Shipping Antitrust Enforcement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6864</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220228">February 28, 2022</action-date><action-desc><sponsor name-id="C001059">Mr. Costa</sponsor> (for himself, <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>, <cosponsor name-id="S001172">Mr. Smith of Nebraska</cosponsor>, and <cosponsor name-id="J000301">Mr. Johnson of South Dakota</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committee on <committee-name committee-id="HPW00">Transportation and Infrastructure</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 46, United States Code, to repeal certain antitrust exemptions for ocean common carriers.</official-title></form><legis-body id="H1A95ED3151B94D55B4EA7B3CABE583E8" style="OLC"><section id="H53E24BDAFDFD4D6B89FC3E8B0F70C626" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ocean Shipping Antitrust Enforcement Act</short-title></quote>. </text></section><section id="H6548BF56EF454DBD9CEFA59945129DAA"><enum>2.</enum><header>Repeal of antitrust exemptions</header><subsection id="H3B3422FF5F07492C9C5D039FC6C0CB0D"><enum>(a)</enum><header>Repeal</header><text display-inline="yes-display-inline">Section 40307 of title 46, United States Code, is repealed.</text></subsection><subsection id="HF87C352AA60042A0A55CB7959D65E196"><enum>(b)</enum><header>Clerical amendment</header><text>The item relating to section 40307 in the analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/46/403">chapter 403</external-xref> of title 46, United States Code, is repealed.</text></subsection><subsection id="HFE062539D1F14F938E8E95A7279945E4"><enum>(c)</enum><header>Conforming amendment</header><text>Section 40301(e) of such title is amended by striking <quote>(except sections 40305 and 40307(a))</quote> and inserting <quote>(except section 40305)</quote>. </text></subsection></section></legis-body></bill> 
+

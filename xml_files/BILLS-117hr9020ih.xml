@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H877DD121902644C38E0CCEBF4A5B1143" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9020 IH: Savings for Servicemembers Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9020</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220928">September 28, 2022</action-date><action-desc><sponsor name-id="R000577">Mr. Ryan of Ohio</sponsor> (for himself, <cosponsor name-id="K000388">Mr. Kelly of Mississippi</cosponsor>, <cosponsor name-id="K000380">Mr. Kildee</cosponsor>, <cosponsor name-id="K000394">Mr. Kim of New Jersey</cosponsor>, <cosponsor name-id="K000396">Mr. Kahele</cosponsor>, and <cosponsor name-id="K000381">Mr. Kilmer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to decrease the distance away from home required for a member of a reserve component of the Armed Forces to be eligible for the above-the-line deduction for travel expenses.</official-title></form><legis-body id="H85907222FEC34311A5B656CBB2F8FF66" style="OLC"> 
+<section id="H139416F8B3B54D0A9081CE1E6B42C37A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Savings for Servicemembers Act</short-title></quote>.</text></section> <section id="HD7E199492AC34C59A45967F594920684" section-type="subsequent-section"><enum>2.</enum><header>Decrease in required distance away from home for above-the-line deduction for travel expenses of members of a reserve component of the Armed Forces</header> <subsection id="HB95C53059D564C4D88F8FA967A552BF6"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/62">Section 62(a)(2)(E)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>100 miles</quote> and inserting <quote>50 miles</quote>.</text></subsection> 
+<subsection id="H6D416673EE514FC394ED3B6B3814C78B"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years beginning after December 31, 2021.</text></subsection></section> </legis-body></bill>
+

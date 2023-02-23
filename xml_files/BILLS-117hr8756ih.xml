@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H81266DF03D304238AFFFB343FA4A0D97" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8756 IH: Protect Local Farms Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8756</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220830">August 30, 2022</action-date><action-desc><sponsor name-id="J000020">Mr. Jacobs of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Fair Labor Standards Act of 1938 to provided for the preemption of certain State overtime laws for agricultural employees.</official-title></form><legis-body id="H28F0366535BF44BB859A0D83F9758C6C" style="OLC"><section id="H4D5E1994F5924ACD93DF4F1EC7768223" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protect Local Farms Act</short-title></quote>. </text></section><section id="HA0C869D0CEE24ACFB634E80C9F3BE26F"><enum>2.</enum><header>Preemption of certain State overtime laws for agricultural employees</header><text display-inline="no-display-inline">Section 18 of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/218">29 U.S.C. 218</external-xref>) is amended—</text><paragraph id="H0F5EB1EC88F141E781FDF6E7FC89A34F"><enum>(1)</enum><text>in subsection (a), by striking <quote>No provision of this Act or of any order thereunder</quote> and inserting <quote>Except as provided in subsection (c), no provision of this Act or of any order thereunder</quote>; and</text></paragraph><paragraph id="H984F56BEE9114458816F2B99CD5FD60B"><enum>(2)</enum><text>by adding at the end the following:</text><quoted-block style="OLC" id="HFF0D22A1D6A743FDAB27B0BA1253A1EB" display-inline="no-display-inline"><subsection id="H95583B7FEE4442A5ACC86843F31519D9"><enum>(c)</enum><text display-inline="yes-display-inline">The provisions of this Act shall preempt any State law that provides for a maximum workweek for employees employed in agriculture of less than 60 hours.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill> 
+

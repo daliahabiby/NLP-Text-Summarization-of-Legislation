@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H36E376CC1C914D97B40F052C02BDF064" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6628 IH: Close Biden’s Open Border Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6628</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220207">February 7, 2022</action-date>
+<action-desc><sponsor name-id="G000595">Mr. Good of Virginia</sponsor> (for himself, <cosponsor name-id="C001115">Mr. Cloud</cosponsor>, <cosponsor name-id="D000032">Mr. Donalds</cosponsor>, <cosponsor name-id="P000605">Mr. Perry</cosponsor>, <cosponsor name-id="H001071">Mr. Hice of Georgia</cosponsor>, <cosponsor name-id="G000578">Mr. Gaetz</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, <cosponsor name-id="M001195">Mr. Mooney</cosponsor>, <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, <cosponsor name-id="T000165">Mr. Tiffany</cosponsor>, <cosponsor name-id="M001212">Mr. Moore of Alabama</cosponsor>, <cosponsor name-id="M001184">Mr. Massie</cosponsor>, <cosponsor name-id="G000552">Mr. Gohmert</cosponsor>, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, <cosponsor name-id="C001104">Mr. Cawthorn</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="R000103">Mr. Rosendale</cosponsor>, and <cosponsor name-id="B000825">Mrs. Boebert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAP00">Committee on Appropriations</committee-name>, and in addition to the Committee on <committee-name committee-id="HFA00">Foreign Affairs</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To provide appropriations for a border wall and provide for a moratorium on certain other funding, and for other purposes.</official-title>
+</form>
+<legis-body id="H652770A083524A8D80A8BB5B8C4BF253" style="OLC"> 
+<section id="HCBF298D8CC7C4D4CB4B555D8D804C3A2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Close Biden’s Open Border Act</short-title></quote>. </text></section> <section id="H156E59E2C4DF4BDF8A4DA93D87244339"><enum>2.</enum><header>Border wall funding</header> <subsection id="HD146B01170D84C899E68338E45799F53"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">There is appropriated, out of any amounts in the Treasury not otherwise appropriated, $15,000,000,000 for the Secretary of Homeland Security to construct a border wall along the southern border of the United States. To the extent available, such amounts shall be derived from the unobligated balance of amounts appropriated (as of the day before the date of the enactment of this Act) for the purpose described in subsection (b).</text></subsection> 
+<subsection id="HDA39CF6969DA48C6959AF72E26F0204D"><enum>(b)</enum><header>Moratorium</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, no amounts may be authorized to be appropriated or otherwise made available, during the 2-year period beginning on the date of the enactment of this Act, for United States contributions to the United Nations.</text> </subsection></section> </legis-body> </bill> 
+

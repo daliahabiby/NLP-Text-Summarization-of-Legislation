@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H739D162CA67E422982A7E43A142E92D7" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6561 IH: Firearm Lockbox Protection Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6561</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220202">February 2, 2022</action-date><action-desc><sponsor name-id="C001053">Mr. Cole</sponsor> (for himself, <cosponsor name-id="C001051">Mr. Carter of Texas</cosponsor>, <cosponsor name-id="M001190">Mr. Mullin</cosponsor>, <cosponsor name-id="H001067">Mr. Hudson</cosponsor>, <cosponsor name-id="M001156">Mr. McHenry</cosponsor>, and <cosponsor name-id="H001082">Mr. Hern</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committee on <committee-name committee-id="HGO00">Oversight and Reform</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 28, United States Code, to provide for the secure storage of a licensed firearm possessed by a Federal judge, and for other purposes.</official-title></form><legis-body id="H7EEB8F59D68743CA8F4E98D992B1F904" style="OLC"> 
+<section id="H8CC27D12F3304B2BB42AB6D70CAD53EA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Firearm Lockbox Protection Act of 2022</short-title></quote>.</text></section> <section id="H14C1F68F1EDC4450B913EDD5C43A655C"><enum>2.</enum><header>Provision of secure firearms storage for Federal judges</header><text display-inline="no-display-inline">Section 462 of title 28, United States Code, is amended by adding at the end the following:</text>
+<quoted-block display-inline="no-display-inline" id="H8175FD57CB1F431586C57264E9599E5B" style="USC">
+<subsection id="H7A68AB57EB8B4D81BFC3DC1BD6920250"><enum>(g)</enum><text display-inline="yes-display-inline">Upon request of the Director, the Administrator of General Services is authorized and directed to provide, at the official duty station of each judge or justice, a secure firearms storage facility for any firearm lawfully possessed by that judge or justice.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> <section id="H7BC146C2E9B644378782C034A3D9A6DB"><enum>3.</enum><header>Provision of secure firearms storage for administrative judges</header><text display-inline="no-display-inline">Each agency that employs an administrative judge (including any administrative law judge appointed under section 3105 of title 5, United States Code) shall provide, at the principal duty station of that judge, a secure firearms facility for any firearm lawfully possessed by that judge.</text></section> 
+</legis-body></bill>
+

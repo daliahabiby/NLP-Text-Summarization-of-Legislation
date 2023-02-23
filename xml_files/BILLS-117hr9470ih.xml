@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD8E3C422F91E48B5AC37D6FD35F2A796" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9470 IH: American Safety And Fairness through Expedited Removal Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 9470</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20221208">December 8, 2022</action-date>
+<action-desc><sponsor name-id="F000246">Mr. Fallon</sponsor> (for himself, <cosponsor name-id="L000564">Mr. Lamborn</cosponsor>, <cosponsor name-id="C001115">Mr. Cloud</cosponsor>, <cosponsor name-id="B001301">Mr. Bergman</cosponsor>, <cosponsor name-id="C001103">Mr. Carter of Georgia</cosponsor>, <cosponsor name-id="C001120">Mr. Crenshaw</cosponsor>, <cosponsor name-id="J000304">Mr. Jackson</cosponsor>, <cosponsor name-id="M001136">Mrs. McClain</cosponsor>, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, <cosponsor name-id="G000589">Mr. Gooden of Texas</cosponsor>, <cosponsor name-id="G000576">Mr. Grothman</cosponsor>, <cosponsor name-id="G000590">Mr. Green of Tennessee</cosponsor>, <cosponsor name-id="S000250">Mr. Sessions</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="C001051">Mr. Carter of Texas</cosponsor>, <cosponsor name-id="R000103">Mr. Rosendale</cosponsor>, <cosponsor name-id="M001199">Mr. Mast</cosponsor>, and <cosponsor name-id="T000479">Mr. Taylor</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Immigration and Nationality Act to clarify that expedited removal of inadmissible arriving aliens applies regardless of where the alien is encountered or apprehended, and for other purposes.</official-title>
+</form>
+<legis-body id="HDE0EFCFAF5FE40DFB2CF70B6E61A70D7" style="OLC">
+<section id="H1686C1E653A74BF58F3B60F94E14FD7A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>American Safety And Fairness through Expedited Removal Act of 2022</short-title></quote> or the <quote><short-title>American SAFER Act of 2022</short-title></quote>. </text></section> <section id="H514C9D860544418C8C5D114D78B2385B"><enum>2.</enum><header>Expansion of expedited removal of inadmissible arriving aliens</header><text display-inline="no-display-inline">Section 235(b)(1)(A) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1225">8 U.S.C. 1225(b)(1)(A)</external-xref>) is amended—</text>
+<paragraph id="H06F1925D5B984F5C83300BABAD25AA1E"><enum>(1)</enum><text display-inline="yes-display-inline">in clause (i), by inserting <quote>, regardless of where the alien is encountered or apprehended,</quote> after <quote>or is described in clause (iii)</quote>; </text></paragraph> <paragraph id="H24E0E1C5685D4D2D85B2D02453EC5705"><enum>(2)</enum><text display-inline="yes-display-inline">in clause (ii), by inserting <quote>, regardless of where the alien is encountered or apprehended,</quote> after <quote>or is described in clause (iii)</quote>; and</text></paragraph>
+<paragraph id="H10C951B5E1C049FCB1ABA68ABCD206A3"><enum>(3)</enum><text>in clause (iii)—</text> <subparagraph id="H98EB23D030E54C4B89339236CA90E1CB"><enum>(A)</enum><text>by amending subclause (I) to read as follows: </text>
+<quoted-block style="OLC" id="HADE92C1CBACE4AE5947CB3E7D8132614" display-inline="no-display-inline">
+<subclause id="HE0AF7309F0044534BD7141939CF5EEF1"><enum>(I)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall apply clauses (i) and (ii) of this subparagraph to all aliens described in subclause (II). </text></subclause><after-quoted-block>; and </after-quoted-block></quoted-block></subparagraph> <subparagraph id="HAA4103C7DFBD421B807E0DDFBACCFE9A"><enum>(B)</enum><text>by adding at the end the following: </text>
+<quoted-block style="OLC" id="H4632AD0C9D444EF5A969A25A578D3031" display-inline="no-display-inline">
+<subclause id="H003D473C6C5E441381E7F57BAD72D35C"><enum>(III)</enum><header>Discretionary application to other aliens</header><text display-inline="yes-display-inline">The Secretary of Homeland Security may apply clauses (i) and (ii) of this subparagraph to any or all other aliens who have not been admitted or paroled into the United States, as designated by the Secretary of Homeland Security. Such designation shall be in the sole and unreviewable discretion of the Secretary of Homeland Security and may be modified at any time.</text></subclause><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph></section> <section id="H8B14133950D64342AE335C6C2A7D7117"><enum>3.</enum><header>Rulemaking</header> <subsection id="HC139367EDE194F929E76FCDE7D4C1F51"><enum>(a)</enum><header>Nullification of rule</header><text display-inline="yes-display-inline">The rule of the Department of Homeland Security entitled <quote>Designating Aliens for Expedited Removal</quote> (69 Fed. Reg. 48,877; August 11, 2004) shall have no force or effect.</text></subsection>
+<subsection id="H2CFE8FF857304BC9A290C3547F98C767"><enum>(b)</enum><header>Implementation</header><text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of this Act, the Secretary of Homeland Security shall make a rule to implement the amendments made by this Act.</text></subsection> <subsection id="H6B5A1B9603954BA0BD058A16629C8D0C"><enum>(c)</enum><header>Limitation on rulemaking</header><text display-inline="yes-display-inline">The Secretary of Homeland Security may not make any rules implementing section 235(b)(1)(A) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1225">8 U.S.C. 1225(b)(1)(A)</external-xref>) that limit the authority for expedited removal by the distance from the border of the United States where an alien is encountered or apprehended. </text></subsection></section>
+</legis-body>
+</bill> 
+
+

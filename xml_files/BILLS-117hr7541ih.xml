@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE42DE31EC79A45F786711AD9A05E0AA2" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7541 IH: Strengthen and Tackle Opportunities to Prevent Violence Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7541</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220418">April 18, 2022</action-date>
+<action-desc><sponsor name-id="N000191">Mr. Neguse</sponsor> (for himself, <cosponsor name-id="E000299">Ms. Escobar</cosponsor>, <cosponsor name-id="M001208">Mrs. McBath</cosponsor>, <cosponsor name-id="D000610">Mr. Deutch</cosponsor>, <cosponsor name-id="C001072">Mr. Carson</cosponsor>, <cosponsor name-id="C001084">Mr. Cicilline</cosponsor>, <cosponsor name-id="W000788">Ms. Williams of Georgia</cosponsor>, <cosponsor name-id="H001081">Mrs. Hayes</cosponsor>, and <cosponsor name-id="H001066">Mr. Horsford</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Homeland Security Act of 2002 and the Victims of Crime Act of 1984 to authorize the use of certain grant funds for active shooter preparedness, and for other purposes.</official-title>
+</form>
+<legis-body id="H1446E237E75844AC97AF1D8B8B09CAC3" style="OLC">
+<section id="H6E1620DBD6184CD2B7B836F89462D2EC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strengthen and Tackle Opportunities to Prevent Violence Act of 2022</short-title></quote> or as the <quote><short-title>STOP Violence Act of 2022</short-title></quote>.</text></section> <section id="H86331E46AE5D46589F87291DE2E3D07C"><enum>2.</enum><header>Antiterrorism and Emergency Assistance Program</header><text display-inline="no-display-inline">Section 1404B(b) of the Victims of Crime Act of 1984 (<external-xref legal-doc="usc" parsable-cite="usc/34/20105">34 U.S.C. 20105(b)</external-xref>) is amended—</text>
+<paragraph id="HE4600CD6A81C4234AA9189E9541D4E2C"><enum>(1)</enum><text>by inserting after <quote>compensation, training and technical assistance</quote> the following: <quote>(including efforts to prepare against mass violence and to protect public assembly facilities)</quote>; </text></paragraph> <paragraph id="H4BB64A30B38F4537999424B2EAA1C113"><enum>(2)</enum><text>by striking <quote>The Director may</quote> and inserting the following:</text>
+<quoted-block style="OLC" id="H912BB4A2C95D4F11A9737AE209F6DBBA" display-inline="no-display-inline">
+<paragraph id="H0F1802AB5FEE43859B21204E2B31A859"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Director may </text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> <paragraph id="H7CDB2E42787F4CDA81339A88E28E19C2"><enum>(3)</enum><text>by adding at the end the following: </text>
+<quoted-block style="OLC" id="H741E0EFC523C498CA809867981AA159C" display-inline="no-display-inline">
+<paragraph id="H7D597DFF1864446C93384F4A7EF55CC1"><enum>(2)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this subsection:</text> <subparagraph id="HBF8A760060D140AF8197845695DB88A5"><enum>(A)</enum><text display-inline="yes-display-inline">The term <term>mass violence</term> includes active shooter incidents and targeted violence.</text></subparagraph>
+<subparagraph id="H59CC492032D949F082B8331910831136"><enum>(B)</enum><text display-inline="yes-display-inline">The term <term>active shooter</term> means an individual actively engaged in the unauthorized killing or attempting to kill a person or persons in a confined and populated area with a firearm. </text></subparagraph> <subparagraph id="H91D89D12C0DD49E2BC4669BF40B69D37"><enum>(C)</enum><text>The term <term>targeted violence</term> means an incident of violence where an assailant who is known or knowable to a law enforcement agency for a jurisdiction where the assailant resides, identifies a particular target prior to a violent attack, which may be one or more individuals, a class or category of individuals, or an institution, without regard to whether the assailant is able to successfully harm the chosen target.</text></subparagraph>
+<subparagraph id="H29DA8965089141349621DEDEB6942BE4"><enum>(D)</enum><text>The term <term>public assembly facility</term> means a permanent or temporary structure or facility, place, or activity where concentrations of people gather in reasonably close quarters for purposes including deliberation, education, worship, shopping, employment, entertainment, recreation, sporting events, or similar activities.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body> </bill> 
+

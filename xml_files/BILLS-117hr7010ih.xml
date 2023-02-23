@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4EEBDD24C15646D0A01A56DE3C499CEE" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7010 IH: Emergency Relief from Duties Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes"> I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7010</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220309">March 9, 2022</action-date>
+<action-desc><sponsor name-id="M000871">Mr. Mann</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To provide a temporary waiver of countervailing and antidumping duties relating to fertilizer or fertilizer ingredients if an emergency situation impacts the domestic production or supply of merchandise subject to those duties, and for other purposes.</official-title>
+</form>
+<legis-body id="H4E9F8763EB954017BB456773AD63FA70" style="OLC">
+<section id="HF7FBB1AD1F3C4693A50E96D5EB10088D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Emergency Relief from Duties Act</short-title></quote>.</text></section> <section id="H116DF8FB68714E828053C27F4A88CA92"><enum>2.</enum><header>Emergency waiver of countervailing and antidumping duties relating to fertilizer or fertilizer ingredients</header> <subsection id="H0A31EF7FBC224667B1F090D1E79F799D"><enum>(a)</enum><header>Petition</header><text>Any covered party may petition the Commission to waive countervailing duties or antidumping duties assessed for covered merchandise under title VII of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1671">19 U.S.C. 1671 et seq.</external-xref>), or renew any such waiver, if there is an emergency situation that—</text>
+<paragraph id="H367603C4F5BD40FFAC19C233CBD94440"><enum>(1)</enum><text>limits the production in the United States of that merchandise in a manner that causes economic hardship for users of that merchandise or merchandise made from that merchandise; or</text></paragraph> <paragraph id="H3D927F05E72549B9A92BEA4AD2212E50"><enum>(2)</enum><text>would result in a supply and demand disruption that substantially increases the price of that merchandise or merchandise made from that merchandise. </text></paragraph></subsection>
+<subsection id="H7FF23444F6D641C59365780D4392CE37"><enum>(b)</enum><header>Public comment</header><text>The Commission shall permit the public to submit comments concerning any petition for a waiver or renewal under subsection (a) for a period of not less than 30 days.</text></subsection> <subsection id="HAEA95C238CDC43B39FFDD8FF09B5D110"><enum>(c)</enum><header>Final decision on waiver or renewal</header><text>Not later than 30 days after the close of a public comment period under subsection (b) concerning a petition for a waiver or renewal under subsection (a), the Commission shall issue a final decision concerning that waiver or renewal.</text></subsection>
+<subsection id="HDA07B3973BEB4A97BA302A80CDF4D1E3"><enum>(d)</enum><header>Period of waiver</header><text>Any waiver or renewal under this section shall be for a period of one year. </text></subsection> <subsection id="H2BC44BCDE0DF44999C9E823A836D2064"><enum>(e)</enum><header>Definitions</header><text>In this section:</text>
+<paragraph id="H134574EA3CE84D568E50CC4146758C7E"><enum>(1)</enum><header>Commission</header><text>The term <term>Commission</term> means the United States International Trade Commission.</text></paragraph> <paragraph id="HD913F9D4BE84482EBA29A7D4B5B73E9E"><enum>(2)</enum><header>Covered merchandise</header><text>The term <term>covered merchandise</term> means any fertilizer or ingredient used to make fertilizer.</text></paragraph>
+<paragraph id="HF9DBE630F8924CBBBAF90A7A66514483"><enum>(3)</enum><header>Covered party</header><text>The term <term>covered party</term> means any of the following:</text> <subparagraph id="H352EEACA95A84503B6BFF3467E36D484"><enum>(A)</enum><text>An interested party, as that term is defined in section 771(9) of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1677">19 U.S.C. 1677(9)</external-xref>), that is a United States person.</text></subparagraph>
+<subparagraph id="HA249D834355A4DC3840792A876F2BBC8"><enum>(B)</enum><text>A coalition or trade association representative of agricultural producers or growers in the United States if those producers or growers utilize covered merchandise subject to countervailing duties or antidumping duties assessed under title VII of the Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1671">19 U.S.C. 1671 et seq.</external-xref>) or merchandise made from covered merchandise subject to those duties.</text></subparagraph></paragraph> <paragraph id="HF4D972E6456343BFA9FA98D21DF6E75B"><enum>(4)</enum><header>Emergency situation</header><text>The term <term>emergency situation</term> includes the following:</text>
+<subparagraph id="HAB867D70526143CEBAF08ACC68FEB12D"><enum>(A)</enum><text>Acts of God, such as severe acts of nature or weather events including floods, fires, earthquakes, hurricanes, and explosions.</text></subparagraph> <subparagraph id="H9DE27D955BEF4B44AA95EF29B65E3BDE"><enum>(B)</enum><text>War, acts of terrorism, and epidemics.</text></subparagraph>
+<subparagraph id="H342B151F3E9D448FBB4DD9E7F25790B7"><enum>(C)</enum><text>Acts of governmental authorities such as expropriation, condemnation, and changes in laws and regulations.</text></subparagraph> <subparagraph id="H3D1CC7D19FE143299D7515763AB01E2F"><enum>(D)</enum><text>Strikes and labor disputes.</text></subparagraph>
+<subparagraph id="H5A188EDB94E94ECCAD6E146F39051900"><enum>(E)</enum><text>Major accidents.</text></subparagraph></paragraph></subsection></section> </legis-body> </bill> 
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8F5FAA7E2F57454CAF49562410E7A1CD" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6727 IH: To prohibit Federal agencies from restricting the use of convertible virtual currency by a person to purchase goods or services for the person’s own use, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6727</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220215">February 15, 2022</action-date>
+<action-desc><sponsor name-id="D000626">Mr. Davidson</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit Federal agencies from restricting the use of convertible virtual currency by a person to purchase goods or services for the person’s own use, and for other purposes.</official-title>
+</form>
+<legis-body id="H0F1A8A8393814BDFA10AC2C2621A1670" style="OLC">
+<section id="HBA6B3D4D71654DE89CB81896DD703CEE" section-type="section-one"><enum>1.</enum><header>Prohibition on restricting use of convertible virtual currency by a person to purchase goods or services for the person’s own use</header>
+<subsection id="H9872156440CF4C21923EA813D4D3191E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">No agency head may prohibit or otherwise restrict the ability of a covered user to—</text> <paragraph id="HFE3F505A1FA248C481A7B65EF65817DE"><enum>(1)</enum><text display-inline="yes-display-inline">use virtual currency or its equivalent for such user’s own purposes, such as to purchase real or virtual goods and services for the user’s own use; or</text></paragraph>
+<paragraph id="H3034605053374B7880EDBDF9679F251B"><enum>(2)</enum><text>conduct transactions through a self-hosted wallet.</text></paragraph></subsection> <subsection id="HF168515A4AF7486F9BC4095AA42F51A5"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text>
+<paragraph id="H29F5F72385274EC3B9C102B86B421DD8"><enum>(1)</enum><header>Convertible virtual currencies</header><text>A medium of exchange that—</text> <subparagraph id="H815FAF84BBB04381A2238BC0968ADED2"><enum>(A)</enum><text display-inline="yes-display-inline">has an equivalent value as currency (as defined in section 1010.100 of title 31, Code of Federal Regulations (or successor regulations)); or</text></subparagraph>
+<subparagraph id="HB6770AA480434F9FACF97B2D9C3A27FC"><enum>(B)</enum><text>acts as a substitute for currency but may not possess all the attributes (including legal tender status) specified under such section 1010.100.</text></subparagraph></paragraph> <paragraph id="HA75690798BB740BB94CAE754630E1037"><enum>(2)</enum><header>Covered user</header><text display-inline="yes-display-inline">The term <quote>covered user</quote> means a person that obtains convertible virtual currency to purchase goods or services on that person’s own behalf, without regard to the method in which such covered user obtained such convertible virtual currency. </text></paragraph>
+<paragraph id="HDD061BD76D7E4811936458E9699B085D"><enum>(3)</enum><header>Self-hosted wallet</header><text display-inline="yes-display-inline">The term <quote>self-hosted wallet</quote> means an interface—</text> <subparagraph id="H958875EFAAA644728A64B9CE4D32F8B6"><enum>(A)</enum><text>used to secure and transfer convertible virtual currency; and</text></subparagraph>
+<subparagraph id="H2054C40F78504ADC875597FCDE39E93B"><enum>(B)</enum><text>under which the owner of convertible virtual currency retains independent control over such convertible virtual currency that is secured by such digital interface.</text></subparagraph></paragraph></subsection></section> </legis-body> </bill> 
+

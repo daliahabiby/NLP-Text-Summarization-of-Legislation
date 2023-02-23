@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H8D664B02E21D4508A7A86519418DC28C" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 468 ENR: Expedited Delivery of Airport Infrastructure Act of 2021</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 468</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend title 49, United States Code, to permit the use of incentive payments to expedite certain federally financed airport development projects.</official-title> 
+</form> 
+<legis-body id="HCC0F8DA503CF4DA68DEF74401D5B0437" style="OLC"> 
+<section id="H903D6DAB66B042AFB011D74431AE65C2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Expedited Delivery of Airport Infrastructure Act of 2021</short-title></quote>.</text></section> <section id="HAD79972BE50345B683BAB55C582F61C5"><enum>2.</enum><header>Allowable cost standards for airport development projects</header> <subsection id="H85D570A9F84C4BF78FFC9B96F8CB0F29"><enum>(a)</enum><header>In general</header><text>Section 47110(b)(1) of title 49, United States Code, is amended—</text> 
+<paragraph id="H5F456C6B900146FF99716843FB41413D"><enum>(1)</enum><text>by striking <quote>(1) if the cost necessarily</quote> and inserting <quote>(1)(A) if the cost necessarily</quote>;</text></paragraph> <paragraph id="H029AF273DC1A4A0EAD51D15A61C4444E"><enum>(2)</enum><text>by striking the semicolon at the end and inserting <quote>; or</quote>; and</text></paragraph> 
+<paragraph id="H179D153901EE4F9591753A8EB85FB605"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block id="H1BD3BBCBA33444BC98DDCCD485EE0023" style="OLC"> <subparagraph id="H8380819864D747D0849208CB3B9A4EB4" indent="up1"><enum>(B)</enum><text>if the cost is an incentive payment incurred in carrying out the project described in subparagraph (A) that is to be provided to a contractor upon early completion of a project, if—</text> 
+<clause id="H2EB0284C46A74936A5AA718F98194E23"><enum>(i)</enum><text>such payment does not exceed the lesser of 5 percent of the initial construction contract amount or $1,000,000;</text></clause> <clause id="H288F9BEE157245F4AD14C2039C04A8AB"><enum>(ii)</enum><text>the level of contractor’s control of, or access to, the worksite necessary to shorten the duration of the project does not negatively impact the operation of the airport;</text></clause> 
+<clause id="H61B87172CEC2400DAA4BA2D03DA05BA8"><enum>(iii)</enum><text>the contract specifies application of the incentive structure in the event of unforeseeable, non-weather delays beyond the control of the contractor;</text></clause> <clause id="H235C828119E84DD18266555A44FD01B1"><enum>(iv)</enum><text>nothing in any agreement with the contractor prevents the airport operator from retaining responsibility for the safety, efficiency, and capacity of the airport during the execution of the grant agreement; and</text></clause> 
+<clause id="H39B6274BF3364438BACC258B1AC83EA7"><enum>(v)</enum><text>the Secretary determines that the use of an incentive payment is likely to increase airport capacity or efficiency or result in cost savings as a result of shortening the project’s duration;</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H022CDB3051CD427A83AE0AFC25790E5E"><enum>(b)</enum><header>Technical correction</header><text>Section 47110(e)(7) of title 49, United States Code, is amended in the heading by striking <quote><header-in-text level="subsection" style="OLC">Partnership Program Airports</header-in-text></quote> and inserting <quote><header-in-text level="paragraph" style="OLC">Partnership program airports</header-in-text></quote>.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

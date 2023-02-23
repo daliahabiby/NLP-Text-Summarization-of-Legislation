@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5866096EB90943A994C618202343E165" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7794 IH: Protecting Businesses From Frivolous COVID Lawsuits Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7794</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220517">May 17, 2022</action-date><action-desc><sponsor name-id="B001302">Mr. Biggs</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require a particular jury instruction in Federal civil actions that include a claim for damages based on negligence arising from the transmission of COVID&#8211;19.</official-title></form><legis-body id="HB206808B91694D4886D40C51A884879A" style="OLC"> 
+<section id="HE42A59FA3DC046D1B27FB507E4187C8B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Businesses From Frivolous COVID Lawsuits Act of 2022</short-title></quote>.</text></section> <section id="H826AE2911D0E4CE9964ECA504A7755BD" section-type="subsequent-section"><enum>2.</enum><header>Jury instruction in Federal civil actions that include a claim alleging negligence arising from the transmission of COVID–19</header><text display-inline="no-display-inline">In a Federal civil action that includes a claim alleging negligence arising from the transmission of COVID–19 and a request for damages, the court shall instruct a jury that—</text> 
+<paragraph id="H2C8932E8DA3C4A869D5EF78262E67A14"><enum>(1)</enum><text>the liability standard is the reasonable person standard,</text></paragraph> <paragraph id="HE616BE49040747FDA8DD97BC4A5D1D4A"><enum>(2)</enum><text>a person is negligent if the person either does something that a reasonably careful person would not do in the same situation, or fails to do something that a reasonably careful person would do, in the same situation,</text></paragraph> 
+<paragraph id="H67E19BA781614A38886B5C1F46DF350B"><enum>(3)</enum><text>the act of opening a business, by itself, shall be considered to be reasonable as a matter of law, and</text></paragraph> <paragraph id="H0D134700FF1A48609AB66EFF566B315C"><enum>(4)</enum><text>the negligence may not be found solely on the basis of holding oneself open for business.</text></paragraph></section> 
+</legis-body></bill>
+

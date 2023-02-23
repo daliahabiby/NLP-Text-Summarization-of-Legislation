@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDC88717BE8314BB7A4962E912B78BBA2" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8738 IH: Responsive Energy Demand Unlocks Clean Energy Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8738</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220823">August 23, 2022</action-date>
+<action-desc><sponsor name-id="C001117">Mr. Casten</sponsor> (for himself, <cosponsor name-id="K000391">Mr. Krishnamoorthi</cosponsor>, <cosponsor name-id="B001278">Ms. Bonamici</cosponsor>, <cosponsor name-id="L000593">Mr. Levin of California</cosponsor>, <cosponsor name-id="S001200">Mr. Soto</cosponsor>, and <cosponsor name-id="T000469">Mr. Tonko</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require Transmission Organizations to allow bids from aggregators of certain retail customers, and for other purposes.</official-title>
+</form>
+<legis-body id="HFA24F955B2A9424DA1CFC03442A53542" style="OLC">
+<section id="H3A81740CF4474227A26B26542C3F0F7D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Responsive Energy Demand Unlocks Clean Energy Act</short-title></quote> or the <quote><short-title>REDUCE Act</short-title></quote>.</text></section> <section id="H91AE8E9DB83F4227B844370ED0A7C144"><enum>2.</enum><header>Aggregator bidding into organized power markets</header> <subsection id="H2D9B5AB9435346CDA37BDAC9EE0BCA85"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any prohibition established by a relevant electric retail regulatory authority with respect to who may bid into an organized power market, each Transmission Organization shall allow any bid from an aggregator of retail customers that aggregates the demand response of the customers of utilities that distributed more than 4 million megawatt-hours in the previous fiscal year.</text></subsection>
+<subsection id="HC9706ABF5F064E80A9606E58786EB573"><enum>(b)</enum><header>Rulemaking</header><text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of this section, the Federal Energy Regulatory Commission shall initiate a rulemaking to carry out the requirements of subsection (a).</text></subsection> <subsection id="HD392CFD2F0A045B195D4816CF6F40A18"><enum>(c)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text>
+<paragraph id="HE142FDB7E9F74EFFB68EED70364DEFF4"><enum>(1)</enum><header>Electric retail regulatory authority</header><text display-inline="yes-display-inline">The term <term>electric retail regulatory authority</term> means an entity that establishes retail electricity prices and retail competition policies for customers.</text></paragraph> <paragraph id="H4AE77804662C43969C5AEAD99DEFB8CA"><enum>(2)</enum><header>Transmission Organization</header><text display-inline="yes-display-inline">The term <term>Transmission Organization</term> has the meaning given such term in section 3 of the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/796">16 U.S.C. 796</external-xref>).</text></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

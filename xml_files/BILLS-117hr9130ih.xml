@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE6DFC038514349069BA4AE6BBCA42A12" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9130 IH: Maritime Fuel Tax Parity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9130</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221004">October 4, 2022</action-date><action-desc><sponsor name-id="G000559">Mr. Garamendi</sponsor> (for himself and <cosponsor name-id="R000609">Mr. Rutherford</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to extend the exemption from the excise tax on alternative motorboat fuels sold as supplies for vessels or aircraft to include certain vessels serving only one coast.</official-title></form><legis-body id="H5260A4083C51426390744DBB310AF889" style="OLC"><section id="H6AAD624ADBFB447E87A515FE30841239" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Maritime Fuel Tax Parity Act</short-title></quote>. </text></section><section id="H6A8F2D5089EA464587E65A94FD831017"><enum>2.</enum><header>Exemption from excise tax on alternative motorboat fuels extended to include certain vessels serving only one coast</header><subsection id="H16CACCA552B7457D95808646B7BB257D"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/4041">Section 4041(g)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new sentence: <quote>For purposes of subsection (a)(2), the exemption under paragraph (1) shall also apply to fuel sold or used by a vessel which is both described in section 4042(c)(1) and actually engaged in trade between Atlantic (including the Gulf of Mexico) or Pacific ports of the United States (including any territory or possession of the United States).</quote>.</text></subsection><subsection id="H5498B2D5686142398C33E035695D45C4"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to sales after December 31, 2021. </text></subsection></section></legis-body></bill> 
+

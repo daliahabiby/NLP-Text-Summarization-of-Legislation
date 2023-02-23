@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H793BFCFE264749669A0D89CD46E69A1D" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7039 IH: Volunteer Fighters Exemption Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 7039</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20220309">March 9, 2022</action-date> 
+<action-desc><sponsor name-id="M001190">Mr. Mullin</sponsor> (for himself and <cosponsor name-id="S000929">Mrs. Spartz</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To provide an exemption from certain criminal provisions for participating as a combatant in the armed conflict between Russia and Ukraine on behalf of Ukraine, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H543764B4AF70441FB28B239B6C53FB0B" style="OLC"> 
+<section id="H4F0A29DF563842E49BA58325E3321167" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as <quote><short-title>Volunteer Fighters Exemption Act of 2022</short-title></quote>. </text></section> <section id="HF0990F916FEF4BA7BA21C0BA38D78ED0"><enum>2.</enum><header>Exemption for participating as a combatant in the armed conflict between Russia and Ukraine on behalf of Ukraine</header> <subsection id="HC94F6FAC01624043ADA49D5ACB3D3ED5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Any violation of a covered provision committed by a person that involves participating as a combatant in the armed conflict between Russia and Ukraine on behalf of Ukraine during the period beginning February 24, 2022, and ending on the date that is 10 years after the date of enactment of this Act, is deemed not to be such a violation.</text></subsection> 
+<subsection id="H9818FD45C7014F71AEE63D3617D5C259"><enum>(b)</enum><header>Covered provision defined</header><text display-inline="yes-display-inline">In this Act, the term <term>covered provision</term> means section 958, 959, or 960 of title 18, United States Code. </text></subsection></section> </legis-body> </bill> 
+

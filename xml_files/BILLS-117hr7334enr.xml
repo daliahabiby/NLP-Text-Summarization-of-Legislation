@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H6CEB030532FC4D1B9154B3C5BF004A66" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 7334 ENR: COVID–19 EIDL Fraud Statute of Limitations Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 7334</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To extend the statute of limitations for fraud by borrowers under certain COVID–19 economic injury disaster loan programs of the Small Business Administration, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H238BD0426DA742BAB4699FD4156521B4" style="OLC"> 
+<section id="H69683B13747F4587A5B1DDB65B51DFDB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>COVID–19 EIDL Fraud Statute of Limitations Act of 2022</short-title></quote>.</text></section> <section id="HC4B1B9A352134CC68EC227DC480D8111"><enum>2.</enum><header>Extension of statute of limitations for certain COVID–19 economic injury disaster loan programs</header> <subsection id="H266F1840A25E415C854D40448E102B40"><enum>(a)</enum><header>Certain economic injury disaster loans</header><text>Section 7(b) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(b)</external-xref>) is amended by inserting after paragraph (15) the following new paragraph:</text> 
+<quoted-block style="OLC" id="H160AD54C80A442D5B24D7B15E9101E48" display-inline="no-display-inline"> 
+<paragraph id="H43861D73F7C04AB3B9D0BB7A149A6AF7"><enum>(16)</enum><header>Statute of Limitations</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to a loan made under this subsection in response to COVID–19 during the covered period (as defined in section 1110(a) of the CARES Act) shall be filed not later than 10 years after the offense was committed.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H50ACFBD600EE4DA98E6063D907E77F87"><enum>(b)</enum><header>EIDL advances</header><text>Section 1110(e) of the CARES Act (<external-xref legal-doc="usc" parsable-cite="usc/15/9009">15 U.S.C. 9009(e)</external-xref>) is amended by adding at the end the following new paragraph:</text> 
+<quoted-block style="OLC" id="H0CD8F79CFAB144F69B77A630A87C0890" display-inline="no-display-inline"> 
+<paragraph id="H1AEFE3E1DCE845F0932A483BF5C82432"><enum>(9)</enum><header>Statute of Limitations</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to the use of an advance received under this subsection shall be filed not later than 10 years after the offense was committed.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H6BB482AF0C754A8CAB5760916CEDB336"><enum>(c)</enum><header>Targeted EIDL advances</header><text display-inline="yes-display-inline">Section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (<external-xref legal-doc="usc" parsable-cite="usc/15/9009b">15 U.S.C. 9009b</external-xref>) is amended by adding at the end the following new subsection:</text> 
+<quoted-block style="OLC" id="HE81A435DDE574B9E8FDA6B6C84DBD1A9" display-inline="no-display-inline"> 
+<subsection id="H21A2F13736224982BC6ACB6E72E55073"><enum>(i)</enum><header>Statute of Limitations</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to the use of any amount received pursuant to this section shall be filed not later than 10 years after the offense was committed.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation> </bill> 
+

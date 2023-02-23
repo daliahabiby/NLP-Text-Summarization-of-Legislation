@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB88AF328529143EF9DBF9EED2436CB20" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6969 IH: No Oil From Terrorists Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6969</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220308">March 8, 2022</action-date>
+<action-desc><sponsor name-id="B001299">Mr. Banks</sponsor> (for himself, <cosponsor name-id="P000048">Mr. Pfluger</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="C001104">Mr. Cawthorn</cosponsor>, <cosponsor name-id="M001180">Mr. McKinley</cosponsor>, <cosponsor name-id="W000823">Mr. Waltz</cosponsor>, <cosponsor name-id="B000825">Mrs. Boebert</cosponsor>, <cosponsor name-id="L000266">Mr. LaTurner</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="F000472">Mr. C. Scott Franklin of Florida</cosponsor>, <cosponsor name-id="C001053">Mr. Cole</cosponsor>, <cosponsor name-id="G000552">Mr. Gohmert</cosponsor>, and <cosponsor name-id="R000609">Mr. Rutherford</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the importation of petroleum products from Iran, and for other purposes.</official-title>
+</form>
+<legis-body id="HC8092189AC1149E7AA96E54112D56135" style="OLC"> 
+<section id="HB483193328344BDDA260A207BBD9FEBB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Oil From Terrorists Act</short-title></quote>.</text> </section> <section id="H706AE72A4B4B4DE1A728E5F25F9AB78F"><enum>2.</enum><header>Prohibition on importation of Iranian petroleum products</header> <subsection id="H2FA003E14322441C9C8E57ACE11AE41D"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">The President shall prohibit the importation of all petroleum products (as such term is defined in section 3 of the Energy Policy and Conservation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6202">42 U.S.C. 6202</external-xref>)) originating from Iran into the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule).</text></subsection> 
+<subsection id="H219309803DA4491D8D0ABA43E631EFA7"><enum>(b)</enum><header>Penalties</header><text>The President is authorized to use appropriate authorities to impose such civil or criminal penalties as may be necessary to enforce the prohibition under subsection (a).</text></subsection> <subsection id="H6A70ACBA2F974B0B9BA81ABA9A7D0232"><enum>(c)</enum><header>Appropriate congressional committees</header><text>For purposes of this section, the term <term>appropriate congressional committees</term> means—</text> 
+<paragraph id="H5D70D4C4117849768CD7EECA4377911C"><enum>(1)</enum><text display-inline="yes-display-inline">the Speaker of the House of Representatives and the President Pro Tempore of the Senate;</text></paragraph> <paragraph id="HE1128C86431D43FE9B930A3A914F09A7"><enum>(2)</enum><text>the Committee on Appropriations, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Energy and Commerce, and the Permanent Select Committee on Intelligence of the House of Representatives; and</text></paragraph> 
+<paragraph id="HB7E9C7F64D524D86A6884102391D3415"><enum>(3)</enum><text>the Committee on Appropriations, the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Energy and Natural Resources, and the Select Committee on Intelligence of the Senate.</text></paragraph></subsection></section> </legis-body> </bill> 
+

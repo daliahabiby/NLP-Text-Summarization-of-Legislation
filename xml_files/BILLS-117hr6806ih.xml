@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7844ED3D49A54AB083E29695D8FA0FCE" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6806 IH: No Tax Subsidies for Stadiums Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6806</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220222">February 22, 2022</action-date>
+<action-desc><sponsor name-id="B000574">Mr. Blumenauer</sponsor> (for himself, <cosponsor name-id="S001175">Ms. Speier</cosponsor>, and <cosponsor name-id="B001292">Mr. Beyer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to ensure that bonds used to finance professional stadiums are not treated as tax-exempt bonds.</official-title>
+</form>
+<legis-body id="H8AE19E5781E344E2A1776D4B2CF27D8F" style="OLC"> 
+<section id="HEC94A80976814A09BD991FA89877F15C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Tax Subsidies for Stadiums Act of 2022</short-title></quote>.</text></section> <section commented="no" id="HA6D08CBF5D3E47AC9EE60245FCA5FFE8"><enum>2.</enum><header>No tax-exempt bonds for professional stadiums</header> <subsection id="H90E1E81AB01B4C4E8CACE84049028FCE"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/103">Section 103(b)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text> 
+<quoted-block display-inline="no-display-inline" id="H1342F49B4CC9487991595EAB35B16A57" style="OLC"> 
+<paragraph commented="no" id="H71C6544402F648D4A34C17719D203354"><enum>(4)</enum><header>Professional stadium bond</header><text display-inline="yes-display-inline">Any professional stadium bond.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H298C52A7F61A4484BA634C7DB64ABF63"><enum>(b)</enum><header>Professional stadium bond defined</header><text>Section 103(c) of such Code is amended by adding at the end the following new paragraph:</text> 
+<quoted-block display-inline="no-display-inline" id="H9F392352314B47C7A464B765FDA7F2CD" style="OLC"> 
+<paragraph id="H12423360586F413DB026A3F005895161"><enum>(3)</enum><header>Professional stadium bond</header><text display-inline="yes-display-inline">The term <quote>professional stadium bond</quote> means any bond issued as part of an issue any proceeds of which are used to finance or refinance capital expenditures allocable to a facility (or appurtenant real property) which, during at least 5 days during any calendar year, is used as a stadium or arena for professional sports exhibitions, games, or training.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H8280DB5E204841BBA9D0E2BBB0AE331B"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to bonds issued after the date of the enactment of this Act.</text></subsection></section> 
+</legis-body>
+</bill> 
+

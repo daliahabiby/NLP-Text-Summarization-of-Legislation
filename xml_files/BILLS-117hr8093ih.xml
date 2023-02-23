@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9FA804F295124C0F88F0D6AFE43F4A09" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8093 IH: Increasing Human Trafficking Awareness Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8093</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220615">June 15, 2022</action-date><action-desc><sponsor name-id="V000133">Mr. Van Drew</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name>, and in addition to the Committee on <committee-name committee-id="HJU00">the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Homeland Security Act of 2002 to require the display by the Department of Homeland Security of appropriate signage throughout airports to increase the public’s awareness of the signs of human trafficking, and for other purposes.</official-title></form><legis-body id="HB38531DFABFA4336BDA68B20289015A9" style="OLC"><section id="H5C89B7B988654FD29CC53C65992AE993" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Increasing Human Trafficking Awareness Act</short-title></quote>.</text></section><section id="HFC8B9A5D07AA44C99D60FB93C0222D84"><enum>2.</enum><header>Airport signage to increase public awareness of human trafficking</header><text display-inline="no-display-inline">Subparagraph (B) of section 434(e)(6) of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/242">6 U.S.C. 242(e)(6)</external-xref>) is amended by inserting <quote>, including by displaying appropriate signage, as well as such indicator cards, fact sheets, pamphlets, posters, and brochures, throughout airports, including at airport security screening checkpoints, to increase the public’s awareness of the signs of human trafficking</quote> before the semicolon.</text></section></legis-body></bill> 
+

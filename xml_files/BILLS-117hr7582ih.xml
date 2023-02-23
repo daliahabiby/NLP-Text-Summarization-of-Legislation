@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H83A04F6132594FE2A764252A40AF8418" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7582 IH: No Free TRIPS Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7582</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220426">April 26, 2022</action-date><action-desc><sponsor name-id="I000056">Mr. Issa</sponsor> (for himself and <cosponsor name-id="M001177">Mr. McClintock</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the President from negotiating or concluding any withdrawal, suspension, waiver, or modification to the Agreement on Trade-Related Aspects of Intellectual Property Rights without explicit authorization from Congress.</official-title></form><legis-body id="HDDFBD243D52440B7858D17DFC78E8E48" style="OLC"><section id="HDC24E86D40BD41F2B1CB229581786C87" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Free TRIPS Act</short-title></quote>.</text></section><section id="H2AB3A9172EF44182A991D2FD57FC718C"><enum>2.</enum><header>Limitation on modification of Agreement on Trade-Related Aspects of Intellectual Property Rights</header><subsection id="H303471874E0D47E6909EA879F91EF6C8"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The President, and any official, employee, or agent of the United States, may not negotiate or conclude any withdrawal, suspension, waiver, or modification to the TRIPS Agreement without obtaining explicit authorization from Congress before beginning negotiations with respect to that withdrawal, suspension, or modification.</text></subsection><subsection id="H100DA095B7524C8CA84F86A733C4DB6A"><enum>(b)</enum><header>TRIPS agreement defined</header><text>In this section, the term <term>TRIPS Agreement</term> means the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 101(d)(15) of the Uruguay Round Agreements Act (<external-xref legal-doc="usc" parsable-cite="usc/19/3511">19 U.S.C. 3511(d)(15)</external-xref>).</text></subsection></section></legis-body></bill> 
+

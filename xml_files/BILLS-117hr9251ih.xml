@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9B64A02B65964025A67100236C311DDE" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9251 IH: To designate the facility of the United States Postal Service located at 6444 San Fernando Road in Glendale, California, as the “Paul Ignatius Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9251</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221028">October 28, 2022</action-date><action-desc><sponsor name-id="S001150">Mr. Schiff</sponsor> (for himself, <cosponsor name-id="B001300">Ms. Barrag&#225;n</cosponsor>, <cosponsor name-id="B001270">Ms. Bass</cosponsor>, <cosponsor name-id="C001112">Mr. Carbajal</cosponsor>, <cosponsor name-id="C001059">Mr. Costa</cosponsor>, <cosponsor name-id="G000585">Mr. Gomez</cosponsor>, <cosponsor name-id="H001068">Mr. Huffman</cosponsor>, <cosponsor name-id="J000305">Ms. Jacobs of California</cosponsor>, <cosponsor name-id="L000551">Ms. Lee of California</cosponsor>, <cosponsor name-id="L000579">Mr. Lowenthal</cosponsor>, <cosponsor name-id="M001166">Mr. McNerney</cosponsor>, <cosponsor name-id="N000179">Mrs. Napolitano</cosponsor>, <cosponsor name-id="P000613">Mr. Panetta</cosponsor>, <cosponsor name-id="R000599">Mr. Ruiz</cosponsor>, <cosponsor name-id="S000344">Mr. Sherman</cosponsor>, <cosponsor name-id="S001193">Mr. Swalwell</cosponsor>, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, and <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 6444 San Fernando Road in Glendale, California, as the <quote>Paul Ignatius Post Office</quote>.</official-title></form><legis-body id="H88BB01CB163548EB84ECBBA7836FB185" style="OLC"> 
+<section id="H8524D2F29BA24AF897F2570DA84C9C56" section-type="section-one"><enum>1.</enum><header>Paul Ignatius Post Office</header> 
+<subsection id="H9429053664ED4272A254E8C21A46A791"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 6444 San Fernando Road in Glendale, California, shall be known and designated as the <quote>Paul Ignatius Post Office</quote>.</text></subsection> <subsection id="HEE931CE7DC6B4547961020EEB6EB15D0"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Paul Ignatius Post Office</quote>.</text></subsection></section> 
+</legis-body></bill>
+

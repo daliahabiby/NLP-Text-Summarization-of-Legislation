@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE8E10299AEB24023AD270FE74DD22C63" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7938 IH: Domestic Uranium Saves America Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7938</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220603">June 3, 2022</action-date><action-desc><sponsor name-id="L000589">Mrs. Lesko</sponsor> (for herself, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="C001104">Mr. Cawthorn</cosponsor>, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, and <cosponsor name-id="S001183">Mr. Schweikert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide for the inclusion of uranium on the list of critical minerals, and for other purposes.</official-title></form><legis-body id="HD53606D9BA95487EAED2532B3F4585E7" style="OLC"> 
+<section id="H66A84E715D004677B8446635F80BA4F5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Domestic Uranium Saves America Act</short-title></quote> or the <quote><short-title>Domestic USA Act</short-title></quote>. </text></section> <section id="H4162AAFB467B4EE1806DE3CF14591FE4"><enum>2.</enum><header>Uranium critical mineral status</header><text display-inline="no-display-inline">Notwithstanding the exclusion of fuel minerals from the definition of the term <term>critical mineral</term> under any Federal law, regulation, or Executive order, uranium—</text> 
+<paragraph id="HF12C3B9B1C1945B58BF002637A3F138C"><enum>(1)</enum><text>is deemed to be included on the 2022 final list of critical minerals in the notice entitled <quote>2022 Final List of Critical Minerals</quote> published by the United States Geological Survey (87 Fed. Reg. 10381; February 24, 2022), and shall be treated as if included on that list at the time of publication; and</text></paragraph> <paragraph id="H12C923F8D1B9419EB1BA24A1D89BF95C"><enum>(2)</enum><text>shall be included on each subsequent list of critical minerals published pursuant to section 7002 of the Energy Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/30/1606">30 U.S.C. 1606</external-xref>).</text></paragraph></section> 
+</legis-body></bill>
+

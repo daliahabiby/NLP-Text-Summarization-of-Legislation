@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDE799E0343C449DF9D5F56CBBC4D61E2" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6761 IH: To amend the Ethics in Government Act of 1978 to require certain Tennessee Valley Authority employees to include their annual salary in annual disclosure reports, and for the other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6761</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220218">February 18, 2022</action-date><action-desc><sponsor name-id="C001068">Mr. Cohen</sponsor> (for himself and <cosponsor name-id="B001309">Mr. Burchett</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Ethics in Government Act of 1978 to require certain Tennessee Valley Authority employees to include their annual salary in annual disclosure reports, and for the other purposes.</official-title></form><legis-body id="H57C5DA3E69FF4C9A923BCCAC914092C0" style="OLC"><section id="H13ED220CC2064EA4A6137206858E091C" section-type="section-one"><enum>1.</enum><header>Annual disclosure requirement</header><text display-inline="no-display-inline">Section 102(a) of the Ethics in Government Act of 1978 (<external-xref legal-doc="usc-appendix" parsable-cite="usc-appendix/5/102">5 U.S.C. App. 102(a)</external-xref>) is amended by adding at the end the following:</text><quoted-block style="OLC" id="H0498D14C851B4119BEB9A7EEB24A5464" display-inline="no-display-inline"><paragraph id="HBA0A94D19F9C4F45B2F2BBC5D884B822"><enum>(9)</enum><text display-inline="yes-display-inline">In the case of an individual occupying a position described under section 101(f) within the Tennessee Valley Authority, the total compensation (including annual rate of basic pay, bonuses, allowances, differentials, and benefits) for such position.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

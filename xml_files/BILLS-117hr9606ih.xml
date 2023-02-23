@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4D939C51393744D5B718BC179EF48992" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9606 IH: Revoking Entry Granted to Iranian Mullahs and Elites Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 9606</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20221215">December 15, 2022</action-date>
+<action-desc><sponsor name-id="W000795">Mr. Wilson of South Carolina</sponsor> (for himself, <cosponsor name-id="G000583">Mr. Gottheimer</cosponsor>, <cosponsor name-id="T000478">Ms. Tenney</cosponsor>, and <cosponsor name-id="G000581">Mr. Vicente Gonzalez of Texas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of State to review whether certain Iranian officials are eligible for entry into the United States, and for other purposes.</official-title>
+</form>
+<legis-body id="HE56668F2313341B48B1AB21D1027030C" style="OLC">
+<section id="HE72695A449E24996A45EA7A55A6CE649" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Revoking Entry Granted to Iranian Mullahs and Elites Act of 2022</short-title></quote> or the <quote><short-title>REGIME Act of 2022</short-title></quote>. </text></section> <section id="HA5535CE02E134A96899AFB8A95317FCC"><enum>2.</enum><header>Review of eligibility for entry into the United States of certain Iranian officials</header> <subsection id="H460E7B8E01884A75A345CC89F16038E1"><enum>(a)</enum><header>Review</header><text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Secretary of State shall conduct a review to determine whether any covered individual is ineligible for entry into the United States pursuant to section 7031(c) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022 (division K of <external-xref legal-doc="public-law" parsable-cite="pl/117/103">Public Law 117–103</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182</external-xref> note) or pursuant to section 105 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (<external-xref legal-doc="usc" parsable-cite="usc/22/8514">22 U.S.C. 8514</external-xref>).</text></subsection>
+<subsection id="HF5F5DAD117694EB387E92282846C3720" commented="no"><enum>(b)</enum><header>Revocation of visa</header><text>If the Secretary of State determines, pursuant to the review conducted under subsection (a), that a covered individual who is in possession of a visa is ineligible for entry into the United States, the Secretary shall revoke such visa.</text></subsection> <subsection id="HF282383F7D2F46B482847F81A61F9D4C"><enum>(c)</enum><header>Covered individual</header><text display-inline="yes-display-inline">In this section, the term <term>covered individual</term> means an individual who, on the date of enactment of this Act, has a visa authorizing the individual to be admitted to the United States or has submitted an application for such a visa, and is—</text>
+<paragraph id="H1E0042BD30884E7A8D2D39BED3248D75"><enum>(1)</enum><text display-inline="yes-display-inline">an officer or employee of the Islamic Revolutionary Guard Corps or any subunit thereof (including Khatam al-Anbiya Construction Headquarter and any other entity controlled by the Islamic Revolutionary Guard Corps);</text></paragraph> <paragraph id="H14356624EC924C3890604208A99F450D"><enum>(2)</enum><text>an officer of any other branch of the Iranian armed forces;</text></paragraph>
+<paragraph id="H218575A86443499687C33616F450483E"><enum>(3)</enum><text>an officer or employee of the Iranian law enforcement forces;</text></paragraph> <paragraph id="HE397FB69D0024C2E815A0990EDDED8AA"><enum>(4)</enum><text>a former or current member, officer, or employee of the Iranian executive, judicial, or legislative branch, including the Assembly of Experts, the Guardian Council, the Expediency and Discernment Council, the Supreme National Security Council, and the Supreme Council for Cultural Revolution;</text></paragraph>
+<paragraph id="HD34614B01B354A9C908F1F0CF38B3E08"><enum>(5)</enum><text display-inline="yes-display-inline">a former or current officer or employee of an entity controlled by the Office of the Supreme Leader; or </text></paragraph> <paragraph id="H5B21C492D4154B4BA0456AE542855341"><enum>(6)</enum><text display-inline="yes-display-inline">an immediate family member of any individual described in paragraphs (1) through (5).</text></paragraph></subsection>
+<subsection id="H5CCF9A57AE5C44819596AD98A71D20FA"><enum>(d)</enum><header>Waiver</header><text display-inline="yes-display-inline">The Secretary of State may waive the application of subsection (b) to a covered alien who is seeking a visa or who is in possession of a visa for the purpose of coming to the United States in transit to and from the headquarters district of the United Nations in accordance with the provisions of the Headquarters Agreement. </text></subsection></section> </legis-body> </bill> 
+

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" dms-id="H9EA0596241594367B233BD4ECDB69292" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 3285 RH: 21st Century President Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code>
+<calendar display="yes">Union Calendar No. 291</calendar>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 3285</legis-num>
+<associated-doc role="report" display="yes">[Report No. 117–380]</associated-doc>
+<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20210517">May 17, 2021</action-date>
+<action-desc><sponsor name-id="P000607">Mr. Pocan</sponsor> (for himself, <cosponsor name-id="D000610">Mr. Deutch</cosponsor>, <cosponsor name-id="D000399">Mr. Doggett</cosponsor>, <cosponsor name-id="C001084">Mr. Cicilline</cosponsor>, <cosponsor name-id="E000297">Mr. Espaillat</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, <cosponsor name-id="K000389">Mr. Khanna</cosponsor>, <cosponsor name-id="L000592">Mr. Levin of Michigan</cosponsor>, <cosponsor name-id="L000579">Mr. Lowenthal</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="P000614">Mr. Pappas</cosponsor>, <cosponsor name-id="R000606">Mr. Raskin</cosponsor>, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, <cosponsor name-id="S001175">Ms. Speier</cosponsor>, <cosponsor name-id="T000479">Mr. Taylor</cosponsor>, and <cosponsor name-id="W000800">Mr. Welch</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<action>
+<action-date date="20220621">June 21, 2022</action-date>
+<action-desc>Additional sponsors: <cosponsor name-id="S000510">Mr. Smith of Washington</cosponsor>, <cosponsor name-id="P000604">Mr. Payne</cosponsor>, <cosponsor name-id="A000148">Mr. Auchincloss</cosponsor>, <cosponsor name-id="S001200">Mr. Soto</cosponsor>, <cosponsor name-id="J000306">Mr. Jones</cosponsor>, <cosponsor name-id="C001072">Mr. Carson</cosponsor>, <cosponsor name-id="T000486">Mr. Torres of New York</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="M000087">Mrs. Carolyn B. Maloney of New York</cosponsor>, <cosponsor name-id="C001055">Mr. Case</cosponsor>, <cosponsor name-id="T000469">Mr. Tonko</cosponsor>, <cosponsor name-id="C001112">Mr. Carbajal</cosponsor>, <cosponsor name-id="S001218">Ms. Stansbury</cosponsor>, <cosponsor name-id="D000629">Ms. Davids of Kansas</cosponsor>, <cosponsor name-id="C001080">Ms. Chu</cosponsor>, <cosponsor name-id="M001196">Mr. Moulton</cosponsor>, <cosponsor name-id="D000624">Mrs. Dingell</cosponsor>, <cosponsor name-id="W000822">Mrs. Watson Coleman</cosponsor>, <cosponsor name-id="J000288">Mr. Johnson of Georgia</cosponsor>, <cosponsor name-id="B001300">Ms. Barragán</cosponsor>, <cosponsor name-id="R000515">Mr. Rush</cosponsor>, <cosponsor name-id="V000081">Ms. Velázquez</cosponsor>, <cosponsor name-id="M001160">Ms. Moore of Wisconsin</cosponsor>, <cosponsor name-id="W000797">Ms. Wasserman Schultz</cosponsor>, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, <cosponsor name-id="B001278">Ms. Bonamici</cosponsor>, <cosponsor name-id="F000462">Ms. Lois Frankel of Florida</cosponsor>, <cosponsor name-id="P000034">Mr. Pallone</cosponsor>, <cosponsor name-id="S001205">Ms. Scanlon</cosponsor>, <cosponsor name-id="M000312">Mr. McGovern</cosponsor>, <cosponsor name-id="W000788">Ms. Williams of Georgia</cosponsor>, <cosponsor name-id="C001119">Ms. Craig</cosponsor>, <cosponsor name-id="T000468">Ms. Titus</cosponsor>, <cosponsor name-id="C001121">Mr. Crow</cosponsor>, <cosponsor name-id="M001185">Mr. Sean Patrick Maloney of New York</cosponsor>, <cosponsor name-id="L000562">Mr. Lynch</cosponsor>, and <cosponsor name-id="J000305">Ms. Jacobs of California</cosponsor></action-desc>
+</action>
+<action>
+<action-date date="20220621">June 21, 2022</action-date>
+<action-desc>Reported from the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>; committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend gendered terms in Federal law relating to the President and the President’s spouse.<pagebreak/></official-title>
+</form>
+<legis-body id="H14CEB73ACD0541B2A8072EAC1ED90907" style="OLC">
+<section id="H1A19E4C9949B479A8EB561A4C7282125" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>21st Century President Act</short-title></quote>.</text></section> <section id="HB7F6D927B77743CBBFBB4ADE6691DF66"><enum>2.</enum><header>Modernization of terms relating to the President and the spouse of a President</header><text display-inline="no-display-inline">Section 879(b)(1)(A) of title 18, United States Code, is amended by striking <quote>the wife of a former President during his lifetime, the widow of a former President until her death or remarriage</quote> and inserting <quote>the spouse of a former President during a former President’s lifetime, the surviving spouse of a former President until the surviving spouse’s death or remarriage</quote>.</text></section>
+</legis-body>
+<endorsement display="yes">
+<action-date date="20220621">June 21, 2022</action-date>
+<action-desc>Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc></endorsement>
+</bill> 
+
+

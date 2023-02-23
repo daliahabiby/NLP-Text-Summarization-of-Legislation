@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H37501C9352934129AC742599C0645E27" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 700 ENR: To designate the facility of the United States Postal Service located at 303 East Mississippi Avenue in Elwood, Illinois, as the “Lawrence M. Larry Walsh Sr. Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 700</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To designate the facility of the United States Postal Service located at 303 East Mississippi Avenue in Elwood, Illinois, as the <quote>Lawrence M. <quote>Larry</quote> Walsh Sr. Post Office</quote>.</official-title> 
+</form> 
+<legis-body id="H5241A87C48014A588741AAA6555F672B" style="OLC"> 
+<section id="H8C9A89DF29BB477F88A3682B62163192" section-type="section-one"><enum>1.</enum><header>Lawrence M. <quote>Larry</quote> Walsh Sr. Post Office</header> 
+<subsection id="HC4BB9A1F1B49466DA6E7E5666348315F"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 303 East Mississippi Avenue in Elwood, Illinois, shall be known and designated as the <quote>Lawrence M. <quote>Larry</quote> Walsh Sr. Post Office</quote>.</text></subsection> <subsection id="H02EF39AB8CE04354847D7F0326532026"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Lawrence M. <quote>Larry</quote> Walsh Sr. Post Office</quote>.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

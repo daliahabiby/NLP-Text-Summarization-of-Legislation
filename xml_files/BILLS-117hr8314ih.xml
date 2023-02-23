@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6A1D0234F343481D92C2A34A3EF2C6CA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8314 IH: California Clean School Bus Equity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8314</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220707">July 7, 2022</action-date><action-desc><sponsor name-id="P000618">Ms. Porter</sponsor> (for herself, <cosponsor name-id="L000579">Mr. Lowenthal</cosponsor>, and <cosponsor name-id="L000551">Ms. Lee of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Energy Policy Act of 2005 to remove a limitation on amounts provided under the clean school bus program, and for other purposes.</official-title></form><legis-body id="H0F9F1489EF8549B4A5A189BC93DC8EAC" style="OLC"><section id="H4DF68C80CE26410FA54BB2855C068716" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>California Clean School Bus Equity Act</short-title></quote>.</text></section><section id="H89B343C829A943819ACCB695CA045048"><enum>2.</enum><header>Clean school bus program</header><text display-inline="no-display-inline">Section 741(b)(7) of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/16091">42 U.S.C. 16091(b)(7)</external-xref>) is amended to read as follows: </text><quoted-block style="OLC" id="HAB1354F6E0B9405183F5B235CCE48272" display-inline="no-display-inline"><paragraph id="H7BA9F30922A34568BE9DD9FE9C65E9BA"><enum>(7)</enum><header>Deployment and distribution</header><text display-inline="yes-display-inline">The Administrator shall—</text><subparagraph id="H12F2A3E99F4B4D3CBC25A9C484550738"><enum>(A)</enum><text>to the maximum extent practicable, achieve nationwide deployment of clean school buses and zero-emission school buses through the program under this section; and</text></subparagraph><subparagraph id="HCE718AAFB8AF4DE89C2AA2D0B8B18647"><enum>(B)</enum><text>ensure a broad geographic distribution of awards. </text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

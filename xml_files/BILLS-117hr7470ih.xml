@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF7CA735223F14010BD48B3DC271A766D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7470 IH: Veteran Service Equity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7470</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220407">April 7, 2022</action-date><action-desc><sponsor name-id="L000593">Mr. Levin of California</sponsor> (for himself and <cosponsor name-id="P000618">Ms. Porter</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Higher Education Act of 1965 to include a full-time job with a veterans service organization as a public service job eligible for public service loan forgiveness.</official-title></form><legis-body id="H3633871AF86F45F9A7D1910D792ABBC8" style="OLC"> 
+<section id="HBE9EFFB6254841D89B3186BA3630BBE7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veteran Service Equity Act</short-title></quote>.</text></section> <section id="H0C6DE74F53624486B26CD1DEEC470D01"><enum>2.</enum><header>Full-time job with veterans service organization</header><text display-inline="no-display-inline">Section 455(m)(3)(B) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087e">20 U.S.C. 1087e(m)(3)(B)</external-xref>) is amended—</text> 
+<paragraph id="H903418B7DB514A1D8AB46501814465D0"><enum>(1)</enum><text>in clause (i), by striking <quote>or</quote> at the end;</text></paragraph> <paragraph id="HC4A13B4C5CF341989E0BA62B7B518E6D"><enum>(2)</enum><text>in clause (ii), by striking the period and inserting <quote>; or</quote>; and</text></paragraph> 
+<paragraph id="HC23E98192F304D81BBE3BD3FBC832E03"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block id="H6933ECA1FE524C54AE6FC6E572883852" style="OLC"> <clause id="H881BF911014E452F82641A5827A7CBF7"><enum>(iii)</enum><text display-inline="yes-display-inline">a full-time job with any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+

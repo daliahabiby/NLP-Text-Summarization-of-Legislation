@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6C3A13C1B47445BC8BB0E15E87F1BBBB" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6647 IH: To amend title 38, United States Code, to make certain improvements relating to the eligibility of veterans to receive reimbursement for emergency treatment furnished through the Veterans Community Care program, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6647</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220208">February 8, 2022</action-date><action-desc><sponsor name-id="M001159">Mrs. Rodgers of Washington</sponsor> (for herself, <cosponsor name-id="B001301">Mr. Bergman</cosponsor>, and <cosponsor name-id="P000614">Mr. Pappas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to make certain improvements relating to the eligibility of veterans to receive reimbursement for emergency treatment furnished through the Veterans Community Care program, and for other purposes.</official-title></form><legis-body id="H1FE9274AA5FA45F2A2C03538541541F4" style="OLC"><section id="HF343B5EDE53A468AA21CB994C8D5B4FB" section-type="section-one"><enum>1.</enum><header>Eligibility requirements for reimbursement for emergency treatment furnished to veterans</header><subsection id="H05A1684439564F3A8B02D8AB78E5DBAC"><enum>(a)</enum><header>Eligibility requirements</header><text display-inline="yes-display-inline">Section 1725(b)(2)(B) of title 38, United States Code, is amended by inserting <quote>, unless such emergency treatment was furnished during the 60-day period following the date on which the veteran enrolled in the health care system specified in subparagraph (A), in which case no requirement for prior receipt of care shall apply</quote> before the period.</text></subsection><subsection id="H324F3AF4B11040669A2C0A7F6D8AECB7"><enum>(b)</enum><header>Applicability</header><text display-inline="yes-display-inline">The amendment made by subsection (a) shall apply with respect to emergency treatment furnished on or after the date that is one year after the date of the enactment of this Act.</text></subsection></section></legis-body></bill> 
+

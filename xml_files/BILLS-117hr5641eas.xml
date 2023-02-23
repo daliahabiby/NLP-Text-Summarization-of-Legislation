@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE amendment-doc PUBLIC "-//US Congress//DTDs/amend.dtd//EN" "amend.dtd">
+<amendment-doc amend-type="engrossed-amendment" amend-degree="first"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 5641 EAS: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<engrossed-amendment-form>
+<congress display="no">117th CONGRESS</congress><session display="no">2d Session</session><legis-num display="no">H.R. 5641</legis-num><current-chamber display="yes">In the Senate of the United States,</current-chamber><action><action-date date="20220920">September 20, 2022.</action-date></action><legis-type display="yes">Amendments:</legis-type></engrossed-amendment-form><engrossed-amendment-body><section id="id7581666671c448a792ff8ba5f51b3790" section-type="resolved"><text>That the bill from the House of Representatives (H.R. 5641) entitled <quote>An Act to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to increase the threshold for eligibility for assistance under sections 403, 406, 407, and 502 of such Act, and for other purposes.</quote>, do pass with the following</text></section><amendment><amendment-instruction blank-lines-after="1"><enum>(1)</enum><text>On page 2, line 13, strike <deleted-phrase reported-display-style="bold-brackets"><quote>AND REPORT</quote> after <quote>REVIEW</quote></deleted-phrase> and insert <added-phrase reported-display-style="italic"><quote><header-in-text style="OLC" level="subsection">and Report</header-in-text></quote> after <quote><header-in-text style="OLC" level="subsection">Review</header-in-text></quote></added-phrase>.</text></amendment-instruction><amendment-instruction blank-lines-after="0"><enum>(2)</enum><text>On page 3, after line 3, insert:</text></amendment-instruction><amendment-block changed="added" reported-display-style="italic" blank-lines-after="1"><section id="id52965C078D1046F999B584B1F9E5FAD4"><enum>3.</enum><header>Audit and review</header><text display-inline="no-display-inline">Not later than 3 years after the date of enactment of this Act, the Inspector General of the Department of Homeland Security shall conduct an audit, and submit to Congress a report, on whether there has been waste and abuse as a result of the amendment made under section 2(a)(1). </text></section></amendment-block></amendment></engrossed-amendment-body><attestation><attestation-group><attestor></attestor><role>Secretary</role></attestation-group></attestation><endorsement></endorsement></amendment-doc> 
+

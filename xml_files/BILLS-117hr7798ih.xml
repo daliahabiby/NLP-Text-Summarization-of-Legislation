@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2704F6F9BEAE41F0853190C51A4F394B" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7798 IH: Prohibiting Abortion Industry’s Lucrative Loopholes Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7798</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220517">May 17, 2022</action-date>
+<action-desc><sponsor name-id="F000472">Mr. C. Scott Franklin of Florida</sponsor> (for himself, <cosponsor name-id="L000576">Mr. Long</cosponsor>, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, <cosponsor name-id="B000825">Mrs. Boebert</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan</cosponsor>, <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, <cosponsor name-id="M001195">Mr. Mooney</cosponsor>, <cosponsor name-id="C001118">Mr. Cline</cosponsor>, <cosponsor name-id="M001199">Mr. Mast</cosponsor>, <cosponsor name-id="B001299">Mr. Banks</cosponsor>, <cosponsor name-id="D000619">Mr. Rodney Davis of Illinois</cosponsor>, <cosponsor name-id="C001039">Mrs. Cammack</cosponsor>, <cosponsor name-id="F000459">Mr. Fleischmann</cosponsor>, <cosponsor name-id="M001190">Mr. Mullin</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="G000576">Mr. Grothman</cosponsor>, <cosponsor name-id="H001071">Mr. Hice of Georgia</cosponsor>, <cosponsor name-id="V000134">Ms. Van Duyne</cosponsor>, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, <cosponsor name-id="C001116">Mr. Clyde</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="H001084">Ms. Herrell</cosponsor>, <cosponsor name-id="E000071">Mr. Ellzey</cosponsor>, <cosponsor name-id="G000595">Mr. Good of Virginia</cosponsor>, and <cosponsor name-id="W000815">Mr. Wenstrup</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title IV of the Public Health Service Act to prohibit sale or transactions relating to human fetal tissue.</official-title>
+</form>
+<legis-body id="HEF327F2582C149F79B34BA119185EC4D" style="OLC">
+<section id="H52F0B2B2EE4D4CA8A3C1E528CD0797AB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prohibiting Abortion Industry’s Lucrative Loopholes Act</short-title></quote>.</text></section> <section id="H0D05B6EBFACD4342B364B052737529AF"><enum>2.</enum><header>Prohibiting sale or transactions relating to human fetal tissue</header><text display-inline="no-display-inline">Section 498B(e) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/289-2">42 U.S.C. 289–2(e)</external-xref>) is amended by striking paragraph (3) and inserting the following new paragraph:</text>
+<quoted-block id="H8CF802E3CC5242429283417D9A8BEAF6" style="OLC">
+<paragraph id="H0D95F24647DB4F4590F9A39B2A7E0546"><enum>(3)</enum><text>The term <term>valuable consideration</term> includes—</text> <subparagraph id="H5C329154962C45E5B2B0C1545004FF3A"><enum>(A)</enum><text>any payment made or debt incurred;</text></subparagraph>
+<subparagraph id="H7D4B7C471F32406394FF8A900F80C82B"><enum>(B)</enum><text>any gift, honorarium, or recognition of value bestowed;</text></subparagraph> <subparagraph id="HA3847B517FB3475BA324B299D8C17BDE"><enum>(C)</enum><text>any price, charge, or fee which is waived, forgiven, reduced, or indefinitely delayed;</text></subparagraph>
+<subparagraph id="H69ECD8B64AEF4023BACEA734CEA4DC07"><enum>(D)</enum><text>any loan or debt which is canceled or otherwise forgiven;</text></subparagraph> <subparagraph id="H0D8053271E384F07B4E4534A54C8144D"><enum>(E)</enum><text>the transfer of any item from one person to another or provision of any service or granting of any opportunity for which a charge is customarily made, without charge or for a reduced charge; and</text></subparagraph>
+<subparagraph id="HF60B5628B8D74128A6093F996B3AE962"><enum>(F)</enum><text>any payments associated with the transportation, implantation, processing, preservation, quality control, or storage of human fetal tissue.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> </bill> 
+

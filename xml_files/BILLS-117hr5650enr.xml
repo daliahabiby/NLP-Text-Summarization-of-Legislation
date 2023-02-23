@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H75FF390125AC4917A2E137D043003AF6" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 5650 ENR: To designate the facility of the United States Postal Service located at 16605 East Avenue of the Fountains in Fountain Hills, Arizona, as the “Dr. C.T. Wright Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 5650</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To designate the facility of the United States Postal Service located at 16605 East Avenue of the Fountains in Fountain Hills, Arizona, as the <quote>Dr. C.T. Wright Post Office Building</quote>.</official-title> 
+</form> 
+<legis-body id="H14D6A86E13D042DC97A9975AA807A384" style="OLC"> 
+<section id="HECD05C4500A2404BA9EE475F2F5D9EB6" section-type="section-one"><enum>1.</enum><header>Dr. C.T. Wright Post Office Building</header> 
+<subsection id="H59E0828BDFAC4E669DB8E78EA7AA1406"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 16605 East Avenue of the Fountains in Fountain Hills, Arizona, shall be known and designated as the <quote>Dr. C.T. Wright Post Office Building</quote>.</text></subsection> <subsection id="H6700848D90B54B6782F65AFE53A0079B"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Dr. C.T. Wright Post Office Building</quote>.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

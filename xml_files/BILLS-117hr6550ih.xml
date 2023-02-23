@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA8EB3991E36B4F89AF3B1742D4535C96" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6550 IH: End Prison Gerrymandering Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6550</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220201">February 1, 2022</action-date>
+<action-desc><sponsor name-id="R000305">Ms. Ross</sponsor> (for herself, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="D000631">Ms. Dean</cosponsor>, <cosponsor name-id="C001061">Mr. Cleaver</cosponsor>, <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="J000305">Ms. Jacobs of California</cosponsor>, <cosponsor name-id="J000306">Mr. Jones</cosponsor>, <cosponsor name-id="R000486">Ms. Roybal-Allard</cosponsor>, <cosponsor name-id="T000481">Ms. Tlaib</cosponsor>, <cosponsor name-id="T000486">Mr. Torres of New York</cosponsor>, <cosponsor name-id="W000822">Mrs. Watson Coleman</cosponsor>, <cosponsor name-id="J000288">Mr. Johnson of Georgia</cosponsor>, and <cosponsor name-id="G000586">Mr. García of Illinois</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name>, and in addition to the Committee on <committee-name committee-id="HJU00">the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 13, United States Code, to provide that individuals in prison shall, for the purposes of a decennial census, be attributed to the last usual place of residence before incarceration, and for other purposes.</official-title>
+</form>
+<legis-body id="H54E75804F503420E8C36D7A5E95AC821" style="OLC">
+<section id="HF61E24E850BB4BA5944EDBACCFD37689" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>End Prison Gerrymandering Act</short-title></quote>. </text></section> <section id="H5C6E40FD525143C7AA1FD5970DDDCDF6"><enum>2.</enum><header>Residence of incarcerated individuals</header> <subsection id="HDD4B94245B9545118C522C5FE10166F9"><enum>(a)</enum><header>Residence</header><text display-inline="yes-display-inline">Section 141 of title 13, United States Code, is amended—</text>
+<paragraph id="H88EDCD6FC9334C59B7D2E49270904C0D"><enum>(1)</enum><text>by redesignating subsection (g) as subsection (h); and</text></paragraph> <paragraph id="HCB2D8C3E8EBA4C449655E3B7D57EEB61"><enum>(2)</enum><text>by inserting after subsection (f) the following:</text>
+<quoted-block id="H38F9EC605F464FD7B4897408FEF1AB81" style="OLC">
+<subsection id="H5C45B6982E4C43D5BD76F18C267433EE"><enum>(g)</enum><text>Effective beginning with the 2030 decennial census of population and every census thereafter, in taking any census of population under subsection (a) the Secretary shall, with respect to an individual incarcerated in a State, Federal, county, or municipal correctional facility as of the decennial census date, attribute such individual to such individual’s last usual place of residence before incarceration.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HBC962FBDD9E64C0BB4C9A5B48FB7CE41"><enum>(b)</enum><header>Use of residence for purposes of Congressional redistricting</header><text display-inline="yes-display-inline">Section 22 of the Act entitled <quote>An Act to provide for the fifteenth and subsequent decennial censuses and to provide for an apportionment of Representatives in Congress</quote>, approved June 18, 1929 (<external-xref legal-doc="usc" parsable-cite="usc/2/2a">2 U.S.C. 2a</external-xref>), is amended by adding at the end the following new subsection:</text>
+<quoted-block style="traditional" id="HD9AC02BE20794658BF67B4596E962EBC" display-inline="no-display-inline">
+<subsection id="H76CEDD1BA6384B92AEB3B95CB6371841"><enum>(d)</enum><text display-inline="yes-display-inline">If the tabulation of the number of persons in a State under subsection (a) includes an individual incarcerated in a State, Federal, county, or municipal correctional facility who is treated as a resident of the State because the tabulation attributes the individual to the individual’s last usual place of residence before incarceration, as provided under section 141(g) of title 13, United States Code, the State shall treat the individual’s last usual place of residence in the State before incarceration as the individual’s place of residence for purposes of congressional redistricting.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> </bill> 
+

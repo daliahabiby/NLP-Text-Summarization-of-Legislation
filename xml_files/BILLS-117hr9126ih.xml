@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H48AEBFF9EB3E4BC2A551F0B68CF18BEF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9126 IH: Driver Reimbursement Increase for Veteran Equity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9126</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221004">October 4, 2022</action-date><action-desc><sponsor name-id="B001285">Ms. Brownley</sponsor> (for herself and <cosponsor name-id="W000800">Mr. Welch</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to improve the rate of payments provided by the Secretary of Veterans Affairs for beneficiary travel.</official-title></form><legis-body id="H9B185131411F40C1A5E0FC7435317AE6" style="OLC"> 
+<section id="HF6C8F4A9BFC6423BAE2823EBE4D69F68" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Driver Reimbursement Increase for Veteran Equity Act</short-title></quote> or the <quote><short-title>DRIVE Act</short-title></quote>. </text></section> <section id="HB4853F4D0C5445B7826FFFEBBE7D17DB"><enum>2.</enum><header>Payments or allowances by Department of Veterans Affairs for beneficiary travel</header> <subsection id="H326ED1F99AA64ADD965E4EAA6D228FA3"><enum>(a)</enum><header>Minimum payment amount</header><text display-inline="yes-display-inline">Subsection (g) of section 111 of title 38, United States Code, is amended to read as follows:</text> 
+<quoted-block style="USC" id="H575417F54E5F4B01B50183774957D833" display-inline="no-display-inline"> 
+<subsection id="H95821824610846F4B38C3F1D9F241EA6"><enum>(g)</enum><text display-inline="yes-display-inline">The Secretary shall ensure that the mileage rate described in subsection (a) is equal to or greater than the mileage reimbursement rate for the use of privately owned vehicles by Government employees on official business (when no Government vehicle is available), as prescribed by the Administrator of General Services under section 5707(b) of title 5.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H547297FCF8B8404DADB074DEB8AC5C0F"><enum>(b)</enum><header>Conforming amendments</header><text display-inline="yes-display-inline">Such section is further amended—</text> 
+<paragraph id="HED9DD011CD4842A488E286CAAF8991AF"><enum>(1)</enum><text>in subsection (a), by striking <quote>(at a rate of 41.5 cents per mile)</quote> and inserting <quote>(at a rate determined in accordance with subsection (g))</quote>; and </text></paragraph> <paragraph id="H4EC478C7659F4345811DEAF2ACEDCDD6"><enum>(2)</enum><text>in subsection (b)(1), by striking <quote>and notwithstanding subsection (g)(2) of this section</quote>.</text></paragraph></subsection></section> 
+</legis-body></bill>
+

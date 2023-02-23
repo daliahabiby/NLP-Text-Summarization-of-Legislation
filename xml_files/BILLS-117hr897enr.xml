@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H447BFC1F6D014CD4909346B8F61248AF" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 897 ENR: Agua Caliente Land Exchange Fee to Trust Confirmation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 897</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To take certain lands in California into trust for the benefit of the Agua Caliente Band of Cahuilla Indians, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H0202466298744931BA375229CE310F98" style="OLC"> 
+<section id="HBFC36D22686B43CDBEFA6D65C20252A9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Agua Caliente Land Exchange Fee to Trust Confirmation Act</short-title></quote>. </text></section> <section id="HAE5F59401D214C6CA23FD8D07E3EA6A7" section-type="subsequent-section"><enum>2.</enum><header>Lands to be taken into trust</header> <subsection id="H08B84A3D58E74AF6884B112F02D90B27"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The approximately 2,560 acres of land owned by the Agua Caliente Band of Cahuilla Indians generally depicted as <quote>Lands to be Taken into Trust</quote> on the map entitled <quote>Agua Caliente Band of Cahuilla Indians Land to be Taken into Trust</quote> and dated November 17, 2021, is hereby taken into trust by the United States for the benefit of the Agua Caliente Band of Cahuilla Indians.</text></subsection> 
+<subsection id="HC2B3C3C8CBB2471A9BCC60E588C7E28C" commented="no"><enum>(b)</enum><header>Lands part of reservation</header><text>Lands taken into trust by this section shall be part of the Tribe’s reservation and shall be administered in accordance with the laws and regulations generally applicable to property held in trust by the United States for an Indian Tribe.</text></subsection> <subsection id="HCA8C78B234584C849EAEED9701ED1A8B"><enum>(c)</enum><header>Gaming prohibited</header><text display-inline="yes-display-inline">Lands taken into trust by this section for the benefit of the Agua Caliente Band of Cahuilla Indians shall not be eligible for gaming under the Indian Gaming Regulatory Act (<external-xref legal-doc="usc" parsable-cite="usc/25/2701">25 U.S.C. 2701 et seq.</external-xref>).</text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

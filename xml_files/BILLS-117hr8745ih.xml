@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB0E5CFFFB37040B4A1669934EB88262A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8745 IH: National Concussion and Traumatic Brain Injury Clearinghouse Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8745</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220826">August 26, 2022</action-date><action-desc><sponsor name-id="C001078">Mr. Connolly</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Health and Human Services to maintain a National Concussion and Traumatic Brain Injury Clearinghouse.</official-title></form><legis-body id="H712F7C8E9C6E4597A9724D26B7EAFF03" style="OLC"> 
+<section id="HE268C39D58704CB280C633E31C605FBD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>National Concussion and Traumatic Brain Injury Clearinghouse Act of 2022</short-title></quote>.</text></section> <section id="H498E45025F6C4F129EE64B3401420A08"><enum>2.</enum><header>National Concussion and Traumatic Brain Injury Clearinghouse</header> <subsection id="H4FBD69A8E0A64C9892B48FD274F0926D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Health and Human Services, acting jointly with the Director of the Centers for Disease Control and Prevention, shall establish and maintain a clearinghouse of concussion and traumatic brain injury best practices, medical knowledge, appropriate certification, and research, to be known as the National Concussion and Traumatic Brain Injury Clearinghouse.</text></subsection> 
+<subsection id="HB3B89520A39647709E3A74EF7EABCC1D"><enum>(b)</enum><header>Design</header><text>The clearinghouse under this section shall be designed to provide vetted, high-quality information on concussion and traumatic brain injury—</text> <paragraph id="H6C4467A622204CF4A857015C2E564BE0"><enum>(1)</enum><text display-inline="yes-display-inline">to medical professionals so they may access reliable best-practice information to provide appropriate care for their patients; and</text></paragraph> 
+<paragraph id="H3598CD56C6ED4932908AC2E7C5C1C4A0"><enum>(2)</enum><text>to patients and other stakeholders so they may—</text> <subparagraph id="HD9AC028D28B04DD5861CA9234AAE3B76"><enum>(A)</enum><text>easily find appropriate medical professionals; and</text></subparagraph> 
+<subparagraph id="HECBEE2ED768944CF8705FE622C809DCA"><enum>(B)</enum><text>access high-quality information.</text></subparagraph></paragraph></subsection> <subsection id="HAA416BA44A534CC0A2924AD575760BD1"><enum>(c)</enum><header>Arrangements with other entities</header><text display-inline="yes-display-inline">In carrying out this section, the Secretary of Health and Human Services may disseminate information through arrangements with nonprofit organizations, consumer groups, Federal, State, or local agencies, or the media. </text> </subsection> 
+<subsection id="H51DB475F8CE5487695232283C20610E0"><enum>(d)</enum><header>Timing</header><text display-inline="yes-display-inline">The Secretary of Health and Human Services shall establish the clearinghouse required by subsection (a) not later than 120 days after the date of enactment of this Act.</text> </subsection></section> </legis-body></bill>
+

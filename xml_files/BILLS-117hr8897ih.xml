@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7D094004D48A4440A04C82017E090B5C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8897 IH: To amend title 10, United States Code, to authorize the Secretary of Defense to consult with the congressional defense committees in the preparation of the national defense strategy.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8897</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220919">September 19, 2022</action-date><action-desc><sponsor name-id="S001208">Ms. Slotkin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 10, United States Code, to authorize the Secretary of Defense to consult with the congressional defense committees in the preparation of the national defense strategy.</official-title></form><legis-body id="H7BB8E8BEE82448EA8CF67AE0FB3D78CE" style="OLC"> 
+<section id="H22C94EFDDFAC48EA9A50DD918390F2FE" section-type="section-one"><enum>1.</enum><header>Consultation of congressional defense committees in preparation of national defense strategy</header><text display-inline="no-display-inline">Section 113(g)(1) of title 10, United States Code, is amended—</text> <paragraph id="H490F5EB31D4C4DF6B99A5BC7F01E201B"><enum>(1)</enum><text>by redesignating subparagraphs (D) through (F) as subparagraphs (E) through (G), respectively; and</text></paragraph> 
+<paragraph id="H871090B051AF4B9983711DF5D8329A47"><enum>(2)</enum><text>by inserting after subparagraph (C) the following new subparagraph (D):</text> <quoted-block style="USC" id="H892A111390BE434E8FF61A6AD84C3294" display-inline="no-display-inline"> <subparagraph id="H4712FE4F32504C8F89F7593161DAB8EB" indent="up2"><enum>(D)</enum><text display-inline="yes-display-inline">In addressing the matters referred to in subparagraph (B)(i) and (ii), the Secretary may seek the advice and views of the congressional defense committees, through the Chair and Ranking Members of the congressional defense committees. The congressional defense committees, through the Chair and Ranking Member of the congressional defense committees, may submit their advice and views to the Secretary in writing. Any such written views shall be published as an annex to the national defense strategy. </text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+

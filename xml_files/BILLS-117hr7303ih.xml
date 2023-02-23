@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB62605E86F1C4AC59363DF052FD417F6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7303 IH: To designate the facility of the United States Postal Service located at 129 Walnut Street in Corning, New York, as the “Amory Amo Houghton, Jr. Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7303</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220330">March 30, 2022</action-date><action-desc><sponsor name-id="R000585">Mr. Reed</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 129 Walnut Street in Corning, New York, as the <quote>Amory <quote>Amo</quote> Houghton, Jr. Post Office Building</quote>.</official-title></form><legis-body id="H573258E1043645C8BA04D3DEE25BED99" style="OLC"><section id="H6849A5B09CB04189BFF5F915BCE3EB43" section-type="section-one"><enum>1.</enum><header>Amory “Amo” Houghton, Jr. Post Office Building</header><subsection id="HAE1880648DC946989C4F54AB50E50749"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 129 Walnut Street in Corning, New York, shall be known and designated as the <quote>Amory <quote>Amo</quote> Houghton, Jr. Post Office Building</quote>.</text></subsection><subsection id="HB5A6939D504E48539DD1666786AD1356"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Amory <quote>Amo</quote> Houghton, Jr. Post Office Building</quote>.</text></subsection></section></legis-body></bill> 
+

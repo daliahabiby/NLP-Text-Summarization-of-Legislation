@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA70CFFDD2C7D41A09B3D01C5699E6BD9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9113 IH: Pro bono Work to Empower and Represent Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9113</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220930">September 30, 2022</action-date><action-desc><sponsor name-id="P000619">Mrs. Peltola</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To remove the 4-year sunset from the Pro bono Work to Empower and Represent Act of 2018.</official-title></form><legis-body id="HC0323ED274084C14A4EC8C44E7C37741" style="OLC"> 
+<section id="H0F060DD2BF39489D9CC22736583DAC48" section-type="section-one" commented="no" display-inline="no-display-inline"><enum>1.</enum><header display-inline="yes-display-inline">Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Pro bono Work to Empower and Represent Act of 2022</short-title></quote> or the <quote><short-title>POWER 2.0 Act</short-title></quote>.</text></section> <section id="H7D47074613E1467A8577BFF7FB8945DB" commented="no" display-inline="no-display-inline" section-type="subsequent-section"><enum>2.</enum><header display-inline="yes-display-inline">Removal of sunset</header><text display-inline="no-display-inline">Section 3(a) of the Pro bono Work to Empower and Represent Act of 2018 (<external-xref legal-doc="public-law" parsable-cite="pl/115/237">Public Law 115–237</external-xref>; 132 Stat. 2448) is amended by striking <quote>for a period of 4 years</quote>.</text></section> 
+</legis-body></bill>
+

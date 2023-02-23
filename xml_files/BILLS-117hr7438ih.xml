@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2DE7CEE973BD4C0581FC33F1D9F0EE1C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7438 IH: Amplifying Processing of Livestock in the United States Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7438</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220407">April 7, 2022</action-date>
+<action-desc><sponsor name-id="H001053">Mrs. Hartzler</sponsor> (for herself, <cosponsor name-id="P000613">Mr. Panetta</cosponsor>, <cosponsor name-id="F000446">Mr. Feenstra</cosponsor>, and <cosponsor name-id="J000301">Mr. Johnson of South Dakota</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Agriculture to amend certain regulations to clarify that livestock auction owners may have an interest in small meat packing businesses, and for other purposes.</official-title>
+</form>
+<legis-body id="H4AC00419FC8040A88DCB392178D21716" style="OLC">
+<section id="HD60B23542B694AB8B82E37AA303AE80A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Amplifying Processing of Livestock in the United States Act</short-title></quote> or the <quote><short-title>A–PLUS Act</short-title></quote>. </text></section> <section id="H749CCA38230E4554B0ED667B1264AA96"><enum>2.</enum><header>Clarifying livestock auction owners allowed interest in small meat packing businesses</header><text display-inline="no-display-inline">Not later than one year after the date of the enactment of this Act, the Secretary of Agriculture shall revise section 201.67 of title 9, Code of Federal Regulations, as in effect on October 1, 2021, to specify that market agencies may have an ownership interest in, finance, or participate in the management or operation of a packing entity so long as such packing entity has a cumulative slaughter capacity of less than 2,000 animals per day or 700,000 animals per year.</text></section>
+</legis-body>
+</bill> 
+
+

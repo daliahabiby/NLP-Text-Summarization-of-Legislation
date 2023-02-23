@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9F6334AEED104CAA865EB73A2F4887A8" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7802 IH: To improve the infant formula supply chain, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7802</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220517">May 17, 2022</action-date><action-desc><sponsor name-id="M000194">Ms. Mace</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To improve the infant formula supply chain, and for other purposes.</official-title></form><legis-body id="HB9FF56D06C784A0D81A9A3941CDCB625" style="OLC"> 
+<section id="H1478622F07D4424A8E4CD819F9ABAEB2" section-type="section-one"><enum>1.</enum><header>Temporary suspension of tariffs</header><text display-inline="no-display-inline">During the 90-day period beginning on the date of enactment of this Act, and notwithstanding any other provision of law, no duty shall be imposed with respect to the importation of any infant formula product.</text></section> <section id="H2F8384AF3CB14A6EAD554926C02CAD0D"><enum>2.</enum><header>Study on feasibility of infant formula distribution centers remaining open for 24 hours a day</header><text display-inline="no-display-inline">The Comptroller General of the United States shall—</text>
+<paragraph id="H047924D2FCE64CF39A44FB08CC52DB6F"><enum>(1)</enum><text>study the feasibility of food infant formula distribution centers remaining open for 24 hours a day and any corresponding impacts to supply chains, including to determine whether keeping such centers open 24 hours a day would contribute to increasing the flow of goods and products to store shelves and final points of sale; and</text></paragraph> <paragraph id="H62E0B38694E44B8595CE5F2944D946EC"><enum>(2)</enum><text>not later 30 days after the date of enactment of this Act, complete such study and submit to the Congress a report on the results of such study.</text></paragraph></section> 
+</legis-body></bill>
+

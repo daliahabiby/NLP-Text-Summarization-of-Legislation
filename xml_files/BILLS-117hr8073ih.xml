@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB0720FBDBDD9445F8D5EDD6AFCE26850" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8073 IH: To direct the Secretary of Defense to establish a joint training pipeline between the United States Navy and the Royal Australian Navy, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8073</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220615">June 15, 2022</action-date>
+<action-desc><sponsor name-id="C001069">Mr. Courtney</sponsor> (for himself, <cosponsor name-id="G000579">Mr. Gallagher</cosponsor>, <cosponsor name-id="K000381">Mr. Kilmer</cosponsor>, <cosponsor name-id="M001213">Mr. Moore of Utah</cosponsor>, <cosponsor name-id="W000804">Mr. Wittman</cosponsor>, <cosponsor name-id="N000188">Mr. Norcross</cosponsor>, and <cosponsor name-id="P000593">Mr. Perlmutter</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name>, and in addition to the Committee on <committee-name committee-id="HAS00">Armed Services</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Defense to establish a joint training pipeline between the United States Navy and the Royal Australian Navy, and for other purposes.</official-title>
+</form>
+<legis-body id="H1C9632E0D0C949A89442447C3DF38614" style="OLC"> 
+<section id="H7DE8E947A8BD461DB612F3A0725C85C3" section-type="section-one"><enum>1.</enum><header>Establishment of joint training pipeline between United States Navy and Royal Australian Navy</header> 
+<subsection id="HD08E9CBE23F84ABDBE055EA155FE12F6"><enum>(a)</enum><header>Sense of Congress</header><text display-inline="yes-display-inline">It is the sense of Congress that—</text> <paragraph id="H00D6206967544C9888D925E0A188A194"><enum>(1)</enum><text>the AUKUS partnership between Australia, the United Kingdom, and the United States presents a significant opportunity to enhance security cooperation in the Indo-Pacific region;</text></paragraph> 
+<paragraph id="H4C110F4E0FED4BE88680598B920DA8A1"><enum>(2)</enum><text>parties to the AUKUS partnership should work expeditiously to implement a strategic roadmap to successfully deliver capabilities outlined in the agreement;</text></paragraph> <paragraph id="HB704A70D89EE404DAC93218AC8A4E30D"><enum>(3)</enum><text>the United States should engage with industry partners to develop a comprehensive understanding of the requirements needed to increase capacity and capability;</text></paragraph> 
+<paragraph id="H2B5F75F424D34EEE827281E0218BFB65"><enum>(4)</enum><text>Australia should continue to expand its industrial base to support production and delivery of future capabilities;</text></paragraph> <paragraph id="H6DAC559480594464BD61B03AA9E924AF"><enum>(5)</enum><text>the delivery of a nuclear-powered submarine to the Government of Australia would require the appropriate training and development of future commanding officers to operate such submarines for the Royal Australian Navy; and</text></paragraph> 
+<paragraph id="H17E44469AC1645C0BB3E31F3BBD930ED"><enum>(6)</enum><text>in order to uphold the stewardship of the Naval Nuclear Propulsion Program, the Secretary of Defense should work to coordinate an exchange program to integrate and train Australian sailors for the operation and maintenance of nuclear-powered submarines.</text></paragraph></subsection> <subsection id="H9C6EC54F5E17494BB0528812459171C0"><enum>(b)</enum><header>Exchange program</header><text display-inline="yes-display-inline">The Secretary of Defense, in consultation with the Secretary of Energy, shall carry out an exchange program for Australian submarine officers during 2023 and each subsequent year. Under the program, each year, two Australian submarine officers shall be selected to participate in the program. Each such participant shall—</text> 
+<paragraph id="H1503D64855ED41E0A219B9174C28AF04"><enum>(1)</enum><text>receive training in the Navy Nuclear Propulsion School;</text></paragraph> <paragraph id="H01A5B764BADF4C13BF5E0A85A6A7ED14"><enum>(2)</enum><text>following such training and by not later than July 1 of the year of participation, enroll in the Submarine Office Basic Course; and</text></paragraph> 
+<paragraph id="H3F8A8362B7C94684B4549B3A874F5F62"><enum>(3)</enum><text>following completion of such course, be assigned to duty on an operational United States submarine at sea.</text></paragraph></subsection> <subsection id="HE9CE1923781940D98870183CC00F0B7E"><enum>(c)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on a notional exchange program for Australian submarine officers that includes initial, follow-on, and recurring training that could be provided to Australian submarine officers in order to prepare such officers for command of nuclear-powered Australian submarines.</text></subsection></section> 
+</legis-body>
+</bill> 
+
+

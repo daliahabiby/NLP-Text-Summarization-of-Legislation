@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAF92BE69D1694C9B98BDD62AAAF4E58B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8529 IH: To designate the facility of the United States Postal Service located at 110 East Alexander Street in Three Rivers, Texas, as the “Private Felix Z. Longoria Veterans’ Memorial Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8529</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220727">July 27, 2022</action-date><action-desc><sponsor name-id="G000581">Mr. Vicente Gonzalez of Texas</sponsor> (for himself, <cosponsor name-id="F000468">Mrs. Fletcher</cosponsor>, <cosponsor name-id="G000553">Mr. Green of Texas</cosponsor>, <cosponsor name-id="P000048">Mr. Pfluger</cosponsor>, <cosponsor name-id="J000304">Mr. Jackson</cosponsor>, <cosponsor name-id="E000299">Ms. Escobar</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, <cosponsor name-id="C001091">Mr. Castro of Texas</cosponsor>, <cosponsor name-id="G000594">Mr. Tony Gonzales of Texas</cosponsor>, <cosponsor name-id="C001063">Mr. Cuellar</cosponsor>, <cosponsor name-id="G000587">Ms. Garcia of Texas</cosponsor>, <cosponsor name-id="J000126">Ms. Johnson of Texas</cosponsor>, <cosponsor name-id="C001051">Mr. Carter of Texas</cosponsor>, <cosponsor name-id="A000376">Mr. Allred</cosponsor>, <cosponsor name-id="V000131">Mr. Veasey</cosponsor>, <cosponsor name-id="D000399">Mr. Doggett</cosponsor>, and <cosponsor name-id="B001291">Mr. Babin</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 110 East Alexander Street in Three Rivers, Texas, as the <quote>Private Felix Z. Longoria Veterans&#8217; Memorial Post Office</quote>.</official-title></form><legis-body id="H8C44ADFB8A43491EBB255F5CD0C0870D" style="OLC"> 
+<section id="HE0CEAFE1A28043FFA6BBF38734C31A13" section-type="section-one"><enum>1.</enum><header>Private Felix Z. Longoria Veterans’ Memorial Post Office</header>
+<subsection id="H3917EFFDC4524388B8150CA73B9DAD28"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 110 East Alexander Street in Three Rivers, Texas, shall be known and designated as the <quote>Private Felix Z. Longoria Veterans’ Memorial Post Office</quote>.</text></subsection> <subsection id="HE2EA5E20B1324EDE8CA5072AC7A0EF4B"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the Private Felix Z. Longoria Veterans’ Memorial Post Office.</text></subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H89350F02C7D7441A818C5B64B29DDF05" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7162 IH: Don’t Mess with Arizona Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7162</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220318">March 18, 2022</action-date><action-desc><sponsor name-id="L000589">Mrs. Lesko</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To express the sense of Congress regarding State choice in the observation of daylight saving time.</official-title></form><legis-body id="H393409239414409A8E028066B07F2AC3" style="OLC">
+<section id="HAFBCB02E61A843459CE037F4D8830111" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Don’t Mess with Arizona Act</short-title></quote>.</text></section> <section id="H87D776A2F83D4CF4AEC938015AA0D93A" section-type="subsequent-section"><enum>2.</enum><header>Sense of Congress regarding State choice in observation of daylight saving time</header><text display-inline="no-display-inline">It is the sense of Congress that Arizona, and any other State that has exempted itself from the provisions of section 3(a) of the Uniform Time Act of 1966 (<external-xref legal-doc="usc" parsable-cite="usc/15/260a">15 U.S.C. 260a(a)</external-xref>), as in effect on March 15, 2022, should be able to—</text> 
+<paragraph id="H1F89EBFE5AED4DA29AAC2141CA654D0E"><enum>(1)</enum><text>continue to observe permanent standard time; and</text></paragraph> <paragraph id="H32DC489CA58A47A39AE9AFB8F4D6F0F1"><enum>(2)</enum><text display-inline="yes-display-inline">elect to observe daylight saving time in the future.</text> </paragraph></section> 
+</legis-body></bill>
+

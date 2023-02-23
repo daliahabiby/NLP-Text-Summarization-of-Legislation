@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC0258626D02C4B349395BFAD6F22A9E9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9170 IH: To provide an additional appropriation for the Emergency Food and Shelter Program, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9170</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221011">October 11, 2022</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAP00">Committee on Appropriations</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide an additional appropriation for the Emergency Food and Shelter Program, and for other purposes.</official-title></form><legis-body id="H2513FF5D6C5546BD8CA89F2AFE91FD0C" style="OLC"> 
+<section id="HD79735AE31DC4812BF0BC72BE6F18778" section-type="section-one"><enum>1.</enum><header>Additional appropriation</header><text display-inline="no-display-inline">Division A of the Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023 (<external-xref legal-doc="public-law" parsable-cite="pl/117/180">Public Law 117–180</external-xref>) is amended by inserting at the end (before the short title) the following new section:</text> <quoted-block style="appropriations" id="H9F4537FA6AAF47048BDC68F57FBC905C" display-inline="no-display-inline"> <section id="H30E09B3629C347BDB2248C29613B2DEB"><enum>158.</enum><text display-inline="yes-display-inline">In addition to amounts otherwise made available by section 101, there is appropriated $50,000,000 for an additional amount for fiscal year 2023, to remain available until expended, for the <quote>Federal Emergency Management Agency—Federal Assistance</quote> account, to be made available to the emergency food and shelter program for purposes of providing shelter and other services to families and individuals encountered by the Department of Homeland Security.</text></section><after-quoted-block>.</after-quoted-block></quoted-block> </section> 
+</legis-body></bill>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3E4DC928B375479599794357C17DA937" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9637 IH: Stop Airplane Seat Shrinking Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9637</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221220">December 20, 2022</action-date><action-desc><sponsor name-id="P000618">Ms. Porter</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Administrator of the Federal Aviation Administration to take certain actions to prohibit air carriers from reducing the size of passenger seats on aircraft, and for other purposes.</official-title></form><legis-body id="H1CA13E70B7B34029B43F991073FDC7B5" style="OLC">
+<section id="H275AB42FA12948D09598CF25518BF96B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Airplane Seat Shrinking Act</short-title></quote>.</text></section> <section id="H120DA602AFDC482182F22E5A8A915822" section-type="subsequent-section"><enum>2.</enum><header>Minimum dimensions of passenger seats</header><text display-inline="no-display-inline">The Administrator of the Federal Aviation Administration shall take such actions as are necessary to prohibit air carriers (as such term is defined in section 40102(a) of title 49, United States Code) from reducing the size of a passenger seat on an aircraft operated by such air carrier until the Administrator issues a final rule establishing minimum dimensions for passenger seats, as required under section 577 of the FAA Reauthorization Act of 2018 (<external-xref legal-doc="public-law" parsable-cite="pl/115/254">Public Law 115–254</external-xref>). </text> </section> 
+</legis-body></bill>
+

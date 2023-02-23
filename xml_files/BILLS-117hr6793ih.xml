@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7C53F00E27CA46158F3162939CFD6178" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6793 IH: To amend title 28, United States Code, to include a Federal Public or Community Defender as a nonvoting member of the United States Sentencing Commission, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6793</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220218">February 18, 2022</action-date><action-desc><sponsor name-id="S000185">Mr. Scott of Virginia</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 28, United States Code, to include a Federal Public or Community Defender as a nonvoting member of the United States Sentencing Commission, and for other purposes.</official-title></form><legis-body id="HB95E5739378046F8AE6BE10173C39158" style="OLC"><section id="H924CD101C6904837A3FE11DC080F4CA4" section-type="section-one"><enum>1.</enum><header>Federal defender as a nonvoting member of the United States Sentencing Commission</header><subsection id="HE3D36A1B0C9948CDBFEC5AD8DC81287E"><enum>(a)</enum><header>In general</header><text>Section 991(a) of title 28, United States Code, is amended—</text><paragraph id="H175B616F263944648EB43EC1F135B962"><enum>(1)</enum><text>in the first sentence, by striking <quote>one nonvoting member.</quote> and inserting <quote>2 nonvoting members.</quote>; and</text></paragraph><paragraph id="H87830CA475294CADACD337B5F5FAE10C"><enum>(2)</enum><text>in the fifth sentence, by striking <quote>shall be an ex officio, nonvoting member</quote> and inserting <quote>and a Federal Public or Community Defender designated by the Defender Services Advisory Group, shall be ex officio, nonvoting members of the Commission.</quote>.</text></paragraph></subsection><subsection id="HC03C8FBEB24A478A980CA9418BD87B0A"><enum>(b)</enum><header>Conforming amendment</header><text>Section 235(b)(5) of the Sentencing Reform Act of 1984 (<external-xref legal-doc="usc" parsable-cite="usc/18/3551">18 U.S.C. 3551</external-xref> note) is amended, in the last sentence, by striking <quote>nine members, including two ex officio, nonvoting members</quote> and inserting <quote>10 members, including 3 ex officio, nonvoting members.</quote>.</text></subsection></section></legis-body></bill> 
+

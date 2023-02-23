@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="HF6CDFDE4ADB54FF18F815C4E34ABEC21" public-private="public" key="H" bill-type="olc" stage-count="1">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 2473 EH: To designate the facility of the United States Postal Service located at 275 Penn Avenue in Salem, Ohio, as the “Howard Arthur Tibbs Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 2473</legis-num>
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To designate the facility of the United States Postal Service located at 275 Penn Avenue in Salem, Ohio, as the <quote>Howard Arthur Tibbs Post Office</quote>.</official-title>
+</form>
+<legis-body id="H64F3A0BB0D4A47988E8463A3560FBB41" style="OLC">
+<section id="HACD246CA548A451F973282283190E13D" section-type="section-one"><enum>1.</enum><header>Howard Arthur Tibbs Post Office</header>
+<subsection id="H1EA631D8B68D4AE7A0B4479618B36F73"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 275 Penn Avenue in Salem, Ohio, shall be known and designated as the <quote>Howard Arthur Tibbs Post Office</quote>.</text></subsection> <subsection id="HAA7AE9EB941145FEB2EE521489967ABE"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Howard Arthur Tibbs Post Office</quote>. </text></subsection></section>
+</legis-body><attestation><attestation-group><attestation-date date="20221114" chamber="House">Passed the House of Representatives November 14, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

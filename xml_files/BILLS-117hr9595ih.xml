@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H59E423286F914F8CAE9DAD1BC0F49E32" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9595 IH: To extend the temporary order for fentanyl-related substances.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9595</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221215">December 15, 2022</action-date><action-desc><sponsor name-id="P000614">Mr. Pappas</sponsor> (for himself and <cosponsor name-id="N000189">Mr. Newhouse</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HJU00">the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To extend the temporary order for fentanyl-related substances.</official-title></form><legis-body id="H251B35AD935148F88A5F9F57482B623E" style="OLC"><section id="H9CD8F269CED34A5B96C4AE77005C50B7" section-type="section-one"><enum>1.</enum><header>Extension of temporary order for fentanyl-related substances</header><text display-inline="no-display-inline">Effective as if included in the enactment of the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act (<external-xref legal-doc="public-law" parsable-cite="pl/116/114">Public Law 116–114</external-xref>), section 2 of such Act (as amended by <external-xref legal-doc="public-law" parsable-cite="pl/117/103">Public Law 117–103</external-xref>) is amended by striking <quote>December 31, 2022</quote> and inserting <quote>December 31, 2024</quote>.</text></section></legis-body></bill> 
+

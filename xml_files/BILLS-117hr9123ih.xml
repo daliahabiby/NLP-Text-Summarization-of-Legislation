@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4AA971D262B9443DA488BC98537AC3B4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9123 IH: To direct the United States Postal Service to designate a new ZIP Code for certain communities in Wisconsin.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9123</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220930">September 30, 2022</action-date><action-desc><sponsor name-id="S001213">Mr. Steil</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the United States Postal Service to designate a new ZIP Code for certain communities in Wisconsin.</official-title></form><legis-body id="H76227EB12A9B41F483A906274FB0894C" style="OLC"><section id="H6094F32FAA8149B0B2FA8AA33825FDC2" section-type="section-one"><enum>1.</enum><header>Designating new ZIP Code</header><text display-inline="no-display-inline">Not later than 270 days after the enactment of this Act, the United States Postal Service shall designate a single, unique ZIP Code for, as nearly as practicable, each of the following communities:</text><paragraph id="H8C6ABA1431DD4B589D1B1DE1B337F6EA"><enum>(1)</enum><text display-inline="yes-display-inline">Village of Somers, Wisconsin.</text></paragraph><paragraph id="H8DB7463BB1A843E4AF021550AA45EC71"><enum>(2)</enum><text>Village of Mount Pleasant, Wisconsin.</text></paragraph><paragraph id="H51C419D562394DC08559D0F3F4039E8E"><enum>(3)</enum><text>Village of Caledonia, Wisconsin.</text></paragraph></section></legis-body></bill> 
+

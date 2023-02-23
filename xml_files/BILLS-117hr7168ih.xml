@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H638F02AF96F34F509E96580567063D45" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7168 IH: Sunset Crater Volcano National Monument Boundary Adjustment Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7168</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220318">March 18, 2022</action-date><action-desc><sponsor name-id="O000171">Mr. O'Halleran</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To modify the boundary of the Sunset Crater Volcano National Monument in the State of Arizona, and for other purposes.</official-title></form><legis-body id="H32D7D9388BF34E749A92B5A62960C066" style="OLC"> 
+<section id="H70E4870D49C94E7FB8059C009DA720E4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Sunset Crater Volcano National Monument Boundary Adjustment Act</short-title></quote>.</text></section> <section id="HC7A4BED1EEE544F6A87CB6ACDD345C20"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+<paragraph id="H8178E252DEA84826B40B3874DBE3D201"><enum>(1)</enum><header>Federal land</header><text>The term <quote>Federal land</quote> means the approximately 97.71 acres of Forest Service land identified as <quote>Proposed transfer from USDA Forest Service to National Park Service</quote> on the Map. </text></paragraph> <paragraph id="H4BDF628F901B40C78B13130C34DE6A20"><enum>(2)</enum><header>Map</header><text>The term <quote>Map</quote> means the map entitled <quote>Sunset Crater Volcano National Monument Draft Proposed Boundary Adjustment </quote>, numbered 039/80,053d, and dated March 2020.</text></paragraph>
+<paragraph id="H94B3E8EB76E943D3AAC01FC0EE26CF20"><enum>(3)</enum><header>Monument</header><text>The term <quote>Monument</quote> means the Sunset Crater Volcano National Monument established by Presidential Proclamation 1911 (<external-xref legal-doc="usc" parsable-cite="usc/54/320301">54 U.S.C. 320301</external-xref> note; 46 Stat. 3023) and redesignated by section 15 of the Smith River National Recreation Area Act (<external-xref legal-doc="public-law" parsable-cite="pl/101/612">Public Law 101–612</external-xref>; 104 Stat. 3222).</text></paragraph> <paragraph id="HE749D5CE0CF84C3D9683292D733BE24D"><enum>(4)</enum><header>Secretary</header><text>The term <quote>Secretary</quote> means the Secretary of the Interior, acting through the Director of the National Park Service. </text></paragraph></section>
+<section id="H92216B543BCA434BBE46042350AE90E7"><enum>3.</enum><header>Sunset Crater Volcano National Monument boundary modification</header>
+<subsection id="HDC55B9E3ED964A54A90F89FFAF6B7B10"><enum>(a)</enum><header>Boundary modification</header><text>The boundary of the Monument is modified to include the Federal land.</text></subsection> <subsection id="H73FEC04097594A449E6720E1BFC2A10E"><enum>(b)</enum><header>Map availability</header><text>The Map shall be on file and available for inspection in the appropriate offices of the National Park Service.</text></subsection>
+<subsection id="H2C7198631EC2434BA1F4EB3CFF3B1ECA"><enum>(c)</enum><header>Transfer of administrative jurisdiction to national park service</header><text>Administrative jurisdiction over the Federal land is transferred from the Forest Service to the National Park Service.</text></subsection> <subsection id="H24D86D4D3ACF421FB18AE2938A537B03"><enum>(d)</enum><header>Administration</header><text>Subject to valid existing rights, the Secretary shall administer the Federal land added to the Monument under subsection (a)—</text>
+<paragraph id="HEBE4D6DD81364C63B93438D198ABF1D1"><enum>(1)</enum><text>as part of the Monument; and</text></paragraph> <paragraph id="H517FA10264D745779FD097E597411A78"><enum>(2)</enum><text>in accordance with applicable laws (including regulations).</text></paragraph></subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC918D812EDAC41D98E601C7E25DFD355" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6802 IH: Preventing Racial Profiling in Lending Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6802</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220218">February 18, 2022</action-date><action-desc><sponsor name-id="W000816">Mr. Williams of Texas</sponsor> (for himself, <cosponsor name-id="H001072">Mr. Hill</cosponsor>, and <cosponsor name-id="L000569">Mr. Luetkemeyer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit Federal agencies from requiring lenders to estimate a borrower’s race or ethnicity via visual observation or surname.</official-title></form><legis-body id="HC5F2B4C78208426A8482B73A7E6E7ECA" style="OLC"><section id="H680B468062B14020884C03FDC98F4361" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preventing Racial Profiling in Lending Act</short-title></quote>.</text></section><section id="HAE97593CDD94433A918841E52E0FE18D"><enum>2.</enum><header>Prohibition on estimating race or ethnicity</header><text display-inline="no-display-inline">A Federal agency may not require any person or entity, when extending credit, to estimate a borrower’s race or ethnicity via visual observation or surname.</text></section></legis-body></bill> 
+

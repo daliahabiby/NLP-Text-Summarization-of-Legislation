@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC484E8440D414CC7BF9FB03C947AB8B5" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8217 IH: To designate the facility of the United States Postal Service located at 430 South Knowles Avenue in New Richmond, Wisconsin, as the “Captain Robert C. Harmon and Private John R. Peirson Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8217</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220623">June 23, 2022</action-date><action-desc><sponsor name-id="T000165">Mr. Tiffany</sponsor> (for himself, <cosponsor name-id="S001213">Mr. Steil</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="K000188">Mr. Kind</cosponsor>, <cosponsor name-id="M001160">Ms. Moore of Wisconsin</cosponsor>, <cosponsor name-id="F000471">Mr. Fitzgerald</cosponsor>, <cosponsor name-id="G000576">Mr. Grothman</cosponsor>, and <cosponsor name-id="G000579">Mr. Gallagher</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 430 South Knowles Avenue in New Richmond, Wisconsin, as the <quote>Captain Robert C. Harmon and Private John R. Peirson Post Office Building</quote>.</official-title></form><legis-body id="H9B5FCBA564DC4D1CB147BE567B4633D9" style="OLC"> 
+<section section-type="section-one" id="H9873BA2BE209464ABCA3074E51FC5BDB"><enum>1.</enum><header>Captain Robert C. Harmon and Private John R. Peirson Post Office Building</header>
+<subsection id="H793C1E749F0D4C1AA1E1A7353CD86A96"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 430 South Knowles Avenue in New Richmond, Wisconsin, shall be known and designated as the <quote>Captain Robert C. Harmon and Private John R. Peirson Post Office Building</quote>.</text></subsection> <subsection id="H9A18570EB2F84269AC6B8F333BA9B9AB"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Captain Robert C. Harmon and Private John R. Peirson Post Office Building</quote>.</text></subsection></section> 
+</legis-body></bill>
+

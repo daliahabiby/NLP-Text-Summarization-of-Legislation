@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3EF64A1F8A5644B5941E8E062016B5CA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8606 IH: To amend title 49, United States Code, to prohibit the extension of certain contracts to procure rail rolling stock, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8606</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220729">July 29, 2022</action-date><action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 49, United States Code, to prohibit the extension of certain contracts to procure rail rolling stock, and for other purposes.</official-title></form><legis-body id="HE2AE961B6E084195A7B142A26A94C638" style="OLC"><section id="H1165CFCADBF04D1FB0D54251C67229B8" section-type="section-one"><enum>1.</enum><header>Limitation on certain rolling stock procurements</header><text display-inline="no-display-inline">Section 5323(u)(5)(A) of title 49, United States Code, is amended by striking the period at the end and inserting <quote>except that new contracts or extensions of contracts existing on the date of enactment of this clause between any public transportation agency and a rail rolling stock manufacturer described in paragraph (1) may not be executed.</quote>.</text></section></legis-body></bill> 
+

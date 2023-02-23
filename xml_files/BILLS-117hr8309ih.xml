@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0125DCAA3B0646AB9B34FDD6E7966380" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8309 IH: To amend the Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020 to extend the deadline for the report of the Commission on the State of the U.S. Olympics and Paralympics, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8309</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220707">July 7, 2022</action-date><action-desc><sponsor name-id="L000582">Mr. Lieu</sponsor> (for himself and <cosponsor name-id="D000197">Ms. DeGette</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020 to extend the deadline for the report of the Commission on the State of the U.S. Olympics and Paralympics, and for other purposes.</official-title></form><legis-body id="H149B1E2D4BFF4364974A970D8B8E3D32" style="OLC"> 
+<section section-type="section-one" id="H9E5B2BD45EB5422DB9855AF7AE23BB18"><enum>1.</enum><header>Extension of Commission on the State of U.S Olympics and Paralympics report</header><text display-inline="no-display-inline">Section 11(i)(2)(A) of the Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020 (<external-xref legal-doc="public-law" parsable-cite="pl/116/189">Public Law 116–189</external-xref>) is amended by striking <quote>Not later than 270 days after the date of the enactment of this Act</quote> and inserting <quote>Not later than September 30, 2023</quote>.</text></section> </legis-body></bill>
+

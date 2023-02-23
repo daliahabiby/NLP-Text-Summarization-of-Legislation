@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8A22714C57F1497FB435355B25AB341F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9611 IH: To delay the implementation of the modifications of exceptions for reporting of third party network transactions.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9611</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221216">December 16, 2022</action-date><action-desc><sponsor name-id="M001205">Mrs. Miller of West Virginia</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To delay the implementation of the modifications of exceptions for reporting of third party network transactions.</official-title></form><legis-body id="H5A9B421925E04AA391F05F76188068A0" style="OLC"> 
+<section id="H8124D0FEE33E48C0AE6D12210F71BA56" section-type="section-one"><enum>1.</enum><header>Delay in modification of exceptions for reporting of third party network transactions</header><text display-inline="no-display-inline">Section 9674(c)(1) of the American Rescue Plan of 2021 is amended by striking <quote>December 31, 2021</quote> and inserting <quote>December 31, 2022</quote>.</text></section> </legis-body></bill>
+

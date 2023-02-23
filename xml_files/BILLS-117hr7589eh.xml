@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H112EA011CA9149A6A99C1604AA12B297" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7589 EH: REMOVE Copays Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 7589</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend title 38, United States Code, to prohibit the imposition or collection of copayments for certain mental health outpatient care visits of veterans, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HE6C7D1F654ED4BD489CFB10C592D7EA0" style="OLC"> 
+<section id="H91DFCADF2CFF4FF88FF0EAB71C0D62B5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Reduce and Eliminate Mental Health Outpatient Veteran Copays Act</short-title></quote> or the <quote>REMOVE Copays Act</quote>.</text></section> <section id="HD88A689AA523446E9CBC459C33DE0079"><enum>2.</enum><header>Prohibition on collection of copayments for first three mental health care outpatient visits of veterans</header> <subsection id="H0050557545DC45A3855ECBE8A04D8C65"><enum>(a)</enum><header>Prohibition on collection</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/17">Chapter 17</external-xref> of title 38, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/38/1722B">section 1722B</external-xref> the following new section (and conforming the table of sections at the beginning of such chapter accordingly): </text> 
+<quoted-block style="USC" id="H42E42A483B28417C927AA8C56B66DDE4" display-inline="no-display-inline"> 
+<section id="HC98CBBCE69ED48C4829ADA4645BD7313"><enum>1722C.</enum><header>Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans</header> 
+<subsection id="H1C84315D3AA947D59EF1AFB24F0570C5"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">Except as provided in subsection (b), notwithstanding section 1710(g) of this title or any other provision of law, the Secretary may not impose or collect a copayment for the first three mental health care outpatient visits of a veteran in a calendar year for which the veteran would otherwise be required to pay a copayment under the laws administered by the Secretary.</text></subsection> <subsection id="H281C4128DE474868B876CB6B7BA769CB"><enum>(b)</enum><header>Copayment for medications</header><text display-inline="yes-display-inline">The prohibition under subsection (a) shall not apply with respect to the imposition or collection of copayments for medications pursuant to section 1722A of this title.</text></subsection> 
+<subsection id="H22E73C419E1B4858B2BAE671144C4673"><enum>(c)</enum><header>Mental health care outpatient visit defined</header><text display-inline="yes-display-inline">In this section, the term <quote>mental health care outpatient visit</quote> means an outpatient visit with a qualified mental health professional for the primary purpose of seeking mental health care or treatment for substance abuse disorder.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HD2DB600F40E048AC8E37A2A60D32DEF6"><enum>(b)</enum><header>Applicability</header><text display-inline="yes-display-inline">The amendments made by subsection (a) shall apply with respect to mental health care outpatient visits occurring on or after the date that is 180 days after the date of the enactment of this Act.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20220928" chamber="House">Passed the House of Representatives September 28, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

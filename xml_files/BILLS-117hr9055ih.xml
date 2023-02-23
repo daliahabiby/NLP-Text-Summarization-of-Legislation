@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCB470431724C4663B595E22B47712D14" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9055 IH: To provide for the posthumous commission as a captain in the regular Army of Milton Holland, who, while sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor for gallantry during the Civil War.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9055</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220929">September 29, 2022</action-date><action-desc><sponsor name-id="G000553">Mr. Green of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide for the posthumous commission as a captain in the regular Army of Milton Holland, who, while sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor for gallantry during the Civil War.</official-title></form><legis-body id="HB28CE807AB874871A60CB15C29155819" style="OLC"> 
+<section id="H1AF54D06F3064B418A7C4D1348E0FFF7" section-type="section-one"><enum>1.</enum><header>Posthumous commission as captain in the regular Army for Milton Holland</header> 
+<subsection id="H36832C72BD7B46AA9F0290BF2B826B19"><enum>(a)</enum><header>Posthumous commission</header><text display-inline="yes-display-inline">Milton Holland, who, while sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor in recognition of his action on September 29, 1864, during the Battle of Chapin’s Farm, Virginia, when, as the citation for the medal states, he <quote>took command of Company C, after all the officers had been killed or wounded, and gallantly led it</quote>, shall be deemed for all purposes to have held the grade of captain in the regular Army, effective as of that date and continuing until his separation from the Army.</text></subsection> <subsection id="HB9709F8C679B458E85BEE81888FD9F51"><enum>(b)</enum><header>Prohibition of benefits</header><text display-inline="yes-display-inline">Section 1523 of title 10, United States Code, applies in the case of the posthumous commission described in subsection (a).</text></subsection></section> 
+</legis-body></bill>
+

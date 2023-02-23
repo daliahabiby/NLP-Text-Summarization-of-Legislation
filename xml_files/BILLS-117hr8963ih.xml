@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7A75361D7AAA4DD59B175F5C0E8955DC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8963 IH: Home Rule for All Americans Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8963</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220922">September 22, 2022</action-date><action-desc><sponsor name-id="G000552">Mr. Gohmert</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To transfer venue of certain criminal prosecutions of offenses committed in the District of Columbia.</official-title></form><legis-body id="H7F6B2C32076A4104B09216D0B43ED8D2" style="OLC"><section id="H040583C8512443498DD29467266FC129" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Home Rule for All Americans Act of 2022</short-title></quote>.</text></section><section id="H6D0321207A654CCE9F106CAD15B9FD94"><enum>2.</enum><header>Transfer of venue</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, in the criminal trial of any individual for the commission of a criminal offense in the District of Columbia, the individual on trial may choose venue for the proceedings and trial to be in the district court for the district and division embracing that individual’s primary residence.</text></section></legis-body></bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-Senate" dms-id="H24E8EAFB5CC2412DA4E3F23ECA812766" public-private="public" key="S" bill-type="olc" stage-count="1" slc-id="S1-OLL22768-NXV-LM-X4D"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 3508 RS: To designate the facility of the United States Postal Service located at 39 West Main Street, in Honeoye Falls, New York, as the “CW4 Christian J. Koch Memorial Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 472</calendar><congress>117th CONGRESS</congress><session>2d Session</session><legis-num display="yes">H. R. 3508</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date>May 16, 2022</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSGA00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><action stage="Reported-in-Senate"><action-date date="20220804">August 4, 2022</action-date><action-desc>Reported by <sponsor name-id="S380">Mr. Peters</sponsor>, without amendment</action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 39 West Main Street, in Honeoye Falls, New York, as the <quote>CW4 Christian J. Koch Memorial Post Office</quote>.</official-title></form><legis-body id="H31223918002D47DD84FACDC8D45A3CDD" style="OLC"><section id="HD68D8A8D636B4B5B9D7EAABF57CB884F" section-type="section-one"><enum>1.</enum><header>Christian Koch Memorial Post Office</header><subsection id="HA2853723EE0F4A0D8E828E7C06881C9E"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 39 West Main Street, in Honeoye Falls, New York, shall be known and designated as the <quote>CW4 Christian J. Koch Memorial Post Office</quote>.</text></subsection><subsection id="HFB534CA107634D2CAB1FFC0E263DDA85"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>CW4 Christian J. Koch Memorial Post Office</quote>.</text></subsection></section></legis-body><endorsement><action-date date="20220804">August 4, 2022</action-date><action-desc>Reported without amendment</action-desc></endorsement></bill> 
+

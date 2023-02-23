@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3690DD3CE6CC4E68B056CCEE8E0842EB" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8892 IH: Access to Mental Health Services Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8892</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220919">September 19, 2022</action-date>
+<action-desc><sponsor name-id="S001185">Ms. Sewell</sponsor> (for herself, <cosponsor name-id="L000585">Mr. LaHood</cosponsor>, and <cosponsor name-id="K000392">Mr. Kustoff</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committees on <committee-name committee-id="HWM00">Ways and Means</committee-name>, and <committee-name committee-id="HED00">Education and Labor</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Health and Human Services to conduct a public outreach campaign to inform individuals covered under a group health plan or group or individual health insurance coverage of Federal requirements relating to mental health and substance use disorder crisis services, and for other purposes.</official-title>
+</form>
+<legis-body id="H186289D6F02546F59FD02A1F07B03E8B" style="OLC"> 
+<section id="H6213C2F112EF41A7873279356F88FD7E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Access to Mental Health Services Act</short-title></quote>.</text></section> <section id="H1FA290BFB04A455EB9CB5288D774BEC5" section-type="subsequent-section"><enum>2.</enum><header>Outreach and report on access to mental health and substance use disorder crisis services under group health plans and health insurance coverage</header> <subsection id="H3B25BED791BA46BF899FE732157E3708"><enum>(a)</enum><header>Outreach</header><text display-inline="yes-display-inline">Not later than January 1, 2024, the Secretaries of Health and Human Services, Labor, and the Treasury shall initiate a joint public outreach campaign to inform individuals covered under a group health plan or group or individual health insurance coverage (as such terms are defined in section 2791 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-91">42 U.S.C. 300gg–91</external-xref>)) of Federal requirements relating to the availability of, and limitations on the imposition of financial requirements or treatment limitations for, benefits for mental health and substance use disorder crisis services under such plans and coverages. Such outreach shall emphasize the benefits of such mental health and substance use disorder crisis services, including improved individual well-being, and seek to reduce perceived stigma associated with accessing such mental health and substance use disorder crisis services.</text></subsection> 
+<subsection id="H8BC0D8F8C3FA42C2B13FBA9098C24ABD"><enum>(b)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than January 1, 2024, the Secretaries of Health and Human Services, Labor, and the Treasury shall submit to Congress a joint report on—</text> <paragraph id="H457BD8E80A464B27837FB734A891AF19" commented="no"><enum>(1)</enum><text>coverage of mental health and substance use disorder crisis services under a group health plan or group or individual health insurance coverage, including—</text> 
+<subparagraph id="H18BF767D27B84D8B9DC4C7A20FAF14FB" commented="no"><enum>(A)</enum><text>which mental health and substance use disorder services are covered as crisis services;</text></subparagraph> <subparagraph id="H52BD96D6375E4F0EB24FCE72A30FE29C" commented="no"><enum>(B)</enum><text>the type of health care providers furnishing such services; and</text></subparagraph> 
+<subparagraph id="H2A93AF5FA65F4F64B82C1F2583B68D9E" commented="no"><enum>(C)</enum><text>common reimbursement approaches and billing codes used with respect to such services;</text></subparagraph></paragraph> <paragraph id="H7BB19955DF804625964A51D511FFDB7F"><enum>(2)</enum><text>barriers to individuals covered under a group health plan or group or individual health insurance coverage accessing mental health and substance use disorder crisis services, including geographic barriers and barriers caused by a limited availability of such mental health and substance use disorder crisis services in certain service areas; and</text></paragraph> 
+<paragraph id="HA86DE455953848598CAF0074314DE797"><enum>(3)</enum><text>issues relating to unexpected bills such individuals may receive after being furnished such services in certain service settings.</text></paragraph></subsection> <subsection id="HC16EB4C864E14FF68B778362C1B6C012"><enum>(c)</enum><header>Funding</header><text>In addition to amounts otherwise available for such purposes, there is appropriated $20,000,000, to remain available until expended, for purposes of carrying out this section.</text> </subsection></section> 
+</legis-body>
+</bill> 
+
+

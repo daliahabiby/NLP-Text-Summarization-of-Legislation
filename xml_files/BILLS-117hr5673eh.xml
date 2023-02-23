@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H1FFBE7446E50478F9D61C5DF54A9B27F" public-private="public" key="H" bill-type="olc" stage-count="1">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 5673 EH: Safeguarding Tomorrow through Ongoing Risk Mitigation Technical Corrections Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 5673</legis-num>
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to make technical corrections to the hazard mitigation revolving loan fund program, and for other purposes.</official-title>
+</form>
+<legis-body id="HF8C1FB08B23A46B08EB990763BB550F7" style="OLC">
+<section id="HAD3B2925055947C18C52BFCB5933AD44" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Safeguarding Tomorrow through Ongoing Risk Mitigation Technical Corrections Act</short-title></quote>.</text></section> <section id="HB6221CE1DD7C4374A4CC7375AD5BF820" section-type="subsequent-section"><enum>2.</enum><header>Technical corrections to hazard mitigation revolving loan fund program</header><text display-inline="no-display-inline">Section 205 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5135">42 U.S.C. 5135</external-xref>) is amended—</text>
+<paragraph id="H76740C4AAF084D328611CB40006A64DB"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (d)—</text> <subparagraph id="HAA8AE487033547CBB8DCB844A7C8B28F"><enum>(A)</enum><text>in paragraph (2)—</text>
+<clause id="H4792F8D0D2E64E0580DC39A223A9524E"><enum>(i)</enum><text>by striking subparagraph (C);</text></clause> <clause id="HFA38570F464B4BD1A53B329A10DB619D"><enum>(ii)</enum><text display-inline="yes-display-inline">at the end of subparagraph (A), by adding <quote>and</quote>; and</text></clause>
+<clause id="H6AFEA6AE9A794E0996B3ADA966A66673"><enum>(iii)</enum><text>at the end of subparagraph (B), by striking <quote>; and</quote> and inserting a period;</text></clause></subparagraph> <subparagraph id="HD25280C3E2E84118AE8E456CAB270CEE"><enum>(B)</enum><text display-inline="yes-display-inline">in paragraph (3)(D), by striking <quote>local governments, insular areas, and Indian tribal governments</quote> and inserting <quote>local governments and Tribal governments</quote>; and </text></subparagraph>
+<subparagraph id="H1AD7D051621F496198CCFC8DF3285389"><enum>(C)</enum><text>by striking paragraph (4);</text></subparagraph></paragraph> <paragraph id="H8D4C7D8F99974520B8329F85F86E7DC7"><enum>(2)</enum><text display-inline="yes-display-inline">in subsection (f)—</text>
+<subparagraph id="H5FFCA2A717CE4C438E63B0A5679F8D2F"><enum>(A)</enum><text>in paragraph (4)—</text> <clause id="H31985A0748024266AE7B2A9918D70A74"><enum>(i)</enum><text>by striking subparagraph (B); and</text></clause>
+<clause id="HB76951CB25714FC0B6FA6578BE6CE7EF"><enum>(ii)</enum><text>by redesignating subparagraphs (C) through (D) as subparagraphs (B) through (C), respectively; and</text></clause></subparagraph> <subparagraph id="HE2A9EB7E219243F29B2DD41E4A8A735A"><enum>(B)</enum><text>in paragraph (5)—</text>
+<clause id="H529A9B6F050D4B3DA4756E3D9EDE6DF7"><enum>(i)</enum><text>in the paragraph heading, by striking <quote><header-in-text level="paragraph" style="OLC">establishing</header-in-text></quote> and inserting <quote><header-in-text level="paragraph" style="OLC">implementing</header-in-text></quote>;</text></clause> <clause id="H339F6A71570D4FFBB296117DE69BFE9D"><enum>(ii)</enum><text>by striking <quote>establish</quote> and inserting <quote>implement</quote>;</text></clause>
+<clause id="HFA9C216EAB0E461D841D8AB7DCD4ED6E"><enum>(iii)</enum><text display-inline="yes-display-inline">by inserting <quote>2</quote> after <quote>latest</quote>; and</text></clause> <clause id="H0FE1A5EF49554590A30B56EFADEE48F4"><enum>(iv)</enum><text display-inline="yes-display-inline">by inserting <quote>, including any amendments made by State, local, Tribal, or territorial governments to such codes, specifications, and standards,</quote> after <quote>standards</quote>; and</text></clause></subparagraph></paragraph>
+<paragraph id="H2E0D314DF57846379C46F60072F301F4"><enum>(3)</enum><text>in subsection (m)—</text> <subparagraph id="H7E3D2AA6E82C4451B7A2FA9B6F226863"><enum>(A)</enum><text>by striking paragraph (3) and inserting the following:</text>
+<quoted-block style="OLC" id="H7BA1C188092A4343BDC1F07AC003862D" display-inline="no-display-inline">
+<paragraph id="HA55F075870654D06950232CABF2E23E4"><enum>(3)</enum><header>Eligible entity</header><text display-inline="yes-display-inline">The term <quote>eligible entity</quote> means a State or an Indian tribal government that has received a major disaster declaration pursuant to section 401.</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></subparagraph> <subparagraph id="HD19EF62AD43C4D7FAA1A71EC726DFB7D"><enum>(B)</enum><text>by striking paragraphs (5) and (10); </text></subparagraph>
+<subparagraph id="H1C6B774E995E48FC800C42BED8002C8A"><enum>(C)</enum><text>by redesignating paragraphs (6) through (9) as paragraphs (5) through (8), respectively; and</text></subparagraph> <subparagraph id="H1794A1EE2AEA4FE5988567762FF6537B"><enum>(D)</enum><text>by redesignating paragraph (11) as paragraph (9).</text></subparagraph></paragraph></section>
+</legis-body><attestation><attestation-group><attestation-date date="20220330" chamber="House">Passed the House of Representatives March 30, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

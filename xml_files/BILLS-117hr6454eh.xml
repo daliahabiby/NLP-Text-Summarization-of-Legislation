@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H5781184982CE427697A74F6CDD681D27" public-private="public" key="H" bill-type="olc" stage-count="1">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6454 EH: Small Business Advocacy Improvements Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6454</legis-num>
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To clarify the primary functions and duties of the Office of Advocacy of the Small Business Administration, and for other purposes.</official-title>
+</form>
+<legis-body id="HA61A353FF4B74FDF9C78805308DDCF4E" style="OLC">
+<section id="HC79C6F25B453497B9CDC63CC0134FD16" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Advocacy Improvements Act of 2022</short-title></quote>.</text></section> <section id="HEF9E4839924844A5B014BE56F727AC42" section-type="subsequent-section"><enum>2.</enum><header>Amendment to primary functions and duties of the Office of Advocacy of the Small Business Administration</header> <subsection id="HF03BBC8678714D8FA597DCE493C5F918"><enum>(a)</enum><header>Primary functions</header><text>Section 202 of <external-xref legal-doc="public-law" parsable-cite="pl/94/305">Public Law 94–305</external-xref> (<external-xref legal-doc="usc" parsable-cite="usc/15/634b">15 U.S.C. 634b</external-xref>) is amended—</text>
+<paragraph id="H2A2FC1F0046B44768AE9C091CAF829F2"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (1), by inserting <quote>and the international economy</quote> after <quote>economy</quote>;</text></paragraph> <paragraph id="H76162A782D6B49F5AB6F893389C8388D"><enum>(2)</enum><text>in paragraph (9), by striking <quote>complete</quote> and inserting <quote>compete</quote>; and</text></paragraph>
+<paragraph id="H0A8D6B4CFB184C30ACB45DCCA4AE5FA3"><enum>(3)</enum><text>in paragraph (12), by striking <quote>serviced-disabled</quote> and inserting <quote>service-disabled</quote>.</text></paragraph></subsection> <subsection id="H33743C7BAFAC4CF889D1BC8EC1FEB935"><enum>(b)</enum><header>Duties</header><text display-inline="yes-display-inline">Section 203(a) of <external-xref legal-doc="public-law" parsable-cite="pl/94/305">Public Law 94–305</external-xref> (<external-xref legal-doc="usc" parsable-cite="usc/15/634c">15 U.S.C. 634c</external-xref>) is amended—</text>
+<paragraph id="H1FAE4EBF0CD441B78DBD019E5E763BAB"><enum>(1)</enum><text>in paragraph (5), by striking <quote>and</quote> at the end;</text></paragraph> <paragraph id="HA7F9E5B333D64B34B10B4EC1AF73B2CC"><enum>(2)</enum><text>in paragraph (6), by striking the period at the end and inserting <quote>; and</quote>; and</text></paragraph>
+<paragraph id="H6092FF7CA2174A4DA6E471DD000059BF"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="HE39279A4C83A4039A988AA51B9E98E02" style="OLC"> <paragraph id="H078EC9C8E7754AB894DBF1F21FD255A6"><enum>(7)</enum><text display-inline="yes-display-inline">represent the views and interests of small businesses before foreign governments and international entities for the purpose of contributing to regulatory and trade initiatives which may affect small businesses.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section>
+</legis-body><attestation><attestation-group><attestation-date date="20220426" chamber="House">Passed the House of Representatives April 26, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

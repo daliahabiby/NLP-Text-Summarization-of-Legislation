@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H153EB850F0EB486A9362A7154E64DCB4" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7952 EH: Valley Forge Park Realignment Permit and Promise Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 7952</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To authorize the Secretary of the Interior to issue a right-of-way permit with respect to a natural gas distribution pipeline within Valley Forge National Historical Park, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HE5E1BAEE6FE347BEB9CB7A214DB9D86F" style="OLC"> 
+<section id="H193AFA450FBF4DA5899A37CC40F429A2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Valley Forge Park Realignment Permit and Promise Act</short-title></quote>.</text></section> <section id="HFBC01011DF0F46B0BA3F9DC0D96B9D04"><enum>2.</enum><header>Right-of-way permit for natural gas distribution main segment at Valley Forge NHP</header> <subsection id="H9C86B0D98F544D7E89D7381B0677A557"><enum>(a)</enum><header>In general</header><text>Notwithstanding any other provision of law, the Secretary may issue a right-of-way permit pursuant to part 14 of title 36, Code of Federal Regulations (as in effect on the date of the enactment of this Act), for the covered main segment if the covered main segment is relocated to a proposed realignment of Valley Forge Park Road and North Gulph Road within the Park.</text></subsection> 
+<subsection id="H67AC195FAE084A32AFC8E49065B2883C"><enum>(b)</enum><header>Scope of authority</header><text>The authority to grant a right-of-way permit under subsection (a) shall apply only to the covered main segment and shall not apply to any other part of the natural gas distribution main system or any other pipeline system within the Park. </text></subsection> <subsection id="H5654DEE64A2A4A36B44178BA00DA0C25"><enum>(c)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> 
+<paragraph id="H8F9C2A21D72248BA9B53CDC5ED97555E"><enum>(1)</enum><header>Covered main segment</header><text>The term <term>covered main segment</term> means the portions of the natural gas distribution main (including all appurtenances used in the operation of such main) within the Park—</text> <subparagraph id="H934E7BA0EC8C41EDB007C9DDBDB38294"><enum>(A)</enum><text>existing on the date of the enactment of this Act; and</text></subparagraph> 
+<subparagraph id="HDB8D8D4CCEEA47FFACD203B97BD92412"><enum>(B)</enum><text>that are located under, along, or adjacent to the segments of North Gulph Road and Valley Forge Park Road (SR3039 and SR0023 respectively, as those roads were aligned on January 21, 2022) that are between—</text> <clause id="HF1B85AAEA2E14A16AE7FFC0851E6B209"><enum>(i)</enum><text>the intersection of North Gulph Road with Richards Road; and</text></clause> 
+<clause id="HD3298669CB8144F2A902243B708797BB"><enum>(ii)</enum><text>a point on Valley Forge Park Road located 500 feet northwest of its intersection with County Line Road.</text></clause></subparagraph></paragraph> <paragraph id="HE8920159E2E64B79875008D0ED742A45"><enum>(2)</enum><header>Park</header><text>The term <term>Park</term> means Valley Forge National Historical Park.</text></paragraph> 
+<paragraph id="HF5ED23B50EBB49DF93916E1F2E6636D4"><enum>(3)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of the Interior.</text></paragraph></subsection></section> <section id="HFBC9640297864940A0B16ACE7A3EDF7C"><enum>3.</enum><header>Determination of budgetary effects</header><text display-inline="no-display-inline">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</text></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20221212" chamber="House">Passed the House of Representatives December 12, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

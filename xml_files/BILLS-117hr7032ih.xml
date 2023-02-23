@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0FB01E1A45DD4D8A986449E84F2B93DF" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7032 IH: Increasing Transparency in Generic Drug Applications Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7032</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220309">March 9, 2022</action-date>
+<action-desc><sponsor name-id="K000382">Ms. Kuster</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend section 505(j) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/355">21 U.S.C. 355(j)</external-xref>) with respect to a process to inform persons submitting an abbreviated application for a new drug whether the new drug is qualitatively or quantitatively the same as a listed drug, and for other purposes.</official-title>
+</form>
+<legis-body id="H10D2BF0409114C3EB94B2002C1D3E5B8" style="OLC"> 
+<section id="H41D9AD6E34CC43E6A64116A298E39A0C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Increasing Transparency in Generic Drug Applications Act of 2022</short-title></quote>.</text></section> <section id="HD76400DD2D9849C2B959741A5F5B90C7"><enum>2.</enum><header>Determining whether proposed new generic drugs are qualitatively or quantitatively the same as the listed drug</header> <subsection id="H75EDA6296BCC4A3ABFBEA024843E7C06"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 505(j)(3) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/355">21 U.S.C. 355(j)(3)</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="HCB2FE17D4BF44BA9B0DA3F588B7D5D7C" display-inline="no-display-inline"> 
+<subparagraph id="H295BE2D5364441FAA0F8F813BF142A0E" indent="up2"><enum>(H)</enum> 
+<clause id="HEF676D531B1E4D15B655C43011CD383D" display-inline="yes-display-inline"><enum>(i)</enum><text>Upon request (in controlled correspondence or otherwise) by a person that has submitted or intends to submit an abbreviated application for a new drug under this subsection or on the Secretary’s own initiative during the review of such abbreviated application, the Secretary shall inform the person whether such new drug is qualitatively and quantitatively the same as the listed drug. </text></clause> <clause id="H6F04A39E914A47CB800DE9F1B4CCBFF2" indent="up1"><enum>(ii)</enum><text>If the Secretary determines that such new drug is not qualitatively or quantitatively the same as the listed drug, the Secretary shall identify and disclose to the person—</text> 
+<subclause id="H95BD254FB34142B6AC69AE1CE33BF4C8"><enum>(I)</enum><text>the ingredient or ingredients that cause the new drug not to be qualitatively or quantitatively the same as the listed drug; and</text></subclause> <subclause id="HF1DD7029F124459792B1C72D3D3E341D"><enum>(II)</enum><text>the quantity or proportion of any ingredient in the listed drug for which there is an identified quantitative deviation.</text></subclause></clause> 
+<clause id="H9DF89428066E41AABBECED01BFE0118B" indent="up1"><enum>(iii)</enum><text display-inline="yes-display-inline">If the Secretary determines that such new drug is qualitatively and quantitatively the same as the listed drug, the Secretary shall not change or rescind such determination after the submission of an abbreviated application for such new drug under this subsection unless—</text> <subclause id="HC0A84C81EBE3407FAFBD86329885991E"><enum>(I)</enum><text>the formulation of the listed drug has been changed and the Secretary has determined that the prior listed drug formulation was withdrawn for reasons of safety or effectiveness; or</text></subclause> 
+<subclause id="H4A306831F74D4195886A367D79BE41DF"><enum>(II)</enum><text>the Secretary makes a written determination that the prior determination must be changed because an error has been identified. </text></subclause></clause> <clause id="H11AA04F9A17444A296F292423EDE1D73" indent="up1"><enum>(iv)</enum><text display-inline="yes-display-inline">If the Secretary makes a written determination described in clause (iii)(II), the Secretary shall provide notice and a copy of the written determination to the person making the request under clause (i).</text></clause> 
+<clause id="HC772A11A860E4697B45662AFA54A16DF" indent="up1"><enum>(v)</enum><text>The disclosures required by this subparagraph are disclosures authorized by law under section 1905 of title 18, United States Code.</text></clause></subparagraph> <after-quoted-block>.</after-quoted-block></quoted-block> </subsection> <subsection id="H57E2A7AF515C4ACEB8A8CA7A5E5CD354"><enum>(b)</enum><header>Guidance</header> <paragraph id="H312391B25B8B41D9AD7CABC5E6794734"><enum>(1)</enum><header>In general</header><text>Not later than one year after the date of enactment of this Act, the Secretary of Health and Human Services shall issue guidance describing how the Secretary will determine whether a new drug is qualitatively and quantitatively the same as the listed drug (as such terms are used in section 505(j)(3)(H) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a)), including with respect to assessing pH adjusters.</text></paragraph> 
+<paragraph id="HE5C458B4B0624B4783CF501350D3D969"><enum>(2)</enum><header>Process</header><text display-inline="yes-display-inline">In issuing guidance as required by paragraph (1), the Secretary of Health and Human Services shall—</text> <subparagraph id="H57CC6531D0554A34AFC7156A0F6C136E"><enum>(A)</enum><text>publish draft guidance;</text></subparagraph> 
+<subparagraph id="H7ED367A25E5243EF9F4435A584629370"><enum>(B)</enum><text>provide a period of at least 60 days for comment on the draft guidance; and</text></subparagraph> <subparagraph id="H1CED23DCEF174FB18534758F008FB7A4"><enum>(C)</enum><text>after considering any comments received, publish final guidance.</text></subparagraph></paragraph></subsection> 
+<subsection id="HD2477BFA14EB40B68CEDF18E0B57080E"><enum>(c)</enum><header>Applicability</header><text>Section 505(j)(3)(H) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a), applies beginning on the date of enactment of this Act, irrespective of the date on which the guidance required by subsection (b) is finalized.</text></subsection></section> </legis-body> </bill> 
+

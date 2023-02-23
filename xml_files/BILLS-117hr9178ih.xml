@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H93F2D0D0270244AA9BD81B55065B8558" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9178 IH: To amend the Controlled Substances Act to fix a technical error in the definitions.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-10-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9178</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221014">October 14, 2022</action-date><action-desc><sponsor name-id="B001309">Mr. Burchett</sponsor> (for himself and <cosponsor name-id="C001068">Mr. Cohen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HJU00">the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Controlled Substances Act to fix a technical error in the definitions.</official-title></form><legis-body id="H5F407B9820CF412082D9D6B33006EBA0" style="OLC"> 
+<section section-type="section-one" id="HB3346103268043C18EA63A66F8E1966C" commented="no" display-inline="no-display-inline"><enum>1.</enum><header display-inline="yes-display-inline">Amendments to the Controlled Substances Act</header><text display-inline="no-display-inline"> Section 102 of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/802">21 U.S.C. 802</external-xref>) is amended—</text> <paragraph id="H5EDBD66637E24F66B02E6EEE93BBA09D" commented="no" display-inline="no-display-inline"><enum>(1)</enum><text display-inline="yes-display-inline">by redesignating paragraph (58) as paragraph (59);</text></paragraph> 
+<paragraph id="HC6847363BF5E4497BE9D1CA9AA1D4A4F" commented="no" display-inline="no-display-inline"><enum>(2)</enum><text display-inline="yes-display-inline">by redesignating the second paragraph designated as paragraph (57) (relating to the definition of <quote>serious drug felony</quote>) as paragraph (58); and</text></paragraph> <paragraph id="HD9041D5AD7C44B4782919D7B5083FA74" commented="no" display-inline="no-display-inline"><enum>(3)</enum><text display-inline="yes-display-inline">by moving paragraphs (57), (58) (as so redesignated), and (59) (as so redesignated) 2 ems to the left.</text></paragraph></section> 
+</legis-body></bill>
+
+

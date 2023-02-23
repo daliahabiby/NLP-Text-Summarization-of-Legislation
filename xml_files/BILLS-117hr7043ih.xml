@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3B61454B6B0B484D8BD7706A1B22998F" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7043 IH: Republic of Georgia Sovereignty Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 7043</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20220309">March 9, 2022</action-date> 
+<action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To prohibit United States recognition of the claims of sovereignty of South Ossetia or Abkhazia within the Republic of Georgia.</official-title> 
+</form> 
+<legis-body id="H960A0B3A665C477EACC39D71CA1D07A5" style="OLC"> 
+<section id="H8CCF0CE60FD54C6BBFDE7E4F53B70B7D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Republic of Georgia Sovereignty Act</short-title></quote>.</text></section> <section id="H2AF72C1DD0354D769E90425714279DE6"><enum>2.</enum><header>Prohibition against United States recognition of the claims of sovereignty of South Ossetia or Abkhazia within the Republic of Georgia</header> <subsection id="H60C18CC833364A53AFD9406A59CB4029"><enum>(a)</enum><header>Statement of policy</header><text display-inline="yes-display-inline">It is the policy of the United States not to recognize the claims of sovereignty of the following areas within the Republic of Georgia:</text> 
+<paragraph id="H26DD5BFAAB0649DA9BCC4489A9EBC8AA"><enum>(1)</enum><text>South Ossetia.</text></paragraph> <paragraph id="HD175CA247ACB42DBBB3E476C9BB91EE3"><enum>(2)</enum><text>Abkhazia.</text></paragraph></subsection> 
+<subsection id="H071ADDEEF6174CD0A7349B82AFFACDFA"><enum>(b)</enum><header>Prohibition</header><text>In accordance with subsection (a), no Federal department or agency may take any action or extend any assistance that implies recognition of the claims of sovereignty of South Ossetia or Abkhazia within the Republic of Georgia, or any other closely-related successor entities.</text> </subsection></section> </legis-body> </bill> 
+

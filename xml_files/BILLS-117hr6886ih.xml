@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA18F8E13494E4C608E99DB181898840B" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6886 IH: Powering America through Domestic Energy Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6886</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220301">March 1, 2022</action-date>
+<action-desc><sponsor name-id="L000566">Mr. Latta</sponsor> (for himself and <cosponsor name-id="W000815">Mr. Wenstrup</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name>, and in addition to the Committees on <committee-name committee-id="HWM00">Ways and Means</committee-name>, <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, and <committee-name committee-id="HSY00">Science, Space, and Technology</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the importation of crude oil and petroleum products from the Russian Federation, and for other purposes.</official-title>
+</form>
+<legis-body id="H75206DE51B0A48339867133D65946547" style="OLC"> 
+<section id="HB940D78758574D42A950EBC4A0401043" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Powering America through Domestic Energy Act</short-title></quote> or the <quote><short-title>PADE Act</short-title></quote>.</text></section> <section id="HE1DE6A31B9B341E38B3A2687ECC63476"><enum>2.</enum><header>Prohibition on importation of crude oil and petroleum products from the Russian Federation</header> <subsection id="HEE53CEC76B354C52AB2C9BDFD71E1F41"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Effective beginning on the date of the enactment of this Act, the President shall prohibit the importation of crude oil and petroleum products from the Russian Federation.</text></subsection> 
+<subsection id="H26A14B8E99DA4DA29113EE6A0C25DC83"><enum>(b)</enum><header>Regulations</header><text display-inline="yes-display-inline">The President shall promulgate such regulations as may be necessary and appropriate to carry out this section.</text></subsection></section> <section id="HFAB457F9847C41FDB8F28DE1101F960B"><enum>3.</enum><header>Prohibition on declaration of a moratorium on hydraulic fracturing</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, the President may not declare a moratorium on the use of hydraulic fracturing unless such moratorium is authorized by an Act of Congress.</text></section> 
+<section id="H1B94BA0A318243B398BF2A9CB7C4A331"><enum>4.</enum><header>Prohibition on withdrawal of Federal land from oil and gas leasing</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, the President may not withdraw any Federal land from oil and gas leasing under any of the mineral leasing laws unless such withdrawal has been authorized by an Act of Congress.</text></section> <section id="H378C7FBBF8FB453C9533DFC916DA96C6"><enum>5.</enum><header>Sense of Congress</header><text display-inline="no-display-inline">It is the sense of Congress that the United States should support, and not limit access to, all domestic sources of energy development in an effort to achieve full energy security, including by—</text> 
+<paragraph id="H71D38B89FAB84A7C81F1D678413E6526"><enum>(1)</enum><text>encouraging technological innovations to exploit the vast supply of natural gas;</text></paragraph> <paragraph id="H58D348DA7F0C492A834126D94F0AAEF3"><enum>(2)</enum><text>increasing domestic oil production, infrastructure, and refining capacity;</text></paragraph> 
+<paragraph id="H7BE55ED92992451784575895EC789806"><enum>(3)</enum><text>exploring and investing in the current nuclear fleet and advanced reactor technologies;</text></paragraph> <paragraph id="H4BA699533F7A44A19ECC727ADA1BC0DB"><enum>(4)</enum><text>rolling back Executive orders that limit the exploration and development of domestic natural resources on Federal lands;</text></paragraph> 
+<paragraph id="H2278553A9D824FD892A13A27E0BE207D"><enum>(5)</enum><text>taking advantage of domestic coal supply through processes such as carbon capture, utilization, and storage;</text></paragraph> <paragraph id="H757C91641C1846D1BB3D45052E932D06"><enum>(6)</enum><text>using expanded renewable and alternative energy sources;</text></paragraph> 
+<paragraph id="HCEE0CAE3CFD24F6192A4AB20124088F4"><enum>(7)</enum><text>supporting additional research and development through new and innovative methods, including public-private partnerships;</text></paragraph> <paragraph id="HF0AA104F40F94DC8BE29DBFEE3BBB2EE"><enum>(8)</enum><text>promoting increased conservation and energy efficiency; and</text></paragraph> 
+<paragraph id="H8A886537840E43F89DC24ED81ED78814"><enum>(9)</enum><text>enhancing consumer awareness and education regarding domestic energy use, supply, and development.</text></paragraph></section> </legis-body> </bill> 
+

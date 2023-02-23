@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9EBE0B8780864D928E55D6D1D2E0AAD0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8234 IH: Pacific Island Aviator Development Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8234</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220624">June 24, 2022</action-date><action-desc><sponsor name-id="S001204">Mr. San Nicolas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Transportation to issue certain regulations to amend title 14, Code of Federal Regulations, to establish an exception for the straight-line distance requirement for an airplane single-engine rating, and for other purposes.</official-title></form><legis-body id="HCBB039F97E1442FD9127548C399FFAB7" style="OLC"><section id="H45567EEA216A45449432ECA7711698C2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Pacific Island Aviator Development Act</short-title></quote>.</text></section><section id="HA9C74296B5204E7994BA5B92C32C26A1" section-type="subsequent-section"><enum>2.</enum><header>Aeronautical experience</header><text display-inline="no-display-inline">The Secretary of Transportation shall issue such regulations as are necessary to amend section 61.129(a)(4)(i) of title 14, Code of Federal Regulations, to establish an exception of a straight-line distance of at least 110 nautical miles for the longest segment cross-country flight requirement if the requirement is being met in Guam, Hawaii, or the Commonwealth of the Northern Mariana Islands. </text></section></legis-body></bill> 
+

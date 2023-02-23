@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCBF0924989994CB6AA15E97E200C83F7" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6547 IH: NYCHA Accountability Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6547</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220201">February 1, 2022</action-date><action-desc><sponsor name-id="M000317">Ms. Malliotakis</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Inspector General of the Department of Housing and Urban Development to submit to the Congress a report on the New York City Housing Authority, and for other purposes.</official-title></form><legis-body id="H1F6F55AEB0074DCB85760A7FADAC8B23" style="OLC"><section id="HC36D44C631334616B75BEE56CE2595A8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>NYCHA Accountability Act of 2022</short-title></quote>. </text></section><section id="H3589B5E7EFB942F0AD06DE824E0E2203"><enum>2.</enum><header>Report to the Congress on New York City Housing Authority</header><text display-inline="no-display-inline">Not later than 1 year after the date of the enactment of this Act, the Inspector General of the Department of Housing and Urban Development shall submit to the Congress a report that contains—</text><paragraph id="HCEA9AEC9DF4C454CB151BDBBC5BF03AA"><enum>(1)</enum><text display-inline="yes-display-inline">an analysis of health and safety conditions with respect to dwelling units owned or administered by the New York City Housing Authority;</text></paragraph><paragraph id="HA66B71F705A04FEF804EEB20EFF2DD6C"><enum>(2)</enum><text display-inline="yes-display-inline">an analysis of the New York City Housing Authority’s compliance with Federal, State, and local housing regulations;</text></paragraph><paragraph id="H3AFD6ECE394E4105B19876110EB73DFD"><enum>(3)</enum><text>an audit of the Federal funds received by the New York City Housing Authority during fiscal years 2014 through 2022; and</text></paragraph><paragraph id="H1D99D70996A6496AA5CCB16E89EA86F2"><enum>(4)</enum><text display-inline="yes-display-inline">additional findings and recommendations of the Inspector General of the Department of Housing and Urban Development.</text></paragraph></section></legis-body></bill> 
+

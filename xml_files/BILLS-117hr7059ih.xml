@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC80D11C2192A4839962DF52945036CB6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7059 IH: No Alternatives to Detention for Illegals Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7059</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220311">March 11, 2022</action-date><action-desc><sponsor name-id="I000056">Mr. Issa</sponsor> (for himself, <cosponsor name-id="B001248">Mr. Burgess</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="L000589">Mrs. Lesko</cosponsor>, and <cosponsor name-id="K000395">Mr. Keller</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of Homeland Security from enacting certain alternative to detention programs for aliens, and for other purposes.</official-title></form><legis-body id="H83601C44D42147BFB54599F0197F3969" style="OLC"><section id="HABBA5FAF642340CEA3E63E52E1832509" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Alternatives to Detention for Illegals Act of 2022</short-title></quote>.</text></section><section id="H100856DB11F1466695E38169758B710F"><enum>2.</enum><header>Prohibition on certain alternative to detention programs</header><text display-inline="no-display-inline">Beginning on the date of the enactment of this Act, no Federal funds may be used by the Secretary of Homeland Security to enact any program with respect to the use of a home curfew or other alternatives to detention for an alien who is in the custody of the Secretary and housed at an immigration detention center. </text></section></legis-body></bill> 
+

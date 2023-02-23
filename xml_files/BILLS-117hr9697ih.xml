@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF5437473317242F09DB7AF8A8F1CE124" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9697 IH: To prohibit the use of funds to provide United States military support for the Saudi-led military intervention in Yemen, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 9697</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20221227">December 27, 2022</action-date>
+<action-desc><sponsor name-id="K000389">Mr. Khanna</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the use of funds to provide United States military support for the Saudi-led military intervention in Yemen, and for other purposes.</official-title>
+</form>
+<legis-body id="H49DC29972C2D4F9D9D314219CF57F799" style="OLC">
+<section id="H11E6F6E25E2D43479E77F88B369FB1B8" section-type="section-one"><enum>1.</enum><header>Prohibition on United States military support for the Saudi-led military intervention in Yemen</header>
+<subsection id="H0271560CDD3745D69F57054E0F1F1601"><enum>(a)</enum><header>Prohibition relating to support</header><text>None of the funds authorized to be appropriated or otherwise made available for the Department of Defense for fiscal year 2023 may be made available to provide the following forms of United States support to Saudi-led coalition’s operations against the Houthis in Yemen:</text> <paragraph id="H95436C269E674C50AAB23575B2EBA40D"><enum>(1)</enum><text>Sharing intelligence for the purpose of enabling offensive coalition strikes.</text></paragraph>
+<paragraph id="HF914B0B029334E36B58DB9DAED4F7577"><enum>(2)</enum><text>Providing logistical support for coalition strikes, including by providing maintenance or transferring spare parts to coalition members flying warplanes engaged in anti-Houthi bombings.</text></paragraph></subsection> <subsection id="HFF6A242F05ED48A09C4A4993B0F893BD"><enum>(b)</enum><header>Prohibition relating to military participation</header><text>None of the funds authorized to be appropriated or otherwise made available for the Department of Defense for fiscal year 2023 may be made available for any civilian or military personnel of the Department of Defense to command, coordinate, participate in the movement of, or accompany the regular or irregular military forces of the Saudi and United Arab Emirates-led coalition forces in hostilities against the Houthis in Yemen or in situations in which there exists an imminent threat that such coalition forces become engaged in such hostilities, unless and until the President has obtained specific statutory authorization, in accordance with section 8(a) of the War Powers Resolution (<external-xref legal-doc="usc" parsable-cite="usc/50/1547">50 U.S.C. 1547(a)</external-xref>).</text></subsection>
+<subsection id="H25EA32A6522842889C87D56889FF23CC"><enum>(c)</enum><header>Rule of construction</header><text>The prohibitions under this section may not be construed to apply with respect to United States Armed Forces engaged in operations directed at al-Qaeda or associated forces.</text></subsection></section> </legis-body> </bill> 
+

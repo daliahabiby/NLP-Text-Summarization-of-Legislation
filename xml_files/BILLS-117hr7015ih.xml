@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB260B63F724A478B915473079111A914" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7015 IH: Confiscating Corrupt Criminal Proceeds (CCCP) Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7015</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220309">March 9, 2022</action-date><action-desc><sponsor name-id="B001309">Mr. Burchett</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide for the conveyance of seized Russian and Belarusian assets to the people of Ukraine.</official-title></form><legis-body id="HC3A7CFB36911436B9CC62AD1D395276E" style="OLC"><section id="H8022FD3C34764FB39725201613F02C1F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Confiscating Corrupt Criminal Proceeds (CCCP) Act of 2022</short-title></quote>.</text></section><section id="H871746E371EB4AD2802696E9F020EAA9" section-type="subsequent-section"><enum>2.</enum><header>Use of certain forfeited assets</header><text display-inline="no-display-inline">Section 981(e) of title 18, United States Code, is amended—</text><paragraph id="H7D0E6F759CC7427EAA6D44FBC32870F7"><enum>(1)</enum><text>in paragraph (6), by striking <quote>or</quote> at the end;</text></paragraph><paragraph id="H798FB80D650643C8848C2B6477C121B5"><enum>(2)</enum><text>in paragraph (7), by striking the period at the end and inserting <quote>; or</quote>; and</text></paragraph><paragraph id="H03F704AF3D5440FE8B651907ED10A9B0"><enum>(3)</enum><text>by adding at the end the following: </text><quoted-block style="USC" id="HB1FA5FE284AA41098BAF22DD5ACEDB65" display-inline="no-display-inline"><paragraph id="H8238F1EB3DAD4EC187E33B42C8D2411E"><enum>(8)</enum><text display-inline="yes-display-inline">in the case of any property owned by a Russian or Belarusian national, to the Administrator of the United States Agency for International Development, to be made available to provide humanitarian assistance to the people of Ukraine.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill> 
+

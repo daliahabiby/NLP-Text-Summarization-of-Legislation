@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBB40629B9852468AA63AE8A8FFFA99D3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8720 IH: To prohibit the availability of funds for the Department of Defense for organizing, promoting, or hosting drag shows as a means of diversity, equity, and inclusion initiatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8720</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220816">August 16, 2022</action-date><action-desc><sponsor name-id="G000576">Mr. Grothman</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the availability of funds for the Department of Defense for organizing, promoting, or hosting drag shows as a means of diversity, equity, and inclusion initiatives.</official-title></form><legis-body id="HD89AC61AF5D04BF499AF2BD2B1259728" style="OLC"> 
+<section id="H2265D0153646440B86CD0E6C55C2E726" section-type="section-one"><enum>1.</enum><header>Prohibition on availability of funds for drag shows as part of diversity, equity, and inclusion initiatives</header><text display-inline="no-display-inline">None of the funds authorized to be appropriated or otherwise made available for the Department of Defense for any fiscal year may be obligated or expended to organize, promote, or host drag shows as a means of diversity, equity, and inclusion initiatives.</text> </section> </legis-body></bill>
+

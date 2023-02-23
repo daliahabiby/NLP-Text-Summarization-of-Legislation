@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF3E3F7FB47DF42BC9F7C1AA3DA381A5D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7222 IH: To prohibit the importation of uranium from the Russian Federation.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7222</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220324">March 24, 2022</action-date><action-desc><sponsor name-id="S001212">Mr. Stauber</sponsor> (for himself, <cosponsor name-id="S001172">Mr. Smith of Nebraska</cosponsor>, <cosponsor name-id="G000581">Mr. Vicente Gonzalez of Texas</cosponsor>, and <cosponsor name-id="C001063">Mr. Cuellar</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the importation of uranium from the Russian Federation.</official-title></form><legis-body id="H70509CB76D0A4B9DBACEC4E314659D7C" style="OLC"> 
+<section id="H1FC1F652ABF44FF585E58D193139DBD0" section-type="section-one"><enum>1.</enum><header>Prohibition on importation of uranium from the Russian Federation</header>
+<subsection id="H7BF7066872854F1DADFF6861B0D173DA"><enum>(a)</enum><header>In general</header><text>Notwithstanding section 3112A of the USEC Privatization Act (<external-xref legal-doc="usc" parsable-cite="usc/42/2297h-10a">42 U.S.C. 2297h–10a</external-xref>) or any other provision of law, the importation of articles of the Russian Federation classifiable under subheading 2612.10, 2844.10, 2844.20, and 2844.30 of the Harmonized Tariff Schedule of the United States is prohibited.</text></subsection> <subsection id="H1210266080B04CB9B67F08AFFC115415"><enum>(b)</enum><header>Effective date</header><text>The prohibition under subsection (a) applies with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date that is 45 days after the date of the enactment of this Act.</text></subsection></section> 
+</legis-body></bill>
+

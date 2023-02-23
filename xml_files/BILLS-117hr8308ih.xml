@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H58CB19F630024B3293BD4D95BE1CB7FD" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8308 IH: To require the Secretary of the Air Force to submit a report to the Committee on Armed Services of the House of Representatives on a plan to characterize the asbestos risk of former Air Force defense sites, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8308</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220707">July 7, 2022</action-date><action-desc><sponsor name-id="K000375">Mr. Keating</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Secretary of the Air Force to submit a report to the Committee on Armed Services of the House of Representatives on a plan to characterize the asbestos risk of former Air Force defense sites, and for other purposes.</official-title></form><legis-body id="H10591812E7FF4D989B465B72CC4C6D62" style="OLC"> 
+<section id="HF76D709B287143AC9DF16DDC620F5285" section-type="section-one"><enum>1.</enum><header>Report on plan to characterize asbestos risk of former Air Force defense sites</header> 
+<subsection id="H5B9CAA5627054A0292AB39297A7166EB"><enum>(a)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than December 15, 2022, the Secretary of the Air Force shall develop and submit to the Committee on Armed Services of the House of Representatives a report on a plan to characterize the asbestos risk of defense sites formerly used by or under the jurisdiction of the Secretary and, if required, provide remediation for such sites. </text></subsection> <subsection id="HA700FFB677A4456AA2DBCB80FCDBAFD1"><enum>(b)</enum><header>Matters included</header><text display-inline="yes-display-inline">The report under subsection (a) shall include, at a minimum—</text> 
+<paragraph id="H0416E1D8E4D64B21802E056A53032CE4"><enum>(1)</enum><text>a list of defense sites formerly used by or under the jurisdiction of the Secretary with known or expected asbestos contamination;</text></paragraph> <paragraph id="H1BDB1D095D06428C8081ACED499177E5"><enum>(2)</enum><text>a timeline and prioritized list for characterizing the asbestos risk of such sites through site inspections and remedial investigations; and</text></paragraph> 
+<paragraph id="H4792D7159F4C4C6FB200B782961CFCBA"><enum>(3)</enum><text>an assessment of the deterioration of facilities and the corresponding risk of friable asbestos being released into soils and groundwater.</text></paragraph></subsection> </section> </legis-body></bill>
+

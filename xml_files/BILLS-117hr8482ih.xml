@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H77D26B2FE005479E861DD53307446647" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8482 IH: Collateral Requirements for Disaster Loans Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8482</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220721">July 21, 2022</action-date><action-desc><sponsor name-id="V000081">Ms. Vel&#225;zquez</sponsor> (for herself and <cosponsor name-id="G000577">Mr. Graves of Louisiana</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSM00">Committee on Small Business</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To adjust collateral requirements under the Small Business Act for disaster loans, and for other purposes.</official-title></form><legis-body id="H980B7DE560A7410BA4E32104EEE70493" style="OLC"> 
+<section id="H82C72817468845FCB035858F79AFCBAA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Collateral Requirements for Disaster Loans Act</short-title></quote>.</text></section> <section id="H1736656A3A19476EBB96FC430D49A041"><enum>2.</enum><header>Collateral requirements for disaster loans under the small business act</header> <subsection id="H9836A2F6CD854A5F9B379EDD3C543DD9"><enum>(a)</enum><header>Amendment to the rise after disaster act of 2015</header><text>Section 2102 of the RISE After Disaster Act of 2015 (<external-xref legal-doc="public-law" parsable-cite="pl/114/88">Public Law 114–88</external-xref>) is amended—</text> 
+<paragraph id="HFEC10AC8AEAC4C5DB5481F411387CD35"><enum>(1)</enum><text>by striking subsections (b) and (c); and</text></paragraph> <paragraph id="H7F852B4E9CA84E9DA2B391253A3EA683"><enum>(2)</enum><text display-inline="yes-display-inline">by striking <quote>(a) <header-in-text level="subsection" style="OLC">In general.</header-in-text>—</quote>. </text></paragraph></subsection> 
+<subsection id="H7CC113982E4A4C1F888FA6736B0B0B4F"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect as though enacted as part of the RISE After Disaster Act of 2015.</text></subsection></section> </legis-body></bill>
+

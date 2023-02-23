@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H571644A5E9F145CBB0DEC9D7A7A50AFD" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 7500 ENR: Fiscal Year 2022 Veterans Affairs Major Medical Facility Authorization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 7500</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To authorize major medical facility projects for the Department of Veterans Affairs for fiscal year 2022, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H524ED1AF5A254D5A8DA9255D2F0B2ED2" style="OLC"> 
+<section id="H543E60B83D4D4AB4A54624F5201C1C52" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fiscal Year 2022 Veterans Affairs Major Medical Facility Authorization Act</short-title></quote>.</text></section> <section id="H94F2CA63942E434D88DE20C1C7F25472"><enum>2.</enum><header>Authorization of major medical facility projects of Department of Veterans Affairs for fiscal year 2022</header> <subsection id="H90BA863D1B494A9687C8D2B657613CFD"><enum>(a)</enum><header>In general</header><text>The Secretary of Veterans Affairs may carry out the following major medical facility projects in fiscal year 2022 at the locations specified and in an amount for each project not to exceed the amount specified for such location:</text> 
+<paragraph id="H040EF5193BD444618BB57A542BBD5F10"><enum>(1)</enum><text>Restoration and consolidation of the Gulfport Hospital in Biloxi, Mississippi, in an amount not to exceed $341,500,000.</text></paragraph> <paragraph id="H9F47B554F2834F5794C1268C85514A54"><enum>(2)</enum><text>Construction of a community living center and renovation of domiciliary and outpatient facilities in Canandaigua, New York, in an amount not to exceed $443,900,000.</text></paragraph> 
+<paragraph id="H33DAA9DF578A42C3A0BE5C8819CEF7BA"><enum>(3)</enum><text>Construction of a spinal cord injury center in Dallas, Texas, in an amount not to exceed $292,239,000.</text></paragraph> <paragraph id="HE1318A1CEB1E413EB286D9C67B81EB95"><enum>(4)</enum><text>Construction of a new health care center in El Paso, Texas, in an amount not to exceed $150,000,000.</text></paragraph> 
+<paragraph id="H1FA896ABB2514A4290D3C059243C0287"><enum>(5)</enum><text>Seismic corrections to the mental health and community living center in Long Beach, California, in an amount not to exceed $387,300,000.</text></paragraph> <paragraph id="H5641812AF6F74EA2912FCB32FDFC734E"><enum>(6)</enum><text>Construction of a new medical facility in Louisville, Kentucky, in an amount not to exceed $953,000,000.</text></paragraph> 
+<paragraph id="H8C1AE05A05BC4624B9E4C2193EBD6AA1"><enum>(7)</enum><text>Construction of a new surgical intensive care unit and renovated operating rooms in Oklahoma City, Oklahoma, in an amount not to exceed $47,564,000.</text></paragraph> <paragraph id="H475EF74ABB814B209251D11F18FCF1C5"><enum>(8)</enum><text>Seismic retrofit and renovation of buildings 100 and 101 in Portland, Oregon, in an amount not to exceed $20,000,000.</text></paragraph> 
+<paragraph id="H25A67F6F34734A2CBA51BD0658F9EEA9"><enum>(9)</enum><text>Construction of a spinal cord injury building with a community living center, including a parking garage, in San Diego, California, in an amount not to exceed $262,100,000.</text></paragraph> <paragraph id="H78EBBA01126E4F6299044D0E87E7E36B"><enum>(10)</enum><text>Construction of a new research facility in San Francisco, California, in an amount not to exceed $254,880,000.</text></paragraph> 
+<paragraph id="H83E315128A0F48258FE0AF2A7400E22F"><enum>(11)</enum><text>Replacement bed tower and clinical building expansion in St. Louis, Missouri, in an amount not to exceed $135,340,000.</text></paragraph> <paragraph id="H0AC674D4C52B4CEFA9652B735E6F43FE"><enum>(12)</enum><text>Construction of a new critical care center in West Los Angeles, California, in an amount not to exceed $115,790,000.</text></paragraph></subsection> 
+<subsection id="HA70A839BCEA5466A8D2B91017C707FEE"><enum>(b)</enum><header>Authorization of appropriations</header><text>There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2022 or the year in which funds are appropriated for the Construction, Major Projects account, $3,403,613,000 for the projects authorized in subsection (a). </text></subsection></section> </legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation> </bill> 
+

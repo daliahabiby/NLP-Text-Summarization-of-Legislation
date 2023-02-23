@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF5E995CA7D84418F99AA5D2E3AB43524" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7753 IH: Preventing Homelessness for Veteran Families Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7753</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220512">May 12, 2022</action-date><action-desc><sponsor name-id="P000614">Mr. Pappas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to extend authority for supportive services for very low-income veteran families in permanent housing.</official-title></form><legis-body id="HD815C9CED8BB4CE5A071590A43D789A8" style="OLC"><section id="HD44A8B2C5F804C7DB525013E3F0ABD8C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preventing Homelessness for Veteran Families Act</short-title></quote>. </text></section><section id="H65A5DEB427B6420BB42ADA7FBECB4C29" section-type="subsequent-section"><enum>2.</enum><header>Extension of authority for supportive services for very low-income veteran families in permanent housing</header><text display-inline="no-display-inline">Section 2044(e)(1) of title 38, United States Code, is amended by adding at the end the following new subparagraphs:</text><quoted-block style="USC" id="H64B876914FFE4A929C6340BB3F8482A0" display-inline="no-display-inline"><subparagraph id="H7259CF4B09F640419100FCE859415740" indent="up1"><enum>(I)</enum><text display-inline="yes-display-inline">$731,000,000 for fiscal year 2023.</text></subparagraph><subparagraph id="HC49D0CA1CEC248B280C9AC810C0F5609" indent="up1"><enum>(J)</enum><text>$775,000,000 for fiscal year 2024.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

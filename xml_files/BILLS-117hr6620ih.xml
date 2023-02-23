@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC88EAAD8ECD84BE8995AE1F84F73E2AA" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6620 IH: NASA Enhanced-Use Leasing Extension Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-02-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6620</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220207">February 7, 2022</action-date>
+<action-desc><sponsor name-id="B001292">Mr. Beyer</sponsor> (for himself and <cosponsor name-id="C001125">Mr. Carter of Louisiana</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name>, and in addition to the Committee on <committee-name committee-id="HBU00">the Budget</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 51, United States Code, to extend the authority of the National Aeronautics and Space Administration to enter into leases of non-excess property of the Administration.</official-title>
+</form>
+<legis-body id="H30B18FDBCA3F43CA88852CC4066EAAD9" style="OLC">
+<section id="H8F601309073A44FB8CD6A192A42B730D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>NASA Enhanced-Use Leasing Extension Act of 2022</short-title></quote>.</text></section> <section id="H47A001DA8E3848ADB4C103DA82BA2502"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+<paragraph id="HFDD91E9DAB62480FBE361491DD7D17A2"><enum>(1)</enum><text>NASA uses enhanced-use leasing to enter into agreements with private sector entities, State and local governments, academic institutions, and other Federal agencies for lease of non-excess, underutilized NASA properties and facilities.</text></paragraph> <paragraph id="H505860971E884BB7895888DA7DD0A318"><enum>(2)</enum><text>NASA uses enhanced-use leasing authority to support responsible management of its real property, including to improve the use of underutilized property for activities that are compatible with NASA’s mission and to reduce facility operating and maintenance costs.</text></paragraph>
+<paragraph id="H748EED8983C64F0C80816160D50FFD4F"><enum>(3)</enum><text>In fiscal year 2019, under its enhanced-use lease authority, NASA leased 65 real properties.</text></paragraph> <paragraph id="H67F1F657CCAC4F0BBB96C5A673CE4427"><enum>(4)</enum><text display-inline="yes-display-inline">In fiscal year 2019, NASA’s use of enhanced-use leasing resulted in the collection of $10,843,025.77 in net revenue.</text></paragraph>
+<paragraph id="H527BE5DE584F4581BC12D78FCC15826D"><enum>(5)</enum><text display-inline="yes-display-inline">In fiscal year 2019, NASA used a portion of its enhanced-use leasing revenues for repairs of facility control systems such as lighting and heating, ventilation, and air conditioning.</text></paragraph> <paragraph id="HC4AB4BF43A6F432685A3C1EADF5F5C38"><enum>(6)</enum><text>NASA’s use of enhanced-use leasing authority can contribute to reducing the rate of increase of the Agency’s overall deferred maintenance cost.</text></paragraph></section>
+<section id="HF840157C0BCE4BE3ACC0F1373C967840"><enum>3.</enum><header>Extension of authority to enter into leases of non-excess property of the National Aeronautics and Space Administration</header><text display-inline="no-display-inline">Section 20145(g) of title 51, United States Code, is amended by striking <quote>December 31, 2021</quote> and inserting <quote>December 31, 2022</quote>.</text></section> <section id="HB2F37C7B2F6146258B63C5101BD0321E"><enum>4.</enum><header>Determination of Budgetary Effects</header><text display-inline="no-display-inline">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</text></section>
+</legis-body>
+</bill> 
+
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HEBF0C5A98B824B7F9CE557FB39E38B39" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6914 IH: Stopping Mandates And Limiting Large Government Overreach by Valuing Truth Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6914</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220303">March 3, 2022</action-date>
+<action-desc><sponsor name-id="B001257">Mr. Bilirakis</sponsor> (for himself and <cosponsor name-id="C001039">Mrs. Cammack</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HED00">Education and Labor</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the use of Federal funds to discriminate, directly or indirectly, against an individual on the basis of whether such individual has been vaccinated or acquired natural immunity against SARS–CoV–2, and for other purposes.</official-title>
+</form>
+<legis-body id="HE04BB92136BC468080E2ABE69831547E" style="OLC">
+<section id="H81B3A6EC62854D6796F5AC6C13E250C3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stopping Mandates And Limiting Large Government Overreach by Valuing Truth Act of 2022</short-title></quote> or the <quote><short-title>SMALL GOVT Act of 2022</short-title></quote>.</text></section> <section id="H914916ECB27740AD95A5B4BFC3352A58"><enum>2.</enum><header>No Federal discrimination on basis of vaccination or natural immunity against SARS–CoV–2</header><text display-inline="no-display-inline">No Federal funds may be used to discriminate against, or to induce a recipient of Federal funds or other person to discriminate against, an individual in access to or the terms and conditions of employment, education, health care, or goods or services on the basis of whether such individual has been vaccinated or acquired natural immunity against SARS–CoV–2. </text></section>
+<section id="H4CA77114915F47F499A1AB00B0CE8419"><enum>3.</enum><header>Informed consent required for vaccination against SARS–CoV–2</header>
+<subsection id="H9389A937540F4DBD92F7AD72F950DF8A"><enum>(a)</enum><header>In general</header><text>No Federal funds may be used to administer a vaccine against SARS–CoV–2 without having obtained informed consent for such administration from the patient.</text></subsection> <subsection id="H71FD92E0D87E478395E8E0538D85E8ED"><enum>(b)</enum><header>Minors</header><text>No Federal funds may be used to administer to a minor a vaccine against SARS–CoV–2 without having obtained informed consent for such administration from the minor’s parent or guardian.</text></subsection>
+<subsection id="H05C3845745F54DABACB506532CA0B822"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HB8F04440BED649CD8E7FC3940A593C57"><enum>(1)</enum><text display-inline="yes-display-inline">The term <term>informed consent</term> means consent that—</text>
+<subparagraph id="HFC6A6B8121C34E1796148C25C3EBBCFC"><enum>(A)</enum><text>meets the requirements for informed consent applicable under State law in the jurisdiction in which the vaccine against SARS–CoV–2 is administered; and</text></subparagraph> <subparagraph id="H571D2099132D46F4A9109A17C141D2FC"><enum>(B)</enum><text>is confirmed in writing signed by—</text>
+<clause id="H81AEF7361F754EF88857F1162C48A918"><enum>(i)</enum><text>the individual receiving the vaccine; or</text></clause> <clause id="H335D22F834E64530A94AC513C75E43F2"><enum>(ii)</enum><text>if the individual is a minor, the minor’s parent or guardian.</text></clause></subparagraph></paragraph>
+<paragraph id="H7DE21010ACB740D9A78EA18CC8848AF0"><enum>(2)</enum><text>The term <term>minor</term> means an individual who has not attained 18 years of age.</text></paragraph></subsection></section> </legis-body> </bill> 
+

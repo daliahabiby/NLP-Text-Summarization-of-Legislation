@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="HEEA638818B514B3DBF45C6FB7015096D" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 623 EH: Gabriella Miller Kids First Research Act 2.0</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 623</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To extend the Gabriella Miller Kids First Pediatric Research Program at the National Institutes of Health, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H5AFEF10CFE0849DDA0B729157F068269" style="OLC"> 
+<section id="H5AEA68C7D788412EA63706AF87D15CD0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Gabriella Miller Kids First Research Act 2.0</short-title></quote>. </text></section> <section id="H24A8FD75C9444A46B205BAFFF7D259DA"><enum>2.</enum><header>Funding for the Pediatric Research Initiative</header> <text display-inline="no-display-inline">The Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/201">42 U.S.C. 201 et seq.</external-xref>) is amended—</text> 
+<paragraph id="H926F65D2C56C4A91A6047E9F6942A345"><enum>(1)</enum><text>in section 402A(a)(2) (<external-xref legal-doc="usc" parsable-cite="usc/42/282a">42 U.S.C. 282a(a)(2)</external-xref>)—</text> <subparagraph id="H71B76625560342CB98B7E5FCF3A4758E"><enum>(A)</enum><text>in the heading—</text> 
+<clause id="H5D0F0A2CDF164FF69C5205CC4C343341"><enum>(i)</enum><text>by striking <quote><header-in-text level="paragraph" style="OLC">10-year</header-in-text></quote>; and</text></clause> <clause id="HAEFB0CDB374A4BD893CFDE5A8A5158F8"><enum>(ii)</enum><text>by striking <quote><header-in-text level="paragraph" style="OLC">through Common Fund</header-in-text></quote>; </text></clause></subparagraph> 
+<subparagraph id="HD9AE8D9D5163423FB805A8676C767896"><enum>(B)</enum><text>by striking <quote>to the Common Fund</quote> and inserting <quote>to the Division of Program Coordination, Planning, and Strategic Initiatives</quote>; </text></subparagraph> <subparagraph id="H8EAD4FA3171248E08BB1C20F6E5E967B"><enum>(C)</enum><text>by striking <quote>10-Year</quote>;</text></subparagraph> 
+<subparagraph id="H34D24748D657457D8A62898FF17E8368"><enum>(D)</enum><text>by striking <quote>and reserved under subsection (c)(1)(B)(i) of this section</quote>; and</text></subparagraph> <subparagraph id="HC21F52659AD14BAEA9F5E4369AC8B463"><enum>(E)</enum><text>by inserting before the period the following: <quote>, and $25,000,000 for each of fiscal years 2023 through 2027</quote>;</text></subparagraph></paragraph> 
+<paragraph id="H036FE32AE7494F08BC3E4E357D323DFC"><enum>(2)</enum><text display-inline="yes-display-inline">in each of paragraphs (1)(A) and (2)(C) of section 402A(c) (<external-xref legal-doc="usc" parsable-cite="usc/42/282a">42 U.S.C. 282a(c)</external-xref>), by striking <quote>section 402(b)(7)(B)</quote> and inserting <quote>section 402(b)(7)(B)(i)</quote>; and </text></paragraph> <paragraph id="HDC1ACEC838824B60838F30BC499CA48A"><enum>(3)</enum><text>in section 402(b)(7)(B)(ii) (<external-xref legal-doc="usc" parsable-cite="usc/42/282">42 U.S.C. 282(b)(7)(B)(ii)</external-xref>), by striking <quote>the Common Fund</quote> and inserting <quote>the Division of Program Coordination, Planning, and Strategic Initiatives</quote>.</text></paragraph></section> 
+<section id="H732D22A728F345308BB860B644320063"><enum>3.</enum><header>Coordination of NIH funding for pediatric research</header> 
+<subsection id="H35200FD5C7B64B66B620E93488C16420"><enum>(a)</enum><header>Sense of Congress</header><text>It is the sense of the Congress that the Director of the National Institutes of Health should continue to oversee and coordinate research that is conducted or supported by the National Institutes of Health for research on pediatric cancer and other pediatric diseases and conditions, including through the Pediatric Research Initiative Fund.</text></subsection> <subsection id="HD1A7FD353DDE4E6A94422FEAC31A7BBA"><enum>(b)</enum><header>Avoiding duplication</header><text>Section 402(b)(7)(B)(ii) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/282">42 U.S.C. 282(b)(7)(B)(ii)</external-xref>) is amended by inserting <quote>and shall prioritize, as appropriate, such pediatric research that does not duplicate existing research activities of the National Institutes of Health</quote> before <quote>; and</quote>.</text></subsection></section> 
+<section id="HAA810D2553004403AE064454E3DB1D00"><enum>4.</enum><header>Report on progress and investments in pediatric research</header><text display-inline="no-display-inline">Not later than 5 years after the date of the enactment of this Act, the Secretary of Health and Human Services shall submit to the appropriate committees of Congress a report that—</text> <paragraph id="H78DAFF46A0FC42508A5FC20DAE93AFC6"><enum>(1)</enum><text display-inline="yes-display-inline">details pediatric research projects and initiatives receiving funds allocated pursuant to section 402(b)(7)(B)(ii) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/282">42 U.S.C. 282(b)(7)(B)(ii)</external-xref>); and</text></paragraph> 
+<paragraph id="H71C5CB92DE004448A6FC7369BECC3BB1"><enum>(2)</enum><text display-inline="yes-display-inline">summarizes advancements made in pediatric research with funds allocated pursuant to section 402(b)(7)(B)(ii) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/282">42 U.S.C. 282(b)(7)(B)(ii)</external-xref>).</text></paragraph></section> </legis-body> <attestation><attestation-group><attestation-date date="20220727" chamber="House">Passed the House of Representatives July 27, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HEA0F4B43944D48ED835CE84B70E67AF1" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7540 IH: Safe Workplaces Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7540</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220418">April 18, 2022</action-date>
+<action-desc><sponsor name-id="N000191">Mr. Neguse</sponsor> (for himself, <cosponsor name-id="E000299">Ms. Escobar</cosponsor>, <cosponsor name-id="M001208">Mrs. McBath</cosponsor>, <cosponsor name-id="D000610">Mr. Deutch</cosponsor>, <cosponsor name-id="C001072">Mr. Carson</cosponsor>, <cosponsor name-id="C001084">Mr. Cicilline</cosponsor>, <cosponsor name-id="W000788">Ms. Williams of Georgia</cosponsor>, <cosponsor name-id="H001081">Mrs. Hayes</cosponsor>, and <cosponsor name-id="H001066">Mr. Horsford</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Labor to promulgate an occupational safety and health standard on reducing the threat of violence in the workplace, and for other purposes.</official-title>
+</form>
+<legis-body id="HEE4371F641124D298EFEAFC50C272076" style="OLC">
+<section id="HC5246E8E0E704FF6BEE61B0CD5D6E1BF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Safe Workplaces Act</short-title></quote>. </text></section> <section id="H02EB168C1B284072B9920F11370699F5"><enum>2.</enum><header>Occupational safety and health standard on reducing the threat of violence in the workplace</header> <subsection id="H0B057B75B911499F8B4025867FEE597C"><enum>(a)</enum><header>Study</header><text display-inline="yes-display-inline">The Director of the National Institute for Occupational Safety and Health shall conduct a study on reducing the threat of violence in the workplace, including the threat of firearm violence. </text></subsection>
+<subsection id="H81C8E340172C444FB2A37AAF52E92D01"><enum>(b)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 15 months after the date of the enactment of this Act, the Director shall submit to the Secretary of Labor, the Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the results of the study conducted under subsection (a), which shall include recommendations that the Occupational Safety and Health Administration shall consider when promulgating an occupational safety and health standard on reducing the threat of violence in the workplace.</text></subsection> <subsection id="HAF13F19EB9FB4AD08D3DC30109BBEE32"><enum>(c)</enum><header>Occupational safety and health standard</header> <paragraph id="H18FE88A18D284F7A9B6C22EF18217BA3"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 4 years after the date of enactment of this Act, the Secretary of Labor shall, pursuant to section 6(b) of the Occupational Safety and Health Act of 1970 (<external-xref legal-doc="usc" parsable-cite="usc/29/655">29 U.S.C. 655(b)</external-xref>), promulgate an occupational safety and health standard on reducing the threat of violence in the workplace, including the threat of firearm violence.</text></paragraph>
+<paragraph id="HBFFBD3CF865F43ABB77FA9A57BAC8D9F"><enum>(2)</enum><header>Consideration</header><text>In promulgating the standard required under paragraph (1), the Secretary shall consider the recommendations included in the report required under subsection (b).</text></paragraph></subsection></section> </legis-body> </bill> 
+

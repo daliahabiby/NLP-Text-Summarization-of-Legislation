@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H597C0BEADAAB48E5B57C99206887A9A0" public-private="private" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9694 IH: For the relief of Jan van Hoek.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-12-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">V</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9694</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221223">December 23, 2022</action-date><action-desc><sponsor name-id="F000472">Mr. C. Scott Franklin of Florida</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">For the relief of Jan van Hoek.</official-title></form><legis-body id="HA4616BF27BB54B56BAB451DF844EBE10" style="OLC"><section id="HB60E6E4D76EF4BD0B366823B8D4C3651" section-type="section-one"><enum>1.</enum><header>Exemption of Jan van Hoek from National Vaccine Injury Compensation Program petition deadlines</header><text display-inline="no-display-inline">The deadlines described in section 2116 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300aa-16">42 U.S.C. 300aa–16</external-xref>) with respect to petitions filed for compensation under the National Vaccine Injury Compensation Program shall not apply to a petition filed with respect to a vaccine-related injury occurring as a result of the administration to Jan van Hoek of a vaccine during the period that began on March 6, 2007, and ended on December 31, 2010.</text></section></legis-body></bill> 
+

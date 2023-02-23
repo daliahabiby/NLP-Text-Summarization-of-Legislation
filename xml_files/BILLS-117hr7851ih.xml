@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD87F4697AED940EB9EAFE1E2A0B06E92" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7851 IH: To amend the Higher Education Act of 1965 to require institutions of higher education to disclose certain ties to China-affiliated organizations, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7851</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220519">May 19, 2022</action-date>
+<action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> (for himself, <cosponsor name-id="M001215">Mrs. Miller-Meeks</cosponsor>, <cosponsor name-id="G000593">Mr. Gimenez</cosponsor>, <cosponsor name-id="M001180">Mr. McKinley</cosponsor>, and <cosponsor name-id="G000591">Mr. Guest</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Higher Education Act of 1965 to require institutions of higher education to disclose certain ties to China-affiliated organizations, and for other purposes.</official-title>
+</form>
+<legis-body id="H30A89B19D6C4446FA5D116B610FF647B" style="OLC">
+<section id="HB9D0440D2A814655A44B5C488084BBCE" section-type="section-one"><enum>1.</enum><header>Disclosures of foreign gifts</header><text display-inline="no-display-inline">Section 117 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1011f">20 U.S.C. 1011f</external-xref>) is amended—</text> <paragraph id="HD4589761E1234C9CA44B901C14CFDD90"><enum>(1)</enum><text>in subsection (a), by striking <quote>Whenever</quote> and inserting <quote>Except as provided in subsection (d), whenever</quote>;</text></paragraph>
+<paragraph id="HE047C405DD7247ED84264F7D219708CF"><enum>(2)</enum><text>by redesignating subsections (d) through (h) as subsections (e) through (i), respectively;</text></paragraph> <paragraph id="H9E26D3C003694DFD8CF3B8DAC3EC156F"><enum>(3)</enum><text>by inserting after subsection (c) the following:</text>
+<quoted-block style="OLC" id="HAD97BD0F9C984C19A507EF2F97365ECF" display-inline="no-display-inline">
+<subsection id="H5FC8EBD48DA842C18C72D68D908846E7"><enum>(d)</enum><header>Special rules relating to China-Affiliated organizations</header>
+<paragraph id="HA620A2E715CF452D937BDF1F657630D0"><enum>(1)</enum><header>Enhanced disclosures of gifts and contracts</header>
+<subparagraph id="H732CC35DAD264FCDA14518D7CCCB6E43"><enum>(A)</enum><header>In general</header><text>Whenever any institution receives a gift from or enters into a contract with a China-affiliated organization, the value of which is $5,000 or more, considered alone or in combination with all other gifts from or contracts with that organization within a calendar year, the institution shall file a disclosure report with the Secretary on January 31 or July 31, whichever is sooner.</text></subparagraph> <subparagraph id="H28B8E88B4C61481EB5B1289491791FF8"><enum>(B)</enum><header>Contents of report</header><text>Each report under subparagraph (A) shall include—</text>
+<clause id="H3470C12F457148FF80C24B818C990BC9"><enum>(i)</enum><text>the information described in subsections (b) and (c) (as applicable);</text></clause> <clause id="H681B5C1E8C36422299498570783EE861"><enum>(ii)</enum><text>the full legal name of the individual or organization that made the gift or entered into the contract to which the disclosure pertains; and</text></clause>
+<clause id="H214B88B9E320480596AD450518014A9B"><enum>(iii)</enum><text display-inline="yes-display-inline">instructions for accessing the information made available under paragraph (3).</text></clause></subparagraph></paragraph> <paragraph id="HC66A383405114A419195F26D2F61DDA7"><enum>(2)</enum><header>Disclosure of joint activities</header><text display-inline="yes-display-inline">On an annual basis, any institution that receives funds under a Federal grant program shall file a disclosure report with the Secretary that identifies any activities conducted pursuant to a contract or other agreement between the institution and a China-affiliated organization, including any joint research or academic exchanges.</text></paragraph>
+<paragraph id="H03942EF4AAA04DF588DC01C16DFE6D53"><enum>(3)</enum><header>Public availability of agreements</header><text display-inline="yes-display-inline">Each institution shall make available, on a publicly accessible website of the institution, the full text of any contract, agreement, or memorandum of understanding between the institution and a China-affiliated organization (regardless of whether the contract, agreement, or memorandum remains in effect).</text></paragraph></subsection><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> <paragraph id="HC11D8CB4AB9D4FC6BB719010E892C9C0"><enum>(4)</enum><text>in subsection (i), as so redesignated—</text>
+<subparagraph id="H72ED8DC2D55F49B995B8B8EAFC41D0EB"><enum>(A)</enum><text>by redesignating paragraphs (1) through (5) as paragraphs (2) through (6), respectively; and</text></subparagraph> <subparagraph id="H2A35105F61CF4D6F9D70788A96059518"><enum>(B)</enum><text>by inserting before paragraph (2) the following:</text>
+<quoted-block style="OLC" id="H428F931A58C94B6CA337A3AE2118CC25" display-inline="no-display-inline">
+<paragraph id="H7D0536A52C4441EC94840DA2B8E5A4B7"><enum>(1)</enum><text display-inline="yes-display-inline">the term <term>China-affiliated organization</term> means any entity that receives support directly or indirectly from the Government of the People’s Republic of China, including—</text> <subparagraph id="H87FAF892EA7147BFB9BF5848B5EFCD59"><enum>(A)</enum><text display-inline="yes-display-inline">a cultural, language, or educational institute or program;</text></subparagraph>
+<subparagraph id="HD6864429BB844C52868BCBEAEC71E96E"><enum>(B)</enum><text>a think tank that has received more than $100,000 in one calendar year or more than 10 percent of the total funding for such think tank for that year, whichever is less, from the Chinese Communist Party or individuals affiliated with the Chinese Communist Party;</text></subparagraph> <subparagraph id="HD9D8BCDBC61E495896EA01976793F7BA"><enum>(C)</enum><text>a person who is a current member of the Chinese Communist Party or otherwise active in collaborating with the Chinese Government as an employee or advisor;</text></subparagraph>
+<subparagraph id="HDB0E2AD7632C4C34BABF5310697833B8"><enum>(D)</enum><text>a Chinese state-owned enterprise or partially or wholly owned subsidiary of a Chinese state-owned enterprise; and</text></subparagraph> <subparagraph id="H19670AD201574D69B41A4AE2C175570C"><enum>(E)</enum><text display-inline="yes-display-inline">a company, think tank, nonprofit, or other similar entity, which has on its board of directors or with equity ownership or voting control in excess of 5 percent any members of the Chinese Communist Party or executives of a Chinese state-owned enterprise, including the president, vice president, or any other officer who performs a policy making function or any other person who performs similar policy making functions for such enterprise, including an executive officer of a subsidiary of such enterprise who performs such policy making functions.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph></section>
+</legis-body>
+</bill> 
+
+

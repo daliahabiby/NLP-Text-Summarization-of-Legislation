@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="H6DEA1465C47740C7918B12CAA8254439" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 6218 ENR: To designate the facility of the United States Postal Service located at 317 Blattner Drive in Avon, Minnesota, as the “W.O.C. Kort Miller Plantenberg Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 6218</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To designate the facility of the United States Postal Service located at 317 Blattner Drive in Avon, Minnesota, as the <quote>W.O.C. Kort Miller Plantenberg Post Office</quote>.</official-title> 
+</form> 
+<legis-body id="H4B86C9D91E8D4DBCAFD4004C5DF67A6F" style="OLC"> 
+<section id="H38B1D6070B4D4A5C8989FC3C8E57A459" section-type="section-one"><enum>1.</enum><header>W.O.C. Kort Miller Plantenberg Post Office</header> 
+<subsection id="H6ADBD6BFC3794944B4ADDC97C58BECF4"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 317 Blattner Drive in Avon, Minnesota, shall be known and designated as the <quote>W.O.C. Kort Miller Plantenberg Post Office</quote>.</text></subsection> <subsection id="HCD3C283ECF1144AE84C033A16D29EC9B"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>W.O.C. Kort Miller Plantenberg Post Office</quote>.</text></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

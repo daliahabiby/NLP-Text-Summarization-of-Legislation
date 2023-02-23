@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4141962190454E629D8A3A5F3EFD3785" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7196 IH: Flexibility in Addressing Rural Homelessness Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7196</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220324">March 24, 2022</action-date><action-desc><sponsor name-id="A000378">Mrs. Axne</sponsor> (for herself and <cosponsor name-id="L000491">Mr. Lucas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the McKinney-Vento Homeless Assistance Act to expand the authorized activities under the Continuum of Care program to include activities that address barriers to transitioning families in rural areas to permanent housing, and for other purposes.</official-title></form><legis-body id="HADF0E3627AF347C4B9FF2422BA663EB0" style="OLC"> 
+<section id="HAC1F83164CEB424DB3FE626FC025F26A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Flexibility in Addressing Rural Homelessness Act of 2022</short-title></quote>.</text></section> <section id="HE5EB1AA4D81949AE88E8CFE153A7C9DF"><enum>2.</enum><header>Eligible activities under continuum of care program</header><text display-inline="no-display-inline">Subsection (a) of section 423 of subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11383">42 U.S.C. 11383(a)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+<quoted-block id="HA578DD88C05A4946B812DC50C4306D8E" style="OLC">
+<paragraph id="H1501665F7A244BC2A244D11C61783829"><enum>(13)</enum><text>Projects in rural areas that consist of one or more of the following activities:</text> <subparagraph id="H025F6A9FA4F94C29BAE70D0CB169B353"><enum>(A)</enum><text>Payment of short-term emergency lodging, including in motels or shelters, directly or through vouchers.</text></subparagraph>
+<subparagraph id="HC11C3795835F4C7AA6C1B64F24A7A9BD"><enum>(B)</enum><text>Repairs to units—</text> <clause id="HE37FE07BFDF54A0A92C92B22701C0B92"><enum>(i)</enum><text>in which homeless individuals and families will be housed; or</text></clause>
+<clause id="H88282766C17948A79516228F212D8F5E"><enum>(ii)</enum><text>which are currently not fit for human habitation.</text></clause></subparagraph> <subparagraph id="H527C38B0BF1A4A398F51712CF61DFC65"><enum>(C)</enum><text>Staff training, professional development, skill development, and staff retention activities.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

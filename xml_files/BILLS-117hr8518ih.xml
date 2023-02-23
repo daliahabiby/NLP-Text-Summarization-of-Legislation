@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H54B954EA2BC148B88BDFA5694F98C1D7" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8518 IH: Texas Coastal Spine Authorization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8518</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220726">July 26, 2022</action-date><action-desc><sponsor name-id="W000814">Mr. Weber of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To authorize the project for hurricane and storm damage reduction and ecosystem restoration, Texas.</official-title></form><legis-body id="H153F2657308141DF9F03AD58EED4036D" style="OLC"> 
+<section id="H42632E9306DF4C71901093DDC93969A4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Texas Coastal Spine Authorization Act</short-title></quote>.</text></section> <section section-type="subsequent-section" id="H172EC0EBF72E41938F48E8C9058AF17B"><enum>2.</enum><header>Coastal Texas Protection and Restoration Feasibility Study, Texas</header><text display-inline="no-display-inline">The Secretary of the Army is authorized to carry out the project for hurricane and storm damage reduction and ecosystem restoration, Texas, substantially in accordance with the plans, and subject to the conditions, described in the report of the Chief of Engineers dated September 16, 2021, at an estimated total cost of $30,906,287,000, with an estimated Federal cost of $19,237,894,000 and an estimated non-Federal cost of $11,668,393,000. </text></section> 
+</legis-body></bill>
+

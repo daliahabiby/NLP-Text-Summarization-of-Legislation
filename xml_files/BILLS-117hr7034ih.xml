@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6E7FDBEEB15A49DFA106D7B2CF13BE5C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7034 IH: To rename the portions of the Gateway National Seashore located on Staten Island, New York, as the “Senator James L. Buckley National Seashore”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7034</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220309">March 9, 2022</action-date>
+<action-desc><sponsor name-id="M000317">Ms. Malliotakis</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To rename the portions of the Gateway National Seashore located on Staten Island, New York, as the <quote>Senator James L. Buckley National Seashore</quote>.</official-title>
+</form>
+<legis-body id="HFACD95826D4D462EB55DEADDAB286E64" style="OLC"> 
+<section id="HD0551A3490B04E27A1AEF759B27145CE" section-type="section-one"><enum>1.</enum><header>Renaming portions of the Gateway National Seashore</header> 
+<subsection id="H462698B53C2444FF9AEE90AF834A1C2D"><enum>(a)</enum><header>Renaming</header><text display-inline="yes-display-inline">The portions of the Gateway National Seashore located on Staten Island, New York shall be known as the <quote>Senator James L. Buckley National Seashore</quote>.</text></subsection> <subsection id="H7B86B7C850EF478A9EF6E1C080319FCE"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the portions of the Gateway National Seashore located on Staten Island, New York, is deemed to be a reference to the <quote>Senator James L. Buckley National Seashore</quote>.</text></subsection></section> 
+</legis-body>
+</bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7F6757B3757F4B31B4D23B2E424750C6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7519 IH: To designate the facility of the United States Postal Service located at 2050 South Boulevard in Bloomfield Township, Michigan, as the “Dr. Ezra S. Parke Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7519</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220414">April 14, 2022</action-date><action-desc><sponsor name-id="L000592">Mr. Levin of Michigan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 2050 South Boulevard in Bloomfield Township, Michigan, as the <quote>Dr. Ezra S. Parke Post Office Building</quote>.</official-title></form><legis-body id="HDDFA944A745B43BDBB080E061D4E9EAA" style="OLC"><section id="H34D06AB2267E4F2B8A0E941C6B2EF0BC" section-type="section-one"><enum>1.</enum><header>Dr. Ezra S. Parke Post Office Building</header><subsection id="HD965EABA508344879ECC8F74EDB24267"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 2050 South Boulevard in Bloomfield Township, Michigan, shall be known and designated as the <quote>Dr. Ezra S. Parke Post Office Building</quote>.</text></subsection><subsection id="HA093A2CEC7354BE6A362E5DF284DA48E"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Dr. Ezra S. Parke Post Office Building</quote>.</text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="HBA103EE269B24216A75B525C02F7CADD" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 5796 ENR: Patents for Humanity Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 5796</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend title 35, United States Code, to establish a competition to award certificates that can be redeemed to accelerate certain matters at the Patent and Trademark Office, and for other purposes.</official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC" id="H2F03BDE882A04921BE9623CEE5B531C6"> 
+<section id="H28288F7330A44005A4FA79001BBCDA9C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Patents for Humanity Act of 2022</short-title></quote>. </text></section> <section id="HF00C5C8CAF7A4127BA6DB85E747E5998"><enum>2.</enum><header>Award of certificates to accelerate certain matters at the Patent and Trademark Office</header> <subsection id="HBA3A5C0CA8434D1485A495A6FDEEA026"><enum>(a)</enum><header>Award</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/35/2">Chapter 2</external-xref> of title 35, United States Code, is amended by adding at the end the following: </text>
+<quoted-block style="USC" id="H0270E1A2BDE446108CE39A2DC4E52580" display-inline="no-display-inline">
+<section id="H4E8F672BCAB4474697F2834CD7C01083"><enum>28.</enum><header>Award of certificates to accelerate certain matters at the Patent and Trademark Office</header>
+<subsection id="H6EE4551B190242499175E36FFD4217B9"><enum>(a)</enum><header>Definition</header><text>In this section, the term <term>eligible entity</term> means an entity that—</text> <paragraph id="H8893C00AFF694462B6D52542D878A3E9"><enum>(1)</enum><text>submits an application under subsection (d) for a patent that addresses a humanitarian issue; and</text></paragraph>
+<paragraph id="H47E89C6C994C432DBCFC705477121AF6"><enum>(2)</enum><text>meets the requirements specified by the Director.</text></paragraph></subsection> <subsection id="H4D1768B2770E4997908A57E0976493D4"><enum>(b)</enum><header>Establishment</header><text display-inline="yes-display-inline">There is established a competition, to be held not less frequently than biennially, to award eligible entities certificates that can be redeemed to accelerate one of the following matters:</text>
+<paragraph id="HA9C2775E6D2F47C3B14B04496EABD04D"><enum>(1)</enum><text display-inline="yes-display-inline">An ex parte reexamination proceeding, including 1 appeal to the Patent Trial and Appeal Board from that proceeding.</text></paragraph> <paragraph id="HAC9129DA87E2478FB731EFDC562F5448"><enum>(2)</enum><text display-inline="yes-display-inline">An application for a patent, including 1 appeal to the Patent Trial and Appeal Board from that application.</text></paragraph>
+<paragraph id="H6BA7C16CD8764295A9F6FD8CC6A081CA"><enum>(3)</enum><text display-inline="yes-display-inline">An appeal to the Patent Trial and Appeal Board of a claim twice rejected in a patent application or reissue application or finally rejected in an ex parte reexamination, without accelerating the underlying matter that generated the appeal.</text></paragraph> <paragraph id="H1FD9D070665F4AA9852A9F018FF2C342"><enum>(4)</enum><text>A matter identified by the Director.</text></paragraph></subsection>
+<subsection id="HD4FD2D26E5534C7888DF0E70DF4D3CC2"><enum>(c)</enum><header>Administration</header><text>The Director shall administer the competition established under subsection (b). </text></subsection> <subsection id="H1E697C57C16949748AB228FA937D33B5"><enum>(d)</enum><header>Application</header><text display-inline="yes-display-inline">An entity seeking an award under subsection (b) shall submit to the Director an application at such time, in such manner, and containing such information as the Director may require.</text></subsection>
+<subsection id="H34F02C25412743D1B091E333BB4DD682"><enum>(e)</enum><header>Promotion of competition</header><text display-inline="yes-display-inline">The Director shall promote the competition established under subsection (b) through the satellite offices established pursuant to section 1.</text></subsection> <subsection id="HFC33B599694448C995BC63BCDCDD4FD3"><enum>(f)</enum><header>Treatment as successor</header><text display-inline="yes-display-inline">The competition established under subsection (b) shall be treated as a successor to the Patents for Humanity Program (established in the notice entitled <quote>Humanitarian Awards Pilot Program</quote>, published at 77 Fed. Reg. 6544 (February 8, 2012)).</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H67A7C66996BA41CB9245A91C910AB81F"><enum>(b)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in this section, or the amendments made by this section, may be construed as affecting any action taken by the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office before the date of enactment of this Act with respect to the administration of the Patents for Humanity Program established in the notice entitled <quote>Humanitarian Awards Pilot Program</quote>, published at 77 Fed. Reg. 6544 (February 8, 2012).</text></subsection> <subsection id="H7467D2379C814A0AB31C0222EF803898"><enum>(c)</enum><header>Technical and conforming amendment</header><text display-inline="yes-display-inline">The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/35/2">chapter 2</external-xref> of title 35, United States Code, is amended by adding at the end the following: </text>
+<quoted-block style="USC" id="H07D6CCAC2863476F88BEFA76383F5C88" display-inline="no-display-inline">
+<toc regeneration="no-regeneration">
+<toc-entry level="section">28. Award of certificates to accelerate certain matters at the Patent and Trademark Office.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation>
+</bill> 
+
+

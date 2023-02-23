@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA339E62D6FDC4D82A3E7111119A49EC3" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6431 IH: Data Transparency and Drug Safety Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6431</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220119">January 19, 2022</action-date>
+<action-desc><sponsor name-id="S001216">Ms. Schrier</sponsor> (for herself and <cosponsor name-id="J000302">Mr. Joyce of Pennsylvania</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Federal Food, Drug, and Cosmetic Act to prohibit the alteration, falsification, fabrication, destruction, omission, or removal of records or certain information required to be produced or maintained for a drug, and for other purposes.</official-title>
+</form>
+<legis-body id="HB575F9B2496243DC8E8F71C0FC98D0D0" style="OLC">
+<section id="H75B623042CBF4AA1B0F58FA4C15C9359" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Data Transparency and Drug Safety Act of 2022</short-title></quote>.</text></section> <section id="HEB2AE56543DD4C46A107F69E4215C01E"><enum>2.</enum><header>Enhanced penalties for false information and records destruction</header> <subsection id="HA7F72C5FDD024EA3879E007F8BDB4D9D" display-inline="no-display-inline"><enum>(a)</enum><header>Prohibition of false information and record destruction</header><text display-inline="yes-display-inline">Section 301 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/331">21 U.S.C. 331</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block style="OLC" display-inline="no-display-inline" id="HE5A6FA756B16498E8D692E4B8FC49BDD">
+<subsection id="HB864B1BF65E64AA786B446E3B036EB66"><enum>(fff)</enum><text display-inline="yes-display-inline">The alteration, falsification, fabrication, destruction, omission, or removal of the whole or any part of records or information that is—</text> <paragraph id="H52D140B00F76476F9E50CE401C244BC9"><enum>(1)</enum><text display-inline="yes-display-inline">required under this Act—</text>
+<subparagraph id="H66C92BA910784775B890BC14EA1996A6"><enum>(A)</enum><text>to be produced during the development or manufacture of a drug; or</text></subparagraph> <subparagraph id="H6F4921D727174025A018EB3D180F9F89"><enum>(B)</enum><text>to be produced or maintained by the sponsor of an application for the approval of a drug under section 505 or the holder of an approved application for a drug under section 505; or</text></subparagraph></paragraph>
+<paragraph id="HCDBCC7CA2CEB4CECB6794D20C2D8DF20"><enum>(2)</enum><text>subject to inspection under this Act by the Secretary.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HA1389CB355564EFF8CC52A4EEF290055"><enum>(b)</enum><header>Penalties</header><text display-inline="yes-display-inline">Section 303 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/333">21 U.S.C. 333</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block style="OLC" display-inline="no-display-inline" id="HBE914B45F74A4FB689CF61A7DE0970F9">
+<subsection id="HB94F4717DE324C2E90BE812C1D5D3D99"><enum>(h)</enum><text display-inline="yes-display-inline">Notwithstanding subsection (a), any person who violates section 301(fff) shall be subject to—</text> <paragraph id="H8A1710A65FAB4E42A3B6F07BDF96C3E5"><enum>(1)</enum><text>a civil monetary penalty not to exceed—</text>
+<subparagraph id="H22F6D54F17A04A4AB7C1E73F0A2B22E1"><enum>(A)</enum><text>$1,000,000 per violation; and</text></subparagraph> <subparagraph id="HA4376178786A4FACA0959FEC70F1E43D"><enum>(B)</enum><text>$10,000,000 for all violations (excluding those described in paragraph (2)) adjudicated in a single proceeding; and</text></subparagraph></paragraph>
+<paragraph id="H3227B96ADD734CA3B0C2915B4C1E8A4B"><enum>(2)</enum><text>in the case of a violation that continues after the Secretary provides written notice to such person, if such person does not sufficiently remedy the violation including by producing corrected records or information, additional civil penalties not to exceed—</text> <subparagraph id="H465BA30315FA460097DB5F48C0D856C6"><enum>(A)</enum><text>$1,000,000 for the first 30-day period (or any portion thereof) following such notice during which such person continues to be in violation;</text></subparagraph>
+<subparagraph id="HAEA915E1378D413BA5A434FB6435ABAF"><enum>(B)</enum><text>for each such 30-day period thereafter, the amount that is double the amount actually imposed for the preceding 30-day period, not to exceed $2,000,000 for any 30-day period; and</text></subparagraph> <subparagraph id="H5C35F78CA1C34589BABF260AFBE7B80C"><enum>(C)</enum><text>$20,000,000 for all violations described in this paragraph adjudicated in a single proceeding.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section>
+</legis-body>
+</bill> 
+
+

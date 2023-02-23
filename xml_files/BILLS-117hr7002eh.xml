@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H2152B7CFE406447E842C6FCBD2474B0A" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7002 EH: Gateway Solidarity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 7002</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To authorize the Gateway Arch in St. Louis, Missouri, to be illuminated by blue and yellow lights in support of Ukraine.</official-title> 
+</form> 
+<legis-body id="H8E1E67F21CC8403EB49684825430F3B9" style="OLC" display-enacting-clause="yes-display-enacting-clause"> 
+<section id="HF6BD46EBF11847379A3F0201A39ACB3C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Gateway Solidarity Act</short-title></quote>.</text></section> <section id="H00273AED4D6845699616572AE511C4B6"><enum>2.</enum><header>Illumination of the Gateway Arch in Support of Ukraine</header> <paragraph id="HA595C7354C2A4004A6FB34753E6E8848"><enum></enum><text display-inline="yes-display-inline">To show support and solidarity with the Ukrainian people, the Secretary of the Interior shall illuminate the Gateway Arch in St. Louis, Missouri, by blue and yellow lights—</text> 
+<subparagraph id="H70E785708C284BAEA410AEAD8AE8BC9F"><enum>(A)</enum><text display-inline="yes-display-inline">in 2022, within 15 days following enactment of this act, for no fewer than 5 consecutive days; and</text></subparagraph> <subparagraph id="HCBF1C3453F7E4E83B74177554FC1FF52"><enum>(B)</enum><text display-inline="yes-display-inline">annually on August 24, in recognition of Ukrainian Independence Day, until the President reports to Congress that the government of the Russian Federation has ceased its destabilizing activities with respect to the sovereignty and territorial integrity of Ukraine.</text> </subparagraph></paragraph></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20220718" chamber="House">Passed the House of Representatives July 19, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> 
+<endorsement display="yes"></endorsement> 
+</bill> 
+
+

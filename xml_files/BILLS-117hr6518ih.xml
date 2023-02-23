@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCCE50D460E0844F2A51834EDDE232CD5" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6518 IH: To establish an office to combat the global rise of authoritarian socialism and communism at the Department of State, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-01-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6518</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220128">January 28, 2022</action-date><action-desc><sponsor name-id="G000593">Mr. Gimenez</sponsor> (for himself, <cosponsor name-id="S000168">Ms. Salazar</cosponsor>, <cosponsor name-id="D000600">Mr. Diaz-Balart</cosponsor>, and <cosponsor name-id="M000317">Ms. Malliotakis</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To establish an office to combat the global rise of authoritarian socialism and communism at the Department of State, and for other purposes.</official-title></form><legis-body id="H971698D9A55F4C1F9C9851B0FBCB361C" style="OLC"> 
+<section id="HBAA2AFCF772441E3B04A2A525B8642B5" section-type="section-one"><enum>1.</enum><header>Establishment</header><text display-inline="no-display-inline">Section 1 of the State Department Basic Authorities Act is amended by adding at the end the following:</text> <quoted-block style="OLC" id="H58757C4E2B6A4668AB119CDAE7C115E0" display-inline="no-display-inline"> <subsection id="HF8E9683C39434AEFB034DB380AFC1C66"><enum>(k)</enum><header>Special envoy To combat global rise of authoritarian socialism and communism</header><text display-inline="yes-display-inline">There is established, within the Department of State, an office to combat the global rise of authoritarian socialism and communism at the Department of State, which shall be headed by a Special Envoy.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </section> 
+</legis-body></bill>
+

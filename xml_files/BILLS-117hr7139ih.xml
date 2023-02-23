@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9070C12F39C44AF0BEBD0716EE60A755" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7139 IH: Removing Arms from Terrorists Through Sanctions Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7139</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220317">March 17, 2022</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name>, and in addition to the Committee on <committee-name committee-id="HJU00">the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To codify Executive Order 13949.</official-title></form><legis-body id="HE16DFD822EBB40AA8BE9FA77AC97CCBF" style="OLC"><section id="H542F8D3A942C4664ADF11531702FA14F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Removing Arms from Terrorists Through Sanctions Act</short-title></quote>. </text></section><section id="H11806F9B732A4D98937FEEE2D615E78F"><enum>2.</enum><header>Enactment of Executive Order 13949</header><subsection id="H3903C633197544F2929C8AE2413BD186"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The provisions of Executive Order 13949 (85 Fed. Reg. 60043; relating to blocking property of certain persons with respect to the conventional arms activities of Iran), as in effect on September 21, 2020, shall remain in effect, continue to apply, and are enacted into law.</text></subsection><subsection id="H248827182BBE463883ABC83DCAD0B68B"><enum>(b)</enum><header>Publication</header><text display-inline="yes-display-inline">In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the Executive order referred to in subsection (a), as in effect on September 21, 2020.</text></subsection></section></legis-body></bill> 
+

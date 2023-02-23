@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H38FE4627FE1446CC8679CB584C09CC97" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6912 IH: Pooled Employer Plan Fix Act </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 6912</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220303">March 3, 2022</action-date><action-desc><sponsor name-id="A000372">Mr. Allen</sponsor> (for himself and <cosponsor name-id="D000623">Mr. DeSaulnier</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Employee Retirement Income Security Act of 1974 to require that named fiduciaries collect contributions to pooled employer plans, and for other purposes.</official-title></form><legis-body id="HC56126DF12144FA4A707ED7A7892F251" style="OLC"><section id="H56AC1821BE8540B1A3C6ACA96E58F5E0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Pooled Employer Plan Fix Act </short-title></quote>.</text></section><section id="H50B40002823441A2B82388DC4AF32419"><enum>2.</enum><header>Pooled employer plan fiduciary requirement</header><text display-inline="no-display-inline">Section 3(43)(B)(ii) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1002">29 U.S.C. 1002(43)(B)(ii)</external-xref>) is amended to read as follows:</text><quoted-block style="OLC" id="H28BE589D38224D7BB2C2B111CCECB9E0" display-inline="no-display-inline"><clause id="HA4DE85CEFFAC41CAB9208126A3D6A03A"><enum>(ii)</enum><text display-inline="yes-display-inline">designate a named fiduciary (other than an employer in the plan) to be responsible for collecting contributions to the plan and require such fiduciary to implement written contribution collection procedures that are reasonable, diligent, and systematic;</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

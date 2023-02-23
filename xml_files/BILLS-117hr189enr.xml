@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="HD9D60E2C682A4863AE623006FB46AFB8" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> HR 189 ENR: John Lewis NIMHD Research Endowment Revitalization Act of 2021</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">One Hundred Seventeenth Congress of the United States of America</congress><session display="yes">At the Second Session</session><enrolled-dateline>Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolled-dateline> 
+<legis-num display="yes">H. R. 189</legis-num> 
+<current-chamber display="no"></current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend the Public Health Service Act to provide that the authority of the Director of the National Institute on Minority Health and Health Disparities to make certain research endowments applies with respect to both current and former centers of excellence, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H242009737BB7424D8CBACBF4BCA7011F" style="OLC"> 
+<section id="HE9E3542333BD496E9F5589105A8D23F6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>John Lewis NIMHD Research Endowment Revitalization Act of 2021</short-title></quote>. </text></section> <section id="H1411736DA54442FA99EB9AD84BAC0767"><enum>2.</enum><header>Research endowments at both current and former centers of excellence</header><text display-inline="no-display-inline">Paragraph (1) (beginning with <quote>(1) <header-in-text level="paragraph" style="OLC">In general</header-in-text></quote>) of section 464z–3(h) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/285t">42 U.S.C. 285t(h)</external-xref>) is amended to read as follows:</text> 
+<quoted-block style="OLC" id="HC68DCB68E1C645A5AAAF569088F65BE3" display-inline="no-display-inline"> 
+<paragraph id="H9C9F0233FFE24040AE7E8F6963E19229"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—</text> <subparagraph id="H59607ABDC45C49B48CA9DF6AC914D4A2"><enum>(A)</enum><text>at current or former centers of excellence under section 736; and</text></subparagraph> 
+<subparagraph id="H4541D578B3A941A7BF45E25B15BBB08C"><enum>(B)</enum><text display-inline="yes-display-inline">at current or former centers of excellence under section 464z–4.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> <attestation><attestation-group><role>Speaker of the House of Representatives.</role></attestation-group><attestation-group><role>Vice President of the United States and President of the Senate.</role></attestation-group></attestation> </bill> 
+

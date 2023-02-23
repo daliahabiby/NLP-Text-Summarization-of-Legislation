@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H4D4E1BEDE1574981A8ED2DF636C3F05C" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 5973 EH: Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 5973</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To reauthorize the Great Lakes Fish and Wildlife Restoration Act of 1990, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HFED53A3F54B44FAD8DF3D6551EA60002" style="OLC"> 
+<section id="H233B136E3EDA435286FD02AE74DFB1BA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022</short-title></quote>.</text></section> <section id="H9335BC6B84DB41BF9B7A977D581365D6"><enum>2.</enum><header>Reauthorization of the Great Lakes Fish and Wildlife Restoration Act of 1990</header> <subsection id="H9E6FD101A8164B1F983F48E5F3A5B9B8"><enum>(a)</enum><header>Reports</header><text>Section 1008 of the Great Lakes Fish and Wildlife Restoration Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/16/941f">16 U.S.C. 941f</external-xref>) is amended—</text> 
+<paragraph id="H7421800164444BB0838F83AF32B1BAC0"><enum>(1)</enum><text>in subsection (a), in the matter preceding paragraph (1)—</text> <subparagraph id="H76CE04F57EC74FB184804220419892F0"><enum>(A)</enum><text>by inserting <quote>and not later than December 31, 2027,</quote> after <quote>2021,</quote>; </text></subparagraph> 
+<subparagraph id="H09DB6C5639ED4FD59937CA5A30052D42"><enum>(B)</enum><text>by striking <quote>Committee on Resources</quote> and inserting <quote>Committee on Natural Resources</quote>; and</text></subparagraph> <subparagraph id="H47F6EB23F67443D382358D03890EA861"><enum>(C)</enum><text>by inserting <quote>, with respect to the period covered by the report</quote> after <quote>describes</quote>; and</text></subparagraph></paragraph> 
+<paragraph id="H79EA7837FABE40CBA4677F9B9C6089DF"><enum>(2)</enum><text>in subsection (b), in the matter preceding paragraph (1), by striking <quote>2016 through 2020</quote> and inserting <quote>2023 through 2028</quote>.</text></paragraph></subsection> <subsection id="H21B93578C68C4AC5A76ACF1F13FEDDF8"><enum>(b)</enum><header>Reauthorization</header><text display-inline="yes-display-inline">Section 1009(a) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/16/941g">16 U.S.C. 941g(a)</external-xref>) is amended, in the matter preceding paragraph (1), by striking <quote>2016 through 2021</quote> and inserting <quote>2023 through 2028</quote>.</text></subsection> 
+<subsection id="H80DA92E30EA645BEB8E48247C748C050"><enum>(c)</enum><header>Administrative costs</header><text display-inline="yes-display-inline">Section 1009(a)(1)(B) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/16/941g">16 U.S.C. 941g(a)(1)(B)</external-xref>) is amended by striking <quote>5</quote> and inserting <quote>3</quote>. </text></subsection></section> </legis-body> <attestation><attestation-group><attestation-date date="20220426" chamber="House">Passed the House of Representatives April 26, 2022.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

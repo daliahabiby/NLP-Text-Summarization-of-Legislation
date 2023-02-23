@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HEC07772CBDF643DFA7717A8E4926C87B" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8206 IH: Stop Wrongs to Our Kids’ Educational Meals (W.O.K.E.) Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8206</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220623">June 23, 2022</action-date>
+<action-desc><sponsor name-id="G000576">Mr. Grothman</sponsor> (for himself, <cosponsor name-id="H001086">Mrs. Harshbarger</cosponsor>, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, <cosponsor name-id="G000552">Mr. Gohmert</cosponsor>, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="C001039">Mrs. Cammack</cosponsor>, <cosponsor name-id="T000165">Mr. Tiffany</cosponsor>, <cosponsor name-id="R000103">Mr. Rosendale</cosponsor>, and <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To repeal Executive Order 13988 and prohibit the Secretary of Agriculture from carrying out certain requirements relating to sexual orientation and gender identity for participation in school meal programs, and for other purposes.</official-title>
+</form>
+<legis-body id="H3D61EEBB2BF24F1FA38C07ADB35C0A2C" style="OLC">
+<section id="H1DD922DA450F424BA7F85F6F5B1C8899" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Wrongs to Our Kids’ Educational Meals (W.O.K.E.) Act of 2022</short-title></quote>.</text></section> <section id="H6483CAE0BF064AF99FE04457BEB72C82" section-type="subsequent-section"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+<paragraph id="HC4B10BEAEB454A44AAC1CDCBD7B46371"><enum>(1)</enum><text display-inline="yes-display-inline">In enacting title IX of the Education Amendments of 1972 (<external-xref legal-doc="usc" parsable-cite="usc/20/1681">20 U.S.C. 1681 et seq.</external-xref>), after careful deliberation and debate and more than 250 educational proposals leading up to the introduction and enactment of title IX, Congress explicitly envisioned a prohibition against <quote>discrimination on the basis of sex,</quote> to mean any discrimination based on biological distinctions between male and female. This is supported by the plain and ordinary meaning of the statutory text, by the Congressional Record, and by title IX’s enacting regulations.</text></paragraph> <paragraph id="HB0884C293FE544ED8849B6FB5C3EDF10"><enum>(2)</enum><text>Executive branch administrative or regulatory actions, policies, or guidances, from the U.S. Department of Education, the U.S. Department of Agriculture, or other agencies or entities, that seek to rewrite or reinterpret the plain and unambiguous language of title IX as having meaning beyond <quote>sex</quote> as the biological distinctions between male and female—including such constructs as <quote>sexual orientation and gender identity</quote>—not only inappropriately misconstrue title IX’s plain and clear statutory language, but they also contravene congressional intent behind its enactment, and misapply Supreme Court precedent on sex discrimination. Additionally and importantly, any such administrative actions by fiat usurp and circumvent legislative powers that are the sole province of Congress under article I, section 1 of the Constitution.</text></paragraph>
+<paragraph id="HB1BF4B890ADD4CFDB32C88EDBDB624EA"><enum>(3)</enum><text display-inline="yes-display-inline">In its 2020 decision Bostock v. Clayton County, 140 S. Ct. (2020), the U.S. Supreme Court expressly limited its decision to and narrowly addressed employment issues, did not construe title IX, and expressly disclaimed application to <quote>other federal or state laws that prohibit sex discrimination</quote>. Thus, it is altogether and entirely improper, inappropriate, and misguided to construe Bostock as applying to title IX.</text></paragraph></section> <section id="HF197BDEC2A544978B098EA80B6D42C74" section-type="subsequent-section" display-inline="no-display-inline"><enum>3.</enum><header>Repeal of Executive Order 13988</header> <subsection id="H1EE92EBAE4104B848A1CAB36042ED850"><enum>(a)</enum><header>Repeal</header><text display-inline="yes-display-inline">Executive Order 13988, 86 Fed. Reg. 7023 (January 25, 2021), is hereby repealed.</text></subsection>
+<subsection id="HD38EEB7D77154EAA923A8F3B74897D5D"><enum>(b)</enum><header>Related action</header><text display-inline="yes-display-inline">Any regulations, guidance, or other agency action related to such Executive order shall not have any force or effect and are hereby repealed or revoked, as applicable. </text></subsection></section> <section id="H8C7F03457DF5449E8BDF454FFBEAB093"><enum>4.</enum><header>Prohibition on certain requirements relating to sexual orientation and gender identity for participation in school meal programs</header><text display-inline="no-display-inline">In carrying out the school lunch program authorized under the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1751">42 U.S.C. 1751 et seq.</external-xref>) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (<external-xref legal-doc="usc" parsable-cite="usc/42/1773">42 U.S.C. 1773</external-xref>), the Secretary of Agriculture shall not require a State or local agency, program operator, or sponsor that participates in such programs to—</text>
+<paragraph id="HB0F6A87C5177441287D7D834D1AC84C8"><enum>(1)</enum><text>investigate allegations of discrimination based on gender identity or sexual orientation; or</text></paragraph> <paragraph id="H811323F2F1EB4523949DD0F16B1756A4"><enum>(2)</enum><text>update non-discrimination policies and signage to include prohibitions against discrimination based on gender identity and sexual orientation.</text></paragraph></section>
+</legis-body>
+</bill> 
+
+

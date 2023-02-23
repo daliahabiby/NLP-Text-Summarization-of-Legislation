@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H16FB665798CC4E97B92511B4F0F1BA9C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8149 IH: Residential Protest Prohibition Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8149</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220617">June 17, 2022</action-date><action-desc><sponsor name-id="T000480">Mr. Timmons</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/88">chapter 88</external-xref> of title 18, United States Code, to prohibit pickets or protests before or about the dwelling of any person with the intent to harass or disturb that person in his or her dwelling, and for other purposes.</official-title></form><legis-body id="H8ACD167B342E4B53840841E9DE6A818B" style="OLC"> 
+<section id="H3E8382AE34E2495CB56E97778DA86EFF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Residential Protest Prohibition Act of 2022</short-title></quote>.</text></section> <section id="H68429A1DFFA842AC883152693DF7F7C3"><enum>2.</enum><header>Residential picketing</header> <subsection id="HF7746C3FA3744FF2B8C880D96F67807B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/88">Chapter 88</external-xref> of title 18, United States Code, is amended by adding at the end the following new section:</text> 
+<quoted-block style="USC" id="H7066EBC2CCE64B56A2D58962878D4883" display-inline="no-display-inline"> 
+<section id="HBE9DF2E1795744329F80F55EBAD7EAF2"><enum>1802.</enum><header>Residential picketing</header> 
+<subsection id="H83A35B7DA16249A2B713BB04058F45D8"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Whoever, in or affecting interstate commerce, pickets or protests before or about the dwelling of any person with the intent to harass or disturb that person in his or her dwelling shall be fined not more than $10,000 and imprisoned not more than one year.</text></subsection> <subsection id="H5BFAEAD2DD7A4E2EB4098CCDD9E4488E"><enum>(b)</enum><header>Law enforcement</header><text>Before a person may be arrested for a violation of this section, a Federal law enforcement officer shall go as near to the person as may be done with safety and shall command any person picketing or protesting before or about the dwelling of a person to immediately and peaceably disperse. If any such person does not thereupon immediately and peaceably disperse, such person may be arrested for a violation of this section.</text></subsection> 
+<subsection id="H4E8F6A3CD6BD40C9B6A52FAEA06BEA3A"><enum>(c)</enum><header>Dwelling Definition</header><text>As used in this section, the term <quote>dwelling</quote> means a building, structure, or portion thereof which is occupied as, or designed or intended for the occupancy as, a residence by one or more families.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H0957BC507A4448589ECFA5F33CD77948"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/88">chapter 88</external-xref> of title 18, United States Code, is amended by adding at the end the following new item: </text> 
+<quoted-block style="USC" id="H4B2A31AEE28A455BA7ACBA36D37FCB05" display-inline="no-display-inline"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">1802. Residential picketing.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block> </subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H547FA31DC2FC4ADABA5CEF817A3E8AC8" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7278 IH: Disabled Jurors Nondiscrimination Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7278</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220329">March 29, 2022</action-date><action-desc><sponsor name-id="P000618">Ms. Porter</sponsor> (for herself, <cosponsor name-id="T000468">Ms. Titus</cosponsor>, <cosponsor name-id="S001205">Ms. Scanlon</cosponsor>, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, <cosponsor name-id="T000481">Ms. Tlaib</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, and <cosponsor name-id="J000306">Mr. Jones</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 28, United States Code, to prohibit the exclusion of individuals from service on a Federal jury on account of disability.</official-title></form><legis-body id="H28F188235747429481DD32E6483497FB" style="OLC"><section section-type="section-one" id="HD2EB97841891425C82BF03798E7B0A4C"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Disabled Jurors Nondiscrimination Act</short-title></quote>.</text></section><section id="H5847FF57D0E34F68A03CECFA570717EA"><enum>2.</enum><header>Exclusion from Federal juries on account of disability</header><subsection id="H2CD60E7CEC604437A410EE6F0DB4E393"><enum>(a)</enum><header>Discrimination prohibited</header><text display-inline="yes-display-inline">Section 1862 of title 28, United States Code, is amended by inserting <quote>disability,</quote> after <quote>origin,</quote>.</text></subsection><subsection id="HFB719E23857A44BBAE15351787781D6B"><enum>(b)</enum><header>Qualifications for jury service</header><text>Section 1865 of title 28, United States Code, is amended by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="HB7FC48C9E7F344FB99A3524A1DF76268"><subsection id="HF9B84827698E46F2A2AE84C3F1EC1D1A"><enum>(c)</enum><text>No person may be disqualified from serving on grand and petit juries in the district court under paragraph (2) or (3) of subsection (b) on account of disability.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section></legis-body></bill> 
+

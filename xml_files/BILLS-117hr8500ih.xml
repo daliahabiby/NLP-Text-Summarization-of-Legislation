@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF9970815C49D4460B2A948A8F774AE20" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8500 IH: Supreme Court Tenure Establishment and Retirement Modernization Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8500</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220726">July 26, 2022</action-date>
+<action-desc><sponsor name-id="J000288">Mr. Johnson of Georgia</sponsor> (for himself, <cosponsor name-id="N000002">Mr. Nadler</cosponsor>, <cosponsor name-id="C001084">Mr. Cicilline</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, <cosponsor name-id="B001270">Ms. Bass</cosponsor>, <cosponsor name-id="K000389">Mr. Khanna</cosponsor>, and <cosponsor name-id="C001068">Mr. Cohen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 28, United States Code, to provide for the duration of active service of justices of the Supreme Court, and for other purposes.</official-title>
+</form>
+<legis-body id="HD406FB6882DE4710A4EF81334A6E7A81" style="OLC">
+<section id="HE63E3DC16FCC47229A74EAA4004B70B1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Supreme Court Tenure Establishment and Retirement Modernization Act of 2022</short-title></quote>.</text></section> <section id="H4ED85568ECD04E5088DFD4EB518642F7"><enum>2.</enum><header>Supreme Court terms of office</header> <subsection id="HE3E86CB061E64A81B3F082AD381E261B"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/1">Chapter 1</external-xref> of title 28, United States Code, is amended by adding at the end the following:</text>
+<quoted-block id="HB0B5C780519C49409CA170F987D158DD" style="USC">
+<section id="H5E01C8D832A74A2B8A464FB242553865"><enum>7.</enum><header>Appointment</header>
+<subsection id="H61C4DA839DEE4448AE5F77C731E3FF4A"><enum>(a)</enum><header>Regular appointment of justices</header><text>The President shall, during the first and third years after a year in which there is a Presidential election, nominate, and by and with the advice and consent of the Senate, appoint one justice of the Supreme Court.</text></subsection> <subsection id="H60D14A00798C438DBFD797620AE33133"><enum>(b)</enum><header>Exclusive method of appointment</header><text>The President shall not appoint any justice of the Supreme Court except as provided in this section.</text></subsection></section>
+<section id="H52BC426905D64B5BBF3745663593DD9A"><enum>8.</enum><header>Duration of active service</header>
+<subsection id="H6052F2FED21F47109D86AFA6C9564426"><enum>(a)</enum><header>New justices</header><text>Each justice shall serve in regular active service for 18 years from the date of the justice’s commission, after which the justice shall be deemed to have retired from regular active service under section 371.</text></subsection> <subsection id="H1D26E27D40D64AEEADEBF705951DF07D"><enum>(b)</enum><header>Current justices</header><text display-inline="yes-display-inline">Each justice who was appointed before the date of enactment of this section and who is serving as a justice on the date of enactment of this section shall, notwithstanding the period of service of the justice, in order of duration of service beginning with the justice who has served on the Supreme Court for the longest period of time, be deemed to have retired from regular active service under section 371(b) upon the date of commission of each new justice as they are appointed under section 7. </text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H921D66931B4043679368D05C58AC737E"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/1">chapter 1</external-xref> of title 28, United States Code, is amended by adding at the end the following:</text> <quoted-block id="H9F9F28A8605947AE865FD3E103A32E43" style="USC"> <toc regeneration="no-regeneration"> <toc-entry level="section">7. Appointment.</toc-entry> <toc-entry level="section">8. Duration of active service.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> <section id="H2EE8EEE3141142888219D3AAC0E7285D"><enum>3.</enum><header>Senior justices</header><text display-inline="no-display-inline">Section 294 of title 28, United States Code, is amended—</text>
+<paragraph id="H0F1F19BC33664273A38A5DE472896EEC"><enum>(1)</enum><text>in subsection (d), by striking the period at the end and inserting <quote>except as provided by subsection (e).</quote>;</text></paragraph> <paragraph id="H8B98FA988F7E4D6BB61EA8DDBFA06992"><enum>(2)</enum><text>by redesignating subsection (e) as subsection (f); and</text></paragraph>
+<paragraph id="H62CC6961ACC948EF81C5A333BEFDDB18"><enum>(3)</enum><text>by inserting after subsection (d) the following:</text> <quoted-block id="H537EF4809D024A1296D96E87233E5FFB" style="OLC"> <subsection id="H5FCB1234CFFB40D588E2F00E15850D23"><enum>(e)</enum><text>In the event that the number of justices of the Supreme Court falls below that provided in section 1 due to vacancy, disability, or disqualification, the justice of the Supreme Court who has most recently retired from regular active service under section 371 but retained their office shall serve as an associate justice until the number of justices who have not retired from regular active service equals that provided in section 1.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section>
+</legis-body>
+</bill> 
+
+

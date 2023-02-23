@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF9DE1E45F5664C8496924DA89B146D13" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7038 IH: Hunger Clearinghouse Enhancement Act of 2022</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 7038</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20220309">March 9, 2022</action-date> 
+<action-desc><sponsor name-id="M001206">Mr. Morelle</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To amend the Richard B. Russell National School Lunch Act to fund the information clearinghouse through fiscal year 2029, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HDDF2EB10A1B54BBCA17D6E98C45A1E9C" style="OLC"> 
+<section id="HF57B7FA9ACDF461A8AE2828BFD7DCC54" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Hunger Clearinghouse Enhancement Act of 2022</short-title></quote>.</text></section> <section id="H7952929144F24A7282F6AC49C320B41A" section-type="subsequent-section"><enum>2.</enum><header>Information clearinghouse</header><text display-inline="no-display-inline">Section 26 of the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1769g">42 U.S.C. 1769g(d)</external-xref>) is amended—</text> 
+<paragraph id="HF13C3F3B38694C9BA9AD7CDE709E164B"><enum>(1)</enum><text>in subsection (a)—</text> <subparagraph id="H8EA68C2CDD8E4DC7B0B5D520906DDCE9"><enum>(A)</enum><text>by inserting <quote>, including information with respect to the utilization of trained volunteers,</quote> after <quote>provide information</quote>; and </text></subparagraph> 
+<subparagraph id="HB0C9EE9B1B974B0091EEF8F37037B025"><enum>(B)</enum><text>by inserting <quote>resources that address ways to prevent hunger, </quote> after <quote>food assistance, </quote>; and</text></subparagraph></paragraph> <paragraph id="HD9DFAE7568264C74861F3AE757020411"><enum>(2)</enum><text>in subsection (d), by striking <quote>and $250,000 for each of fiscal years 2010 through 2022</quote> and inserting <quote>and $750,000 for each of fiscal years 2022 through 2029</quote>.</text></paragraph></section> 
+</legis-body> 
+</bill> 
+

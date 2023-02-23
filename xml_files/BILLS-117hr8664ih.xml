@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4FD9FFCB717F45EAA9372236809C26A5" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8664 IH: Atrocity Accountability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-08-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8664</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220805">August 5, 2022</action-date><action-desc><sponsor name-id="J000305">Ms. Jacobs of California</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Secretary of Defense to review security assistance provided to certain countries identified as being at risk for the commission of atrocities, and for other purposes.</official-title></form><legis-body id="HA74F6B79BFCC4A62993C9D9D061E6F5A" style="OLC">
+<section id="HA2D805F6D4A54A9392EF3AE7C64308CE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Atrocity Accountability Act</short-title></quote>.</text></section> <section id="HAE44DA9E2EC24EE9994CC0284AA23591"><enum>2.</enum><header>Review of security assistance provided to Elie Wiesel countries</header> <subsection id="H2A4B9D04A029473D853510BA9672FADE"><enum>(a)</enum><header>Review required</header><text>Not later than 30 days after the transmission of the first report required after the date of the enactment of this Act under section 5 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 (<external-xref legal-doc="public-law" parsable-cite="pl/115/441">Public Law 115–441</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/22/2651">22 U.S.C. 2651</external-xref> note), the Secretary of Defense shall conduct a review of risks related to the Department of Defense provision of security assistance to countries identified in the report as being at high or medium risk for atrocities. Such review shall include an assessment of risk associated with providing weapons and other forms of security cooperation programs and assistance, including special operations forces programs, to the governments of such countries, with respect to atrocities, conflict, violence, and other forms of instability.</text></subsection>
+<subsection id="H6CF7B69A10184756B5808828A2CC6FF6"><enum>(b)</enum><header>Congressional notification of certain changes</header><text>If, as a result of the review required under subsection (a), the Secretary determines that the Department of Defense should stop or change the security assistance provided to a country, the Secretary shall submit notice of such determination to—</text> <paragraph id="H00E08D5314BE46C298F2669766DFE1D2"><enum>(1)</enum><text>the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and</text></paragraph>
+<paragraph id="H91DA9B33FD544A1EAB2BE7E38A67D645"><enum>(2)</enum><text>the Committee on Armed Services and the Committee on Foreign Relations of the Senate.</text></paragraph></subsection></section> </legis-body></bill>
+

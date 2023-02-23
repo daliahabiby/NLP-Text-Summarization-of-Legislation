@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H18CF068F5B3541298529360C7BE20303" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 8995 IH: Affordable Rabies Treatment for Uninsured Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8995</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220928">September 28, 2022</action-date>
+<action-desc><sponsor name-id="B001287">Mr. Bera</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require the Secretary of Health and Human Services to establish a program to reimburse health care providers for furnishing rabies postexposure prophylaxis to uninsured individuals.</official-title>
+</form>
+<legis-body id="H3833789F70B84DF38260FA687D235F14" style="OLC">
+<section id="H0197F272F7ED4F87BA6B8C70F561A7FB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Affordable Rabies Treatment for Uninsured Act</short-title></quote>.</text></section> <section id="H9C2443CBC48B4D36B21F85E16F323367"><enum>2.</enum><header>Requiring the Secretary of Health and Human Services to establish a program to reimburse health care providers for furnishing rabies postexposure prophylaxis to uninsured individuals</header> <subsection id="H5D1B740EE09C41AD94EB2E56001B4675"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Health and Human Services shall establish a program under which—</text>
+<paragraph id="H4F72B8159A1547D5AAF5CE864ACDC642"><enum>(1)</enum><text>program-registered providers submit claims to the Secretary with respect to the furnishing of medically necessary rabies postexposure prohylaxis to uninsured individuals; and</text></paragraph> <paragraph id="HEEC7F982ABB54C04AC3BB554A74871CA"><enum>(2)</enum><text>the Secretary, subject to the availability of appropriations, pays each such provider for such prohylaxis in an amount determined appropriate by the Secretary.</text></paragraph></subsection>
+<subsection id="HFA451F0313D84188AF0FF002A02B705C"><enum>(b)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HE1C7CA5F713C42FABE32B8752CFC7615"><enum>(1)</enum><header>Program-registered provider</header><text>The term <quote>program-registered provider</quote> means a health care provider that—</text>
+<subparagraph id="H1AB217C761B1412CA95C60B138B2B08B"><enum>(A)</enum><text>is licensed or otherwise authorized to furnish rabies postexposure prohylaxis in the State in which such provider furnishes such prophylaxis under the program established under this section; and</text></subparagraph> <subparagraph id="H5DF612D668754DBDABAD760A88C75622"><enum>(B)</enum><text>enters into an agreement with the Secretary under which the provider agrees—</text>
+<clause id="H51D283C1E22E47AA8EDDEA5A03850572"><enum>(i)</enum><text>not to hold an uninsured individual liable for the cost of rabies postexposure prophylaxis with respect to which a payment is made under subsection (a)(2); and</text></clause> <clause id="H7C590629E38D44D3A60AE8B31638298E"><enum>(ii)</enum><text>to limit any charge to such individual for the administration of such prophylaxis with respect to which such a payment is so made to an amount specified by the Secretary.</text></clause></subparagraph></paragraph>
+<paragraph id="HD7EE7E071A164594B8CFA4CFD2CDBD69"><enum>(2)</enum><header>Rabies postexposure prohylaxis</header><text>The term <quote>rabies postexposure prophylaxis</quote> means human rabies immune globulin and rabies vaccine doses, or any other treatment specified by the Secretary, furnished in accordance with guidelines specified by the Secretary to an individual who has been potentially exposed to the rabies virus to prevent the occurrence of rabies.</text></paragraph> <paragraph id="H4F14B7B9E4BF4B7DB56675A0F461A879"><enum>(3)</enum><header>Secretary</header><text>The term <quote>Secretary</quote> means the Secretary of Health and Human Services.</text></paragraph>
+<paragraph id="H84D569755B394CA4BB5ECE73F98EA8CD"><enum>(4)</enum><header>Uninsured individual</header><text>The term <quote>uninsured individual</quote> means, with respect to an individual furnished rabies postexposure prohylaxis, an individual who—</text> <subparagraph id="HD23AA19E28304269B9FE604A301C7DEB"><enum>(A)</enum><text display-inline="yes-display-inline">is not enrolled in—</text>
+<clause id="H9D081E968716401888D5C9BC2A5EEB41"><enum>(i)</enum><text>a Federal health care program (as defined in section 1128B(f) of the Social Security Act (42 U.S.C. 1320a–7b(f)));</text></clause> <clause id="HA7221CD5DA2F4781B0CBF86C6991BF1F"><enum>(ii)</enum><text>a group health plan or health insurance coverage offered by a health insurance issuer in the group or individual market (as such terms are defined in section 2791 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-91">42 U.S.C. 300gg–91</external-xref>)); or</text></clause>
+<clause id="HB23C123F5B994FB1B9FDB381BF8F9EAF"><enum>(iii)</enum><text>a health plan offered under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/89">chapter 89</external-xref> of title 5, United States Code; or</text></clause></subparagraph> <subparagraph id="HC893577575E54A179B0A68F15A798E84"><enum>(B)</enum><text>is enrolled in a program, plan, or coverage described in subparagraph (A) that does not provide any benefits for such prophylaxis under such program, plan, or coverage (as applicable).</text></subparagraph></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

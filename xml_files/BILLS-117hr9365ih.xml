@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2B4072051F064BF5832B755C4247F017" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 9365 IH: Parity for Online Student Veterans Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-11-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9365</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20221130">November 30, 2022</action-date><action-desc><sponsor name-id="B001257">Mr. Bilirakis</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to increase the monthly housing stipend under the Post-9/11 Educational Assistance Program for individuals who pursue programs of education solely through distance learning on more than a half-time basis.</official-title></form><legis-body id="H36C417576C684AFCB27E1D9EA14B8476" style="OLC"><section id="H1097FE75013740DBADA06079D8C41676" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Parity for Online Student Veterans Act</short-title></quote>. </text></section><section id="H372534821E4140919EB5EA51F81A60B0"><enum>2.</enum><header>Increase of monthly housing stipend under the Post-9/11 Educational Assistance Program for individuals who pursue programs of education solely through distance learning on more than a half-time basis</header><subsection id="H34D77162784B416F9C899C304896B574"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 3313(c)(1)(B)(iii) of title 38, United States Code, is amended by striking <quote>50 percent of</quote>.</text></subsection><subsection id="HDE78BCFA28624160A951362C53A988A4"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by subsection (a) shall apply to a quarter, semester, or term beginning on or after January 1, 2023.</text></subsection></section></legis-body></bill> 
+

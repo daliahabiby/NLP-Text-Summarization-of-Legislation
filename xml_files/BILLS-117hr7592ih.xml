@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAAE7F97C761C49D2BBD80815B188E302" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 7592 IH: To amend the Domestic Volunteer Service Act of 1973 and the National Community Service Act of 1990 to provide training for certain individuals to identify and apply for certain Federal grants, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-04-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7592</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20220426">April 26, 2022</action-date><action-desc><sponsor name-id="T000469">Mr. Tonko</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Labor</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Domestic Volunteer Service Act of 1973 and the National Community Service Act of 1990 to provide training for certain individuals to identify and apply for certain Federal grants, and for other purposes.</official-title></form><legis-body id="HCE26A6D2B5AD4D1B9372A1256F5DE85A" style="OLC"> 
+<section id="HF37066048C78451DAD91B7692DA3C877" section-type="section-one"><enum>1.</enum><header>Identification of and application for certain Federal grants</header> 
+<subsection id="HF8F08FD2A3C04593896C950405E82A65"><enum>(a)</enum><header>Economic development initiatives</header><text display-inline="yes-display-inline">Section 103(a)(11) of the Domestic Volunteer Service Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/42/4953">42 U.S.C. 4953(a)(11)</external-xref>) is amended—</text> <paragraph id="H87013C1DC7E940B590985C28C0482256"><enum>(1)</enum><text>by inserting <quote>and underserved</quote> after <quote>in rural</quote>; and</text></paragraph> 
+<paragraph id="HBBFDC2CE01684A44AD38B5A1177625C5"><enum>(2)</enum><text>by inserting <quote>, including initiatives relating to identifying and applying for appropriate Federal grants for such areas</quote> after <quote>most</quote>.</text> </paragraph></subsection> <subsection id="H0DE33366EAA3479F8E5D2DDE9EE273EE"><enum>(b)</enum><header>Training and technical assistance</header><text display-inline="yes-display-inline">Section 199N(b) of the National and Community Service Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/42/12657">42 U.S.C. 12657(b)</external-xref>) is amended—</text> 
+<paragraph id="H80D916CF673C427196D13C5B97F20111"><enum>(1)</enum><text>in paragraph (9), by striking the <quote>and</quote> after the semicolon; </text></paragraph> <paragraph id="H4487892268C94288A524D50C3530C10F"><enum>(2)</enum><text>by redesignating paragraph (10) as paragraph (11); and </text></paragraph> 
+<paragraph id="H67B9BB0722094D018E31EC75F49DB82D"><enum>(3)</enum><text>by inserting after paragraph (9) the following:</text> <quoted-block style="OLC" id="H070219B046144A93B9861A536FC6F9AD" display-inline="no-display-inline"> <paragraph id="H56E8616367FA42AF9C137AC78F6B0799"><enum>(10)</enum><text display-inline="yes-display-inline">providing training and technical assistance for participants in the national service programs to identify and apply for appropriate grants for entities in rural areas and underserved communities;</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> 
+</legis-body></bill>
+

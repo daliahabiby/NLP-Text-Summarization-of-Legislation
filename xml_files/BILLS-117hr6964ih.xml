@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H011E0E4944534FAF84DEE2AC7428AD7B" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6964 IH: To authorize leases of up to 99 years for lands held in trust for the Confederated Tribes of the Chehalis Reservation.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-03-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">117th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 6964</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20220307">March 7, 2022</action-date>
+<action-desc><sponsor name-id="S001159">Ms. Strickland</sponsor> (for herself, <cosponsor name-id="K000381">Mr. Kilmer</cosponsor>, and <cosponsor name-id="H001056">Ms. Herrera Beutler</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To authorize leases of up to 99 years for lands held in trust for the Confederated Tribes of the Chehalis Reservation.</official-title>
+</form>
+<legis-body id="H271130DB137C41C0B8B2A46EDF48112A" style="OLC"> 
+<section id="H0CA2623BC10B40B7B22903E7AD77B1B4" section-type="section-one"><enum>1.</enum><header>Confederated tribes of the Chehalis Reservation leasing authority</header><text display-inline="no-display-inline">Subsection (a) of the first section of the Act of August 9, 1955 (<external-xref legal-doc="usc" parsable-cite="usc/25/415">25 U.S.C. 415(a)</external-xref>), is amended in the second sentence by inserting <quote>, land held in trust for the Confederated Tribes of the Chehalis Reservation</quote> after <quote>Crow Tribe of Montana</quote>. </text> </section> </legis-body> </bill> 
+
